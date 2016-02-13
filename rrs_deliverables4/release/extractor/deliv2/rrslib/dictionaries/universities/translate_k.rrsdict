@@ -1,0 +1,377 @@
+(dp1
+S'Kansai University'
+p2
+(lp3
+S'Kansai University'
+p4
+asS'Knox College'
+p5
+(lp6
+S'Knox College'
+p7
+asS'Kookmin University'
+p8
+(lp9
+S'Kookmin University'
+p10
+asS'Korea Advanced Institute Of Science & Technology'
+p11
+(lp12
+S'Korea Advanced Institute Of Science & Technology'
+p13
+asS'Kemper Military School And College'
+p14
+(lp15
+S'Kemper Military School And College'
+p16
+asS'Kansas State University'
+p17
+(lp18
+S'Kansas State University'
+p19
+asS'Kamloops International College'
+p20
+(lp21
+S'Kamloops International College'
+p22
+asS'Kyungsung University'
+p23
+(lp24
+S'Kyungsung University'
+p25
+asS'Kwangwoon University'
+p26
+(lp27
+S'Kwangwoon University'
+p28
+asS'Keele University'
+p29
+(lp30
+S'Keele University'
+p31
+asS'Katholieke Universiteit Leuven'
+p32
+(lp33
+S'Katholieke Universiteit Leuven'
+p34
+asS'Kasetsart University'
+p35
+(lp36
+S'Kasetsart University'
+p37
+asS'Koc University'
+p38
+(lp39
+S'Koc University'
+p40
+asS'Kenyon College'
+p41
+(lp42
+S'Kenyon College'
+p43
+asS"King's College"
+p44
+(lp45
+S"King's College"
+p46
+asS'Kanazawa University'
+p47
+(lp48
+S'Kanazawa University'
+p49
+asS'Kao-yuan Junior College Of Technology & Commerce'
+p50
+(lp51
+S'Kao-yuan Junior College Of Technology & Commerce'
+p52
+asS'Kazan University'
+p53
+(lp54
+S'Kazan University'
+p55
+asS'Kodiak College'
+p56
+(lp57
+S'Kodiak College'
+p58
+asS'Karl Franzens University'
+p59
+(lp60
+S'Karl Franzens University'
+p61
+asS'Kyushu Institute Of Technology'
+p62
+(lp63
+S'Kyushu Institute Of Technology'
+p64
+asS'Kings College'
+p65
+(lp66
+S'Kings College'
+p67
+asS'Kean College Of New Jersey'
+p68
+(lp69
+S'Kean College Of New Jersey'
+p70
+asS'Keyin Technical College'
+p71
+(lp72
+S'Keyin Technical College'
+p73
+asS'Keimyung University'
+p74
+(lp75
+S'Keimyung University'
+p76
+asS'Katholieke Hogeschool Sint-lieven'
+p77
+(lp78
+S'Katholieke Hogeschool Sint-lieven'
+p79
+asS'Kwantlen University College'
+p80
+(lp81
+S'Kwantlen University College'
+p82
+asS'Kyoto University'
+p83
+(lp84
+S'Kyoto University'
+p85
+asS'Khon Kaen University'
+p86
+(lp87
+S'Khon Kaen University'
+p88
+asS'Kyushu University'
+p89
+(lp90
+S'Kyushu University'
+p91
+asS'Kutztown University Of Pennsylvania'
+p92
+(lp93
+S'Kutztown University Of Pennsylvania'
+p94
+asS'Kyungpook National University'
+p95
+(lp96
+S'Kyungpook National University'
+p97
+asS'Kyoto Institute Of Technology'
+p98
+(lp99
+S'Kyoto Institute Of Technology'
+p100
+asS'Karolinska Institute'
+p101
+(lp102
+S'Karolinska Institute'
+p103
+asS'Kwansei Gakuin University'
+p104
+(lp105
+S'Kwansei Gakuin University'
+p106
+asS'Kyushu Sangyo University'
+p107
+(lp108
+S'Kyushu Sangyo University'
+p109
+asS'Kara Harb Okulu'
+p110
+(lp111
+S'Kara Harb Okulu'
+p112
+asS'Katholische Universit\xc3\xa5t Eichst\xc3\xa5tt'
+p113
+(lp114
+S'Katholische Universit\xc3\xa5t Eichst\xc3\xa5tt'
+p115
+asS'Kakatiya Institute Of Technology And Science'
+p116
+(lp117
+S'Kakatiya Institute Of Technology And Science'
+p118
+asS'Keene State College'
+p119
+(lp120
+S'Keene State College'
+p121
+asS'Klaipeda University'
+p122
+(lp123
+S'Klaipeda University'
+p124
+asS'Konan University'
+p125
+(lp126
+S'Konan University'
+p127
+asS'Kogakuin University'
+p128
+(lp129
+S'Kogakuin University'
+p130
+asS'Kirtland Community College'
+p131
+(lp132
+S'Kirtland Community College'
+p133
+asS'Kwangju University'
+p134
+(lp135
+S'Kwangju University'
+p136
+asS'Kuwait University'
+p137
+(lp138
+S'Kuwait University'
+p139
+asS'Kirksville College Of Osteopathic Medicine'
+p140
+(lp141
+S'Kirksville College Of Osteopathic Medicine'
+p142
+asS'Kumamoto National College Of Technology'
+p143
+(lp144
+S'Kumamoto National College Of Technology'
+p145
+asS'Kobe University'
+p146
+(lp147
+S'Kobe University'
+p148
+asS'Korea University'
+p149
+(lp150
+S'Korea University'
+p151
+asS'Kungl Tekniska H\xc3\xb6gskolan'
+p152
+(lp153
+S'Kungl Tekniska H\xc3\xb6gskolan'
+p154
+asS'Kangwon National University'
+p155
+(lp156
+S'Kangwon National University'
+p157
+asS'Kagoshima University'
+p158
+(lp159
+S'Kagoshima University'
+p160
+asS'Kinjo Gakuin University'
+p161
+(lp162
+S'Kinjo Gakuin University'
+p163
+asS'Kristianstad University'
+p164
+(lp165
+S'Kristianstad University'
+p166
+asS'Kurume Institute Of Technology'
+p167
+(lp168
+S'Kurume Institute Of Technology'
+p169
+asS'Kumamoto University'
+p170
+(lp171
+S'Kumamoto University'
+p172
+asS'Kochi University'
+p173
+(lp174
+S'Kochi University'
+p175
+asS'Keio University Of Science And Technology'
+p176
+(lp177
+S'Keio University Of Science And Technology'
+p178
+asS'King College'
+p179
+(lp180
+S'King College'
+p181
+asS'Kongu Engineering College'
+p182
+(lp183
+S'Kongu Engineering College'
+p184
+asS'Kumamoto Prefecture College'
+p185
+(lp186
+S'Kumamoto Prefecture College'
+p187
+asS'Kochi National College Of Technology'
+p188
+(lp189
+S'Kochi National College Of Technology'
+p190
+asS'Keio University'
+p191
+(lp192
+S'Keio University'
+p193
+asS'Katolicki Uniwersytet Lubelski'
+p194
+(lp195
+S'Katolicki Uniwersytet Lubelski'
+p196
+asS'Kyushu Institute Of Design'
+p197
+(lp198
+S'Kyushu Institute Of Design'
+p199
+asS'Kalamazoo College'
+p200
+(lp201
+S'Kalamazoo College'
+p202
+asS'Kon-kuk University'
+p203
+(lp204
+S'Kon-kuk University'
+p205
+asS'Kent State University'
+p206
+(lp207
+S'Kent State University'
+p208
+asS"King Alfred's College"
+p209
+(lp210
+S"King Alfred's College"
+p211
+asS'Kitasato University'
+p212
+(lp213
+S'Kitasato University'
+p214
+asS'Kishwaukee College'
+p215
+(lp216
+S'Kishwaukee College'
+p217
+asS"King's College School Of Medicine And Dentistry"
+p218
+(lp219
+S"King's College School Of Medicine And Dentistry"
+p220
+asS'Kingston University'
+p221
+(lp222
+S'Kingston University'
+p223
+asS"King's College London"
+p224
+(lp225
+S"King's College London"
+p226
+as.

@@ -1,0 +1,57 @@
+(dp1
+S'Ukraine'
+p2
+(lp3
+S'Europe'
+p4
+asS'Uzbekistan'
+p5
+(lp6
+S'Asia'
+p7
+asS'USA'
+p8
+(lp9
+S'North America'
+p10
+asS'Uruguay'
+p11
+(lp12
+S'South America'
+p13
+asS'United Arab Emirates'
+p14
+(lp15
+S'Asia'
+p16
+asS'United States of America'
+p17
+(lp18
+S'North America'
+p19
+asS'United Kingdom of Great Britain & Northern Ireland'
+p20
+(lp21
+S'Europe'
+p22
+asS'United States Minor Outlying Islands'
+p23
+(lp24
+S'Oceania'
+p25
+asS'United States'
+p26
+(lp27
+S'North America'
+p28
+asS'United States Virgin Islands'
+p29
+(lp30
+S'North America'
+p31
+asS'Uganda'
+p32
+(lp33
+S'Africa'
+p34
+as.

@@ -1,0 +1,4087 @@
+(dp1
+S'T8L'
+p2
+(lp3
+S'Fort Saskatchewan'
+p4
+aS'Alberta'
+p5
+asS'V7Y'
+p6
+(lp7
+S'Vancouver (Pacific Centre)'
+p8
+aS'British Columbia'
+p9
+asS'B2Y'
+p10
+(lp11
+S'Dartmouth South Central'
+p12
+aS''
+asS'T8H'
+p13
+(lp14
+S'Sherwood Park Northwest'
+p15
+aS'Alberta'
+p16
+asS'V7T'
+p17
+(lp18
+S'West Vancouver Southeast'
+p19
+aS'British Columbia'
+p20
+asS'B2V'
+p21
+(lp22
+S'Dartmouth Morris Lake'
+p23
+aS'Nova Scotia'
+p24
+asS'T8E'
+p25
+(lp26
+S'Sherwood Park Central'
+p27
+aS'Alberta'
+p28
+asS'V7W'
+p29
+(lp30
+S'West Vancouver West'
+p31
+aS'British Columbia'
+p32
+asS'T8B'
+p33
+(lp34
+S'Sherwood Park Outer Southwest'
+p35
+aS'Alberta'
+p36
+asS'V7R'
+p37
+(lp38
+S'North Vancouver Northwest'
+p39
+aS'British Columbia'
+p40
+asS'V7L'
+p41
+(lp42
+S'North Vancouver South Central'
+p43
+aS'British Columbia'
+p44
+asS'B2N'
+p45
+(lp46
+S'Truro'
+p47
+aS'Nova Scotia'
+p48
+asS'V7N'
+p49
+(lp50
+S'North Vancouver Northwest Central'
+p51
+aS'British Columbia'
+p52
+asS'B2J'
+p53
+(lp54
+S'Fourchu'
+p55
+aS''
+asS'V7J'
+p56
+(lp57
+S'North Vancouver East Central'
+p58
+aS'British Columbia'
+p59
+asS'T8X'
+p60
+(lp61
+S'Grande Prairie East'
+p62
+aS'Alberta'
+p63
+asS'B2G'
+p64
+(lp65
+S'Antigonish'
+p66
+aS'Nova Scotia'
+p67
+asS'T8V'
+p68
+(lp69
+S'Grande Prairie Central'
+p70
+aS'Alberta'
+p71
+asS'B2E'
+p72
+(lp73
+S'Loch Lomond'
+p74
+aS''
+asS'V7G'
+p75
+(lp76
+S'North Vancouver Outer East'
+p77
+aS'British Columbia'
+p78
+asS'B2C'
+p79
+(lp80
+S'Iona'
+p81
+aS'Nova Scotia'
+p82
+asS'T8R'
+p83
+(lp84
+S'Morinville'
+p85
+aS'Alberta'
+p86
+asS'B2A'
+p87
+(lp88
+S'North Sydney South Central'
+p89
+aS'Nova Scotia'
+p90
+asS'V7C'
+p91
+(lp92
+S'Richmond West'
+p93
+aS'British Columbia'
+p94
+asS'E6H'
+p95
+(lp96
+S'Canterbury'
+p97
+aS'New Brunswick'
+p98
+asS'E6K'
+p99
+(lp100
+S'Harvey'
+p101
+aS'New Brunswick'
+p102
+asS'S4A'
+p103
+(lp104
+S'Estevan'
+p105
+aS'Saskatchewan'
+p106
+asS'S4L'
+p107
+(lp108
+S'Regina East'
+p109
+aS'Saskatchewan'
+p110
+asS'E6A'
+p111
+(lp112
+S'Boiestown'
+p113
+aS'New Brunswick'
+p114
+asS'E6C'
+p115
+(lp116
+S'Durham Bridge'
+p117
+aS'New Brunswick'
+p118
+asS'S4H'
+p119
+(lp120
+S'Weyburn'
+p121
+aS'Saskatchewan'
+p122
+asS'E6E'
+p123
+(lp124
+S'Millville'
+p125
+aS'New Brunswick'
+p126
+asS'G5M'
+p127
+(lp128
+S'Rimouski Northeast'
+p129
+aS'Quebec'
+p130
+asS'K4M'
+p131
+(lp132
+S'Manotick'
+p133
+aS'Ontario'
+p134
+asS'S4V'
+p135
+(lp136
+S'Regina Southeast'
+p137
+aS'Saskatchewan'
+p138
+asS'S4P'
+p139
+(lp140
+S'Regina Central'
+p141
+aS'Saskatchewan'
+p142
+asS'S4S'
+p143
+(lp144
+S'Regina South Saskatchewan Provincial Government'
+p145
+aS'Saskatchewan'
+p146
+asS'G5Z'
+p147
+(lp148
+S'Saint-Georges Southeast'
+p149
+aS'Quebec'
+p150
+asS'S4X'
+p151
+(lp152
+S'Regina Northwest'
+p153
+aS'Saskatchewan'
+p154
+asS'S4Z'
+p155
+(lp156
+S'Regina Northeast'
+p157
+aS'Saskatchewan'
+p158
+asS'K4C'
+p159
+(lp160
+S'Cumberland'
+p161
+aS''
+asS'B2T'
+p162
+(lp163
+S'Enfield'
+p164
+aS'Nova Scotia'
+p165
+asS'B2R'
+p166
+(lp167
+S'Waverley'
+p168
+aS'Nova Scotia'
+p169
+asS'G0Y'
+p170
+(lp171
+S"L'Erable (Nantes)"
+p172
+aS'Quebec'
+p173
+asS'L7S'
+p174
+(lp175
+S'Burlington South'
+p176
+aS'Ontario'
+p177
+asS'L7P'
+p178
+(lp179
+S'Burlington West'
+p180
+aS'Ontario'
+p181
+asS'T7N'
+p182
+(lp183
+S'Barrhead'
+p184
+aS'Alberta'
+p185
+asS'T7S'
+p186
+(lp187
+S'Whitecourt'
+p188
+aS'Alberta'
+p189
+asS'T7P'
+p190
+(lp191
+S'Westlock'
+p192
+aS'Alberta'
+p193
+asS'G2C'
+p194
+(lp195
+S'Quebec City Northwest'
+p196
+aS'Quebec'
+p197
+asS'L7M'
+p198
+(lp199
+S'Burlington North'
+p200
+aS'Ontario'
+p201
+asS'T7Z'
+p202
+(lp203
+S'Stony Plain'
+p204
+aS'Alberta'
+p205
+asS'L7C'
+p206
+(lp207
+S'Caledon'
+p208
+aS'Ontario'
+p209
+asS'T7X'
+p210
+(lp211
+S'Spruce Grove North'
+p212
+aS'Alberta'
+p213
+asS'G2J'
+p214
+(lp215
+S'Quebec City Inner North'
+p216
+aS'Quebec'
+p217
+asS'L7G'
+p218
+(lp219
+S'Georgetown'
+p220
+aS'Ontario'
+p221
+asS'B2H'
+p222
+(lp223
+S'New Glasgow'
+p224
+aS'Nova Scotia'
+p225
+asS'H1X'
+p226
+(lp227
+S'Rosemont Central'
+p228
+aS'Quebec'
+p229
+asS'H1Z'
+p230
+(lp231
+S'Saint-Michel West'
+p232
+aS'Quebec'
+p233
+asS'H1P'
+p234
+(lp235
+S'Saint-L\xc3\xa9onard North'
+p236
+aS'Quebec'
+p237
+asS'H1S'
+p238
+(lp239
+S'Saint-L\xc3\xa9onard Southeast'
+p240
+aS'Quebec'
+p241
+asS'V7A'
+p242
+(lp243
+S'Richmond South'
+p244
+aS'British Columbia'
+p245
+asS'H1H'
+p246
+(lp247
+S'Montreal North South'
+p248
+aS'Quebec'
+p249
+asS'H1K'
+p250
+(lp251
+S'Anjou East'
+p252
+aS'Quebec'
+p253
+asS'H1M'
+p254
+(lp255
+S'Mercier West'
+p256
+aS'Quebec'
+p257
+asS'H1B'
+p258
+(lp259
+S'Montreal East'
+p260
+aS'Quebec'
+p261
+asS'H1E'
+p262
+(lp263
+S'Rivi\xc3\xa8re-Des-Prairies Southwest'
+p264
+aS'Quebec'
+p265
+asS'G5C'
+p266
+(lp267
+S'Baie-Comeau Southwest'
+p268
+aS'Quebec'
+p269
+asS'T9C'
+p270
+(lp271
+S'Vegreville'
+p272
+aS'Alberta'
+p273
+asS'A5A'
+p274
+(lp275
+S'Clarenville'
+p276
+aS'Newfoundland and Labrador'
+p277
+asS'S6J'
+p278
+(lp279
+S'Moose Jaw Northeast'
+p280
+aS'Saskatchewan'
+p281
+asS'G5H'
+p282
+(lp283
+S'Mont-Joli'
+p284
+aS'Quebec'
+p285
+asS'L3C'
+p286
+(lp287
+S'Welland West'
+p288
+aS'Ontario'
+p289
+asS'T4S'
+p290
+(lp291
+S'Sylvan Lake'
+p292
+aS'Alberta'
+p293
+asS'T4R'
+p294
+(lp295
+S'Red Deer South'
+p296
+aS'Alberta'
+p297
+asS'L3M'
+p298
+(lp299
+S'Grimsby'
+p300
+aS''
+asS'T4V'
+p301
+(lp302
+S'Camrose'
+p303
+aS'Alberta'
+p304
+asS'G0W'
+p305
+(lp306
+S'R\xc3\xa9gion de Mistassini (Chambord)'
+p307
+aS'Quebec'
+p308
+asS'L3V'
+p309
+(lp310
+S'Orillia'
+p311
+aS'Ontario'
+p312
+asS'T4J'
+p313
+(lp314
+S'Ponoka'
+p315
+aS'Alberta'
+p316
+asS'T4N'
+p317
+(lp318
+S'Red Deer Central'
+p319
+aS'Alberta'
+p320
+asS'L3P'
+p321
+(lp322
+S'Markham Central'
+p323
+aS'Ontario'
+p324
+asS'T4C'
+p325
+(lp326
+S'Cochrane'
+p327
+aS'Alberta'
+p328
+asS'T4A'
+p329
+(lp330
+S'Airdrie East'
+p331
+aS'Alberta'
+p332
+asS'T4G'
+p333
+(lp334
+S'Innisfail'
+p335
+aS'Alberta'
+p336
+asS'L3Y'
+p337
+(lp338
+S'Newmarket Northeast'
+p339
+aS'Ontario'
+p340
+asS'L4S'
+p341
+(lp342
+S'Richmond Hill Central'
+p343
+aS'Ontario'
+p344
+asS'G1N'
+p345
+(lp346
+S'Quebec City South Central'
+p347
+aS'Quebec'
+p348
+asS'E2V'
+p349
+(lp350
+S'Oromocto'
+p351
+aS'New Brunswick'
+p352
+asS'G1L'
+p353
+(lp354
+S'Quebec City Northeast'
+p355
+aS'Quebec'
+p356
+asS'E2P'
+p357
+(lp358
+S'Saint John Red Head'
+p359
+aS'New Brunswick'
+p360
+asS'L4V'
+p361
+(lp362
+S'Mississauga (Wildwood)'
+p363
+aS'Ontario'
+p364
+asS'E2S'
+p365
+(lp366
+S'Saint John Loch Lomond'
+p367
+aS'New Brunswick'
+p368
+asS'G1G'
+p369
+(lp370
+S'Jean-Talon Southeast'
+p371
+aS'Quebec'
+p372
+asS'L4Z'
+p373
+(lp374
+S'Mississauga (West Rathwood / East Hurontario / SE Gateway)'
+p375
+aS'Ontario'
+p376
+asS'L4X'
+p377
+(lp378
+S'Mississauga (East Applewood / East Dixie / NE Lakeview)'
+p379
+aS'Ontario'
+p380
+asS'G1C'
+p381
+(lp382
+S'Beauport Central'
+p383
+aS'Quebec'
+p384
+asS'S7J'
+p385
+(lp386
+S'Saskatoon South Central'
+p387
+aS'Saskatchewan'
+p388
+asS'L4A'
+p389
+(lp390
+S'Stouffville'
+p391
+aS'Ontario'
+p392
+asS'E2A'
+p393
+(lp394
+S'Bathurst'
+p395
+aS'New Brunswick'
+p396
+asS'L4E'
+p397
+(lp398
+S'Richmond Hill North'
+p399
+aS'Ontario'
+p400
+asS'L4K'
+p401
+(lp402
+S'Concord'
+p403
+aS'Ontario'
+p404
+asS'E2M'
+p405
+(lp406
+S'Saint John West'
+p407
+aS'New Brunswick'
+p408
+asS'L4H'
+p409
+(lp410
+S'Woodbridge North'
+p411
+aS'Ontario'
+p412
+asS'E2H'
+p413
+(lp414
+S'Saint John Northeast, Renforth'
+p415
+aS'New Brunswick'
+p416
+asS'G1R'
+p417
+(lp418
+S'Quebec City East'
+p419
+aS'Quebec'
+p420
+asS'L4M'
+p421
+(lp422
+S'Barrie North'
+p423
+aS'Ontario'
+p424
+asS'E2K'
+p425
+(lp426
+S'Saint John North'
+p427
+aS'New Brunswick'
+p428
+asS'R7A'
+p429
+(lp430
+S'Brandon Southeast'
+p431
+aS'Manitoba'
+p432
+asS'E5N'
+p433
+(lp434
+S'Hampton'
+p435
+aS'New Brunswick'
+p436
+asS'T3M'
+p437
+(lp438
+S'Calgary (Cranston)'
+p439
+aS'Alberta'
+p440
+asS'T3K'
+p441
+(lp442
+S'Calgary (Sandstone / Harvest Hills / Coventry Hills / Panorama Hills / Beddington)'
+p443
+aS'Alberta'
+p444
+asS'T3H'
+p445
+(lp446
+S'Calgary (Discovery Ridge / Signal Hill / Aspen Woods / Patterson / Cougar Ridge)'
+p447
+aS'Alberta'
+p448
+asS'G0R'
+p449
+(lp450
+S'Appalaches (La Pocati\xc3\xa8re)'
+p451
+aS'Quebec'
+p452
+asS'T3E'
+p453
+(lp454
+S'Calgary (Lakeview / Glendale / Killarney / Glamorgan)'
+p455
+aS'Alberta'
+p456
+asS'T3B'
+p457
+(lp458
+S'Calgary (Montgomery / Bowness / Silver Springs / Greenwood)'
+p459
+aS'Alberta'
+p460
+asS'G8W'
+p461
+(lp462
+S'Cap-de-la- Madeleine West'
+p463
+aS'Quebec'
+p464
+asS'T3P'
+p465
+(lp466
+S'Calgary (Symons Valley)'
+p467
+aS'Alberta'
+p468
+asS'A0R'
+p469
+(lp470
+S'North/Western Labrador (Churchill Falls)'
+p471
+aS'Newfoundland and Labrador'
+p472
+asS'A0P'
+p473
+(lp474
+S'Central Labrador (Happy Valley-Goose Bay)'
+p475
+aS''
+asS'A0J'
+p476
+(lp477
+S'Northern Newfoundland (Springdale)'
+p478
+aS'Newfoundland and Labrador'
+p479
+asS'A0K'
+p480
+(lp481
+S"Northwest Newfoundland/Eastern Labrador (Mary's Harbour)"
+p482
+aS''
+asS'A0H'
+p483
+(lp484
+S'Central Newfoundland (Bishops Falls)'
+p485
+aS''
+asS'A0N'
+p486
+(lp487
+S"Port au Port Peninsula region (St. George's)"
+p488
+aS'Newfoundland and Labrador'
+p489
+asS'A0L'
+p490
+(lp491
+S'Western Newfoundland (Lark Harbour)'
+p492
+aS'Newfoundland and Labrador'
+p493
+asS'A0M'
+p494
+(lp495
+S'Southwestern Newfoundland (Channel-Port aux Basques)'
+p496
+aS''
+asS'A0C'
+p497
+(lp498
+S'Bonavista Peninsula (Bonavista)'
+p499
+aS'Newfoundland and Labrador'
+p500
+asS'A0A'
+p501
+(lp502
+S'Southeastern Avalon Peninsula (Ferryland)'
+p503
+aS'Newfoundland and Labrador'
+p504
+asS'A0G'
+p505
+(lp506
+S'Northeast Newfoundland (Lewisporte)'
+p507
+aS'Newfoundland and Labrador'
+p508
+asS'A0E'
+p509
+(lp510
+S'Burin Peninsula (Marystown)'
+p511
+aS''
+asS'G4R'
+p512
+(lp513
+S'Sept-\xc3\x8eles Southeast'
+p514
+aS'Quebec'
+p515
+asS'V0T'
+p516
+(lp517
+S'Inside Passage and the Queen Charlottes (Queen Charlotte City)'
+p518
+aS'British Columbia'
+p519
+asS'V0W'
+p520
+(lp521
+S'Atlin Region (Atlin)'
+p522
+aS'British Columbia'
+p523
+asS'K8N'
+p524
+(lp525
+S'Belleville East'
+p526
+aS'Ontario'
+p527
+asS'V0R'
+p528
+(lp529
+S'Central Island (Chemainus)'
+p530
+aS'British Columbia'
+p531
+asS'K8A'
+p532
+(lp533
+S'Pembroke Central and northern subdivisions'
+p534
+aS'Ontario'
+p535
+asS'V0G'
+p536
+(lp537
+S'West Kootenays (Rossland)'
+p538
+aS'British Columbia'
+p539
+asS'L6V'
+p540
+(lp541
+S'Brampton Central'
+p542
+aS'Ontario'
+p543
+asS'V0A'
+p544
+(lp545
+S'Upper Columbia Region (Golden)'
+p546
+aS'British Columbia'
+p547
+asS'V0C'
+p548
+(lp549
+S'Northern British Columbia (Fort Nelson)'
+p550
+aS'British Columbia'
+p551
+asS'V0L'
+p552
+(lp553
+S'Chilcotin (Alexis Creek)'
+p554
+aS'British Columbia'
+p555
+asS'K8R'
+p556
+(lp557
+S'Belleville (SE Sidney Township / Avondale)'
+p558
+aS'Ontario'
+p559
+asS'V0N'
+p560
+(lp561
+S'North Island, Sunshine Coast, and Southern Gulf Islands (Whistler)'
+p562
+aS'British Columbia'
+p563
+asS'V0J'
+p564
+(lp565
+S'Omineca and Yellowhead (Smithers)'
+p566
+aS'British Columbia'
+p567
+asS'E9B'
+p568
+(lp569
+S'Blackville'
+p570
+aS'New Brunswick'
+p571
+asS'E9E'
+p572
+(lp573
+S'Red Bank'
+p574
+aS'New Brunswick'
+p575
+asS'E9G'
+p576
+(lp577
+S'Neguac'
+p578
+aS'New Brunswick'
+p579
+asS'S7T'
+p580
+(lp581
+S'Saskatoon South'
+p582
+aS'Saskatchewan'
+p583
+asS'K9H'
+p584
+(lp585
+S'Peterborough North'
+p586
+aS'Ontario'
+p587
+asS'L6Z'
+p588
+(lp589
+S'Brampton West Central'
+p590
+aS'Ontario'
+p591
+asS'T0G'
+p592
+(lp593
+S'North Central Alberta (Slave Lake)'
+p594
+aS'Alberta'
+p595
+asS'T0C'
+p596
+(lp597
+S'Central Alberta (Stettler)'
+p598
+aS'Alberta'
+p599
+asS'T0M'
+p600
+(lp601
+S'Central Foothills (Sundre)'
+p602
+aS'Alberta'
+p603
+asS'T0K'
+p604
+(lp605
+S'International Border Region (Cardston)'
+p606
+aS'Alberta'
+p607
+asS'T0J'
+p608
+(lp609
+S'Southeastern Alberta (Drumheller)'
+p610
+aS'Alberta'
+p611
+asS'L0P'
+p612
+(lp613
+S'Halton Regional Municipality (Campbellville)'
+p614
+aS'Ontario'
+p615
+asS'T0V'
+p616
+(lp617
+S'Remote Northeast (Fitzgerald)'
+p618
+aS'Alberta'
+p619
+asS'L0M'
+p620
+(lp621
+S'Georgian Bay South Shore (Angus)'
+p622
+aS'Ontario'
+p623
+asS'L0K'
+p624
+(lp625
+S'Lake Simcoe North Shore (Coldwater)'
+p626
+aS'Ontario'
+p627
+asS'L0H'
+p628
+(lp629
+S'Whitby Region (Gormley)'
+p630
+aS'Ontario'
+p631
+asS'L0E'
+p632
+(lp633
+S'Lake Simcoe Southeast Shore (Sutton West)'
+p634
+aS'Ontario'
+p635
+asS'L0B'
+p636
+(lp637
+S'East Durham Regional Municipality (Orono)'
+p638
+aS'Ontario'
+p639
+asS'R3M'
+p640
+(lp641
+S'Winnipeg (River Heights Central)'
+p642
+aS'Manitoba'
+p643
+asS'R3N'
+p644
+(lp645
+S'Winnipeg (River Heights West)'
+p646
+aS'Manitoba'
+p647
+asS'R3H'
+p648
+(lp649
+S'Winnipeg (St. James-Assiniboia NE / YWG)'
+p650
+aS'Manitoba'
+p651
+asS'R3K'
+p652
+(lp653
+S'Winnipeg (St. James-Assiniboia SW)'
+p654
+aS'Manitoba'
+p655
+asS'R3E'
+p656
+(lp657
+S'Winnipeg (Sargent Park / Daniel McIntyre / Inkster SE)'
+p658
+aS'Manitoba'
+p659
+asS'R3A'
+p660
+(lp661
+S'Winnipeg (Centennial)'
+p662
+aS'Manitoba'
+p663
+asS'R3Y'
+p664
+(lp665
+S'Winnipeg (Fort Garry West)'
+p666
+aS'Manitoba'
+p667
+asS'R3T'
+p668
+(lp669
+S'Winnipeg (Fort Garry NE / University of Manitoba)'
+p670
+aS'Manitoba'
+p671
+asS'R3W'
+p672
+(lp673
+S'Winnipeg (Grassie / Pequis)'
+p674
+aS'Manitoba'
+p675
+asS'R3R'
+p676
+(lp677
+S'Winnipeg (Assiniboine South / Betsworth)'
+p678
+aS'Manitoba'
+p679
+asS'L6J'
+p680
+(lp681
+S'Oakville Northeast'
+p682
+aS'Ontario'
+p683
+asS'K7K'
+p684
+(lp685
+S'Kingston (SW Pittsburgh Township)'
+p686
+aS'Ontario'
+p687
+asS'L5M'
+p688
+(lp689
+S'Mississauga (Churchill Meadows / Central Erin Mills / South Streetsville)'
+p690
+aS'Ontario'
+p691
+asS'K7M'
+p692
+(lp693
+S'Kingston (Reddendale / Cataraqui / Collins Bay)'
+p694
+aS'Ontario'
+p695
+asS'T9M'
+p696
+(lp697
+S'Cold Lake'
+p698
+aS'Alberta'
+p699
+asS'T9H'
+p700
+(lp701
+S'Fort McMurray Outer Central'
+p702
+aS'Alberta'
+p703
+asS'B3Z'
+p704
+(lp705
+S'Tantallon'
+p706
+aS'Nova Scotia'
+p707
+asS'T9K'
+p708
+(lp709
+S'Fort McMurray Northwest'
+p710
+aS'Alberta'
+p711
+asS'B3T'
+p712
+(lp713
+S'Lakeside'
+p714
+aS'Nova Scotia'
+p715
+asS'T9E'
+p716
+(lp717
+S'Leduc'
+p718
+aS''
+asS'B3P'
+p719
+(lp720
+S'Halifax North West Arm'
+p721
+aS''
+asS'B3R'
+p722
+(lp723
+S'Halifax South'
+p724
+aS'Nova Scotia'
+p725
+asS'B3S'
+p726
+(lp727
+S'Halifax West'
+p728
+aS''
+asS'B3L'
+p729
+(lp730
+S'Halifax Central'
+p731
+aS'Nova Scotia'
+p732
+asS'B3M'
+p733
+(lp734
+S'Halifax Bedford Basin'
+p735
+aS''
+asS'B3N'
+p736
+(lp737
+S'Halifax South Central'
+p738
+aS'Nova Scotia'
+p739
+asS'B3H'
+p740
+(lp741
+S'Halifax Lower Harbour'
+p742
+aS'Nova Scotia'
+p743
+asS'B3J'
+p744
+(lp745
+S'Halifax Mid-Harbour Nova Scotia Provincial Government'
+p746
+aS'Nova Scotia'
+p747
+asS'B3K'
+p748
+(lp749
+S'Halifax Upper Harbour'
+p750
+aS''
+asS'B3E'
+p751
+(lp752
+S'Porters Lake'
+p753
+aS''
+asS'T9W'
+p754
+(lp755
+S'Wainwright'
+p756
+aS'Alberta'
+p757
+asS'B3A'
+p758
+(lp759
+S'Dartmouth Southwest'
+p760
+aS'Nova Scotia'
+p761
+asS'T9S'
+p762
+(lp763
+S'Athabasca'
+p764
+aS'Alberta'
+p765
+asS'E5L'
+p766
+(lp767
+S'Fredericton Junction'
+p768
+aS'New Brunswick'
+p769
+asS'V4B'
+p770
+(lp771
+S'White Rock'
+p772
+aS'British Columbia'
+p773
+asS'V4E'
+p774
+(lp775
+S'Delta East'
+p776
+aS'British Columbia'
+p777
+asS'S7L'
+p778
+(lp779
+S'Saskatoon West'
+p780
+aS'Saskatchewan'
+p781
+asS'E5K'
+p782
+(lp783
+S'Grand Bay-Westfield'
+p784
+aS'New Brunswick'
+p785
+asS'S7N'
+p786
+(lp787
+S'Saskatoon Northeast Central'
+p788
+aS'Saskatchewan'
+p789
+asS'E5E'
+p790
+(lp791
+S'Campobello Island'
+p792
+aS'New Brunswick'
+p793
+asS'V4K'
+p794
+(lp795
+S'Delta Central'
+p796
+aS'British Columbia'
+p797
+asS'V4M'
+p798
+(lp799
+S'Delta Southwest'
+p800
+aS'British Columbia'
+p801
+asS'N4K'
+p802
+(lp803
+S'Owen Sound'
+p804
+aS'Ontario'
+p805
+asS'E5B'
+p806
+(lp807
+S'St. Andrews'
+p808
+aS'New Brunswick'
+p809
+asS'V4P'
+p810
+(lp811
+S'Surrey South'
+p812
+aS'British Columbia'
+p813
+asS'V4S'
+p814
+(lp815
+S'Mission West'
+p816
+aS'British Columbia'
+p817
+asS'Y0A'
+p818
+(lp819
+S'Southeastern Yukon (Watson Lake)'
+p820
+aS'Yukon'
+p821
+asS'G4T'
+p822
+(lp823
+S'Les \xc3\x8eles-De-La- Madeleine'
+p824
+aS'Quebec'
+p825
+asS'V4T'
+p826
+(lp827
+S'Westbank'
+p828
+aS'British Columbia'
+p829
+asS'V4V'
+p830
+(lp831
+S'Winfield'
+p832
+aS''
+asS'G4X'
+p833
+(lp834
+S'Gasp\xc3\xa9'
+p835
+aS'Quebec'
+p836
+asS'V4X'
+p837
+(lp838
+S'Abbotsford West'
+p839
+aS'British Columbia'
+p840
+asS'S7R'
+p841
+(lp842
+S'Saskatoon Northwest'
+p843
+aS'Saskatchewan'
+p844
+asS'E5P'
+p845
+(lp846
+S'Apohaqui'
+p847
+aS'New Brunswick'
+p848
+asS'E5S'
+p849
+(lp850
+S'Kingston'
+p851
+aS'New Brunswick'
+p852
+asS'R4L'
+p853
+(lp854
+S'St. Francois Xavier'
+p855
+aS'Manitoba'
+p856
+asS'R4J'
+p857
+(lp858
+S'Headingley West'
+p859
+aS'Manitoba'
+p860
+asS'G2N'
+p861
+(lp862
+S'Jean-Talon West'
+p863
+aS'Quebec'
+p864
+asS'S9V'
+p865
+(lp866
+S'Lloydminster'
+p867
+aS'Saskatchewan'
+p868
+asS'H2Z'
+p869
+(lp870
+S'Downtown Montreal Northeast'
+p871
+aS'Quebec'
+p872
+asS'H2W'
+p873
+(lp874
+S'Plateau Mont-Royal South Central'
+p875
+aS'Quebec'
+p876
+asS'H2V'
+p877
+(lp878
+S'Outremont'
+p879
+aS'Quebec'
+p880
+asS'H2P'
+p881
+(lp882
+S'Villeray West'
+p883
+aS'Quebec'
+p884
+asS'H2S'
+p885
+(lp886
+S'Petite-Patrie Southwest'
+p887
+aS'Quebec'
+p888
+asS'H2M'
+p889
+(lp890
+S'Ahuntsic East'
+p891
+aS'Quebec'
+p892
+asS'H2H'
+p893
+(lp894
+S'Plateau Mont-Royal North'
+p895
+aS'Quebec'
+p896
+asS'H2K'
+p897
+(lp898
+S'Centre-Sud North'
+p899
+aS'Quebec'
+p900
+asS'H2E'
+p901
+(lp902
+S'Villeray Northeast'
+p903
+aS'Quebec'
+p904
+asS'V1Y'
+p905
+(lp906
+S'Kelowna Central'
+p907
+aS'British Columbia'
+p908
+asS'B4R'
+p909
+(lp910
+S'Coldbrook'
+p911
+aS'Nova Scotia'
+p912
+asS'V1R'
+p913
+(lp914
+S'Trail'
+p915
+aS'British Columbia'
+p916
+asS'V1P'
+p917
+(lp918
+S'Kelowna East'
+p919
+aS'British Columbia'
+p920
+asS'V1W'
+p921
+(lp922
+S'Kelowna Southwest'
+p923
+aS'British Columbia'
+p924
+asS'V1T'
+p925
+(lp926
+S'Vernon Central'
+p927
+aS'British Columbia'
+p928
+asS'B4E'
+p929
+(lp930
+S'Lower Sackville West'
+p931
+aS'Nova Scotia'
+p932
+asS'V1H'
+p933
+(lp934
+S'Vernon West'
+p935
+aS'British Columbia'
+p936
+asS'B4A'
+p937
+(lp938
+S'Bedford Southeast'
+p939
+aS''
+asS'V1L'
+p940
+(lp941
+S'Nelson'
+p942
+aS'British Columbia'
+p943
+asS'B4B'
+p944
+(lp945
+S'Bedford Northwest'
+p946
+aS'Nova Scotia'
+p947
+asS'V1B'
+p948
+(lp949
+S'Vernon East'
+p950
+aS'British Columbia'
+p951
+asS'B4N'
+p952
+(lp953
+S'Kentville'
+p954
+aS'Nova Scotia'
+p955
+asS'B4H'
+p956
+(lp957
+S'Amherst'
+p958
+aS''
+asS'V1E'
+p959
+(lp960
+S'Salmon Arm'
+p961
+aS'British Columbia'
+p962
+asS'E8C'
+p963
+(lp964
+S'Dalhousie'
+p965
+aS'New Brunswick'
+p966
+asS'E8A'
+p967
+(lp968
+S'Saint-Quentin'
+p969
+aS'New Brunswick'
+p970
+asS'K2R'
+p971
+(lp972
+S'Nepean (Fallowfield Village / Cedarhill Estates / Orchard Estates)'
+p973
+aS'Ontario'
+p974
+asS'E8M'
+p975
+(lp976
+S'Saint-Isidore'
+p977
+aS'New Brunswick'
+p978
+asS'E8J'
+p979
+(lp980
+S'Petit-Rocher'
+p981
+aS'New Brunswick'
+p982
+asS'E8K'
+p983
+(lp984
+S'Beresford'
+p985
+aS'New Brunswick'
+p986
+asS'K2T'
+p987
+(lp988
+S'Kanata (Marchwood)'
+p989
+aS'Ontario'
+p990
+asS'K2K'
+p991
+(lp992
+S'Kanata (Beaverbrook / South March)'
+p993
+aS'Ontario'
+p994
+asS'E8T'
+p995
+(lp996
+S'Lam\xc3\xa8que'
+p997
+aS'New Brunswick'
+p998
+asS'E8R'
+p999
+(lp1000
+S'Paquetville'
+p1001
+aS'New Brunswick'
+p1002
+asS'K2M'
+p1003
+(lp1004
+S'Kanata (Bridlewood)'
+p1005
+aS'Ontario'
+p1006
+asS'K2B'
+p1007
+(lp1008
+S'Ottawa (Britannia / Pinecrest)'
+p1009
+aS'Ontario'
+p1010
+asS'K2E'
+p1011
+(lp1012
+S'Nepean East'
+p1013
+aS'Ontario'
+p1014
+asS'T5Y'
+p1015
+(lp1016
+S'Edmonton (Landbank / Oliver / East Lake District)'
+p1017
+aS'Alberta'
+p1018
+asS'G9B'
+p1019
+(lp1020
+S'Trois-Rivi\xc3\xa8res South'
+p1021
+aS'Quebec'
+p1022
+asS'G9N'
+p1023
+(lp1024
+S'Shawinigan Central'
+p1025
+aS'Quebec'
+p1026
+asS'T5R'
+p1027
+(lp1028
+S'Edmonton (Central Jasper Place / Buena Vista)'
+p1029
+aS'Alberta'
+p1030
+asS'T5T'
+p1031
+(lp1032
+S'Edmonton West (West Jasper Place / West Edmonton Mall)'
+p1033
+aS'Alberta'
+p1034
+asS'G7G'
+p1035
+(lp1036
+S'Chicoutimi North'
+p1037
+aS'Quebec'
+p1038
+asS'T5W'
+p1039
+(lp1040
+S'Edmonton (Central Beverly)'
+p1041
+aS'Alberta'
+p1042
+asS'T5J'
+p1043
+(lp1044
+S'Edmonton (North Downtown)'
+p1045
+aS'Alberta'
+p1046
+asS'T5L'
+p1047
+(lp1048
+S'Edmonton (North Westmount / West Calder / East Mistatim)'
+p1049
+aS'Alberta'
+p1050
+asS'G9R'
+p1051
+(lp1052
+S'Shawinigan Northwest'
+p1053
+aS'Quebec'
+p1054
+asS'T5N'
+p1055
+(lp1056
+S'Edmonton (Glenora / SW Downtown Fringe)'
+p1057
+aS'Alberta'
+p1058
+asS'T5A'
+p1059
+(lp1060
+S'Edmonton (West Clareview / East Londonderry)'
+p1061
+aS'Alberta'
+p1062
+asS'T5C'
+p1063
+(lp1064
+S'Edmonton (Central Londonderry)'
+p1065
+aS'Alberta'
+p1066
+asS'V8M'
+p1067
+(lp1068
+S'Central Saanich'
+p1069
+aS'British Columbia'
+p1070
+asS'G0N'
+p1071
+(lp1072
+S'Chaudi\xc3\xa8re-Sud (Disraeli)'
+p1073
+aS'Quebec'
+p1074
+asS'L5S'
+p1075
+(lp1076
+S'Mississauga (Cardiff / NE Gateway)'
+p1077
+aS'Ontario'
+p1078
+asS'V8K'
+p1079
+(lp1080
+S'Saltspring Island'
+p1081
+aS''
+asS'V8G'
+p1082
+(lp1083
+S'Terrace'
+p1084
+aS'British Columbia'
+p1085
+asS'G0G'
+p1086
+(lp1087
+S'C\xc3\xb4te-Nord/Anticosti (Schefferville)'
+p1088
+aS'Quebec'
+p1089
+asS'V8C'
+p1090
+(lp1091
+S'Kitimat'
+p1092
+aS'British Columbia'
+p1093
+asS'G0C'
+p1094
+(lp1095
+S'Gasp\xc3\xa9sie-Sud (New Richmond)'
+p1096
+aS'Quebec'
+p1097
+asS'V5N'
+p1098
+(lp1099
+S'Vancouver (South Grandview- Woodlands / NE Kensington)'
+p1100
+aS'British Columbia'
+p1101
+asS'V8X'
+p1102
+(lp1103
+S'Saanich South'
+p1104
+aS'British Columbia'
+p1105
+asS'V8Z'
+p1106
+(lp1107
+S'Saanich Central'
+p1108
+aS'British Columbia'
+p1109
+asS'L5H'
+p1110
+(lp1111
+S'Mississauga (West Port Credit / Lorne Park / East Sheridan)'
+p1112
+aS'Ontario'
+p1113
+asS'E1C'
+p1114
+(lp1115
+S'Moncton Central'
+p1116
+aS'New Brunswick'
+p1117
+asS'V8V'
+p1118
+(lp1119
+S'Victoria South'
+p1120
+aS'British Columbia'
+p1121
+asS'V5L'
+p1122
+(lp1123
+S'Vancouver (North Grandview- Woodlands)'
+p1124
+aS'British Columbia'
+p1125
+asS'E1G'
+p1126
+(lp1127
+S'Moncton Northwest'
+p1128
+aS'New Brunswick'
+p1129
+asS'G7N'
+p1130
+(lp1131
+S'Laterri\xc3\xa8re'
+p1132
+aS'Quebec'
+p1133
+asS'B0M'
+p1134
+(lp1135
+S'Cobequid Bay north shore (Springhill)'
+p1136
+aS'Nova Scotia'
+p1137
+asS'R0B'
+p1138
+(lp1139
+S'Northern Manitoba (Norway House)'
+p1140
+aS'Manitoba'
+p1141
+asS'R0E'
+p1142
+(lp1143
+S'Eastern Manitoba (Beausejour)'
+p1144
+aS'Manitoba'
+p1145
+asS'G2L'
+p1146
+(lp1147
+S'Charlesbourg North'
+p1148
+aS'Quebec'
+p1149
+asS'R0H'
+p1150
+(lp1151
+S'South Interlake (MacGregor)'
+p1152
+aS'Manitoba'
+p1153
+asS'R0K'
+p1154
+(lp1155
+S'Brandon Region (Killarney)'
+p1156
+aS'Manitoba'
+p1157
+asS'G7J'
+p1158
+(lp1159
+S'Chicoutimi West'
+p1160
+aS'Quebec'
+p1161
+asS'R0M'
+p1162
+(lp1163
+S'Southwestern Manitoba (Virden)'
+p1164
+aS'Manitoba'
+p1165
+asS'G1W'
+p1166
+(lp1167
+S'Sainte-Foy Southeast'
+p1168
+aS'Quebec'
+p1169
+asS'B0P'
+p1170
+(lp1171
+S'Kings County (Kingston)'
+p1172
+aS'Nova Scotia'
+p1173
+asS'B0S'
+p1174
+(lp1175
+S'West Annapolis County (Middleton)'
+p1176
+aS'Nova Scotia'
+p1177
+asS'B0R'
+p1178
+(lp1179
+S'West Lunenburg County (New Germany)'
+p1180
+aS''
+asS'B0T'
+p1181
+(lp1182
+S'Queens County (Shelburne)'
+p1183
+aS''
+asS'G6K'
+p1184
+(lp1185
+S'Saint- Redempteur'
+p1186
+aS'Quebec'
+p1187
+asS'S6V'
+p1188
+(lp1189
+S'Prince Albert Central'
+p1190
+aS'Saskatchewan'
+p1191
+asS'G7Y'
+p1192
+(lp1193
+S'Jonqui\xc3\xa8re Southwest'
+p1194
+aS'Quebec'
+p1195
+asS'G1T'
+p1196
+(lp1197
+S'Quebec City Upper Riverbank'
+p1198
+aS'Quebec'
+p1199
+asS'V5Y'
+p1200
+(lp1201
+S'Vancouver (West Mount Pleasant / West Riley Park- Little Mountain)'
+p1202
+aS'British Columbia'
+p1203
+asS'J0C'
+p1204
+(lp1205
+S'Centre-du- Qu\xc3\xa9bec-Ouest (Saint- Bonaventure)'
+p1206
+aS'Quebec'
+p1207
+asS'J0G'
+p1208
+(lp1209
+S'Bois-Francs-Nord (Odanak)'
+p1210
+aS'Quebec'
+p1211
+asS'E3Y'
+p1212
+(lp1213
+S'Grand Falls Northeast'
+p1214
+aS'New Brunswick'
+p1215
+asS'E4R'
+p1216
+(lp1217
+S'Cocagne'
+p1218
+aS'New Brunswick'
+p1219
+asS'V5G'
+p1220
+(lp1221
+S'Burnaby (Cascade-Schou / Douglas-Gilpin)'
+p1222
+aS'British Columbia'
+p1223
+asS'B0C'
+p1224
+(lp1225
+S'North Victoria County (Dingwall)'
+p1226
+aS'Nova Scotia'
+p1227
+asS'E4V'
+p1228
+(lp1229
+S'Saint-Antoine'
+p1230
+aS'New Brunswick'
+p1231
+asS'V5C'
+p1232
+(lp1233
+S'Burnaby (Burnaby Heights / Willingdon Heights / West Central Valley)'
+p1234
+aS'British Columbia'
+p1235
+asS'E4T'
+p1236
+(lp1237
+S'Bass River'
+p1238
+aS'New Brunswick'
+p1239
+asS'V5A'
+p1240
+(lp1241
+S'Burnaby (Government Road / Lake City / SFU / Burnaby Mountain)'
+p1242
+aS'British Columbia'
+p1243
+asS'E4Z'
+p1244
+(lp1245
+S'Petitcodiac'
+p1246
+aS'New Brunswick'
+p1247
+asS'B0H'
+p1248
+(lp1249
+S'Canso region (Havre Boucher)'
+p1250
+aS'Nova Scotia'
+p1251
+asS'E4X'
+p1252
+(lp1253
+S'St-Louis-de-Kent'
+p1254
+aS'New Brunswick'
+p1255
+asS'B0J'
+p1256
+(lp1257
+S'Mainland east shore (Lunenburg)'
+p1258
+aS''
+asS'V5J'
+p1259
+(lp1260
+S'Burnaby (Suncrest / Sussex-Nelson / Clinton-Glenwood / West Big Bend)'
+p1261
+aS'British Columbia'
+p1262
+asS'B0L'
+p1263
+(lp1264
+S'Isthmus of Chignecto (River H\xc3\xa9bert)'
+p1265
+aS''
+asS'B0N'
+p1266
+(lp1267
+S'Hants County (Shubenacadie)'
+p1268
+aS''
+asS'E4B'
+p1269
+(lp1270
+S'Minto'
+p1271
+aS'New Brunswick'
+p1272
+asS'V5W'
+p1273
+(lp1274
+S'Vancouver (SE Riley Park- Little Mountain / SW Kensington / NE Oakridge / North Sunset)'
+p1275
+aS'British Columbia'
+p1276
+asS'V5T'
+p1277
+(lp1278
+S'Vancouver (East Mount Pleasant)'
+p1279
+aS'British Columbia'
+p1280
+asS'E4A'
+p1281
+(lp1282
+S'Bathurst'
+p1283
+aS'New Brunswick'
+p1284
+asS'V5R'
+p1285
+(lp1286
+S'Vancouver (South Renfrew- Collingwood)'
+p1287
+aS'British Columbia'
+p1288
+asS'E4G'
+p1289
+(lp1290
+S'Smiths Creek'
+p1291
+aS'New Brunswick'
+p1292
+asS'S6X'
+p1293
+(lp1294
+S'Prince Albert East'
+p1295
+aS'Saskatchewan'
+p1296
+asS'B0V'
+p1297
+(lp1298
+S'Digby Neck (Digby)'
+p1299
+aS'Nova Scotia'
+p1300
+asS'E4J'
+p1301
+(lp1302
+S'Salisbury'
+p1303
+aS'New Brunswick'
+p1304
+asS'B1R'
+p1305
+(lp1306
+S'Sydney West'
+p1307
+aS'Nova Scotia'
+p1308
+asS'E4H'
+p1309
+(lp1310
+S'Hillsborough'
+p1311
+aS'New Brunswick'
+p1312
+asS'E4N'
+p1313
+(lp1314
+S'Cap-Pel\xc3\xa9'
+p1315
+aS'New Brunswick'
+p1316
+asS'E4M'
+p1317
+(lp1318
+S'Bayfield'
+p1319
+aS'New Brunswick'
+p1320
+asS'L8V'
+p1321
+(lp1322
+S'Hamilton (Raleigh / Macassa / Lawfield / Thorner / Burkholme / Eastmount)'
+p1323
+aS'Ontario'
+p1324
+asS'L8S'
+p1325
+(lp1326
+S'Hamilton (Westdale / Cootes Paradise / Ainslie Wood)'
+p1327
+aS'Ontario'
+p1328
+asS'B1P'
+p1329
+(lp1330
+S'Sydney North Central'
+p1331
+aS''
+asS'L8P'
+p1332
+(lp1333
+S'Hamilton (Durand / Kirkendall / Chedoke Park)'
+p1334
+aS'Ontario'
+p1335
+asS'L8E'
+p1336
+(lp1337
+S'Hamilton (Confederation Park / Nashdale / East Kentley / Riverdale / Lakely / Grayside / North Stoney Creek)'
+p1338
+aS'Ontario'
+p1339
+asS'L8M'
+p1340
+(lp1341
+S'Hamilton (West Delta / Blakeley / South Stipley / South Gibson / St. Clair)'
+p1342
+aS'Ontario'
+p1343
+asS'L8K'
+p1344
+(lp1345
+S"Hamilton (East Delta / Bartonville / Glenview / Rosedale / Lower King's Forest / Red Hill / Corman / Vincent / South Gershome)"
+p1346
+aS'Ontario'
+p1347
+asS'L8H'
+p1348
+(lp1349
+S'Hamilton (West Kentley / McQuesten / Parkview / Hamilton Beach / East Industrial Sector / Normanhurst / Homeside / East Crown Point)'
+p1350
+aS'Ontario'
+p1351
+asS'T1G'
+p1352
+(lp1353
+S'Taber'
+p1354
+aS'Alberta'
+p1355
+asS'L1X'
+p1356
+(lp1357
+S'Pickering Central'
+p1358
+aS'Ontario'
+p1359
+asS'T1B'
+p1360
+(lp1361
+S'Medicine Hat South'
+p1362
+aS'Alberta'
+p1363
+asS'T1M'
+p1364
+(lp1365
+S'Coaldale'
+p1366
+aS'Alberta'
+p1367
+asS'L1V'
+p1368
+(lp1369
+S'Pickering Southwest'
+p1370
+aS'Ontario'
+p1371
+asS'T1H'
+p1372
+(lp1373
+S'Lethbridge North'
+p1374
+aS'Alberta'
+p1375
+asS'H8N'
+p1376
+(lp1377
+S'LaSalle Northwest'
+p1378
+aS'Quebec'
+p1379
+asS'L1S'
+p1380
+(lp1381
+S'Ajax Southwest'
+p1382
+aS'Ontario'
+p1383
+asS'H8S'
+p1384
+(lp1385
+S'Lachine East'
+p1386
+aS'Quebec'
+p1387
+asS'L1M'
+p1388
+(lp1389
+S'Whitby North'
+p1390
+aS'Ontario'
+p1391
+asS'L1H'
+p1392
+(lp1393
+S'Oshawa Southeast'
+p1394
+aS'Ontario'
+p1395
+asS'G6T'
+p1396
+(lp1397
+S'Victoriaville Northwest'
+p1398
+aS'Quebec'
+p1399
+asS'T1R'
+p1400
+(lp1401
+S'Brooks'
+p1402
+aS'Alberta'
+p1403
+asS'T1S'
+p1404
+(lp1405
+S'Okotoks'
+p1406
+aS'Alberta'
+p1407
+asS'T1X'
+p1408
+(lp1409
+S'Chestermere'
+p1410
+aS'Alberta'
+p1411
+asS'L1C'
+p1412
+(lp1413
+S'Bowmanville West'
+p1414
+aS'Ontario'
+p1415
+asS'G5R'
+p1416
+(lp1417
+S'Rivi\xc3\xa8re-du-Loup'
+p1418
+aS'Quebec'
+p1419
+asS'L0S'
+p1420
+(lp1421
+S'Niagara Regional Municipality (Fonthill)'
+p1422
+aS'Ontario'
+p1423
+asS'A2A'
+p1424
+(lp1425
+S'Grand Falls'
+p1426
+aS'Newfoundland and Labrador'
+p1427
+asS'B4V'
+p1428
+(lp1429
+S'Bridgewater'
+p1430
+aS''
+asS'A2H'
+p1431
+(lp1432
+S'Corner Brook'
+p1433
+aS'Newfoundland and Labrador'
+p1434
+asS'A2N'
+p1435
+(lp1436
+S'Stephenville'
+p1437
+aS'Newfoundland and Labrador'
+p1438
+asS'Y1A'
+p1439
+(lp1440
+S'Whitehorse'
+p1441
+aS'Yukon'
+p1442
+asS'V2S'
+p1443
+(lp1444
+S'Abbotsford Southeast'
+p1445
+aS'British Columbia'
+p1446
+asS'V2P'
+p1447
+(lp1448
+S'Chilliwack Central'
+p1449
+aS'British Columbia'
+p1450
+asS'V2V'
+p1451
+(lp1452
+S'Mission East'
+p1453
+aS'British Columbia'
+p1454
+asS'V2Z'
+p1455
+(lp1456
+S'Langley Township Southwest'
+p1457
+aS'British Columbia'
+p1458
+asS'V2X'
+p1459
+(lp1460
+S'Maple Ridge West'
+p1461
+aS'British Columbia'
+p1462
+asS'K6K'
+p1463
+(lp1464
+S'Cornwall North'
+p1465
+aS'Ontario'
+p1466
+asS'K6H'
+p1467
+(lp1468
+S'Cornwall East'
+p1469
+aS'Ontario'
+p1470
+asS'V2C'
+p1471
+(lp1472
+S'Kamloops Central and Southeast'
+p1473
+aS'British Columbia'
+p1474
+asS'V2B'
+p1475
+(lp1476
+S'Kamloops Northwest'
+p1477
+aS'British Columbia'
+p1478
+asS'V2A'
+p1479
+(lp1480
+S'Penticton'
+p1481
+aS''
+asS'V2K'
+p1482
+(lp1483
+S'Prince George North'
+p1484
+aS'British Columbia'
+p1485
+asS'V2H'
+p1486
+(lp1487
+S'Kamloops North'
+p1488
+aS'British Columbia'
+p1489
+asS'V2M'
+p1490
+(lp1491
+S'Prince George West Central'
+p1492
+aS'British Columbia'
+p1493
+asS'K1R'
+p1494
+(lp1495
+S'Ottawa (West Downtown area)'
+p1496
+aS'Ontario'
+p1497
+asS'B0E'
+p1498
+(lp1499
+S'West Cape Breton Island (Baddeck)'
+p1500
+aS''
+asS'K1W'
+p1501
+(lp1502
+S'Gloucester (South Orleans)'
+p1503
+aS'Ontario'
+p1504
+asS'L1Z'
+p1505
+(lp1506
+S'Ajax East'
+p1507
+aS'Ontario'
+p1508
+asS'K1T'
+p1509
+(lp1510
+S'Gloucester (Blossom Park / Hunt Club East / Leitrim)'
+p1511
+aS'Ontario'
+p1512
+asS'K1Z'
+p1513
+(lp1514
+S'Ottawa (Westboro)'
+p1515
+aS'Ontario'
+p1516
+asS'K1Y'
+p1517
+(lp1518
+S'Ottawa West'
+p1519
+aS'Ontario'
+p1520
+asS'B4G'
+p1521
+(lp1522
+S'Lower Sackville North'
+p1523
+aS''
+asS'K1C'
+p1524
+(lp1525
+S'Gloucester (West Orleans)'
+p1526
+aS'Ontario'
+p1527
+asS'K1G'
+p1528
+(lp1529
+S'Ottawa (Riverview / Hawthorne)'
+p1530
+aS'Ontario'
+p1531
+asS'K1J'
+p1532
+(lp1533
+S'Gloucester (Beacon Hill / Cyrville)'
+p1534
+aS'Ontario'
+p1535
+asS'K1N'
+p1536
+(lp1537
+S'Ottawa (Lower Town / Sandy Hill / University of Ottawa)'
+p1538
+aS'Ontario'
+p1539
+asS'K1L'
+p1540
+(lp1541
+S'Ottawa (Vanier)'
+p1542
+aS'Ontario'
+p1543
+asS'G8G'
+p1544
+(lp1545
+S'M\xc3\xa9tabetchouan- Lac-a-la-Croix'
+p1546
+aS'Quebec'
+p1547
+asS'B4C'
+p1548
+(lp1549
+S'Lower Sackville South'
+p1550
+aS''
+asS'G8L'
+p1551
+(lp1552
+S'Dolbeau- Mistassini'
+p1553
+aS'Quebec'
+p1554
+asS'T6T'
+p1555
+(lp1556
+S'Edmonton (Meadows)'
+p1557
+aS'Alberta'
+p1558
+asS'T6W'
+p1559
+(lp1560
+S'Edmonton (Heritage Valley)'
+p1561
+aS'Alberta'
+p1562
+asS'T6R'
+p1563
+(lp1564
+S'Edmonton (Riverbend)'
+p1565
+aS'Alberta'
+p1566
+asS'G8T'
+p1567
+(lp1568
+S'Cap-de-la- Madeleine Central and southeast'
+p1569
+aS'Quebec'
+p1570
+asS'T6L'
+p1571
+(lp1572
+S'Edmonton (East Mill Woods)'
+p1573
+aS'Alberta'
+p1574
+asS'T6N'
+p1575
+(lp1576
+S'Edmonton (South Industrial)'
+p1577
+aS'Alberta'
+p1578
+asS'T6H'
+p1579
+(lp1580
+S'Edmonton (Southgate / North Riverbend)'
+p1581
+aS'Alberta'
+p1582
+asS'T6J'
+p1583
+(lp1584
+S'Edmonton (Kaskitayo)'
+p1585
+aS'Alberta'
+p1586
+asS'T6E'
+p1587
+(lp1588
+S'Edmonton (South Bonnie Doon / East University)'
+p1589
+aS'Alberta'
+p1590
+asS'T6A'
+p1591
+(lp1592
+S'Edmonton (North Capilano)'
+p1593
+aS'Alberta'
+p1594
+asS'G8Z'
+p1595
+(lp1596
+S'Trois-Rivi\xc3\xa8res Northeast'
+p1597
+aS'Quebec'
+p1598
+asS'T6B'
+p1599
+(lp1600
+S'Edmonton (SE Capilano / West Southeast Industrial / East Bonnie Doon)'
+p1601
+aS'Alberta'
+p1602
+asS'V9S'
+p1603
+(lp1604
+S'Nanaimo Central'
+p1605
+aS'British Columbia'
+p1606
+asS'V9P'
+p1607
+(lp1608
+S'Parksville'
+p1609
+aS'British Columbia'
+p1610
+asS'V1A'
+p1611
+(lp1612
+S'Kimberley'
+p1613
+aS'British Columbia'
+p1614
+asS'V9V'
+p1615
+(lp1616
+S'Nanaimo Northwest'
+p1617
+aS'British Columbia'
+p1618
+asS'L6P'
+p1619
+(lp1620
+S'Brampton North'
+p1621
+aS'Ontario'
+p1622
+asS'L6S'
+p1623
+(lp1624
+S'Brampton North Central'
+p1625
+aS'Ontario'
+p1626
+asS'V9X'
+p1627
+(lp1628
+S'Cedar'
+p1629
+aS'British Columbia'
+p1630
+asS'L6X'
+p1631
+(lp1632
+S'Brampton Southwest'
+p1633
+aS'Ontario'
+p1634
+asS'V1G'
+p1635
+(lp1636
+S'Dawson Creek'
+p1637
+aS'British Columbia'
+p1638
+asS'V9C'
+p1639
+(lp1640
+S'Metchosin'
+p1641
+aS'British Columbia'
+p1642
+asS'L6G'
+p1643
+(lp1644
+S'Markham Inner Southwest'
+p1645
+aS'Ontario'
+p1646
+asS'V9A'
+p1647
+(lp1648
+S'Esquimalt'
+p1649
+aS'British Columbia'
+p1650
+asS'L6C'
+p1651
+(lp1652
+S'Markham Northwest'
+p1653
+aS'Ontario'
+p1654
+asS'V9J'
+p1655
+(lp1656
+S'Courtenay Northern Outskirts'
+p1657
+aS'British Columbia'
+p1658
+asS'L6L'
+p1659
+(lp1660
+S'Oakville South'
+p1661
+aS'Ontario'
+p1662
+asS'G3J'
+p1663
+(lp1664
+S'Val-B\xc3\xa9lair North'
+p1665
+aS'Quebec'
+p1666
+asS'V9N'
+p1667
+(lp1668
+S'Courtenay Central'
+p1669
+aS'British Columbia'
+p1670
+asS'V9M'
+p1671
+(lp1672
+S'Comox'
+p1673
+aS'British Columbia'
+p1674
+asS'H3B'
+p1675
+(lp1676
+S'Downtown Montreal East'
+p1677
+aS'Quebec'
+p1678
+asS'H3E'
+p1679
+(lp1680
+S"L'\xc3\x8ele-Des-Soeurs"
+p1681
+aS'Quebec'
+p1682
+asS'H3H'
+p1683
+(lp1684
+S'Downtown Montreal South & West'
+p1685
+aS'Quebec'
+p1686
+asS'L1K'
+p1687
+(lp1688
+S'Oshawa East'
+p1689
+aS'Ontario'
+p1690
+asS'H7V'
+p1691
+(lp1692
+S'Chomedey East'
+p1693
+aS''
+asS'R5G'
+p1694
+(lp1695
+S'Steinbach'
+p1696
+aS'Manitoba'
+p1697
+asS'H3M'
+p1698
+(lp1699
+S'Cartierville Northeast'
+p1700
+aS'Quebec'
+p1701
+asS'H3R'
+p1702
+(lp1703
+S'Mount Royal Central'
+p1704
+aS'Quebec'
+p1705
+asS'H3W'
+p1706
+(lp1707
+S'C\xc3\xb4te-des-Neiges Southwest'
+p1708
+aS'Quebec'
+p1709
+asS'H3T'
+p1710
+(lp1711
+S'C\xc3\xb4te-des-Neiges Northeast'
+p1712
+aS'Quebec'
+p1713
+asS'H3Z'
+p1714
+(lp1715
+S'Westmount East'
+p1716
+aS'Quebec'
+p1717
+asS'C1N'
+p1718
+(lp1719
+S'Summerside'
+p1720
+aS''
+asS'B2X'
+p1721
+(lp1722
+S'Dartmouth North Central'
+p1723
+aS'Nova Scotia'
+p1724
+asS'K2W'
+p1725
+(lp1726
+S'Kanata (North March)'
+p1727
+aS'Ontario'
+p1728
+asS'B0K'
+p1729
+(lp1730
+S'Southern Northumberland Strait (Pictou)'
+p1731
+aS'Nova Scotia'
+p1732
+asS'N3W'
+p1733
+(lp1734
+S'Caledonia'
+p1735
+aS''
+asS'R8N'
+p1736
+(lp1737
+S'Thompson'
+p1738
+aS'Manitoba'
+p1739
+asS'R8A'
+p1740
+(lp1741
+S'Flin Flon'
+p1742
+aS'Manitoba'
+p1743
+asS'K2H'
+p1744
+(lp1745
+S'Nepean (Bells Corners)'
+p1746
+aS'Ontario'
+p1747
+asS'S2V'
+p1748
+(lp1749
+S'Buena Vista'
+p1750
+aS'Saskatchewan'
+p1751
+asS'V6Z'
+p1752
+(lp1753
+S'Vancouver (SW Downtown)'
+p1754
+aS'British Columbia'
+p1755
+asS'V6X'
+p1756
+(lp1757
+S'Richmond North'
+p1758
+aS'British Columbia'
+p1759
+asS'V6V'
+p1760
+(lp1761
+S'Richmond Northeast'
+p1762
+aS'British Columbia'
+p1763
+asS'V6T'
+p1764
+(lp1765
+S'Vancouver (UBC)'
+p1766
+aS'British Columbia'
+p1767
+asS'V6R'
+p1768
+(lp1769
+S'Vancouver (West Kitsilano / Jericho)'
+p1770
+aS'British Columbia'
+p1771
+asS'V6N'
+p1772
+(lp1773
+S'Vancouver (Dunbar- Southlands / Musqueam)'
+p1774
+aS'British Columbia'
+p1775
+asS'V6L'
+p1776
+(lp1777
+S'Vancouver (NW Arbutus Ridge)'
+p1778
+aS'British Columbia'
+p1779
+asS'V6J'
+p1780
+(lp1781
+S'Vancouver (NW Shaughnessy / East Kitsilano / Quilchena)'
+p1782
+aS'British Columbia'
+p1783
+asS'V6G'
+p1784
+(lp1785
+S'Vancouver (North West End / Stanley Park)'
+p1786
+aS'British Columbia'
+p1787
+asS'V6C'
+p1788
+(lp1789
+S'Vancouver (Waterfront / Coal Harbour / Canada Place)'
+p1790
+aS'British Columbia'
+p1791
+asS'V6A'
+p1792
+(lp1793
+S'Vancouver (Strathcona / Chinatown / Downtown Eastside)'
+p1794
+aS'British Columbia'
+p1795
+asS'E7K'
+p1796
+(lp1797
+S'Centreville'
+p1798
+aS'New Brunswick'
+p1799
+asS'E7L'
+p1800
+(lp1801
+S'Florenceville'
+p1802
+aS'New Brunswick'
+p1803
+asS'E7C'
+p1804
+(lp1805
+S'Saint-Basile'
+p1806
+aS'New Brunswick'
+p1807
+asS'E7A'
+p1808
+(lp1809
+S'Baker Brook'
+p1810
+aS'New Brunswick'
+p1811
+asS'E7P'
+p1812
+(lp1813
+S'Hartland'
+p1814
+aS'New Brunswick'
+p1815
+asS'L3S'
+p1816
+(lp1817
+S'Markham Southeast'
+p1818
+aS'Ontario'
+p1819
+asS'R6M'
+p1820
+(lp1821
+S'Morden'
+p1822
+aS'Manitoba'
+p1823
+asS'R6W'
+p1824
+(lp1825
+S'Winkler'
+p1826
+aS'Manitoba'
+p1827
+asS'L9B'
+p1828
+(lp1829
+S'Hamilton (Barnstown / West Chappel / Allison / Ryckmans / Mewburn / Sheldon / Falkirk / Carpenter / Kennedy / Southwest Outskirts)'
+p1830
+aS'Ontario'
+p1831
+asS'G0J'
+p1832
+(lp1833
+S'Gasp\xc3\xa9sie-Ouest (Causapscal)'
+p1834
+aS'Quebec'
+p1835
+asS'B2Z'
+p1836
+(lp1837
+S'Dartmouth East'
+p1838
+aS'Nova Scotia'
+p1839
+asS'T2K'
+p1840
+(lp1841
+S'Calgary (Thornecliffe / Tuxedo)'
+p1842
+aS'Alberta'
+p1843
+asS'T2J'
+p1844
+(lp1845
+S'Calgary (Queensland Downs / Lake Bonavista / Willow Park / Acadia)'
+p1846
+aS'Alberta'
+p1847
+asS'T2M'
+p1848
+(lp1849
+S'Calgary (Mount Pleasant / Capitol Hill / Banff Trail)'
+p1850
+aS'Alberta'
+p1851
+asS'H9G'
+p1852
+(lp1853
+S'Dollard-Des- Ormeaux Southwest'
+p1854
+aS'Quebec'
+p1855
+asS'T2C'
+p1856
+(lp1857
+S'Calgary (Lynnwood Ridge / Ogden / Foothills Industrial / Great Plains)'
+p1858
+aS'Alberta'
+p1859
+asS'T2B'
+p1860
+(lp1861
+S'Calgary (Forest Lawn / Dover / Erin Woods)'
+p1862
+aS'Alberta'
+p1863
+asS'T2G'
+p1864
+(lp1865
+S'Calgary (Inglewood / Burnsland / Chinatown / East Victoria Park / Saddledome)'
+p1866
+aS'Alberta'
+p1867
+asS'H9P'
+p1868
+(lp1869
+S'Dorval Outskirts'
+p1870
+aS'Quebec'
+p1871
+asS'T2X'
+p1872
+(lp1873
+S'Calgary (Midnapore / Sundance)'
+p1874
+aS'Alberta'
+p1875
+asS'T2Z'
+p1876
+(lp1877
+S'Calgary (Douglas Glen / McKenzie Lake / Copperfield / East Shepard)'
+p1878
+aS'Alberta'
+p1879
+asS'H9X'
+p1880
+(lp1881
+S'Sainte-Anne-De- Bellevue'
+p1882
+aS'Quebec'
+p1883
+asS'T2P'
+p1884
+(lp1885
+S'Calgary (City Centre / Calgary Tower)'
+p1886
+aS'Alberta'
+p1887
+asS'T2S'
+p1888
+(lp1889
+S'Calgary (Elbow Park / Britannia / Parkhill / Mission)'
+p1890
+aS'Alberta'
+p1891
+asS'T2V'
+p1892
+(lp1893
+S'Calgary (Oak Ridge / Haysboro / Kingsland / Windsor Park)'
+p1894
+aS'Alberta'
+p1895
+asS'H7N'
+p1896
+(lp1897
+S'Laval-des-Rapides'
+p1898
+aS''
+asS'H7L'
+p1899
+(lp1900
+S'Sainte-Rose'
+p1901
+aS''
+asS'H7M'
+p1902
+(lp1903
+S'Vimont'
+p1904
+aS'Quebec'
+p1905
+asS'H7J'
+p1906
+(lp1907
+S'Auteuil Northeast'
+p1908
+aS''
+asS'H7K'
+p1909
+(lp1910
+S'Auteuil South'
+p1911
+aS'Quebec'
+p1912
+asS'H7H'
+p1913
+(lp1914
+S'Auteuil West'
+p1915
+aS'Quebec'
+p1916
+asS'H7G'
+p1917
+(lp1918
+S'Pont-Viau'
+p1919
+aS''
+asS'H7E'
+p1920
+(lp1921
+S'Duvernay'
+p1922
+aS'Quebec'
+p1923
+asS'H7C'
+p1924
+(lp1925
+S'Saint-Vincent-de-Paul'
+p1926
+aS''
+asS'R1B'
+p1927
+(lp1928
+S'Lockport'
+p1929
+aS'Manitoba'
+p1930
+asS'L1P'
+p1931
+(lp1932
+S'Whitby Southwest'
+p1933
+aS'Ontario'
+p1934
+asS'R1N'
+p1935
+(lp1936
+S'Portage la Prairie'
+p1937
+aS'Manitoba'
+p1938
+asS'H7W'
+p1939
+(lp1940
+S'Chomedey South'
+p1941
+aS'Quebec'
+p1942
+asS'H7T'
+p1943
+(lp1944
+S'Chomedey Northwest'
+p1945
+aS'Quebec'
+p1946
+asS'H7R'
+p1947
+(lp1948
+S'Laval-sur-le-Lac'
+p1949
+aS'Quebec'
+p1950
+asS'H7S'
+p1951
+(lp1952
+S'Chomedey Northeast'
+p1953
+aS''
+asS'H7P'
+p1954
+(lp1955
+S'Fabreville'
+p1956
+aS'Quebec'
+p1957
+asS'G1J'
+p1958
+(lp1959
+S'Quebec City Lower Riverbank'
+p1960
+aS'Quebec'
+p1961
+asS'H0H'
+p1962
+(lp1963
+S'Reserved (Santa Claus)'
+p1964
+aS'Quebec'
+p1965
+asS'K9K'
+p1966
+(lp1967
+S'Peterborough (Fairbairn Meadows / Jackson Heights)'
+p1968
+aS'Ontario'
+p1969
+asS'V3S'
+p1970
+(lp1971
+S'Surrey East'
+p1972
+aS'British Columbia'
+p1973
+asS'V3V'
+p1974
+(lp1975
+S'Surrey Outer Northwest'
+p1976
+aS'British Columbia'
+p1977
+asS'V3X'
+p1978
+(lp1979
+S'Surrey Lower West'
+p1980
+aS'British Columbia'
+p1981
+asS'V3A'
+p1982
+(lp1983
+S'Langley City'
+p1984
+aS'British Columbia'
+p1985
+asS'S0J'
+p1986
+(lp1987
+S'Northern Saskatchewan (La Ronge)'
+p1988
+aS'Saskatchewan'
+p1989
+asS'S0L'
+p1990
+(lp1991
+S'Western Saskatchewan (Kindersley)'
+p1992
+aS'Saskatchewan'
+p1993
+asS'V3E'
+p1994
+(lp1995
+S'Port Coquitlam North'
+p1996
+aS'British Columbia'
+p1997
+asS'S0N'
+p1998
+(lp1999
+S'Southwestern Saskatchewan (Maple Creek)'
+p2000
+aS'Saskatchewan'
+p2001
+asS'V3H'
+p2002
+(lp2003
+S'Port Moody'
+p2004
+aS'British Columbia'
+p2005
+asS'S0A'
+p2006
+(lp2007
+S'Yorkton Region (Melville)'
+p2008
+aS'Saskatchewan'
+p2009
+asS'V3J'
+p2010
+(lp2011
+S'Coquitlam North'
+p2012
+aS'British Columbia'
+p2013
+asS'S0C'
+p2014
+(lp2015
+S'Southeastern Saskatchewan (Carlyle)'
+p2016
+aS'Saskatchewan'
+p2017
+asS'V3L'
+p2018
+(lp2019
+S'New Westminster Northeast'
+p2020
+aS'British Columbia'
+p2021
+asS'V3N'
+p2022
+(lp2023
+S'Burnaby (East Big Bend / Stride Avenue / Edmonds / Cariboo-Armstrong)'
+p2024
+aS'British Columbia'
+p2025
+asS'S0G'
+p2026
+(lp2027
+S"South Central Saskatchewan (Fort Qu'Appelle)"
+p2028
+aS'Saskatchewan'
+p2029
+asS'K0B'
+p2030
+(lp2031
+S'Prescott and Russell United Counties (Alfred)'
+p2032
+aS'Ontario'
+p2033
+asS'K0E'
+p2034
+(lp2035
+S'South Leeds and Grenville United Counties (Prescott)'
+p2036
+aS'Ontario'
+p2037
+asS'K0H'
+p2038
+(lp2039
+S'Frontenac County, Addington County, Loyalist Shores and Southwest Leeds (Inverary)'
+p2040
+aS'Ontario'
+p2041
+asS'K0K'
+p2042
+(lp2043
+S'Quinte Shores, East Northumberland County & Prince Edward County (Picton)'
+p2044
+aS'Ontario'
+p2045
+asS'K0M'
+p2046
+(lp2047
+S'Kawartha lakes and Haliburton County (Bobcaygeon)'
+p2048
+aS'Ontario'
+p2049
+asS'L5P'
+p2050
+(lp2051
+S'Mississauga (YYZ)'
+p2052
+aS'Ontario'
+p2053
+asS'L2E'
+p2054
+(lp2055
+S'Niagara Falls Central'
+p2056
+aS'Ontario'
+p2057
+asS'L2H'
+p2058
+(lp2059
+S'Niagara Falls West'
+p2060
+aS'Ontario'
+p2061
+asS'L2M'
+p2062
+(lp2063
+S'St. Catharines Northeast'
+p2064
+aS'Ontario'
+p2065
+asS'L2P'
+p2066
+(lp2067
+S'St. Catharines East'
+p2068
+aS'Ontario'
+p2069
+asS'L2S'
+p2070
+(lp2071
+S'St. Catharines Southwest'
+p2072
+aS'Ontario'
+p2073
+asS'L2V'
+p2074
+(lp2075
+S'St. Catharines Southeast'
+p2076
+aS'Ontario'
+p2077
+asS'B1G'
+p2078
+(lp2079
+S'Dominion'
+p2080
+aS''
+asS'B1E'
+p2081
+(lp2082
+S'Reserve Mines'
+p2083
+aS'Nova Scotia'
+p2084
+asS'B1B'
+p2085
+(lp2086
+S'Port Morien'
+p2087
+aS'Nova Scotia'
+p2088
+asS'B1C'
+p2089
+(lp2090
+S'Louisbourg'
+p2091
+aS''
+asS'B1A'
+p2092
+(lp2093
+S'Glace Bay'
+p2094
+aS''
+asS'B1N'
+p2095
+(lp2096
+S'Sydney North'
+p2097
+aS'Nova Scotia'
+p2098
+asS'G7T'
+p2099
+(lp2100
+S'Jonqui\xc3\xa8re Southeast'
+p2101
+aS'Quebec'
+p2102
+asS'B1L'
+p2103
+(lp2104
+S'Sydney Southwest'
+p2105
+aS'Nova Scotia'
+p2106
+asS'B1M'
+p2107
+(lp2108
+S'Sydney East'
+p2109
+aS''
+asS'B1J'
+p2110
+(lp2111
+S'East Bay'
+p2112
+aS''
+asS'B1K'
+p2113
+(lp2114
+S'Marion Bridge'
+p2115
+aS'Nova Scotia'
+p2116
+asS'B1H'
+p2117
+(lp2118
+S'New Waterford'
+p2119
+aS'Nova Scotia'
+p2120
+asS'B1V'
+p2121
+(lp2122
+S'North Sydney North'
+p2123
+aS'Nova Scotia'
+p2124
+asS'B1T'
+p2125
+(lp2126
+S'Christmas Island'
+p2127
+aS''
+asS'E3C'
+p2128
+(lp2129
+S'Fredericton Southwest, New Maryland'
+p2130
+aS'New Brunswick'
+p2131
+asS'B1S'
+p2132
+(lp2133
+S'Sydney Central'
+p2134
+aS''
+asS'E3A'
+p2135
+(lp2136
+S'Fredericton North'
+p2137
+aS'New Brunswick'
+p2138
+asS'G6R'
+p2139
+(lp2140
+S'Victoriaville South'
+p2141
+aS'Quebec'
+p2142
+asS'E3N'
+p2143
+(lp2144
+S'Campbellton'
+p2145
+aS'New Brunswick'
+p2146
+asS'G6W'
+p2147
+(lp2148
+S'L\xc3\xa9vis South'
+p2149
+aS'Quebec'
+p2150
+asS'B1X'
+p2151
+(lp2152
+S"Big Bras d'Or"
+p2153
+aS'Nova Scotia'
+p2154
+asS'B1Y'
+p2155
+(lp2156
+S'Alder Point'
+p2157
+aS''
+asS'H4G'
+p2158
+(lp2159
+S'Verdun North'
+p2160
+aS'Quebec'
+p2161
+asS'R2M'
+p2162
+(lp2163
+S'Winnipeg (St. Vital North)'
+p2164
+aS'Manitoba'
+p2165
+asS'R2K'
+p2166
+(lp2167
+S'Winnipeg (River East Central)'
+p2168
+aS'Manitoba'
+p2169
+asS'H4B'
+p2170
+(lp2171
+S'Notre-Dame-de-Gr\xc3\x94ce Southwest'
+p2172
+aS'Quebec'
+p2173
+asS'G0L'
+p2174
+(lp2175
+S'Bas-St-Laurent- Ouest (Trois-Pistoles)'
+p2176
+aS'Quebec'
+p2177
+asS'R2H'
+p2178
+(lp2179
+S'Winnipeg (St. Boniface NW)'
+p2180
+aS'Manitoba'
+p2181
+asS'H4N'
+p2182
+(lp2183
+S'Saint-Laurent Outer Northeast'
+p2184
+aS'Quebec'
+p2185
+asS'R2E'
+p2186
+(lp2187
+S'East St. Paul'
+p2188
+aS'Manitoba'
+p2189
+asS'H4L'
+p2190
+(lp2191
+S'Saint-Laurent Inner Northeast'
+p2192
+aS'Quebec'
+p2193
+asS'H4J'
+p2194
+(lp2195
+S'Cartierville Central'
+p2196
+aS'Quebec'
+p2197
+asS'H4W'
+p2198
+(lp2199
+S'C\xc3\xb4te-Saint-Luc West'
+p2200
+aS'Quebec'
+p2201
+asS'H4T'
+p2202
+(lp2203
+S'Saint-Laurent Southeast'
+p2204
+aS'Quebec'
+p2205
+asS'E1W'
+p2206
+(lp2207
+S'Caraquet'
+p2208
+aS'New Brunswick'
+p2209
+asS'R2Y'
+p2210
+(lp2211
+S'Winnipeg (St. James-Assiniboia NW)'
+p2212
+aS'Manitoba'
+p2213
+asS'R2W'
+p2214
+(lp2215
+S'Winnipeg (Point Douglas East)'
+p2216
+aS'Manitoba'
+p2217
+asS'R2R'
+p2218
+(lp2219
+S'Winnipeg (Inkster West)'
+p2220
+aS'Manitoba'
+p2221
+asS'H4Y'
+p2222
+(lp2223
+S'Dorval Central'
+p2224
+aS'Quebec'
+p2225
+asS'E1H'
+p2226
+(lp2227
+S'Lakeville, Shediac Bridge'
+p2228
+aS'New Brunswick'
+p2229
+asS'H4R'
+p2230
+(lp2231
+S'Saint-Laurent Central'
+p2232
+aS'Quebec'
+p2233
+asS'L5E'
+p2234
+(lp2235
+S'Mississauga (Central Lakeview)'
+p2236
+aS'Ontario'
+p2237
+asS'A1V'
+p2238
+(lp2239
+S'Gander'
+p2240
+aS'Newfoundland and Labrador'
+p2241
+asS'A1S'
+p2242
+(lp2243
+S'Goulds'
+p2244
+aS''
+asS'G8A'
+p2245
+(lp2246
+S'Jonqui\xc3\xa8re West'
+p2247
+aS'Quebec'
+p2248
+asS'E1N'
+p2249
+(lp2250
+S'Miramichi South'
+p2251
+aS'New Brunswick'
+p2252
+asS'A1X'
+p2253
+(lp2254
+S'Conception Bay'
+p2255
+aS'Newfoundland and Labrador'
+p2256
+asS'A1E'
+p2257
+(lp2258
+S"St. John's Central"
+p2259
+aS''
+asS'G0T'
+p2260
+(lp2261
+S'Le Fjord (Forestville)'
+p2262
+aS'Quebec'
+p2263
+asS'A1G'
+p2264
+(lp2265
+S"St. John's South"
+p2266
+aS'Newfoundland and Labrador'
+p2267
+asS'H9C'
+p2268
+(lp2269
+S"L'\xc3\x8ele Bizard Northeast"
+p2270
+aS'Quebec'
+p2271
+asS'A1A'
+p2272
+(lp2273
+S"St. John's North"
+p2274
+aS'Newfoundland and Labrador'
+p2275
+asS'A1C'
+p2276
+(lp2277
+S"St. John's North Central"
+p2278
+aS'Newfoundland and Labrador'
+p2279
+asS'A1B'
+p2280
+(lp2281
+S"St. John's Northwest Newfoundland & Labrador Provincial Government"
+p2282
+aS''
+asS'A1M'
+p2283
+(lp2284
+S'Portugal Cove-St. Philips'
+p2285
+aS'Newfoundland and Labrador'
+p2286
+asS'L5V'
+p2287
+(lp2288
+S'Mississauga (East Credit)'
+p2289
+aS'Ontario'
+p2290
+asS'A1H'
+p2291
+(lp2292
+S"St. John's Southwest"
+p2293
+aS''
+asS'A1K'
+p2294
+(lp2295
+S'Torbay'
+p2296
+aS'Newfoundland and Labrador'
+p2297
+asS'K6V'
+p2298
+(lp2299
+S'Brockville'
+p2300
+aS'Ontario'
+p2301
+asS'L5K'
+p2302
+(lp2303
+S'Mississauga (West Sheridan)'
+p2304
+aS'Ontario'
+p2305
+asS'V8P'
+p2306
+(lp2307
+S'Saanich Southeast'
+p2308
+aS'British Columbia'
+p2309
+asS'V8S'
+p2310
+(lp2311
+S'Oak Bay South'
+p2312
+aS'British Columbia'
+p2313
+as.

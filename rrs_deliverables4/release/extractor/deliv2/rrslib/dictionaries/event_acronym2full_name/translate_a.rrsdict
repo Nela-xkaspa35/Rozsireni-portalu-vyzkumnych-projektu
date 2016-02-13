@@ -1,0 +1,826 @@
+(dp1
+S'ACIIDS'
+p2
+S'Asian Conference on Intelligent Information and Database Systems'
+p3
+sS'AGI'
+p4
+S'Artificial General Intelligence'
+p5
+sS'AUTOID'
+p6
+S'Automatic Identification Advanced Technologies'
+p7
+sS'APMS'
+p8
+S'Advances in Production Management Systems'
+p9
+sS'ASIAMS'
+p10
+S'Asia International Conference on Modelling and Simulation'
+p11
+sS'AIWORC'
+p12
+S'Academia/Industry Working Conference on Research Challenges'
+p13
+sS'Aussois'
+p14
+S'Combinatorial Optimization'
+p15
+sS'ACL2'
+p16
+S'International Workshop on the ACL2 Theorem Prover and Its Applications'
+p17
+sS'ASONAM'
+p18
+S'Advances in Social Network Analysis and Mining'
+p19
+sS'ADVIS'
+p20
+S'Advances in Information Systems'
+p21
+sS'AAAI'
+p22
+S'National Conference on Artificial Intelligence'
+p23
+sS'Algol'
+p24
+S'Algol'
+p25
+sS'ACM Workshop on Wireless Security\n'
+p26
+S'ACM Workshop on Wireless Security'
+p27
+sS'AAIM'
+p28
+S'Algorithmic Applications in Management'
+p29
+sS'AOSD'
+p30
+S'Aspect-Oriented Software Development'
+p31
+sS'AVBPA'
+p32
+S'Audio- and Video-Based Biometric Person Authentication'
+p33
+sS'AMINING'
+p34
+S'Active Mining'
+p35
+sS'ACIVS'
+p36
+S'Advanced Concepts for Intelligent Vision Systems'
+p37
+sS'ASE'
+p38
+S'IEEE/ACM International Conference on Automated Software Engineering'
+p39
+sS'AWCC'
+p40
+S'Advanced Workshop on Content Computing'
+p41
+sS'APCHI'
+p42
+S'Asia-Pacific Computer and Human Interaction'
+p43
+sS'AusWeb'
+p44
+S'link'
+p45
+sS'AICS'
+p46
+S'Artificial Intelligence and Cognitive Science'
+p47
+sS'ATAI'
+p48
+S'International Conference on Advanced Topics in Artificial Intelligence'
+p49
+sS'ACIT'
+p50
+S'Automation, Control, and Information Technology'
+p51
+sS'AICT'
+p52
+S'Advanced Industrial Conference on Telecommunications'
+p53
+sS'ACM SIGPLAN Conferences and Workshops\n'
+p54
+S'ACM SIGPLAN Conferences and Workshops'
+p55
+sS'APLAS'
+p56
+S'Asian Symposium on Programming Languages and Systems'
+p57
+sS'ADMA'
+p58
+S'Advanced Data Mining and Applications'
+p59
+sS'AICC'
+p60
+S'International Conference on the Application of Artificial Intelligence to Civil and Structural Engineering'
+p61
+sS'AGDM'
+p62
+S'Advanced Geographic Data Modelling'
+p63
+sS'AUS-AI'
+p64
+S'Australian Joint Conference on Artificial Intelligence'
+p65
+sS'AICI'
+p66
+S'Artificial Intelligence and Computational Intelligence'
+p67
+sS'APCCM'
+p68
+S'Asia-Pacific Conference on Conceptual Modelling'
+p69
+sS'AI*IA'
+p70
+S'Congress of the Italian Association for Artificial Intelligence'
+p71
+sS'ASSETS'
+p72
+S'International ACM SIGACCESS Conference on Computers and Accessibility'
+p73
+sS'AMAST'
+p74
+S'Algebraic Methodology and Software Technology'
+p75
+sS'ALPUK'
+p76
+S'UK Conference on Logic Programming'
+p77
+sS'AISADM'
+p78
+S'Autonomous Intelligent Systems: Agents and Data Mining'
+p79
+sS'ATVA'
+p80
+S'Automated Technology for Verification and Analysis'
+p81
+sS'AMCS'
+p82
+S'Algorithmic Mathematics and Computer Science'
+p83
+sS'AMCP'
+p84
+S'Advanced Multimedia Content Processing'
+p85
+sS'AHS'
+p86
+S'Adaptive Hardware and Systems'
+p87
+sS'APN'
+p88
+S'Application and Theory of Petri Nets'
+p89
+sS'AINTEC'
+p90
+S'Asian Internet Engineering Conference'
+p91
+sS'APBC'
+p92
+S'Asia-Pacific Bioinformatics Conference'
+p93
+sS'ASST'
+p94
+S'Aachener Symposium f\xc3\xbcr Signaltheorie'
+p95
+sS'ANLP'
+p96
+S'Applied Natural Language Processing Conference'
+p97
+sS'AVSS'
+p98
+S'Advanced Video and Signal Based Surveillance'
+p99
+sS'ACM Policy'
+p100
+S'ACM Policy'
+p101
+sS'APPROX'
+p102
+S'Approximation Algorithms for Combinatorial Optimization'
+p103
+sS'Artificial Intelligence in Education\n'
+p104
+S'Artificial Intelligence in Education'
+p105
+sS'A-MOST'
+p106
+S'Advances in Model-Based Software Testing'
+p107
+sS'AAMAS(ATAL)'
+p108
+S'Autonomous Agents & Multiagent Systems/Agent Theories, Architectures, and Languages'
+p109
+sS'ANZIIS'
+p110
+S'Australian New Zealand Conference on Intelligent Information Systems'
+p111
+sS'AAMAS(Agents)'
+p112
+S'Autonomous Agents & Multiagent Systems/International Conference on Autonomous Agents'
+p113
+sS'ARGMAS'
+p114
+S'Argumentation in Multi-Agent Systems'
+p115
+sS'ASWSD'
+p116
+S'Automotive Software Workshop'
+p117
+sS'AB'
+p118
+S'Algebraic Biology'
+p119
+sS'AgentLink'
+p120
+S'AgentLink'
+p121
+sS'ANNPR'
+p122
+S'Artificial Neural Networks in Pattern Recognition'
+p123
+sS'ASWEC'
+p124
+S'Australian Software Engineering Conference'
+p125
+sS'APVIS'
+p126
+S'Asia Pacific Symposium on Information Visualisation'
+p127
+sS'Afrigraph'
+p128
+S'Afrigraph'
+p129
+sS'ACOM'
+p130
+S'Agent Communication'
+p131
+sS'APSCC'
+p132
+S'Asia-Pacific Services Computing Conference'
+p133
+sS'APGV'
+p134
+S'Applied Perception in Graphics and Visualization'
+p135
+sS'ANNS'
+p136
+S'Artificial Neural Networks'
+p137
+sS'ACM/CSC-ER'
+p138
+S'ACM Annual Conference/Annual Meeting'
+p139
+sS'AUSFORENSICS'
+p140
+S'Australian Computer, Network & Information Forensics Conference'
+p141
+sS'AGP'
+p142
+S'APPIA-GULP-PRODE'
+p143
+sS'ANNA'
+p144
+S'Analysis of Neural Network Applications'
+p145
+sS'AIMDM'
+p146
+S'Conference on Artificial Intelligence in Medicine andMedical Decision Making'
+p147
+sS'AICPS'
+p148
+S'ACM International Conference Proceeding Series'
+p149
+sS'AEGEAN'
+p150
+S'Aegean Conferences'
+p151
+sS'AXMEDIS'
+p152
+S'Automated Production of Cross Media Content for Multi-channel Distribution'
+p153
+sS'ASAP'
+p154
+S'Application-Specific Systems, Architectures, and Processors'
+p155
+sS'AMTA'
+p156
+S'Conference of the Association for Machine Translation in the Americas'
+p157
+sS'AOSE'
+p158
+S'Agent-Oriented Software Engineering'
+p159
+sS'AFP'
+p160
+S'Advanced Functional Programming School'
+p161
+sS'ACPC -\n'
+p162
+S'ACPC -'
+p163
+sS'AIRWEB'
+p164
+S'Adversarial Information Retrieval on the Web'
+p165
+sS'ADCOG'
+p166
+S'Application and Development of Computer Games'
+p167
+sS'AUIC'
+p168
+S'Australasian conference on User interface'
+p169
+sS'ASMTA'
+p170
+S'Analytical and Stochastic Modeling Techniques and Applications'
+p171
+sS'AVI'
+p172
+S'Working Conference on Advanced Visual Interfaces'
+p173
+sS'AINA'
+p174
+S'Advanced Information Networking and Applications'
+p175
+sS'APSEC'
+p176
+S'Asia-Pacific Software Engineering Conference'
+p177
+sS'ALIFE'
+p178
+S'Workshop on the Synthesis and Simulation of Living Systems'
+p179
+sS'ALGOSENSORS'
+p180
+S'Algorithmic Aspects of Wireless Sensor Networks'
+p181
+sS'AmI'
+p182
+S'European Conference on Ambient Intelligence'
+p183
+sS'ACG'
+p184
+S'Advances in Computer Games'
+p185
+sS'ATC'
+p186
+S'Autonomic and Trusted Computing'
+p187
+sS'ACE'
+p188
+S'Australasian Computing Education Conference'
+p189
+sS'ACAL'
+p190
+S'Australian Conference on Artificial Life'
+p191
+sS'ACL'
+p192
+S'Meeting of the Association for Computational Linguistics'
+p193
+sS'ACMACE'
+p194
+S'Advances in Computer Entertainment Technology'
+p195
+sS'ACMMSP'
+p196
+S'Memory System Performance'
+p197
+sS'AFPAC'
+p198
+S'Algebraic Frames for the Perception-Action Cycle'
+p199
+sS'ATS'
+p200
+S'Asian Test Symposium'
+p201
+sS'ACII'
+p202
+S'Affective Computing and Intelligent Interaction'
+p203
+sS'Artifical Intelligence for Human Computing\n'
+p204
+S'Artifical Intelligence for Human Computing'
+p205
+sS'AKA'
+p206
+S'Architekturen, Komponenten, Anwendungen'
+p207
+sS'ACID'
+p208
+S'Algorithms and Complexity in Durham'
+p209
+sS'AADEBUG'
+p210
+S'Automated and Algorithmic Debugging'
+p211
+sS'AWOC'
+p212
+S'Aegean Workshop on Computing'
+p213
+sS'ARVLSI'
+p214
+S'Advanced Research in VLSI'
+p215
+sS'AIIDE'
+p216
+S'Artificial Intelligence and Interactive Digital Entertainment Conference'
+p217
+sS'ATM Networks'
+p218
+S'Modelling and Evaluation of ATM Networks'
+p219
+sS'ALPIT'
+p220
+S'Advanced Language Processing and Web Information Technology'
+p221
+sS'AIMS'
+p222
+S'Autonomous Infrastructure, Management and Security'
+p223
+sS'AIFIPP'
+p224
+S'Artificial Intelligence from the Information Processing Perspective'
+p225
+sS'AIML'
+p226
+S'Advances in Modal Logic'
+p227
+sS'ARES'
+p228
+S'International Conference on Availability, Reliability and Security'
+p229
+sS'AAMAS'
+p230
+S'International Conference on Autonomous Agents and Multiagent Systems'
+p231
+sS'ABIS'
+p232
+S'Adaptivit\xc3\xa4t und Benutzermodellierung in interaktiven Softwaresystemen'
+p233
+sS'AI@50'
+p234
+S'Dartmouth Artificial Intelligence Conference: The Next Fifty Years'
+p235
+sS'AGTIVE'
+p236
+S'Applications of Graph Transformations with Industrial Relevance'
+p237
+sS'AMEC'
+p238
+S'Agent-Mediated Electronic Commerce'
+p239
+sS'ASM'
+p240
+S'Workshops on Abstract State Machines'
+p241
+sS'ASIAN'
+p242
+S'Asian Computing Science Conference'
+p243
+sS'ADIS'
+p244
+S'Apoyo a la Decisi\xc3\xb3n en Ingenier\xc3\xada del Software / Decision Support in Software Engineering'
+p245
+sS'ADS'
+p246
+S'Affective Dialogue Systems'
+p247
+sS'AMFG'
+p248
+S'Analysis and Modeling of Faces and Gestures'
+p249
+sS'ADPC'
+p250
+S'International Conference on Advances in Distributed and Parallel Computing'
+p251
+sS'ARTCom'
+p252
+S'Advances in Recent Technologies in Communication and Computing'
+p253
+sS'ACISP'
+p254
+S'Australasian Conference on Information Security and Privacy'
+p255
+sS'AFIPS'
+p256
+S'AFIPS Spring Conference'
+p257
+sS'ADG'
+p258
+S'Automated Deduction in Geometry'
+p259
+sS'ADB'
+p260
+S'Applications of Databases'
+p261
+sS'ACHI'
+p262
+S'International Conference on Advances in Computer-Human Interaction'
+p263
+sS'ASCILITE'
+p264
+S'Australian Society for Computers in Tertiary Education'
+p265
+sS'ADL'
+p266
+S'Advances in Digital Libraries'
+p267
+sS'ASIASIM'
+p268
+S'Asian Simulation Conference'
+p269
+sS'AUSDM'
+p270
+S'Australasian Conference on Knowledge Discovery and Data Mining'
+p271
+sS'ACSAC'
+p272
+S'Asia-Pacific Computer Systems Architecture Conference'
+p273
+sS'AUSTCSAC'
+p274
+S'Australasian Computer Systems Architecture Conference'
+p275
+sS'ACST'
+p276
+S'Advances in Computer Science and Technology'
+p277
+sS'ASWC'
+p278
+S'Asian Semantic Web Conference'
+p279
+sS'ALART'
+p280
+S'Automatic Learning and Real-Time'
+p281
+sS'ASPLOS'
+p282
+S'International Conference on Architectural Support for Programming Languages and Operating Systems'
+p283
+sS'Autonomics'
+p284
+S'Autonomic Computing and Communication Systems'
+p285
+sS'ARTDB'
+p286
+S'Active and Real-Time Database Systems'
+p287
+sS'ALT'
+p288
+S'Algorithmic Learning Theory'
+p289
+sS'Actes dIC'
+p290
+S'Journ\xc3\xa9es Francophones dIng\xc3\xa9nierie des Connaissances'
+p291
+sS'ALP'
+p292
+S'Algebraic and Logic Programming'
+p293
+sS'AMCIS'
+p294
+S'Americas Conference on Information Systems'
+p295
+sS'ARCS'
+p296
+S'Automation, Robotics and Control Systems'
+p297
+sS'AACC'
+p298
+S'Asian Applied Computing Conference'
+p299
+sS'AGILE'
+p300
+S'Conference of the Association of Geographic Information Laboratories for Europe'
+p301
+sS'ACCG'
+p302
+S'spring conference on computer graphics'
+p303
+sS'ANSS'
+p304
+S'Annual Simulation Symposium'
+p305
+sS'ANTSW'
+p306
+S'Ant Colony Optimization and Swarm Intelligence'
+p307
+sS'AIS'
+p308
+S'Artificial Intelligence and Simulation'
+p309
+sS'AIM'
+p310
+S'Conference of the Association Information and Management'
+p311
+sS'ATMOS'
+p312
+S'Workshop on Algorithmic Approaches for Transportation Modeling, Optimization, and Systems'
+p313
+sS'AII'
+p314
+S'Analogical and Inductive Inference'
+p315
+sS'ADBT'
+p316
+S'Advances in Data Base Theory'
+p317
+sS'ACCV'
+p318
+S'Asian Conference on Computer Vision'
+p319
+sS'AIA'
+p320
+S'Artificial Intelligence and Applications'
+p321
+sS'AMET'
+p322
+S'Agent Mediated Electronic Trading'
+p323
+sS'AISC'
+p324
+S'Artificial Intelligence and Symbolic Computation'
+p325
+sS'AI&M'
+p326
+S'Artificial Intelligence and Mathematics'
+p327
+sS'AMR'
+p328
+S'Adaptive Multimedia Retrieval'
+p329
+sS'ACM GIS'
+p330
+S'ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems'
+p331
+sS'ACSW'
+p332
+S'ACSW Frontiers'
+p333
+sS'AISM'
+p334
+S'Australian Information Security Management Conference'
+p335
+sS'ARC'
+p336
+S'Applied Reconfigurable Computing'
+p337
+sS'ACSE'
+p338
+S'Australasian Conference on Computer Science Education'
+p339
+sS'ACSD'
+p340
+S'Int. Conf. on Application of Concurrency to System Design'
+p341
+sS'AIMSA'
+p342
+S'Artificial Intelligence: Methodology, Systems, Applications'
+p343
+sS'ASP-DAC'
+p344
+S'Asia and South Pacific Design Automation Conference'
+p345
+sS'APAQS'
+p346
+S'Asia-Pacific Conference on Quality Software'
+p347
+sS'ACSC'
+p348
+S'Australasian Computer Science Conference'
+p349
+sS'ALGO'
+p350
+S'ALGO Conference'
+p351
+sS'AMDO'
+p352
+S'Articulated Motion and Deformable Objects'
+p353
+sS'AC'
+p354
+S'Advanced Courses'
+p355
+sS'AFSS'
+p356
+S'AFSS'
+p357
+sS'AE'
+p358
+S'Artificial Evolution'
+p359
+sS'APCCAS'
+p360
+S'Asia Pacific Conference on Circuits and Systems'
+p361
+sS'AI'
+p362
+S'Applied Informatics'
+p363
+sS'AH'
+p364
+S'Adaptive Hypermedia and Adaptive Web-Based Systems'
+p365
+sS'ASIACRYPT'
+p366
+S'International Conference on the Theory and Application of Cryptology and Information Security'
+p367
+sS'APNOMS'
+p368
+S'Asia-Pacific Network Operations and Management Symposium'
+p369
+sS'ANTS'
+p370
+S'Algorithmic Number Theory Symposium'
+p371
+sS'ACISICIS'
+p372
+S'ACIS International Conference on Computer and Information Science'
+p373
+sS'AIED'
+p374
+S'International Conference on Artificial Intelligence in Education'
+p375
+sS'ADCS'
+p376
+S'ADCS'
+p377
+sS'AAECC'
+p378
+S'Applied Algebra, Algebraig Algorithms and Error-Correcting Codes'
+p379
+sS'AAA-IDEA'
+p380
+S'Advanced Architectures and Algorithms for Internet Delivery and Applications'
+p381
+sS'ABZ'
+p382
+S'International Conference on Abstract State Machines, Alloy, B and Z'
+p383
+sS'ACMICEC'
+p384
+S'International Conference on Electronic Commerce'
+p385
+sS'Ada-Europe'
+p386
+S'Ada-Europe'
+p387
+sS'AIME'
+p388
+S'AI in Medicine in Europe'
+p389
+sS'ANCS'
+p390
+S'Architecture for Networking and Communications Systems'
+p391
+sS'AGILEDC'
+p392
+S'Agile Development Conference'
+p393
+sS'ALENEX'
+p394
+S'Workshop on Algorithm Engineering and Experiments'
+p395
+sS'ANNES'
+p396
+S'Artificial Neural Networks and Expert Systems'
+p397
+sS'APL'
+p398
+S'ACM Conference on Array-Programming Languages'
+p399
+sS'AMIRE'
+p400
+S'Autonomous Minirobots for Research and Edutainment'
+p401
+sS'ADBIS'
+p402
+S'Advances in Databases and Information Systems'
+p403
+sS'AIRS'
+p404
+S'Asia Information Retrieval Symposium'
+p405
+sS'AFRICACRYPT'
+p406
+S'Progress in Cryptology'
+p407
+sS'ACRI'
+p408
+S'International Conference on Cellular Automata for Research and Industry'
+p409
+sS'APWeb'
+p410
+S'Asia-Pacific Web Conference'
+p411
+sS'ADC'
+p412
+S'Australasian Database Conference'
+p413
+s.

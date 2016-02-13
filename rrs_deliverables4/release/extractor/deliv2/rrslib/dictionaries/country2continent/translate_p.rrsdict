@@ -1,0 +1,62 @@
+(dp1
+S'Pakistan'
+p2
+(lp3
+S'Asia'
+p4
+asS'Palau'
+p5
+(lp6
+S'Oceania'
+p7
+asS'Portugal'
+p8
+(lp9
+S'Europe'
+p10
+asS'Panama'
+p11
+(lp12
+S'North America'
+p13
+asS'Palestinian Territory'
+p14
+(lp15
+S'Asia'
+p16
+asS'Papua New Guinea'
+p17
+(lp18
+S'Oceania'
+p19
+asS'Pitcairn Islands'
+p20
+(lp21
+S'Oceania'
+p22
+asS'Peru'
+p23
+(lp24
+S'South America'
+p25
+asS'Puerto Rico'
+p26
+(lp27
+S'North America'
+p28
+asS'Paraguay'
+p29
+(lp30
+S'South America'
+p31
+asS'Poland'
+p32
+(lp33
+S'Europe'
+p34
+asS'Philippines'
+p35
+(lp36
+S'Asia'
+p37
+as.

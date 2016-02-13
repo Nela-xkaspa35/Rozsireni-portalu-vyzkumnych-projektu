@@ -1,0 +1,562 @@
+(dp1
+S'WG'
+p2
+S'Workshop on Graph-Theoretic Concepts in Computer Science'
+p3
+sS'WITS'
+p4
+S'Workshop on Issues in the Theory of Security'
+p5
+sS'WAFR'
+p6
+S'Workshop on Algorithmic Foundations of Robotics'
+p7
+sS'WM'
+p8
+S'Wissensmanagement'
+p9
+sS'WI'
+p10
+S'Web Intelligence'
+p11
+sS'WS'
+p12
+S'Wireless Security'
+p13
+sS'WEBMEDIA'
+p14
+S'Brazilian Symposium on Multimedia and the Web'
+p15
+sS'WCII'
+p16
+S'Conditionals, Information, and Inference'
+p17
+sS'WONS'
+p18
+S'Wireless on Demand Network Systems and Service'
+p19
+sS'WITASI'
+p20
+S'Workshop on Internet Technologies, Applications, and Social Impact'
+p21
+sS'WOLLIC'
+p22
+S'Workshop on Logic, Language, Information and Computation'
+p23
+sS'WLP'
+p24
+S'Workshop Logische Programmierung'
+p25
+sS'WICSA'
+p26
+S'Working IEEE/IFIP Conference on Software Architecture'
+p27
+sS'WSTFEUS'
+p28
+S'Workshop on Software Technologies for Embedded and Ubiquitous Computing Systems'
+p29
+sS'WEC'
+p30
+S'Enformatika Conferences'
+p31
+sS'WEA'
+p32
+S'Workshop on Experimental and Efficient Algorithms'
+p33
+sS'WMC/WMP'
+p34
+S'Workshop on Membrane Computing/Workshop on Multiset Processing'
+p35
+sS'WES'
+p36
+S'Web Services, E-Business, and the Semantic Web'
+p37
+sS'WER'
+p38
+S'Workshop em Engenharia de Requisitos'
+p39
+sS'WRS'
+p40
+S'Workshop on Reduction Strategies'
+p41
+sS'WAIFI'
+p42
+S'Arithmetic of Finite Fields'
+p43
+sS'WMC'
+p44
+S'International Workshop on Mobile Commerce'
+p45
+sS'WWCA'
+p46
+S'Worldwide Computing and Its Applications'
+p47
+sS'WSDM'
+p48
+S'Web Search and Data Mining'
+p49
+sS'WISA'
+p50
+S'Workshop on Information Security Applications'
+p51
+sS'WIOPT'
+p52
+S'Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks'
+p53
+sS'WISE'
+p54
+S'Web Information Systems Engineering'
+p55
+sS'WIA'
+p56
+S'Workshop on Implementation of Automata'
+p57
+sS'WISI'
+p58
+S'Intelligence and Security Informatics'
+p59
+sS'WIDM'
+p60
+S'Web Information and Data Management'
+p61
+sS'WMSCI'
+p62
+S'World Multiconference on Systemics, Cybernetics and Informatics'
+p63
+sS'WISM'
+p64
+S'Web Information Systems and Mining'
+p65
+sS'WCAE'
+p66
+S'Workshop On Computer Architecture Education'
+p67
+sS'WPES'
+p68
+S'Workshop On Privacy In The Electronic Society'
+p69
+sS'WILF'
+p70
+S'Int. Workshop on Fuzzy Logic and Applications'
+p71
+sS'WSCG'
+p72
+S'International Conference in Central Europe on Computer Graphics and Visualization'
+p73
+sS'WebDB'
+p74
+S'International Workshop on the Web and Databases'
+p75
+sS'WLAN'
+p76
+S'IEEE Workshops on Wireless LAN'
+p77
+sS'WOWMOM'
+p78
+S'Workshop on Wireless Mobile Multimedia'
+p79
+sS'WSKS'
+p80
+S'World Summit on the Knowledge Society'
+p81
+sS'WoMM'
+p82
+S'Workshop on Meta-Modelling'
+p83
+sS'WUAUC'
+p84
+S'Workshop on Universal Accessibility of Ubiquitous Computing'
+p85
+sS'WMPI'
+p86
+S'Workshop on Memory Performance Issues'
+p87
+sS'WIAMIS'
+p88
+S'Workshop on Image Analysis for Multimedia Interactive Services'
+p89
+sS'WFLP'
+p90
+S'Workshop on Functional and Constraint Logic Programming'
+p91
+sS'WCFLP'
+p92
+S'Workshop on Curry and Functional Logic Programming'
+p93
+sS'WISTP'
+p94
+S'Workshop in Information Security Theory and Practice'
+p95
+sS'WoWMoM'
+p96
+S'IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks'
+p97
+sS'WiMob'
+p98
+S'Wireless and Moble Computing'
+p99
+sS'WebMine'
+p100
+S'Workshop on Web Mining'
+p101
+sS'WNSP'
+p102
+S'Workshop on Nonlinear Speech Processing'
+p103
+sS'WDAG'
+p104
+S'Workshop on Distributed Algorithms on Graphs'
+p105
+sS'WIESS'
+p106
+S'Workshop on Industrial Experiences with Systems Software'
+p107
+sS'WMAN'
+p108
+S'Workshop \xc3\xbcber Mobile Ad-Hoc Netzwerke'
+p109
+sS'WOW'
+p110
+S'Workshop Ontologie-basiertes Wissensmanagement'
+p111
+sS'WAOA'
+p112
+S'Workshop on Approximation and Online Algorithms'
+p113
+sS'WINSYS'
+p114
+S'Wireless Information Networks and Systems'
+p115
+sS'WDAS'
+p116
+S'Workshop on Distributed Data and Structures'
+p117
+sS'WCNC'
+p118
+S'IEEE Wireless Communications & Networking Conference'
+p119
+sS'WALCOM'
+p120
+S'Workshop on Algorithms and Computation'
+p121
+sS'W2GIS'
+p122
+S'Web and Wireless Geographical Information Systems'
+p123
+sS'WOA'
+p124
+S'Workshop From Objects to Agents'
+p125
+sS'WOC'
+p126
+S'IASTED International Multi-Conference on Wireless and Optical Communications'
+p127
+sS'WADT(ADT)'
+p128
+S'Specification of Abstract Data Type Workshops/Workshop on Algebraic Development Techniques'
+p129
+sS'WWW'
+p130
+S'World Wide Web Conference'
+p131
+sS'WWV'
+p132
+S'Automated Specification and Verification of Web Sites'
+p133
+sS'WAGA'
+p134
+S'Attribute Grammars and their Applications'
+p135
+sS'WOMPAT'
+p136
+S'Workshop on OpenMP Applications and Tools'
+p137
+sS'WEDELMUSIC'
+p138
+S'Web Delivering of Music'
+p139
+sS'WWIC'
+p140
+S'Wired/Wireless Internet Communications'
+p141
+sS'WINE'
+p142
+S'Workshop on Internet and Network Economics'
+p143
+sS'WCRE'
+p144
+S'Working Conference on Reverse Engineering'
+p145
+sS'WMASH'
+p146
+S'Wireless Mobile Applications And Services On Wlan Hotspots'
+p147
+sS'WImBI'
+p148
+S'Web Intelligence Meets Brain Informatics'
+p149
+sS'WKDD'
+p150
+S'Workshop on Knowledge Discovery and Data Mining'
+p151
+sS'WCEM'
+p152
+S'Workshop on Component Engineering Methodology'
+p153
+sS'WSC'
+p154
+S'World Conference on Soft Computing in Industrial Applications'
+p155
+sS'WETICE'
+p156
+S'Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises'
+p157
+sS'WSFM'
+p158
+S'Web Services and Formal Methods'
+p159
+sS'Web3D'
+p160
+S'3D technologies for the World Wide Web'
+p161
+sS'WELCOM'
+p162
+S'Workshop on Electronic Commerce'
+p163
+sS'WikiSym'
+p164
+S'International Symposium on Wikis and Open Collaboration'
+p165
+sS'WABI'
+p166
+S'Workshop on Algorithms in Bioinformatics'
+p167
+sS'WOPPLOT'
+p168
+S'Workshop on Parallel Processing: Logic, Organization, and Technology'
+p169
+sS'WORM'
+p170
+S'workshop on rapid malcode'
+p171
+sS'WORDS'
+p172
+S'Workshop on Object-Oriented Real-Time Dependable Systems'
+p173
+sS'WOB'
+p174
+S'Brazilian Workshop on Bioinformatics'
+p175
+sS'WMCSA'
+p176
+S'Workshop on Mobile Computing Systems and Applications'
+p177
+sS'WAIM'
+p178
+S'Web-Age Information Management'
+p179
+sS'WAF'
+p180
+S'Workshop de Agentes F\xc3\xadsicos'
+p181
+sS'WAE'
+p182
+S'Workshop on Algorithms Engineering'
+p183
+sS'WAC'
+p184
+S'Workshop on Autonomic Communication'
+p185
+sS'WAA'
+p186
+S'Wavelt Analysis and Its Applications'
+p187
+sS'WAW'
+p188
+S'Workshop on Algorithms and Models for the Web-Graph'
+p189
+sS'WADAS'
+p190
+S'Washington Ada Symposium'
+p191
+sS'WISEC'
+p192
+S'Wireless Network Security'
+p193
+sS'WSEAS'
+p194
+S'WSEAS Conferences'
+p195
+sS'WIW'
+p196
+S'WSMO Implementation Workshop'
+p197
+sS'WISES'
+p198
+S'Workshop on Intelligent Solutions in Embedded Systems'
+p199
+sS'WISER'
+p200
+S'Workshop on Interdisciplinary Software Engineering Research'
+p201
+sS'WSPI'
+p202
+S'Workshop on Philosophy and Informatics'
+p203
+sS'WIMAW'
+p204
+S'Management der Anwendungsentwicklung und -wartung'
+p205
+sS'WBIR'
+p206
+S'Workshop on Biomedical Image Registration'
+p207
+sS'WSE'
+p208
+S'Website Evolution'
+p209
+sS'WebNet'
+p210
+S'World Conference on the WWW and Internet'
+p211
+sS'WADT'
+p212
+S'Workshop on Algebraic Development Techniques'
+p213
+sS'WRAC'
+p214
+S'Workshop on Radical Agent Concepts'
+p215
+sS'WiOpt'
+p216
+S'International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks'
+p217
+sS'WADS'
+p218
+S'Workshop on Algorithms and Data Structures'
+p219
+sS'WSS'
+p220
+S'Workshop on Self-Stabilizing Systems'
+p221
+sS'WBE'
+p222
+S'Web-based Education'
+p223
+sS'WAPCV'
+p224
+S'Workshop on Attention and Performance in Computational Vision'
+p225
+sS'WASA'
+p226
+S'Wireless Algorithms, Systems, and Applications'
+p227
+sS'WIKIS'
+p228
+S'International Symposium on Wikis'
+p229
+sS'WEWORC'
+p230
+S'Western European Workshop on Research in Cryptology'
+p231
+sS'WOODPECKER'
+p232
+S'Workshop on Open Distribute Processing: Enterprise, Computation, Knowledge, Engineering and Realisation'
+p233
+sS'WMTE'
+p234
+S'Wireless and Mobile Technologies in Education'
+p235
+sS'WIRN'
+p236
+S'Italian Workshop on Neural Neural Nets'
+p237
+sS'WIRI'
+p238
+S'Web Information Retrieval and Integration'
+p239
+sS'WPDD'
+p240
+S'Workshop on Parallel and Distributed Debugging'
+p241
+sS'WIFT'
+p242
+S'Workshop on Industrial-Strength Formal Specification Techniques'
+p243
+sS'WCW'
+p244
+S'Web Content Caching and Distribution'
+p245
+sS'WSMAI'
+p246
+S'Web Services: Modeling, Architecture and Infrastructure'
+p247
+sS'WoLLIC'
+p248
+S'Workshop on Logic, Language, Information and Computation'
+p249
+sS'W4A'
+p250
+S'Workshop on Web Accessibility'
+p251
+sS'WCC'
+p252
+S'International Workshop on Coding and Cryptography'
+p253
+sS'WIIW'
+p254
+S'Workshop on Information Integration on the Web'
+p255
+sS'WCLP'
+p256
+S'Workshop on Constraint Logic Programming'
+p257
+sS'WSNA'
+p258
+S'international workshop on wireless sensor networks and applications'
+p259
+sS'WICON'
+p260
+S'International Wireless Internet Conference'
+p261
+sS'WEBIST'
+p262
+S'Web Information Systems and Technologies'
+p263
+sS'WACC'
+p264
+S'Work Activities Coordination and Collaboration'
+p265
+sS'WACG'
+p266
+S'Workshop on Applied Computational Geometry'
+p267
+sS'WOSS'
+p268
+S'Workshop on Self-Healing Systems'
+p269
+sS'WCCE'
+p270
+S'World Conference on Computers in Education'
+p271
+sS'WOSP'
+p272
+S'Workshop on Software and Performance'
+p273
+sS'WOCFAI'
+p274
+S'World Conference on the Fundamentals of Artificial Intelligence'
+p275
+sS'WALTD'
+p276
+S'Workshop on Advanced Learning Technologies for Disabled and Non-Disabled People'
+p277
+sS'WCCI'
+p278
+S'World Congress on Computational Intelligence'
+p279
+sS'WACV'
+p280
+S'Workshop on Applications of Computer Vision'
+p281
+s.

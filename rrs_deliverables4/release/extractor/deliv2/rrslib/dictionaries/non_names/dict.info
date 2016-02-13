@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="non_names"/>
+    <type value="list"/>
+    <keysize value="5087"/>
+    <valuesize value="0"/>
+    <min-key-length value="2"/>
+    <simplekeys value="False"/>
+</rrsdictionary>

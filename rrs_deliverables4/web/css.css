@@ -1,0 +1,105 @@
+@font-face {font-family: Didot; src: url("Didot.ttc"); }
+
+html, body {
+
+    height: 100%;
+    width: 100%;
+    margin: 0 0 0 0;
+}
+
+#main-menu {
+    margin-top: -20px;
+    background-color: black;
+    position: fixed;
+    padding-left: 15%;
+    width: 100%;
+    
+}
+
+.main-menu-item {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    padding-right: 100px;
+    font-family: Didot;
+    font-size: 30px;
+}
+
+
+
+#keywords {
+    margin-top: 40px;
+    position: fixed;
+    background-color: #999999;
+    padding-left: 15%;
+    height: 40px;
+    width: 100%;
+}
+
+.keyword-item {
+    margin-top: -8px;
+    list-style-type: none;
+    float: left;
+    padding: 0 12px;
+}
+
+
+.tag {
+    position: relative;
+    color: white;
+    font-family: "Didot";
+    height: 26px;
+    font-size: 25px;
+    background-color: #333333;
+    padding-right: 20px;
+}
+
+aside {
+    margin-top: 80px;
+    position: relative;
+    background: #666666;
+    height: 100%;
+    width: 15%;
+    float: left;
+    color: white;
+    padding-top: 20px;
+    
+    
+}
+
+#facet-list {
+    margin-top: -10px;
+}
+
+.facet-list-item {
+    list-style-type: none;
+    padding: 1px 6px;
+    font-family: "Didot";
+    font-size: 15px;
+}
+
+h2 {
+    font-family: "Didot";
+    font-size: 30;
+    padding-left: 30px;    
+}
+
+h3 {
+    font-family: "Didot";
+    font-size: 25;
+    padding-left: 30px;
+}
+
+p {
+    padding-left: 30px;
+}
+
+
+section {
+    margin-top: 80px;
+    position: relative;
+    background: white;
+    height: 100%;
+    width: 70%;
+    float: left;
+}

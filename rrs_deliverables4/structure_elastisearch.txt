@@ -1,0 +1,55 @@
+---------------------------------------------------
+-------        STRUKTURA ELASTICSEARCH     --------
+---------------------------------------------------
+-------        Autor: Lucie Dvorakova      --------
+-------           Login: xdvora1f          -------- 
+- Django pro generator vedeckych webovych portalu -
+---------------------------------------------------
+
+- Priklad indexu jednotlivych projektu -
+(polozka deliverablesIndex obsahuje pole id jednotlivych deliverables)
+
+{
+      "_index" : "projects",
+      "_type" : "data",
+      "_id" : "90542",
+      "_score" : 1.0,
+      "_source":{
+		 "totalCost": "3532263", 
+		 "startDate": "2009-02-01", 
+		 "fundedUnder": "FP7-ENVIRONMENT", 
+		 "endDate": "2013-11-30", 
+		 "title": "The development, validation and implementation of human systemic Toxic Equivalencies (TEQs) as biomarkers for dioxin-like compounds", 
+		 "url": "http://cordis.europa.eu/project/rcn/90542_en.html", 
+		 "callForPropos": "FP7-ENV-2008-1", 
+		 "coordAdd": "Nobels", 
+		 "coordName": "Monique VAN DER HOEK, (Financial Officer)", 
+		 "coordFax": "+31-302533566", 
+		 "coord": "UNIVERSITEIT UTRECHT", 
+		 "coordIn": "Netherlands", 
+		 "participants": ["UMEA UNIVERSITET", "KAROLINSKA INSTITUTET", "TECHNISCHE UNIVERSITAET KAISERSLAUTERN", "VYZKUMNY USTAV VETERINARNIHO LEKARSTVI", "SLOVENSKA ZDRAVOTNICKA UNIVERZITA V BRATISLAVE"], 
+		 "projRef": "226694", 
+		 "fundingScheme": "CP-FP - Small or medium-scale focused research project", 
+		 "objective": "Chlorinated dioxins and biphenyls (PCBs) commonly occur in the human food chain and can still be detected at levels that might cause long term health effects. Exposure to dioxin-like compounds involves a complex mixture with a common mechanism of action involving endocrine, developmental, carcinogenic, immuno and neurological effects. Risk assessment is done with an additive model for mixture toxicity. Based on this the Toxic Equivalency (TEQ) concept was developed as a biomarker for exposure and risk. TEQs are the sum of congener-specific toxic equivalency factors (TEFs) multiplied by the concentration in a matrix, e.g. blood. TEF values are a composite quantitative value from a range of biomarkers that are congener and endpoint specific. Present human TEQs have been derived from oral administration experiments providing intake TEFs. Regulatory authorities frequently use intake TEQs for blood and tissues considering it a biomarker for exposure or effect. Experimental evidence shows that using uptake TEQs as systemic biomarkers may lead to misinterpretation of risks. Therefore, development and validation of systemic TEFs and TEQs as biomarkers is necessary. Major objectives of SYSTEQ are: i) establish systemic TEFs and TEQs, ii) identify novel quantifiable biomarkers with newest molecular methods, e.g. genetic fingerprinting profiles, iii) extra focus on effects in peripheral lymphocytes as biomarkers, iv) identify differences between humans and experimental species. The systemic TEFs and TEQs from SYSTEQ will be used in conjunction with results of the completed EU PCBRISK project, in which two populations from Slovakia with very different exposure were studied. Individual blood levels and different biomarkers are already available. Results of SYSTEQ are also going to be used to establish international consensus values of systemic TEFs at WHO level, facilitating the global use of systemic TEQs as biomarkers of effect and exposure.", 
+		 "subProg": "ENV.2008.1.2.1.4. - New, improved and validated biomarkers to investigate long-term health impacts of exposure to environmental pollutants", 
+		 "subjects": ["Environmental Protection"], 
+		 "euCon": "2703596", 
+		 "coordTel": "+31-302533566", 
+		 "lastUpdate": "2013-07-25",
+		 "deliverablesIndex": [16310712, 2389478, 3478394, 3209778],
+		 }
+}
+
+- Priklad indexu jednotlivych deliverables -
+
+      "_index" : "deliverables",
+      "_type" : "data",
+      "_id" : "16310712",
+      "_score" : 1.0,
+      "_source":{
+		 "title": "Backscatter propagation modelling,Interim report",
+		 "url": "http://cordis.europa.eu/docs/projects/cnect/4/257544/080/deliverables/001-D211BackscatterpropagationmodellingInterimreport141.pdf", 
+		 "article": "Project \nWork Package \nDocument \n\nSELECT - Smart Efficient Location, idEntification and Cooperation Techniques  Project- No \n\nIdentification, location and modelling \n\nDeliverable D2.1.1 \n\nWP  \u2013 No \nSaveDate \n\n257544 \n\nWP2 \n\n26/08/2011 \n\n \n\n \n\n \n\nTHEME ICT \n\nICT 2009.3.9 Microsystems and Smart Miniaturised Systems \n\nCollaborative project / Small or medium-scale focused research projects \n\nProgrammeTitle..." > Cele pdf
+		}
+}
+

@@ -1,0 +1,402 @@
+(dp1
+S'PAP'
+p2
+S'International Conference and Exhibition on Practical Applications of Prolog'
+p3
+sS'PARA'
+p4
+S'Workshop on Applied Parallel Computing'
+p5
+sS'PRIB'
+p6
+S'Pattern Recognition in Bioinformatics'
+p7
+sS'POPL'
+p8
+S'Symposium on Principles of Programming Languages'
+p9
+sS'PROCOMET'
+p10
+S'Programming Concepts, Methods and Calculi'
+p11
+sS'PLDI'
+p12
+S'SIGPLAN Conference on Programming Language Design and Implementation'
+p13
+sS'PerCom'
+p14
+S'IEEE International Conference on Pervasive Computing and Communications'
+p15
+sS'PSIVT'
+p16
+S'Pacific-Rim Symposium on Image and Video Technology'
+p17
+sS'PROMS'
+p18
+S'Protocols for Multimedia Systems'
+p19
+sS'PRS'
+p20
+S'Parallel Rendering Symposium'
+p21
+sS'Policies for Distributed Systems and Networks\n'
+p22
+S'Policies for Distributed Systems and Networks'
+p23
+sS'PIT'
+p24
+S'Perception and Interactive Technologies'
+p25
+sS'PKAW'
+p26
+S'Pacific Rim Knowledge Acquisition Workshop'
+p27
+sS'PRIMA'
+p28
+S'Pacific Rim International Workshop on Multi-Agents'
+p29
+sS'PARCO'
+p30
+S'Parallel Computing'
+p31
+sS'PADL'
+p32
+S'Practical Aspects of Declarative Languages'
+p33
+sS'PADO'
+p34
+S'Symposium on Programs as Data Objects'
+p35
+sS'PACCS'
+p36
+S'Pacific-Asia Conference on Circuits, Communications and Systems'
+p37
+sS'PADS'
+p38
+S'Workshop on Parallel and Distributed Simulation'
+p39
+sS'PDPTA'
+p40
+S'Parallel and Distributed Processing Techniques and Applications'
+p41
+sS'Parallel, Distributed and Network-Based Processing\n'
+p42
+S'Parallel, Distributed and Network-Based Processing'
+p43
+sS'POSTA'
+p44
+S'International Symposium on Positive Systems'
+p45
+sS'PACT'
+p46
+S'International Conference on Parallel Architectures and Compilation Techniques'
+p47
+sS'PILP'
+p48
+S'Workshop on Parallelism and Implementation Technology for (Constraint) Logic Programming Languages'
+p49
+sS'PSTV'
+p50
+S'Protocol Specification, Testing and Verification'
+p51
+sS'PACS'
+p52
+S'Power-Aware Computer Systems'
+p53
+sS'POS'
+p54
+S'Workshop on Persistent Object Systems'
+p55
+sS'PRO-VE'
+p56
+S'IFIP / SOCOLNET Working Conference on Virtual Enterprises'
+p57
+sS'PLoP'
+p58
+S'Pattern Languages of Programs'
+p59
+sS'PuK'
+p60
+S'Workshop Planen und Konfigurieren'
+p61
+sS'P2P'
+p62
+S'Peer-to-Peer Computing'
+p63
+sS'Performance'
+p64
+S'International Symposium on Computer Modeling, Measurement and Evaluation'
+p65
+sS'PEPM'
+p66
+S'Partial Evaluation and Semantic-Based Program Manipulation'
+p67
+sS'PIMRC'
+p68
+S'International Symposium on Personal, Indoor and Mobile Radio Communications'
+p69
+sS'PAM'
+p70
+S'Passive and Active Measurement Conference'
+p71
+sS'PKC'
+p72
+S'Public Key Cryptography'
+p73
+sS'PCRCW'
+p74
+S'Parallel Computer Routing and Communication'
+p75
+sS'PRICAI'
+p76
+S'Pacific Rim International Conference on Artificial Intelligence'
+p77
+sS'PLILP'
+p78
+S'Symposium on Programming Language Implementation and Logic Programming'
+p79
+sS'Parcella'
+p80
+S'Parallel Processing by Cellular Automata and Arrays'
+p81
+sS'PSB'
+p82
+S'Pacific Symposium on Biocomputing'
+p83
+sS'PfHSN'
+p84
+S'Protocols for High-Speed Networks'
+p85
+sS'PSD'
+p86
+S'Privacy in Statistical Databases'
+p87
+sS'PLI'
+p88
+S'Principles, Logics, and Implementations of High-Level Programming Languages'
+p89
+sS'PragWeb'
+p90
+S'Pragmatic Web'
+p91
+sS'PE-WASUN'
+p92
+S'Performance Evaluation of Wireless Ad Hoc, Sensor, and Ubiquitous Networks'
+p93
+sS'PJW'
+p94
+S'Workshop on Persistence and Java'
+p95
+sS'PST'
+p96
+S'Conference on Privacy, Security and Trust'
+p97
+sS'PATMOS'
+p98
+S'Workshop on Power and Timing Modeling, Optimization and Simulation'
+p99
+sS'Pairing'
+p100
+S'Pairing-Based Cryptography'
+p101
+sS'PASCAL'
+p102
+S'PASCAL'
+p103
+sS'P2PKM'
+p104
+S'Peer-to-Peer Knowledge Management'
+p105
+sS'PROSPECTRA'
+p106
+S'PROSPECTRA'
+p107
+sS'PKDD'
+p108
+S'Principles of Data Mining and Knowledge Discovery'
+p109
+sS'PODC'
+p110
+S'Symposium on Principles of Distributed Computing'
+p111
+sS'PSSE'
+p112
+S'Pernambuco Summer School on Software Engineering'
+p113
+sS'PVG'
+p114
+S'IEEE Symposium on Parallel and Large-Data Visualization and Graphics'
+p115
+sS'PSSS'
+p116
+S'Practical and Scalable Semantic Systems'
+p117
+sS'PROLAMAT'
+p118
+S'PROgraming LAnguages for MAnufacTuring'
+p119
+sS'PODS'
+p120
+S'Symposium on Principles of Database Systems'
+p121
+sS'PODP'
+p122
+S'Principles of Document Processing'
+p123
+sS'PaCT'
+p124
+S'Parallel Computing Technologies'
+p125
+sS'PPEALS'
+p126
+S'Symposium on Principles and Practice of Parallel Programming'
+p127
+sS'PDK'
+p128
+S'Processing Declarative Knowledge'
+p129
+sS'POMC'
+p130
+S'Principles of Mobile Computing'
+p131
+sS'PAISI'
+p132
+S'Pacific Asia Workshop on Intelligence and Security Informatics'
+p133
+sS'PDC'
+p134
+S'Participatory Design'
+p135
+sS'PPPJ'
+p136
+S'Principles and Practice of Programming in Java'
+p137
+sS'PREMI'
+p138
+S'Pattern Recognition and Machine Intelligence'
+p139
+sS'PAKDD'
+p140
+S'Pacific-Asia Conference on Knowledge Discovery and Data Mining'
+p141
+sS'PLOS'
+p142
+S'Programming Languages and Operating Systems'
+p143
+sS'PDIS'
+p144
+S'Conference on Parallel andDistributed Information Systems'
+p145
+sS'PLC'
+p146
+S'Int. Conf. on Programming Languages and Compilers'
+p147
+sS'PROMAS'
+p148
+S'Programming Multi-Agent Systems'
+p149
+sS'PLPV'
+p150
+S'Programming Languages meets Program Verification'
+p151
+sS'PROFES'
+p152
+S'Product Focused Software Process Improvement'
+p153
+sS'PDCAT'
+p154
+S'Parallel and Distributed Computing: Applications and Technologies'
+p155
+sS'PDCS'
+p156
+S'Parallel and Distributed Computing Systems'
+p157
+sS'PVM/MPI'
+p158
+S'Parallel Virtual Machine / Message Passing Interface'
+p159
+sS'PPSN'
+p160
+S'Parallel Problem Solving from Nature'
+p161
+sS'PARMA'
+p162
+S'Intl. Workshop on Pattern Representation and Management'
+p163
+sS'PDCN'
+p164
+S'Parallel and Distributed Computing and Networks'
+p165
+sS'PETRA'
+p166
+S'International Conference on Pervasive Technologies Related to Assistive Environments'
+p167
+sS'PPSC'
+p168
+S'SIAM Conference on Parallel Processing for Scientific Computing'
+p169
+sS'PPoPP'
+p170
+S'Principles and Practice of Parallel Programming'
+p171
+sS'PGM'
+p172
+S'Probabilistic Graphical Models'
+p173
+sS'PARLE'
+p174
+S'Parallel Architectures and Languages Europe'
+p175
+sS'PPDP'
+p176
+S'Principles and Practice of Declarative Programming'
+p177
+sS'PASTE'
+p178
+S'Workshop on Program Analysis For Software Tools and Engineering'
+p179
+sS'PASCO'
+p180
+S'International Symposium on Parallel Symbolic Computation'
+p181
+sS'PEARL'
+p182
+S'PEARL'
+p183
+sS'ProvSec'
+p184
+S'Provable Security'
+p185
+sS'Physik und Informatik'
+p186
+S'Informatik und Physik'
+p187
+sS'PERSUASIVE'
+p188
+S'Persuasive Technology'
+p189
+sS'PDSE'
+p190
+S'International Symposium on Software Engineering for Parallel and Distributed Systems'
+p191
+sS'PATAT'
+p192
+S'Practice and Theory of Automated Timetabling'
+p193
+sS'PLANX'
+p194
+S'PLAN-X: Programming Language Technologies for XML'
+p195
+sS'PACIS'
+p196
+S'Pacific Asia Conference on Information Systems'
+p197
+sS'PorTAL'
+p198
+S'Portugal for Natural Language Processing'
+p199
+sS'PARBASE'
+p200
+S'PARBASE'
+p201
+s.

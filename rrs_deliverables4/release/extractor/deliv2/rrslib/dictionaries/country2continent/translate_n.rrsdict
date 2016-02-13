@@ -1,0 +1,72 @@
+(dp1
+S'Netherlands'
+p2
+(lp3
+S'Europe'
+p4
+asS'Northern Mariana Islands'
+p5
+(lp6
+S'Oceania'
+p7
+asS'Norfolk Island'
+p8
+(lp9
+S'Oceania'
+p10
+asS'Niger'
+p11
+(lp12
+S'Africa'
+p13
+asS'Nepal'
+p14
+(lp15
+S'Asia'
+p16
+asS'New Caledonia'
+p17
+(lp18
+S'Oceania'
+p19
+asS'Norway'
+p20
+(lp21
+S'Europe'
+p22
+asS'Namibia'
+p23
+(lp24
+S'Africa'
+p25
+asS'Niue'
+p26
+(lp27
+S'Oceania'
+p28
+asS'Netherlands Antilles'
+p29
+(lp30
+S'North America'
+p31
+asS'Nauru'
+p32
+(lp33
+S'Oceania'
+p34
+asS'Nicaragua'
+p35
+(lp36
+S'North America'
+p37
+asS'New Zealand'
+p38
+(lp39
+S'Oceania'
+p40
+asS'Nigeria'
+p41
+(lp42
+S'Africa'
+p43
+as.

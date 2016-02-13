@@ -1,0 +1,13561 @@
+(dp1
+S'110005'
+p2
+(lp3
+S'Joshi Nagar'
+p4
+aS'New Delhi'
+p5
+asS'110006'
+p6
+(lp7
+S'Red Fort'
+p8
+aS'New Delhi'
+p9
+asS'110007'
+p10
+(lp11
+S'Lok Nayak Bhawan'
+p12
+aS'New Delhi'
+p13
+asS'110001'
+p14
+(lp15
+S'Rail Bhawan'
+p16
+aS'New Delhi'
+p17
+asS'110002'
+p18
+(lp19
+S'Gandhi Samarak'
+p20
+aS'New Delhi'
+p21
+asS'110003'
+p22
+(lp23
+S'Wazir Nagar'
+p24
+aS'New Delhi'
+p25
+asS'246176'
+p26
+(lp27
+S'Toli'
+p28
+aS'Uttaranchal'
+p29
+asS'110008'
+p30
+(lp31
+S'Patel Nagar West'
+p32
+aS'New Delhi'
+p33
+asS'246278'
+p34
+(lp35
+S'Syunsi Nagar (Cpo A 1914)'
+p36
+aS'Uttaranchal'
+p37
+asS'185101'
+p38
+(lp39
+S'Poonch Fort'
+p40
+aS'Jammu and Kashmir'
+p41
+asS'562118'
+p42
+(lp43
+S'Nandi Hills'
+p44
+aS'Karnataka'
+p45
+asS'173029'
+p46
+(lp47
+S'Sataun'
+p48
+aS'Himachal Pradesh'
+p49
+asS'796025'
+p50
+(lp51
+S'Dustlang'
+p52
+aS'Mizoram'
+p53
+asS'209733'
+p54
+(lp55
+S'Jalalabad Fategarh'
+p56
+aS'Uttar Pradesh'
+p57
+asS'173020'
+p58
+(lp59
+S'Giri Nagar'
+p60
+aS'Himachal Pradesh'
+p61
+asS'792055'
+p62
+(lp63
+S'Vijoynagar'
+p64
+aS'Arunachal Pradesh'
+p65
+asS'173022'
+p66
+(lp67
+S'Dadahu'
+p68
+aS'Himachal Pradesh'
+p69
+asS'173024'
+p70
+(lp71
+S'Sarahan'
+p72
+aS'Himachal Pradesh'
+p73
+asS'792051'
+p74
+(lp75
+S'Mechuka'
+p76
+aS'Arunachal Pradesh'
+p77
+asS'497001'
+p78
+(lp79
+S'Ambikapur Nayalaya'
+p80
+aS'Chattisgarh'
+p81
+asS'141302'
+p82
+(lp83
+S'Samrai'
+p84
+aS'Punjab'
+p85
+asS'141305'
+p86
+(lp87
+S'Partap Nagar'
+p88
+aS'Punjab'
+p89
+asS'141307'
+p90
+(lp91
+S'Pasla'
+p92
+aS'Punjab'
+p93
+asS'141309'
+p94
+(lp95
+S'Nurmahal'
+p96
+aS'Punjab'
+p97
+asS'141105'
+p98
+(lp99
+S'Saraba'
+p100
+aS'Punjab'
+p101
+asS'205119'
+p102
+(lp103
+S'Tindauli'
+p104
+aS'Uttar Pradesh'
+p105
+asS'362310'
+p106
+(lp107
+S'Vadal'
+p108
+aS'Gujarat'
+p109
+asS'403506'
+p110
+(lp111
+S'Valpoi'
+p112
+aS'Goa'
+p113
+asS'563136'
+p114
+(lp115
+S'Tayalur'
+p116
+aS'Karnataka'
+p117
+asS'403505'
+p118
+(lp119
+S'Santacruz Central'
+p120
+aS'Goa'
+p121
+asS'403503'
+p122
+(lp123
+S'Assonera'
+p124
+aS'Goa'
+p125
+asS'403501'
+p126
+(lp127
+S'Porvorim'
+p128
+aS'Goa'
+p129
+asS'802134'
+p130
+(lp131
+S'Raghunathpur(Arrah)'
+p132
+aS'Bihar'
+p133
+asS'124001'
+p134
+(lp135
+S'D L F Colony Rohtak'
+p136
+aS'Haryana'
+p137
+asS'124007'
+p138
+(lp139
+S'Samargopalpur'
+p140
+aS'Haryana'
+p141
+asS'403508'
+p142
+(lp143
+S'Aldana'
+p144
+aS'Goa'
+p145
+asS'802314'
+p146
+(lp147
+S'Kayamnagar'
+p148
+aS'Bihar'
+p149
+asS'801119'
+p150
+(lp151
+S'Kamla Gopalpur'
+p152
+aS'Bihar'
+p153
+asS'801111'
+p154
+(lp155
+S'Sadisopur'
+p156
+aS'Bihar'
+p157
+asS'801117'
+p158
+(lp159
+S'Amarpura'
+p160
+aS'Bihar'
+p161
+asS'454446'
+p162
+(lp163
+S'Manawar (Dhar)'
+p164
+aS'Madhya Pradesh'
+p165
+asS'791120'
+p166
+(lp167
+S'Zero'
+p168
+aS'Arunachal Pradesh'
+p169
+asS'801114'
+p170
+(lp171
+S'Chandaos'
+p172
+aS'Bihar'
+p173
+asS'500044'
+p174
+(lp175
+S'Lali-Thanagar Colony'
+p176
+aS'Andhra Pradesh'
+p177
+asS'500047'
+p178
+(lp179
+S'Radhakrishnagar'
+p180
+aS'Andhra Pradesh'
+p181
+asS'816122'
+p182
+(lp183
+S'Jhikarhatti'
+p184
+aS'Jharkhand'
+p185
+asS'500040'
+p186
+(lp187
+S'Industrial Estate Moulali'
+p188
+aS'Andhra Pradesh'
+p189
+asS'816120'
+p190
+(lp191
+S'Boria'
+p192
+aS'Jharkhand'
+p193
+asS'500042'
+p194
+(lp195
+S'Raju Colony'
+p196
+aS'Andhra Pradesh'
+p197
+asS'500049'
+p198
+(lp199
+S'A P S E Board (Hyd)'
+p200
+aS'Andhra Pradesh'
+p201
+asS'500048'
+p202
+(lp203
+S'Bakaram'
+p204
+aS'Andhra Pradesh'
+p205
+asS'816129'
+p206
+(lp207
+S'Talijhari'
+p208
+aS'Jharkhand'
+p209
+asS'494635'
+p210
+(lp211
+S'Sambalpur'
+p212
+aS'Chattisgarh'
+p213
+asS'825102'
+p214
+(lp215
+S'Dhori'
+p216
+aS'Jharkhand'
+p217
+asS'209801'
+p218
+(lp219
+S'Unnao H O'
+p220
+aS'Uttar Pradesh'
+p221
+asS'796290'
+p222
+(lp223
+S'Ngopa'
+p224
+aS'Mizoram'
+p225
+asS'456552'
+p226
+(lp227
+S'Pat'
+p228
+aS'Madhya Pradesh'
+p229
+asS'456550'
+p230
+(lp231
+S'Ghattia'
+p232
+aS'Madhya Pradesh'
+p233
+asS'246401'
+p234
+(lp235
+S'Gopeswar Ho.'
+p236
+aS'Uttaranchal'
+p237
+asS'799278'
+p238
+(lp239
+S'Salema'
+p240
+aS'Tripura'
+p241
+asS'799277'
+p242
+(lp243
+S'Kailashahar'
+p244
+aS'Tripura'
+p245
+asS'455001'
+p246
+(lp247
+S'Dewas Industril Estate'
+p248
+aS'Madhya Pradesh'
+p249
+asS'799270'
+p250
+(lp251
+S'Kanchanpur'
+p252
+aS'Tripura'
+p253
+asS'450223'
+p254
+(lp255
+S'Nimbola'
+p256
+aS'Madhya Pradesh'
+p257
+asS'450221'
+p258
+(lp259
+S'Nepanagar L C Lines'
+p260
+aS'Madhya Pradesh'
+p261
+asS'601303'
+p262
+(lp263
+S'Old Pallavaram'
+p264
+aS'Tamil Nadu'
+p265
+asS'670650'
+p266
+(lp267
+S'Alacherry B.O'
+p268
+aS'Kerala'
+p269
+asS'754025'
+p270
+(lp271
+S'Chaudwar'
+p272
+aS'Orisa'
+p273
+asS'754026'
+p274
+(lp275
+S'Daulatabad'
+p276
+aS'Orisa'
+p277
+asS'754023'
+p278
+(lp279
+S'Chhatia'
+p280
+aS'Orisa'
+p281
+asS'754028'
+p282
+(lp283
+S'Charbatia'
+p284
+aS'Orisa'
+p285
+asS'600097'
+p286
+(lp287
+S'Defence Officers Colony'
+p288
+aS'Tamil Nadu'
+p289
+asS'362727'
+p290
+(lp291
+S'Vadnagar Kodinar'
+p292
+aS'Gujarat'
+p293
+asS'141120'
+p294
+(lp295
+S'Sanehwal'
+p296
+aS'Punjab'
+p297
+asS'141122'
+p298
+(lp299
+S'Jaspal Bangar'
+p300
+aS'Punjab'
+p301
+asS'700014'
+p302
+(lp303
+S'Intally'
+p304
+aS'West Bengal'
+p305
+asS'799011'
+p306
+(lp307
+S'Barjala'
+p308
+aS'Tripura'
+p309
+asS'700016'
+p310
+(lp311
+S'Park Street H O'
+p312
+aS'West Bengal'
+p313
+asS'799015'
+p314
+(lp315
+S'Bimangarh'
+p316
+aS'Tripura'
+p317
+asS'173027'
+p318
+(lp319
+S'Shillai'
+p320
+aS'Himachal Pradesh'
+p321
+asS'795104'
+p322
+(lp323
+S'Tadubi'
+p324
+aS'Manipur'
+p325
+asS'363416'
+p326
+(lp327
+S'Nagnesh'
+p328
+aS'Gujarat'
+p329
+asS'795106'
+p330
+(lp331
+S'Karong'
+p332
+aS'Manipur'
+p333
+asS'700012'
+p334
+(lp335
+S'Bow Bazar'
+p336
+aS'West Bengal'
+p337
+asS'795102'
+p338
+(lp339
+S'Chakpikarong'
+p340
+aS'Manipur'
+p341
+asS'142026'
+p342
+(lp343
+S'Jagraon City'
+p344
+aS'Punjab'
+p345
+asS'142029'
+p346
+(lp347
+S'Jodhan'
+p348
+aS'Punjab'
+p349
+asS'700013'
+p350
+(lp351
+S'Dharamtala'
+p352
+aS'West Bengal'
+p353
+asS'799125'
+p354
+(lp355
+S'Garjee'
+p356
+aS'Tripura'
+p357
+asS'799123'
+p358
+(lp359
+S'Jamjuri'
+p360
+aS'Tripura'
+p361
+asS'799120'
+p362
+(lp363
+S'Radhakishorepur H O'
+p364
+aS'Tripura'
+p365
+asS'799121'
+p366
+(lp367
+S'Maharani'
+p368
+aS'Tripura'
+p369
+asS'453652'
+p370
+(lp371
+S'Dakacha'
+p372
+aS'Madhya Pradesh'
+p373
+asS'455178'
+p374
+(lp375
+S'Nagda (Dewas)'
+p376
+aS'Madhya Pradesh'
+p377
+asS'363670'
+p378
+(lp379
+S'Maliya Miyana'
+p380
+aS'Gujarat'
+p381
+asS'203141'
+p382
+(lp383
+S'Jahangirpur'
+p384
+aS'Uttar Pradesh'
+p385
+asS'303303'
+p386
+(lp387
+S'Dausa Town'
+p388
+aS'Rajasthan'
+p389
+asS'601212'
+p390
+(lp391
+S'Iguvarpalayam'
+p392
+aS'Tamil Nadu'
+p393
+asS'147301'
+p394
+(lp395
+S'Mandi Gobindgarh'
+p396
+aS'Punjab'
+p397
+asS'601214'
+p398
+(lp399
+S'Devampattu'
+p400
+aS'Tamil Nadu'
+p401
+asS'822131'
+p402
+(lp403
+S'Shahpur(Daltonganj)'
+p404
+aS'Jharkhand'
+p405
+asS'600031'
+p406
+(lp407
+S'Harrington Road'
+p408
+aS'Tamil Nadu'
+p409
+asS'822138'
+p410
+(lp411
+S'Manjhiaon'
+p412
+aS'Jharkhand'
+p413
+asS'502291'
+p414
+(lp415
+S'Sadashivpet Bazar'
+p416
+aS'Andhra Pradesh'
+p417
+asS'600034'
+p418
+(lp419
+S'Loyla College'
+p420
+aS'Tamil Nadu'
+p421
+asS'600037'
+p422
+(lp423
+S'Offiers Trg School'
+p424
+aS'Tamil Nadu'
+p425
+asS'798630'
+p426
+(lp427
+S'Kobulong'
+p428
+aS'Nagaland'
+p429
+asS'798632'
+p430
+(lp431
+S'Sungra'
+p432
+aS'Nagaland'
+p433
+asS'202389'
+p434
+(lp435
+S'Narora'
+p436
+aS'Uttar Pradesh'
+p437
+asS'171303'
+p438
+(lp439
+S'Churag'
+p440
+aS'Himachal Pradesh'
+p441
+asS'246132'
+p442
+(lp443
+S'Rithakhal'
+p444
+aS'Uttaranchal'
+p445
+asS'246130'
+p446
+(lp447
+S'Chakisain'
+p448
+aS'Uttaranchal'
+p449
+asS'171305'
+p450
+(lp451
+S'Chaila'
+p452
+aS'Himachal Pradesh'
+p453
+asS'600105'
+p454
+(lp455
+S'C-In-C Road'
+p456
+aS'Tamil Nadu'
+p457
+asS'361010'
+p458
+(lp459
+S'Vadinar'
+p460
+aS'Gujarat'
+p461
+asS'361012'
+p462
+(lp463
+S'Chela'
+p464
+aS'Gujarat'
+p465
+asS'786622'
+p466
+(lp467
+S'Namrup T P S'
+p468
+aS'Arunachal Pradesh'
+p469
+asS'364001'
+p470
+(lp471
+S'Chavdigate'
+p472
+aS'Gujarat'
+p473
+asS'786624'
+p474
+(lp475
+S'Barbam'
+p476
+aS'Arunachal Pradesh'
+p477
+asS'364002'
+p478
+(lp479
+S'B P T E'
+p480
+aS'Gujarat'
+p481
+asS'451664'
+p482
+(lp483
+S'Zopali'
+p484
+aS'Madhya Pradesh'
+p485
+asS'451667'
+p486
+(lp487
+S'Niwali'
+p488
+aS'Madhya Pradesh'
+p489
+asS'451660'
+p490
+(lp491
+S'Thikri'
+p492
+aS'Madhya Pradesh'
+p493
+asS'206241'
+p494
+(lp495
+S'Achalda'
+p496
+aS'Uttar Pradesh'
+p497
+asS'491888'
+p498
+(lp499
+S'Gandai Paderia'
+p500
+aS'Chattisgarh'
+p501
+asS'570008'
+p502
+(lp503
+S'Industrial Suburb I Stage'
+p504
+aS'Karnataka'
+p505
+asS'570006'
+p506
+(lp507
+S'University Campus'
+p508
+aS'Karnataka'
+p509
+asS'570007'
+p510
+(lp511
+S'Rajendranagar'
+p512
+aS'Karnataka'
+p513
+asS'570004'
+p514
+(lp515
+S'Ramanuja Road'
+p516
+aS'Karnataka'
+p517
+asS'491881'
+p518
+(lp519
+S'Khairaqarh Raj (Rajnanadg'
+p520
+aS'Chattisgarh'
+p521
+asS'570001'
+p522
+(lp523
+S'Iringere'
+p524
+aS'Karnataka'
+p525
+asS'560010'
+p526
+(lp527
+S'Industrial Suburb'
+p528
+aS'Karnataka'
+p529
+asS'560013'
+p530
+(lp531
+S'Jalahalli Villageso'
+p532
+aS'Karnataka'
+p533
+asS'560015'
+p534
+(lp535
+S'Jalahalli West'
+p536
+aS'Karnataka'
+p537
+asS'560017'
+p538
+(lp539
+S'Vimanapura'
+p540
+aS'Karnataka'
+p541
+asS'560018'
+p542
+(lp543
+S'Chamrapet West'
+p544
+aS'Karnataka'
+p545
+asS'737114'
+p546
+(lp547
+S'Kaluk Bazar'
+p548
+aS'Sikkim'
+p549
+asS'737112'
+p550
+(lp551
+S'Dentam'
+p552
+aS'Sikkim'
+p553
+asS'700025'
+p554
+(lp555
+S'Ramkrishna Park'
+p556
+aS'West Bengal'
+p557
+asS'737118'
+p558
+(lp559
+S'Phensong'
+p560
+aS'Sikkim'
+p561
+asS'803306'
+p562
+(lp563
+S'Samyagarh'
+p564
+aS'Bihar'
+p565
+asS'792110'
+p566
+(lp567
+S'Roing'
+p568
+aS'Arunachal Pradesh'
+p569
+asS'360490'
+p570
+(lp571
+S'Panch Hatdi'
+p572
+aS'Gujarat'
+p573
+asS'123034'
+p574
+(lp575
+S'Bawania'
+p576
+aS'Haryana'
+p577
+asS'110013'
+p578
+(lp579
+S'Hazrat Nizamuddin'
+p580
+aS'New Delhi'
+p581
+asS'110012'
+p582
+(lp583
+S'Central Tractor'
+p584
+aS'New Delhi'
+p585
+asS'110011'
+p586
+(lp587
+S'Nirman Bhawan'
+p588
+aS'New Delhi'
+p589
+asS'110010'
+p590
+(lp591
+S'Work Shop'
+p592
+aS'New Delhi'
+p593
+asS'110017'
+p594
+(lp595
+S'South Malviya Nagar'
+p596
+aS'New Delhi'
+p597
+asS'110016'
+p598
+(lp599
+S'I I T Hauz Khas'
+p600
+aS'New Delhi'
+p601
+asS'110015'
+p602
+(lp603
+S'Moti Nagar'
+p604
+aS'New Delhi'
+p605
+asS'110014'
+p606
+(lp607
+S'Hari Nagar Ashram'
+p608
+aS'New Delhi'
+p609
+asS'110019'
+p610
+(lp611
+S'Govindpuri'
+p612
+aS'New Delhi'
+p613
+asS'110018'
+p614
+(lp615
+S'Chand Nagar'
+p616
+aS'New Delhi'
+p617
+asS'782448'
+p618
+(lp619
+S'Kheroni'
+p620
+aS'Assam'
+p621
+asS'673027'
+p622
+(lp623
+S'Nallalam'
+p624
+aS'Kerala'
+p625
+asS'782445'
+p626
+(lp627
+S'Nilbagan'
+p628
+aS'Assam'
+p629
+asS'782447'
+p630
+(lp631
+S'Lumding'
+p632
+aS'Assam'
+p633
+asS'603106'
+p634
+(lp635
+S'Orakkatupettai'
+p636
+aS'Tamil Nadu'
+p637
+asS'500855'
+p638
+(lp639
+S'Ind Dev Are Jeed Hyd'
+p640
+aS'Andhra Pradesh'
+p641
+asS'670731'
+p642
+(lp643
+S'Makkaid B.O'
+p644
+aS'Kerala'
+p645
+asS'304001'
+p646
+(lp647
+S'Tonk H O'
+p648
+aS'Rajasthan'
+p649
+asS'501103'
+p650
+(lp651
+S'Ekmamidi'
+p652
+aS'Andhra Pradesh'
+p653
+asS'303905'
+p654
+(lp655
+S'Watika'
+p656
+aS'Rajasthan'
+p657
+asS'501106'
+p658
+(lp659
+S'Yenkepalli'
+p660
+aS'Andhra Pradesh'
+p661
+asS'494445'
+p662
+(lp663
+S'Badekllepal'
+p664
+aS'Chattisgarh'
+p665
+asS'494441'
+p666
+(lp667
+S'Geedam'
+p668
+aS'Chattisgarh'
+p669
+asS'828504'
+p670
+(lp671
+S'Mugma'
+p672
+aS'Jharkhand'
+p673
+asS'494449'
+p674
+(lp675
+S'Dantewada'
+p676
+aS'Chattisgarh'
+p677
+asS'494448'
+p678
+(lp679
+S'Madded'
+p680
+aS'Chattisgarh'
+p681
+asS'403517'
+p682
+(lp683
+S'Siolim'
+p684
+aS'Goa'
+p685
+asS'403516'
+p686
+(lp687
+S'Calangute'
+p688
+aS'Goa'
+p689
+asS'786171'
+p690
+(lp691
+S'Digboi'
+p692
+aS'Arunachal Pradesh'
+p693
+asS'403512'
+p694
+(lp695
+S'Pernem'
+p696
+aS'Goa'
+p697
+asS'403519'
+p698
+(lp699
+S'Sinquerim'
+p700
+aS'Goa'
+p701
+asS'734301'
+p702
+(lp703
+S'Kalimpong'
+p704
+aS'West Bengal'
+p705
+asS'802301'
+p706
+(lp707
+S'Arrah Kutchery'
+p708
+aS'Bihar'
+p709
+asS'124003'
+p710
+(lp711
+S'Vaish High Schl Rohtak'
+p712
+aS'Haryana'
+p713
+asS'141201'
+p714
+(lp715
+S'Kila Raipur'
+p716
+aS'Punjab'
+p717
+asS'141204'
+p718
+(lp719
+S'Ghungrana'
+p720
+aS'Punjab'
+p721
+asS'141206'
+p722
+(lp723
+S'Ghawaddi'
+p724
+aS'Punjab'
+p725
+asS'124102'
+p726
+(lp727
+S'Dujana'
+p728
+aS'Haryana'
+p729
+asS'124103'
+p730
+(lp731
+S'Silani Gate Jhajjar'
+p732
+aS'Haryana'
+p733
+asS'791002'
+p734
+(lp735
+S'Yingkiong'
+p736
+aS'Arunachal Pradesh'
+p737
+asS'181151'
+p738
+(lp739
+S'Raika'
+p740
+aS'Jammu and Kashmir'
+p741
+asS'124104'
+p742
+(lp743
+S'Jhajjar'
+p744
+aS'Haryana'
+p745
+asS'124105'
+p746
+(lp747
+S'Badli'
+p748
+aS'Haryana'
+p749
+asS'124108'
+p750
+(lp751
+S'Machhrauli'
+p752
+aS'Haryana'
+p753
+asS'454010'
+p754
+(lp755
+S'Mandu (Dhar)'
+p756
+aS'Madhya Pradesh'
+p757
+asS'799265'
+p758
+(lp759
+S'Machmara'
+p760
+aS'Tripura'
+p761
+asS'454449'
+p762
+(lp763
+S'Dharampuri (Dhar)'
+p764
+aS'Madhya Pradesh'
+p765
+asS'799262'
+p766
+(lp767
+S'Churaib'
+p768
+aS'Tripura'
+p769
+asS'686009'
+p770
+(lp771
+S'Rubber Board'
+p772
+aS'Kerala'
+p773
+asS'670645'
+p774
+(lp775
+S'Edavaka B.O'
+p776
+aS'Kerala'
+p777
+asS'670644'
+p778
+(lp779
+S'Tavinhal B.O'
+p780
+aS'Kerala'
+p781
+asS'670646'
+p782
+(lp783
+S'Bavali B.O'
+p784
+aS'Kerala'
+p785
+asS'754032'
+p786
+(lp787
+S'Narsinghpur'
+p788
+aS'Orisa'
+p789
+asS'754037'
+p790
+(lp791
+S'Kanpur'
+p792
+aS'Orisa'
+p793
+asS'141113'
+p794
+(lp795
+S'Katni Kalan'
+p796
+aS'Punjab'
+p797
+asS'248124'
+p798
+(lp799
+S'Barautha'
+p800
+aS'Uttaranchal'
+p801
+asS'141118'
+p802
+(lp803
+S'Frhlon'
+p804
+aS'Punjab'
+p805
+asS'248122'
+p806
+(lp807
+S'Bariowganj'
+p808
+aS'Uttaranchal'
+p809
+asS'362733'
+p810
+(lp811
+S'Chhara'
+p812
+aS'Gujarat'
+p813
+asS'673517'
+p814
+(lp815
+S'Abhayagiri B.O'
+p816
+aS'Kerala'
+p817
+asS'274001'
+p818
+(lp819
+S'Deoria H O'
+p820
+aS'Tamil Nadu'
+p821
+asS'799009'
+p822
+(lp823
+S'Agartala Aerodrome'
+p824
+aS'Tripura'
+p825
+asS'799008'
+p826
+(lp827
+S'Khayaspur'
+p828
+aS'Tripura'
+p829
+asS'455302'
+p830
+(lp831
+S'Kamlapur'
+p832
+aS'Madhya Pradesh'
+p833
+asS'799001'
+p834
+(lp835
+S'Tripura Vidhan Sabha'
+p836
+aS'Tripura'
+p837
+asS'791122'
+p838
+(lp839
+S'Daporizo'
+p840
+aS'Arunachal Pradesh'
+p841
+asS'799002'
+p842
+(lp843
+S'Ramnagar'
+p844
+aS'Tripura'
+p845
+asS'799004'
+p846
+(lp847
+S'Agartala College'
+p848
+aS'Tripura'
+p849
+asS'799006'
+p850
+(lp851
+S'Kunjaban'
+p852
+aS'Tripura'
+p853
+asS'801305'
+p854
+(lp855
+S'Nagarnausa'
+p856
+aS'Bihar'
+p857
+asS'801303'
+p858
+(lp859
+S'Islampur'
+p860
+aS'Bihar'
+p861
+asS'491665'
+p862
+(lp863
+S'Ambagarh Chowki'
+p864
+aS'Chattisgarh'
+p865
+asS'816124'
+p866
+(lp867
+S'Mohulpahari'
+p868
+aS'Jharkhand'
+p869
+asS'799131'
+p870
+(lp871
+S'Sunamura'
+p872
+aS'Tripura'
+p873
+asS'364140'
+p874
+(lp875
+S'Talaja'
+p876
+aS'Gujarat'
+p877
+asS'203155'
+p878
+(lp879
+S'Thora'
+p880
+aS'Uttar Pradesh'
+p881
+asS'364146'
+p882
+(lp883
+S'Bagdana'
+p884
+aS'Gujarat'
+p885
+asS'182128'
+p886
+(lp887
+S'Majouri'
+p888
+aS'Jammu and Kashmir'
+p889
+asS'571166'
+p890
+(lp891
+S'Kabini Colony'
+p892
+aS'Karnataka'
+p893
+asS'182121'
+p894
+(lp895
+S'Rambal'
+p896
+aS'Jammu and Kashmir'
+p897
+asS'182123'
+p898
+(lp899
+S'Kirmchi'
+p900
+aS'Jammu and Kashmir'
+p901
+asS'182125'
+p902
+(lp903
+S'Mir'
+p904
+aS'Jammu and Kashmir'
+p905
+asS'601202'
+p906
+(lp907
+S'Madarpakkam'
+p908
+aS'Tamil Nadu'
+p909
+asS'822121'
+p910
+(lp911
+S'Nagaruntari'
+p912
+aS'Jharkhand'
+p913
+asS'822123'
+p914
+(lp915
+S'Patan'
+p916
+aS'Jharkhand'
+p917
+asS'822125'
+p918
+(lp919
+S'Rankaraj'
+p920
+aS'Jharkhand'
+p921
+asS'822127'
+p922
+(lp923
+S'Mandal'
+p924
+aS'Jharkhand'
+p925
+asS'502281'
+p926
+(lp927
+S'Jagadevpur'
+p928
+aS'Andhra Pradesh'
+p929
+asS'822128'
+p930
+(lp931
+S'Ramna(Daltonganj)'
+p932
+aS'Jharkhand'
+p933
+asS'700026'
+p934
+(lp935
+S'Kalighat'
+p936
+aS'West Bengal'
+p937
+asS'303349'
+p938
+(lp939
+S'Sakhun'
+p940
+aS'Rajasthan'
+p941
+asS'303348'
+p942
+(lp943
+S'Naraina'
+p944
+aS'Rajasthan'
+p945
+asS'160019'
+p946
+(lp947
+S'Sector 27 Chandigarh'
+p948
+aS'Chandigarh'
+p949
+asS'246122'
+p950
+(lp951
+S'Chelusain (Cpo A.1997)'
+p952
+aS'Uttaranchal'
+p953
+asS'700006'
+p954
+(lp955
+S'Sahitya Parisad'
+p956
+aS'West Bengal'
+p957
+asS'305026'
+p958
+(lp959
+S'Thanwla'
+p960
+aS'Rajasthan'
+p961
+asS'173228'
+p962
+(lp963
+S'Kaithlighat'
+p964
+aS'Himachal Pradesh'
+p965
+asS'803221'
+p966
+(lp967
+S'Pandarak'
+p968
+aS'Bihar'
+p969
+asS'173223'
+p970
+(lp971
+S'Ochaghat'
+p972
+aS'Himachal Pradesh'
+p973
+asS'173221'
+p974
+(lp975
+S'Domehar'
+p976
+aS'Himachal Pradesh'
+p977
+asS'751013'
+p978
+(lp979
+S'Laboratory (Bbr-13)'
+p980
+aS'Orisa'
+p981
+asS'173225'
+p982
+(lp983
+S'Jubbar'
+p984
+aS'Himachal Pradesh'
+p985
+asS'751011'
+p986
+(lp987
+S'C R P Line (Bbr-11) Piri'
+p988
+aS'Orisa'
+p989
+asS'737126'
+p990
+(lp991
+S'Namchi'
+p992
+aS'Sikkim'
+p993
+asS'786614'
+p994
+(lp995
+S'Jeypore'
+p996
+aS'Arunachal Pradesh'
+p997
+asS'360003'
+p998
+(lp999
+S'Rajkot Bedipura'
+p1000
+aS'Gujarat'
+p1001
+asS'360002'
+p1002
+(lp1003
+S'Rajkot Bhaktinagar'
+p1004
+aS'Gujarat'
+p1005
+asS'360005'
+p1006
+(lp1007
+S'University Campus'
+p1008
+aS'Gujarat'
+p1009
+asS'360004'
+p1010
+(lp1011
+S'Rajkot S N Gurukul'
+p1012
+aS'Gujarat'
+p1013
+asS'786612'
+p1014
+(lp1015
+S'Tingkong'
+p1016
+aS'Arunachal Pradesh'
+p1017
+asS'798616'
+p1018
+(lp1019
+S'Longkhim'
+p1020
+aS'Nagaland'
+p1021
+asS'570019'
+p1022
+(lp1023
+S'Udayagiri Extn'
+p1024
+aS'Karnataka'
+p1025
+asS'570018'
+p1026
+(lp1027
+S'Chaimundi Betta'
+p1028
+aS'Karnataka'
+p1029
+asS'570014'
+p1030
+(lp1031
+S'Jayanagar Extn (Mys)'
+p1032
+aS'Karnataka'
+p1033
+asS'570011'
+p1034
+(lp1035
+S'Administrative Trg Institute'
+p1036
+aS'Karnataka'
+p1037
+asS'570010'
+p1038
+(lp1039
+S'P T C Campus'
+p1040
+aS'Karnataka'
+p1041
+asS'600005'
+p1042
+(lp1043
+S'Madras Presidency College'
+p1044
+aS'Tamil Nadu'
+p1045
+asS'600006'
+p1046
+(lp1047
+S'Cathedral'
+p1048
+aS'Tamil Nadu'
+p1049
+asS'600001'
+p1050
+(lp1051
+S'Flower Bazar'
+p1052
+aS'Tamil Nadu'
+p1053
+asS'560009'
+p1054
+(lp1055
+S'Gandhi Krishi'
+p1056
+aS'Karnataka'
+p1057
+asS'560008'
+p1058
+(lp1059
+S'Ulsoor H O'
+p1060
+aS'Karnataka'
+p1061
+asS'560007'
+p1062
+(lp1063
+S'A F Hospital'
+p1064
+aS'Karnataka'
+p1065
+asS'560004'
+p1066
+(lp1067
+S'Pampamahakavi Road'
+p1068
+aS'Karnataka'
+p1069
+asS'560003'
+p1070
+(lp1071
+S'Venkatarangapura'
+p1072
+aS'Karnataka'
+p1073
+asS'560002'
+p1074
+(lp1075
+S'H Siddiah Road'
+p1076
+aS'Karnataka'
+p1077
+asS'560001'
+p1078
+(lp1079
+S'Vidhana Soudha'
+p1080
+aS'Karnataka'
+p1081
+asS'403705'
+p1082
+(lp1083
+S'Qupem'
+p1084
+aS'Goa'
+p1085
+asS'209625'
+p1086
+(lp1087
+S'Farrukhabad R S'
+p1088
+aS'Uttar Pradesh'
+p1089
+asS'792104'
+p1090
+(lp1091
+S'Chowkham'
+p1092
+aS'Arunachal Pradesh'
+p1093
+asS'792102'
+p1094
+(lp1095
+S'Hayuliang'
+p1096
+aS'Arunachal Pradesh'
+p1097
+asS'303118'
+p1098
+(lp1099
+S'Jaisinghpura Khor'
+p1100
+aS'Rajasthan'
+p1101
+asS'303112'
+p1102
+(lp1103
+S'Saiwad'
+p1104
+aS'Rajasthan'
+p1105
+asS'303114'
+p1106
+(lp1107
+S'Kansli Jaipur'
+p1108
+aS'Rajasthan'
+p1109
+asS'796070'
+p1110
+(lp1111
+S'Kawnpur'
+p1112
+aS'Mizoram'
+p1113
+asS'782470'
+p1114
+(lp1115
+S'Dhansiripar'
+p1116
+aS'Assam'
+p1117
+asS'496460'
+p1118
+(lp1119
+S'Kosir'
+p1120
+aS'Chattisgarh'
+p1121
+asS'124324'
+p1122
+(lp1123
+S'Rabhra'
+p1124
+aS'Haryana'
+p1125
+asS'173003'
+p1126
+(lp1127
+S'Bagthan'
+p1128
+aS'Himachal Pradesh'
+p1129
+asS'173001'
+p1130
+(lp1131
+S'Nahan H O'
+p1132
+aS'Himachal Pradesh'
+p1133
+asS'453235'
+p1134
+(lp1135
+S'Fatahabad Chandrawantigan'
+p1136
+aS'Madhya Pradesh'
+p1137
+asS'361350'
+p1138
+(lp1139
+S'Okha'
+p1140
+aS'Gujarat'
+p1141
+asS'796005'
+p1142
+(lp1143
+S'Kulikawn'
+p1144
+aS'Mizoram'
+p1145
+asS'796009'
+p1146
+(lp1147
+S'Vaivakaan'
+p1148
+aS'Mizoram'
+p1149
+asS'496004'
+p1150
+(lp1151
+S'Raigarh Jute Mills'
+p1152
+aS'Chattisgarh'
+p1153
+asS'492015'
+p1154
+(lp1155
+S'Raipur Mana Camp'
+p1156
+aS'Chattisgarh'
+p1157
+asS'670704'
+p1158
+(lp1159
+S'Edapuzha B.O'
+p1160
+aS'Kerala'
+p1161
+asS'670705'
+p1162
+(lp1163
+S'Ulikkal'
+p1164
+aS'Kerala'
+p1165
+asS'670706'
+p1166
+(lp1167
+S'Kacherikkadavu B.O'
+p1168
+aS'Kerala'
+p1169
+asS'670702'
+p1170
+(lp1171
+S'Sivapuram B.O'
+p1172
+aS'Kerala'
+p1173
+asS'670703'
+p1174
+(lp1175
+S'Madathil B.O'
+p1176
+aS'Kerala'
+p1177
+asS'606903'
+p1178
+(lp1179
+S'Kalambur'
+p1180
+aS'Tamil Nadu'
+p1181
+asS'205130'
+p1182
+(lp1183
+S'Parham'
+p1184
+aS'Uttar Pradesh'
+p1185
+asS'403521'
+p1186
+(lp1187
+S'Alto Provirim'
+p1188
+aS'Goa'
+p1189
+asS'786145'
+p1190
+(lp1191
+S'Sripuria'
+p1192
+aS'Arunachal Pradesh'
+p1193
+asS'403526'
+p1194
+(lp1195
+S'Tirim Indl Estate'
+p1196
+aS'Goa'
+p1197
+asS'786147'
+p1198
+(lp1199
+S'Rangagorah'
+p1200
+aS'Arunachal Pradesh'
+p1201
+asS'303807'
+p1202
+(lp1203
+S'Udaipuria'
+p1204
+aS'Rajasthan'
+p1205
+asS'303804'
+p1206
+(lp1207
+S'Etawa Bhopji'
+p1208
+aS'Rajasthan'
+p1209
+asS'791102'
+p1210
+(lp1211
+S'Pasighat'
+p1212
+aS'Arunachal Pradesh'
+p1213
+asS'791104'
+p1214
+(lp1215
+S'Mebo'
+p1216
+aS'Arunachal Pradesh'
+p1217
+asS'829102'
+p1218
+(lp1219
+S'Barkakhana'
+p1220
+aS'Jharkhand'
+p1221
+asS'816102'
+p1222
+(lp1223
+S'Barahait'
+p1224
+aS'Jharkhand'
+p1225
+asS'816104'
+p1226
+(lp1227
+S'Hiranpur'
+p1228
+aS'Jharkhand'
+p1229
+asS'600082'
+p1230
+(lp1231
+S'Rajah Thottam'
+p1232
+aS'Tamil Nadu'
+p1233
+asS'816106'
+p1234
+(lp1235
+S'Maheshpurraj'
+p1236
+aS'Jharkhand'
+p1237
+asS'829105'
+p1238
+(lp1239
+S'Bhadani Nagar'
+p1240
+aS'Jharkhand'
+p1241
+asS'816108'
+p1242
+(lp1243
+S'Rajmahal'
+p1244
+aS'Jharkhand'
+p1245
+asS'829108'
+p1246
+(lp1247
+S'Giddi'
+p1248
+aS'Jharkhand'
+p1249
+asS'673614'
+p1250
+(lp1251
+S'Oravil B.O'
+p1252
+aS'Kerala'
+p1253
+asS'700023'
+p1254
+(lp1255
+S'Market'
+p1256
+aS'West Bengal'
+p1257
+asS'181142'
+p1258
+(lp1259
+S'Gho Brahamana'
+p1260
+aS'Jammu and Kashmir'
+p1261
+asS'124112'
+p1262
+(lp1263
+S'Meham'
+p1264
+aS'Haryana'
+p1265
+asS'124114'
+p1266
+(lp1267
+S'Kharak Kalan'
+p1268
+aS'Haryana'
+p1269
+asS'181144'
+p1270
+(lp1271
+S'Nand Pora'
+p1272
+aS'Jammu and Kashmir'
+p1273
+asS'454221'
+p1274
+(lp1275
+S'Bagh'
+p1276
+aS'Madhya Pradesh'
+p1277
+asS'670674'
+p1278
+(lp1279
+S'Santhgiri B.O'
+p1280
+aS'Kerala'
+p1281
+asS'190008'
+p1282
+(lp1283
+S'Srinagar (Raj Bagh)'
+p1284
+aS'Jammu and Kashmir'
+p1285
+asS'190009'
+p1286
+(lp1287
+S'Adda Batmaloo'
+p1288
+aS'Jammu and Kashmir'
+p1289
+asS'676553'
+p1290
+(lp1291
+S'Kadampuzha'
+p1292
+aS'Kerala'
+p1293
+asS'190005'
+p1294
+(lp1295
+S'Santnagar'
+p1296
+aS'Jammu and Kashmir'
+p1297
+asS'190006'
+p1298
+(lp1299
+S'Naseem Bagh'
+p1300
+aS'Jammu and Kashmir'
+p1301
+asS'246427'
+p1302
+(lp1303
+S'Debai'
+p1304
+aS'Uttaranchal'
+p1305
+asS'190001'
+p1306
+(lp1307
+S'Badiyar Bala'
+p1308
+aS'Jammu and Kashmir'
+p1309
+asS'190002'
+p1310
+(lp1311
+S'Jamia Masjid'
+p1312
+aS'Jammu and Kashmir'
+p1313
+asS'190003'
+p1314
+(lp1315
+S'Rainawari'
+p1316
+aS'Jammu and Kashmir'
+p1317
+asS'802209'
+p1318
+(lp1319
+S'Tarari'
+p1320
+aS'Bihar'
+p1321
+asS'802202'
+p1322
+(lp1323
+S'Agion Bazar'
+p1324
+aS'Bihar'
+p1325
+asS'802206'
+p1326
+(lp1327
+S'Kasap'
+p1328
+aS'Bihar'
+p1329
+asS'686010'
+p1330
+(lp1331
+S'Vadavathoor'
+p1332
+aS'Kerala'
+p1333
+asS'802204'
+p1334
+(lp1335
+S'Hasan Bazar'
+p1336
+aS'Bihar'
+p1337
+asS'141102'
+p1338
+(lp1339
+S'Dakha'
+p1340
+aS'Punjab'
+p1341
+asS'141107'
+p1342
+(lp1343
+S'Halwara'
+p1344
+aS'Punjab'
+p1345
+asS'563138'
+p1346
+(lp1347
+S'Yeldur'
+p1348
+aS'Karnataka'
+p1349
+asS'500661'
+p1350
+(lp1351
+S'Vanavolu'
+p1352
+aS'Andhra Pradesh'
+p1353
+asS'141109'
+p1354
+(lp1355
+S'Raikot'
+p1356
+aS'Punjab'
+p1357
+asS'362257'
+p1358
+(lp1359
+S'Adri'
+p1360
+aS'Gujarat'
+p1361
+asS'562134'
+p1362
+(lp1363
+S'Vidyanagar'
+p1364
+aS'Karnataka'
+p1365
+asS'700024'
+p1366
+(lp1367
+S'Paharpur Garden'
+p1368
+aS'West Bengal'
+p1369
+asS'124425'
+p1370
+(lp1371
+S'Samchana'
+p1372
+aS'Haryana'
+p1373
+asS'124427'
+p1374
+(lp1375
+S'Chirana'
+p1376
+aS'Haryana'
+p1377
+asS'124423'
+p1378
+(lp1379
+S'Hamayunpur'
+p1380
+aS'Haryana'
+p1381
+asS'110023'
+p1382
+(lp1383
+S'Sarojini Nagar H O'
+p1384
+aS'New Delhi'
+p1385
+asS'304803'
+p1386
+(lp1387
+S'Panwar Tonk'
+p1388
+aS'Rajasthan'
+p1389
+asS'751009'
+p1390
+(lp1391
+S'Udyanmarg'
+p1392
+aS'Orisa'
+p1393
+asS'124429'
+p1394
+(lp1395
+S'Rithal'
+p1396
+aS'Haryana'
+p1397
+asS'304804'
+p1398
+(lp1399
+S'C R P Lines Deoli'
+p1400
+aS'Rajasthan'
+p1401
+asS'783122'
+p1402
+(lp1403
+S'Damru'
+p1404
+aS'Assam'
+p1405
+asS'142001'
+p1406
+(lp1407
+S'Industrial Area Moga'
+p1408
+aS'Punjab'
+p1409
+asS'110027'
+p1410
+(lp1411
+S'Janta Market'
+p1412
+aS'New Delhi'
+p1413
+asS'110024'
+p1414
+(lp1415
+S'Defence Colony'
+p1416
+aS'New Delhi'
+p1417
+asS'799101'
+p1418
+(lp1419
+S'Amarpur'
+p1420
+aS'Tripura'
+p1421
+asS'799102'
+p1422
+(lp1423
+S'Bishalgarh'
+p1424
+aS'Tripura'
+p1425
+asS'799104'
+p1426
+(lp1427
+S'Gumti Project'
+p1428
+aS'Tripura'
+p1429
+asS'799106'
+p1430
+(lp1431
+S'Boxa Nagar'
+p1432
+aS'Tripura'
+p1433
+asS'799108'
+p1434
+(lp1435
+S'Ampinagar'
+p1436
+aS'Tripura'
+p1437
+asS'209738'
+p1438
+(lp1439
+S'Umarda'
+p1440
+aS'Uttar Pradesh'
+p1441
+asS'122016'
+p1442
+(lp1443
+S'Dundahera'
+p1444
+aS'Haryana'
+p1445
+asS'203121'
+p1446
+(lp1447
+S'Agricultural School Buland'
+p1448
+aS'Uttar Pradesh'
+p1449
+asS'571178'
+p1450
+(lp1451
+S'Chandakavadi'
+p1452
+aS'Karnataka'
+p1453
+asS'571172'
+p1454
+(lp1455
+S'Ramanahalli'
+p1456
+aS'Karnataka'
+p1457
+asS'210429'
+p1458
+(lp1459
+S'Panwari'
+p1460
+aS'Uttar Pradesh'
+p1461
+asS'626117'
+p1462
+(lp1463
+S'Rajapalayam'
+p1464
+aS'Tamil Nadu'
+p1465
+asS'799204'
+p1466
+(lp1467
+S'Kulaibazar'
+p1468
+aS'Tripura'
+p1469
+asS'210423'
+p1470
+(lp1471
+S'Jaitpur (Hamirpur)'
+p1472
+aS'Uttar Pradesh'
+p1473
+asS'798612'
+p1474
+(lp1475
+S'Tuensang'
+p1476
+aS'Nagaland'
+p1477
+asS'752119'
+p1478
+(lp1479
+S'Lataharan'
+p1480
+aS'Orisa'
+p1481
+asS'822119'
+p1482
+(lp1483
+S'Mahuadand'
+p1484
+aS'Jharkhand'
+p1485
+asS'798614'
+p1486
+(lp1487
+S'Chuchyemlong'
+p1488
+aS'Nagaland'
+p1489
+asS'822115'
+p1490
+(lp1491
+S'Hyder Nagar'
+p1492
+aS'Jharkhand'
+p1493
+asS'752110'
+p1494
+(lp1495
+S'Gop'
+p1496
+aS'Orisa'
+p1497
+asS'798618'
+p1498
+(lp1499
+S'Tuli'
+p1500
+aS'Nagaland'
+p1501
+asS'822111'
+p1502
+(lp1503
+S'Barwadih'
+p1504
+aS'Jharkhand'
+p1505
+asS'822113'
+p1506
+(lp1507
+S'Chhatarpur'
+p1508
+aS'Jharkhand'
+p1509
+asS'246113'
+p1510
+(lp1511
+S'Kaljikhal'
+p1512
+aS'Uttaranchal'
+p1513
+asS'160059'
+p1514
+(lp1515
+S'Sector 59 Chandigarh'
+p1516
+aS'Chandigarh'
+p1517
+asS'796901'
+p1518
+(lp1519
+S'Saiha'
+p1520
+aS'Mizoram'
+p1521
+asS'450114'
+p1522
+(lp1523
+S'Punasa'
+p1524
+aS'Madhya Pradesh'
+p1525
+asS'450116'
+p1526
+(lp1527
+S'Harsud'
+p1528
+aS'Madhya Pradesh'
+p1529
+asS'209601'
+p1530
+(lp1531
+S'Fatehegarh'
+p1532
+aS'Uttar Pradesh'
+p1533
+asS'735101'
+p1534
+(lp1535
+S'Jalpaiguri'
+p1536
+aS'West Bengal'
+p1537
+asS'450118'
+p1538
+(lp1539
+S'Baldi'
+p1540
+aS'Madhya Pradesh'
+p1541
+asS'360035'
+p1542
+(lp1543
+S'Lodhika'
+p1544
+aS'Gujarat'
+p1545
+asS'752024'
+p1546
+(lp1547
+S'Chandpur'
+p1548
+aS'Orisa'
+p1549
+asS'752022'
+p1550
+(lp1551
+S'Kalupuraghat'
+p1552
+aS'Orisa'
+p1553
+asS'751008'
+p1554
+(lp1555
+S'Rajbhawan (Bbr-8)'
+p1556
+aS'Orisa'
+p1557
+asS'751004'
+p1558
+(lp1559
+S'Utkal University (Bhuban4'
+p1560
+aS'Orisa'
+p1561
+asS'751007'
+p1562
+(lp1563
+S'Sahidnagar (Bbr-7)'
+p1564
+aS'Orisa'
+p1565
+asS'751001'
+p1566
+(lp1567
+S'C G Colony'
+p1568
+aS'Orisa'
+p1569
+asS'752028'
+p1570
+(lp1571
+S'Nachuni'
+p1572
+aS'Orisa'
+p1573
+asS'751002'
+p1574
+(lp1575
+S'Old Bhubaneswar (Bbr-2)'
+p1576
+aS'Orisa'
+p1577
+asS'786601'
+p1578
+(lp1579
+S'Hoogrijan'
+p1580
+aS'Arunachal Pradesh'
+p1581
+asS'451440'
+p1582
+(lp1583
+S'Un (Khargone)'
+p1584
+aS'Madhya Pradesh'
+p1585
+asS'561201'
+p1586
+(lp1587
+S'V G Doddi'
+p1588
+aS'Karnataka'
+p1589
+asS'561206'
+p1590
+(lp1591
+S'Darinayakanapalya'
+p1592
+aS'Karnataka'
+p1593
+asS'700038'
+p1594
+(lp1595
+S'Sahapur'
+p1596
+aS'West Bengal'
+p1597
+asS'570020'
+p1598
+(lp1599
+S'Yadavagiri'
+p1600
+aS'Karnataka'
+p1601
+asS'560078'
+p1602
+(lp1603
+S'Jayaprakash Naryan Nagar'
+p1604
+aS'Karnataka'
+p1605
+asS'560079'
+p1606
+(lp1607
+S'Vijayanagar North'
+p1608
+aS'Karnataka'
+p1609
+asS'600017'
+p1610
+(lp1611
+S'Habibullah Road'
+p1612
+aS'Tamil Nadu'
+p1613
+asS'600016'
+p1614
+(lp1615
+S'Alandur'
+p1616
+aS'Tamil Nadu'
+p1617
+asS'600015'
+p1618
+(lp1619
+S'Saidhapet North'
+p1620
+aS'Tamil Nadu'
+p1621
+asS'600014'
+p1622
+(lp1623
+S'Ligods Road'
+p1624
+aS'Tamil Nadu'
+p1625
+asS'560070'
+p1626
+(lp1627
+S'Padmanabhanagar'
+p1628
+aS'Karnataka'
+p1629
+asS'600018'
+p1630
+(lp1631
+S'Eldams Road'
+p1632
+aS'Tamil Nadu'
+p1633
+asS'500035'
+p1634
+(lp1635
+S'Injapur'
+p1636
+aS'Andhra Pradesh'
+p1637
+asS'570024'
+p1638
+(lp1639
+S'M.R.Mohalla'
+p1640
+aS'Karnataka'
+p1641
+asS'209602'
+p1642
+(lp1643
+S'Fatehgarh'
+p1644
+aS'Uttar Pradesh'
+p1645
+asS'700032'
+p1646
+(lp1647
+S'Jadavpur University'
+p1648
+aS'West Bengal'
+p1649
+asS'303105'
+p1650
+(lp1651
+S'Nareheda'
+p1652
+aS'Rajasthan'
+p1653
+asS'303102'
+p1654
+(lp1655
+S'Viratnagar'
+p1656
+aS'Rajasthan'
+p1657
+asS'700033'
+p1658
+(lp1659
+S'Tollygunge Circular Road'
+p1660
+aS'West Bengal'
+p1661
+asS'680101'
+p1662
+(lp1663
+S'Guruvayur'
+p1664
+aS'Kerala'
+p1665
+asS'500031'
+p1666
+(lp1667
+S'Ibrahim Bagh Lines Hyderabad'
+p1668
+aS'Andhra Pradesh'
+p1669
+asS'804451'
+p1670
+(lp1671
+S'Hazaratsian'
+p1672
+aS'Bihar'
+p1673
+asS'207245'
+p1674
+(lp1675
+S'Sahawar'
+p1676
+aS'Uttar Pradesh'
+p1677
+asS'700035'
+p1678
+(lp1679
+S'Desh Bandhu Road'
+p1680
+aS'West Bengal'
+p1681
+asS'207243'
+p1682
+(lp1683
+S'Patiali'
+p1684
+aS'Uttar Pradesh'
+p1685
+asS'142021'
+p1686
+(lp1687
+S'Baddowai'
+p1688
+aS'Punjab'
+p1689
+asS'782460'
+p1690
+(lp1691
+S'Diphu'
+p1692
+aS'Assam'
+p1693
+asS'600019'
+p1694
+(lp1695
+S'Kaladipet'
+p1696
+aS'Tamil Nadu'
+p1697
+asS'796015'
+p1698
+(lp1699
+S'Tlaingnuam'
+p1700
+aS'Mizoram'
+p1701
+asS'492009'
+p1702
+(lp1703
+S'Raipur Ganj'
+p1704
+aS'Chattisgarh'
+p1705
+asS'361295'
+p1706
+(lp1707
+S'Jam Gadhka'
+p1708
+aS'Gujarat'
+p1709
+asS'492001'
+p1710
+(lp1711
+S'Raipur Ho.'
+p1712
+aS'Chattisgarh'
+p1713
+asS'492004'
+p1714
+(lp1715
+S'Raipur Pandri'
+p1716
+aS'Chattisgarh'
+p1717
+asS'492007'
+p1718
+(lp1719
+S'Raipur Shankar Nagar'
+p1720
+aS'Chattisgarh'
+p1721
+asS'246495'
+p1722
+(lp1723
+S'Chopra'
+p1724
+aS'Uttaranchal'
+p1725
+asS'829131'
+p1726
+(lp1727
+S'Sikh Regimental Centre'
+p1728
+aS'Jharkhand'
+p1729
+asS'803107'
+p1730
+(lp1731
+S'Asthawan'
+p1732
+aS'Bihar'
+p1733
+asS'803101'
+p1734
+(lp1735
+S'Amber'
+p1736
+aS'Bihar'
+p1737
+asS'173102'
+p1738
+(lp1739
+S'Sanaura'
+p1740
+aS'Himachal Pradesh'
+p1741
+asS'453115'
+p1742
+(lp1743
+S'Depalpur'
+p1744
+aS'Madhya Pradesh'
+p1745
+asS'173104'
+p1746
+(lp1747
+S'Nohra'
+p1748
+aS'Himachal Pradesh'
+p1749
+asS'803109'
+p1750
+(lp1751
+S'Giriak'
+p1752
+aS'Bihar'
+p1753
+asS'786159'
+p1754
+(lp1755
+S'Talap'
+p1756
+aS'Arunachal Pradesh'
+p1757
+asS'786158'
+p1758
+(lp1759
+S'Kundil'
+p1760
+aS'Arunachal Pradesh'
+p1761
+asS'786155'
+p1762
+(lp1763
+S'Sadiya'
+p1764
+aS'Arunachal Pradesh'
+p1765
+asS'786153'
+p1766
+(lp1767
+S'Rupai Siding'
+p1768
+aS'Arunachal Pradesh'
+p1769
+asS'786151'
+p1770
+(lp1771
+S'Doomdooma'
+p1772
+aS'Arunachal Pradesh'
+p1773
+asS'786150'
+p1774
+(lp1775
+S'Barhapjan'
+p1776
+aS'Arunachal Pradesh'
+p1777
+asS'754222'
+p1778
+(lp1779
+S'Chaudkulat'
+p1780
+aS'Orisa'
+p1781
+asS'829110'
+p1782
+(lp1783
+S'Gola'
+p1784
+aS'Jharkhand'
+p1785
+asS'500018'
+p1786
+(lp1787
+S'Erragadda'
+p1788
+aS'Andhra Pradesh'
+p1789
+asS'816117'
+p1790
+(lp1791
+S'Pakuria'
+p1792
+aS'Jharkhand'
+p1793
+asS'829118'
+p1794
+(lp1795
+S'Patratu'
+p1796
+aS'Jharkhand'
+p1797
+asS'816115'
+p1798
+(lp1799
+S'Sakrigalighat'
+p1800
+aS'Jharkhand'
+p1801
+asS'500011'
+p1802
+(lp1803
+S'Old Air Port Hyd'
+p1804
+aS'Andhra Pradesh'
+p1805
+asS'500017'
+p1806
+(lp1807
+S'Sainagar'
+p1808
+aS'Andhra Pradesh'
+p1809
+asS'500014'
+p1810
+(lp1811
+S'Hankimpet (Hyd)'
+p1812
+aS'Andhra Pradesh'
+p1813
+asS'500015'
+p1814
+(lp1815
+S'M C Eme'
+p1816
+aS'Andhra Pradesh'
+p1817
+asS'493354'
+p1818
+(lp1819
+S'Basana'
+p1820
+aS'Chattisgarh'
+p1821
+asS'124129'
+p1822
+(lp1823
+S'Saman'
+p1824
+aS'Haryana'
+p1825
+asS'124124'
+p1826
+(lp1827
+S'Katesra'
+p1828
+aS'Haryana'
+p1829
+asS'494554'
+p1830
+(lp1831
+S'Akash Nagar'
+p1832
+aS'Chattisgarh'
+p1833
+asS'124126'
+p1834
+(lp1835
+S'Kalinga'
+p1836
+aS'Haryana'
+p1837
+asS'603301'
+p1838
+(lp1839
+S'Acharapakkam'
+p1840
+aS'Tamil Nadu'
+p1841
+asS'124120'
+p1842
+(lp1843
+S'Bahlba'
+p1844
+aS'Haryana'
+p1845
+asS'603307'
+p1846
+(lp1847
+S'Orathi'
+p1848
+aS'Tamil Nadu'
+p1849
+asS'494552'
+p1850
+(lp1851
+S'Nakulnar'
+p1852
+aS'Chattisgarh'
+p1853
+asS'246438'
+p1854
+(lp1855
+S'Gholtir'
+p1856
+aS'Uttaranchal'
+p1857
+asS'246435'
+p1858
+(lp1859
+S'Ghat'
+p1860
+aS'Uttaranchal'
+p1861
+asS'802219'
+p1862
+(lp1863
+S'Rajpur(Arrah)'
+p1864
+aS'Bihar'
+p1865
+asS'123401'
+p1866
+(lp1867
+S'Gokal Bazar Rewari'
+p1868
+aS'Haryana'
+p1869
+asS'802211'
+p1870
+(lp1871
+S'Banbhnaul'
+p1872
+aS'Bihar'
+p1873
+asS'802215'
+p1874
+(lp1875
+S'Garh Nokha'
+p1876
+aS'Bihar'
+p1877
+asS'500659'
+p1878
+(lp1879
+S'Saidabad (Hyd)'
+p1880
+aS'Andhra Pradesh'
+p1881
+asS'563128'
+p1882
+(lp1883
+S'Kaiwara'
+p1884
+aS'Karnataka'
+p1885
+asS'248141'
+p1886
+(lp1887
+S'Ghanghora'
+p1888
+aS'Uttaranchal'
+p1889
+asS'248143'
+p1890
+(lp1891
+S'Bhogpur'
+p1892
+aS'Uttaranchal'
+p1893
+asS'563121'
+p1894
+(lp1895
+S'Oorgaumpet'
+p1896
+aS'Karnataka'
+p1897
+asS'563120'
+p1898
+(lp1899
+S'Oorgaum East'
+p1900
+aS'Karnataka'
+p1901
+asS'248147'
+p1902
+(lp1903
+S'Dhakrani'
+p1904
+aS'Uttaranchal'
+p1905
+asS'673579'
+p1906
+(lp1907
+S'Padichira B.O'
+p1908
+aS'Kerala'
+p1909
+asS'791113'
+p1910
+(lp1911
+S'R.K.'
+p1912
+aS'Arunachal Pradesh'
+p1913
+asS'791111'
+p1914
+(lp1915
+S'Itanagar'
+p1916
+aS'Arunachal Pradesh'
+p1917
+asS'454365'
+p1918
+(lp1919
+S'Dahi'
+p1920
+aS'Madhya Pradesh'
+p1921
+asS'362245'
+p1922
+(lp1923
+S'Maliya Hatina'
+p1924
+aS'Gujarat'
+p1925
+asS'673573'
+p1926
+(lp1927
+S'Santhinagar B.O'
+p1928
+aS'Kerala'
+p1929
+asS'362710'
+p1930
+(lp1931
+S'Ghantvad'
+p1932
+aS'Gujarat'
+p1933
+asS'494775'
+p1934
+(lp1935
+S'Kondal (Durg)'
+p1936
+aS'Chattisgarh'
+p1937
+asS'673574'
+p1938
+(lp1939
+S'Unnikulam'
+p1940
+aS'Kerala'
+p1941
+asS'274601'
+p1942
+(lp1943
+S'Barhaj'
+p1944
+aS'Tamil Nadu'
+p1945
+asS'274603'
+p1946
+(lp1947
+S'Gaurajainagar'
+p1948
+aS'Tamil Nadu'
+p1949
+asS'124412'
+p1950
+(lp1951
+S'Kahnaur'
+p1952
+aS'Haryana'
+p1953
+asS'124413'
+p1954
+(lp1955
+S'Anaj Mandi Jind'
+p1956
+aS'Haryana'
+p1957
+asS'248008'
+p1958
+(lp1959
+S'Nehrugram'
+p1960
+aS'Uttaranchal'
+p1961
+asS'124416'
+p1962
+(lp1963
+S'Baliana'
+p1964
+aS'Haryana'
+p1965
+asS'124418'
+p1966
+(lp1967
+S'Dobh'
+p1968
+aS'Haryana'
+p1969
+asS'248005'
+p1970
+(lp1971
+S'I.I.P. Dehradun'
+p1972
+aS'Uttaranchal'
+p1973
+asS'248007'
+p1974
+(lp1975
+S'Prem Nagar'
+p1976
+aS'Uttaranchal'
+p1977
+asS'248002'
+p1978
+(lp1979
+S'Clement Town'
+p1980
+aS'Uttaranchal'
+p1981
+asS'141008'
+p1982
+(lp1983
+S'Jalpat Rai Market'
+p1984
+aS'Punjab'
+p1985
+asS'303329'
+p1986
+(lp1987
+S'Agri College Jobner'
+p1988
+aS'Rajasthan'
+p1989
+asS'141003'
+p1990
+(lp1991
+S'G T Road Ludhiana'
+p1992
+aS'Punjab'
+p1993
+asS'141001'
+p1994
+(lp1995
+S'Sat Sang Rd Ludhiana'
+p1996
+aS'Punjab'
+p1997
+asS'141004'
+p1998
+(lp1999
+S'P A P Lines'
+p2000
+aS'Punjab'
+p2001
+asS'141005'
+p2002
+(lp2003
+S'Neta Ji Nagar'
+p2004
+aS'Punjab'
+p2005
+asS'781385'
+p2006
+(lp2007
+S'Kaniha'
+p2008
+aS'Assam'
+p2009
+asS'679326'
+p2010
+(lp2011
+S'Edayattur B.O'
+p2012
+aS'Kerala'
+p2013
+asS'781381'
+p2014
+(lp2015
+S'Baihata Charali'
+p2016
+aS'Assam'
+p2017
+asS'799115'
+p2018
+(lp2019
+S'Melagarh'
+p2020
+aS'Tripura'
+p2021
+asS'562149'
+p2022
+(lp2023
+S'Bagal'
+p2024
+aS'Karnataka'
+p2025
+asS'182142'
+p2026
+(lp2027
+S'Kud'
+p2028
+aS'Jammu and Kashmir'
+p2029
+asS'301420'
+p2030
+(lp2031
+S'Rajpur'
+p2032
+aS'Rajasthan'
+p2033
+asS'182146'
+p2034
+(lp2035
+S'Banihal'
+p2036
+aS'Jammu and Kashmir'
+p2037
+asS'451221'
+p2038
+(lp2039
+S'Mandleshwar'
+p2040
+aS'Madhya Pradesh'
+p2041
+asS'182144'
+p2042
+(lp2043
+S'Ramban'
+p2044
+aS'Jammu and Kashmir'
+p2045
+asS'451223'
+p2046
+(lp2047
+S'Choli'
+p2048
+aS'Madhya Pradesh'
+p2049
+asS'122005'
+p2050
+(lp2051
+S'Air Force Gurgaon'
+p2052
+aS'Haryana'
+p2053
+asS'122001'
+p2054
+(lp2055
+S'Urban Estate Gurgaon'
+p2056
+aS'Haryana'
+p2057
+asS'451229'
+p2058
+(lp2059
+S'Balsamund'
+p2060
+aS'Madhya Pradesh'
+p2061
+asS'571149'
+p2062
+(lp2063
+S'Naganahalli'
+p2064
+aS'Karnataka'
+p2065
+asS'800016'
+p2066
+(lp2067
+S'K Sector'
+p2068
+aS'Bihar'
+p2069
+asS'491113'
+p2070
+(lp2071
+S'Nandkathi'
+p2072
+aS'Chattisgarh'
+p2073
+asS'450052'
+p2074
+(lp2075
+S'Badagaon (Gugar)'
+p2076
+aS'Madhya Pradesh'
+p2077
+asS'571143'
+p2078
+(lp2079
+S'Varakodu'
+p2080
+aS'Karnataka'
+p2081
+asS'501528'
+p2082
+(lp2083
+S'Batasingaram'
+p2084
+aS'Andhra Pradesh'
+p2085
+asS'752101'
+p2086
+(lp2087
+S'Balianta'
+p2088
+aS'Orisa'
+p2089
+asS'822102'
+p2090
+(lp2091
+S'Daltonganj College'
+p2092
+aS'Jharkhand'
+p2093
+asS'752105'
+p2094
+(lp2095
+S'Balanga'
+p2096
+aS'Orisa'
+p2097
+asS'752107'
+p2098
+(lp2099
+S'Nayahat'
+p2100
+aS'Orisa'
+p2101
+asS'364230'
+p2102
+(lp2103
+S'Sanosra'
+p2104
+aS'Gujarat'
+p2105
+asS'496554'
+p2106
+(lp2107
+S'Saria'
+p2108
+aS'Chattisgarh'
+p2109
+asS'363622'
+p2110
+(lp2111
+S'Wankaner Amarpura'
+p2112
+aS'Gujarat'
+p2113
+asS'360022'
+p2114
+(lp2115
+S'Sanosra Raj'
+p2116
+aS'Gujarat'
+p2117
+asS'752037'
+p2118
+(lp2119
+S'N T C Chilika'
+p2120
+aS'Orisa'
+p2121
+asS'752032'
+p2122
+(lp2123
+S'Pavikud'
+p2124
+aS'Orisa'
+p2125
+asS'751031'
+p2126
+(lp2127
+S'Patia'
+p2128
+aS'Orisa'
+p2129
+asS'248164'
+p2130
+(lp2131
+S'Chibroo'
+p2132
+aS'Uttaranchal'
+p2133
+asS'451451'
+p2134
+(lp2135
+S'Nagalwadi'
+p2136
+aS'Madhya Pradesh'
+p2137
+asS'826004'
+p2138
+(lp2139
+S'Indian School Of Mines (Ism)'
+p2140
+aS'Jharkhand'
+p2141
+asS'826001'
+p2142
+(lp2143
+S'Dhanbad Ho.'
+p2144
+aS'Jharkhand'
+p2145
+asS'174103'
+p2146
+(lp2147
+S'Barotiwala'
+p2148
+aS'Himachal Pradesh'
+p2149
+asS'561212'
+p2150
+(lp2151
+S'Pathapalya'
+p2152
+aS'Karnataka'
+p2153
+asS'207122'
+p2154
+(lp2155
+S'Kalan'
+p2156
+aS'Uttar Pradesh'
+p2157
+asS'561217'
+p2158
+(lp2159
+S'Viduraswatha'
+p2160
+aS'Karnataka'
+p2161
+asS'560065'
+p2162
+(lp2163
+S'Vigyana Kendra'
+p2164
+aS'Karnataka'
+p2165
+asS'560064'
+p2166
+(lp2167
+S'Yelahanka Bazar'
+p2168
+aS'Karnataka'
+p2169
+asS'560067'
+p2170
+(lp2171
+S'Kadugodi'
+p2172
+aS'Karnataka'
+p2173
+asS'602026'
+p2174
+(lp2175
+S'Uttukottai'
+p2176
+aS'Tamil Nadu'
+p2177
+asS'792122'
+p2178
+(lp2179
+S'Miao'
+p2180
+aS'Arunachal Pradesh'
+p2181
+asS'792120'
+p2182
+(lp2183
+S'Changlong'
+p2184
+aS'Arunachal Pradesh'
+p2185
+asS'202140'
+p2186
+(lp2187
+S'Lodha'
+p2188
+aS'Uttar Pradesh'
+p2189
+asS'456335'
+p2190
+(lp2191
+S'Nagda Town'
+p2192
+aS'Madhya Pradesh'
+p2193
+asS'303006'
+p2194
+(lp2195
+S'Madhorajpura'
+p2196
+aS'Rajasthan'
+p2197
+asS'303003'
+p2198
+(lp2199
+S'Maid'
+p2200
+aS'Rajasthan'
+p2201
+asS'786010'
+p2202
+(lp2203
+S'Lahoal'
+p2204
+aS'Arunachal Pradesh'
+p2205
+asS'600033'
+p2206
+(lp2207
+S'West Mambalam'
+p2208
+aS'Tamil Nadu'
+p2209
+asS'180011'
+p2210
+(lp2211
+S'Training Centre'
+p2212
+aS'Jammu and Kashmir'
+p2213
+asS'600032'
+p2214
+(lp2215
+S'Hindustan Teleprinters'
+p2216
+aS'Tamil Nadu'
+p2217
+asS'503110'
+p2218
+(lp2219
+S'Rajampet (Kamareddy)'
+p2220
+aS'Andhra Pradesh'
+p2221
+asS'503111'
+p2222
+(lp2223
+S'Indira Nagar'
+p2224
+aS'Andhra Pradesh'
+p2225
+asS'500463'
+p2226
+(lp2227
+S'L I C Dn Hyd'
+p2228
+aS'Andhra Pradesh'
+p2229
+asS'796321'
+p2230
+(lp2231
+S'Champai'
+p2232
+aS'Mizoram'
+p2233
+asS'500264'
+p2234
+(lp2235
+S'Bahadur Purra (Hyd)'
+p2236
+aS'Andhra Pradesh'
+p2237
+asS'500266'
+p2238
+(lp2239
+S'High Court Hyderabad'
+p2240
+aS'Andhra Pradesh'
+p2241
+asS'744103'
+p2242
+(lp2243
+S'Jangli Ghat'
+p2244
+aS'Andaman and Nicobar'
+p2245
+asS'744101'
+p2246
+(lp2247
+S'Port Blair H O'
+p2248
+aS'Andaman and Nicobar'
+p2249
+asS'803111'
+p2250
+(lp2251
+S'Nalanda R S'
+p2252
+aS'Bihar'
+p2253
+asS'744104'
+p2254
+(lp2255
+S'Aberdeen Bazar'
+p2256
+aS'Andaman and Nicobar'
+p2257
+asS'140506'
+p2258
+(lp2259
+S'Dappar Ammunition Depot'
+p2260
+aS'Punjab'
+p2261
+asS'803118'
+p2262
+(lp2263
+S'Ashanagar'
+p2264
+aS'Bihar'
+p2265
+asS'786125'
+p2266
+(lp2267
+S'Parbatia'
+p2268
+aS'Arunachal Pradesh'
+p2269
+asS'686141'
+p2270
+(lp2271
+S'Vaikom'
+p2272
+aS'Kerala'
+p2273
+asS'829124'
+p2274
+(lp2275
+S'Religarha'
+p2276
+aS'Jharkhand'
+p2277
+asS'500003'
+p2278
+(lp2279
+S'M G Rd'
+p2280
+aS'Andhra Pradesh'
+p2281
+asS'500002'
+p2282
+(lp2283
+S'Tagarikanaka'
+p2284
+aS'Andhra Pradesh'
+p2285
+asS'829120'
+p2286
+(lp2287
+S'Patratu Diesal Colony'
+p2288
+aS'Jharkhand'
+p2289
+asS'500004'
+p2290
+(lp2291
+S'Ac Guards'
+p2292
+aS'Andhra Pradesh'
+p2293
+asS'500007'
+p2294
+(lp2295
+S'Advanced Training Institute'
+p2296
+aS'Andhra Pradesh'
+p2297
+asS'493344'
+p2298
+(lp2299
+S'Katgi (Raipur)'
+p2300
+aS'Chattisgarh'
+p2301
+asS'124138'
+p2302
+(lp2303
+S'Jahangirpur'
+p2304
+aS'Haryana'
+p2305
+asS'603311'
+p2306
+(lp2307
+S'Zamin Endathur'
+p2308
+aS'Tamil Nadu'
+p2309
+asS'124132'
+p2310
+(lp2311
+S'Ritauli'
+p2312
+aS'Haryana'
+p2313
+asS'124130'
+p2314
+(lp2315
+S'Talao'
+p2316
+aS'Haryana'
+p2317
+asS'124135'
+p2318
+(lp2319
+S'Daura Raja'
+p2320
+aS'Haryana'
+p2321
+asS'802226'
+p2322
+(lp2323
+S'Dawath'
+p2324
+aS'Bihar'
+p2325
+asS'802223'
+p2326
+(lp2327
+S'Charpokhri'
+p2328
+aS'Bihar'
+p2329
+asS'670694'
+p2330
+(lp2331
+S'Champad'
+p2332
+aS'Kerala'
+p2333
+asS'124005'
+p2334
+(lp2335
+S'Titauli'
+p2336
+aS'Haryana'
+p2337
+asS'682023'
+p2338
+(lp2339
+S'Vaduthala'
+p2340
+aS'Kerala'
+p2341
+asS'500134'
+p2342
+(lp2343
+S'Central University Campus'
+p2344
+aS'Andhra Pradesh'
+p2345
+asS'248179'
+p2346
+(lp2347
+S'Mussoorie'
+p2348
+aS'Uttaranchal'
+p2349
+asS'670501'
+p2350
+(lp2351
+S'Kadannapally B.O'
+p2352
+aS'Kerala'
+p2353
+asS'431507'
+p2354
+(lp2355
+S'Ashti (Parabhani)'
+p2356
+aS'Orisa'
+p2357
+asS'563117'
+p2358
+(lp2359
+S'Champion Reefs'
+p2360
+aS'Karnataka'
+p2361
+asS'496445'
+p2362
+(lp2363
+S'Sarangarh'
+p2364
+aS'Chattisgarh'
+p2365
+asS'828142'
+p2366
+(lp2367
+S'Tundi'
+p2368
+aS'Jharkhand'
+p2369
+asS'206127'
+p2370
+(lp2371
+S'Lakhna'
+p2372
+aS'Uttar Pradesh'
+p2373
+asS'496116'
+p2374
+(lp2375
+S'Dharam Jaigarh'
+p2376
+aS'Chattisgarh'
+p2377
+asS'124408'
+p2378
+(lp2379
+S'Farmana'
+p2380
+aS'Haryana'
+p2381
+asS'124406'
+p2382
+(lp2383
+S'Kansala'
+p2384
+aS'Haryana'
+p2385
+asS'121102'
+p2386
+(lp2387
+S'N T Palwal'
+p2388
+aS'Uttar Pradesh'
+p2389
+asS'124403'
+p2390
+(lp2391
+S'Rohat'
+p2392
+aS'Haryana'
+p2393
+asS'454116'
+p2394
+(lp2395
+S'Rajgarh (Dhar)'
+p2396
+aS'Madhya Pradesh'
+p2397
+asS'796471'
+p2398
+(lp2399
+S'Lakhicherra'
+p2400
+aS'Mizoram'
+p2401
+asS'364130'
+p2402
+(lp2403
+S'Datha'
+p2404
+aS'Gujarat'
+p2405
+asS'802173'
+p2406
+(lp2407
+S'Jalpura'
+p2408
+aS'Bihar'
+p2409
+asS'274701'
+p2410
+(lp2411
+S'Bhatni'
+p2412
+aS'Tamil Nadu'
+p2413
+asS'465686'
+p2414
+(lp2415
+S'Barodia Kumaria'
+p2416
+aS'Chattisgarh'
+p2417
+asS'671125'
+p2418
+(lp2419
+S'Ramdas Nagar'
+p2420
+aS'Kerala'
+p2421
+asS'455223'
+p2422
+(lp2423
+S'Hat Pipalia'
+p2424
+aS'Madhya Pradesh'
+p2425
+asS'671123'
+p2426
+(lp2427
+S'Alampadi B.O'
+p2428
+aS'Kerala'
+p2429
+asS'671122'
+p2430
+(lp2431
+S'Talangara'
+p2432
+aS'Kerala'
+p2433
+asS'210206'
+p2434
+(lp2435
+S'Pahari'
+p2436
+aS'Uttar Pradesh'
+p2437
+asS'700042'
+p2438
+(lp2439
+S'Bose Pukur Road'
+p2440
+aS'West Bengal'
+p2441
+asS'202521'
+p2442
+(lp2443
+S'Babrala'
+p2444
+aS'Uttar Pradesh'
+p2445
+asS'202525'
+p2446
+(lp2447
+S'Saidpur (Badaun)'
+p2448
+aS'Uttar Pradesh'
+p2449
+asS'202527'
+p2450
+(lp2451
+S'Rajpura'
+p2452
+aS'Uttar Pradesh'
+p2453
+asS'752093'
+p2454
+(lp2455
+S'Mandhyakhand'
+p2456
+aS'Orisa'
+p2457
+asS'122104'
+p2458
+(lp2459
+S'Ferozepur Jhirka'
+p2460
+aS'Haryana'
+p2461
+asS'122106'
+p2462
+(lp2463
+S'Dharuhera'
+p2464
+aS'Haryana'
+p2465
+asS'122101'
+p2466
+(lp2467
+S'Badshahpur'
+p2468
+aS'Haryana'
+p2469
+asS'248119'
+p2470
+(lp2471
+S'Korwa'
+p2472
+aS'Uttaranchal'
+p2473
+asS'122108'
+p2474
+(lp2475
+S'Nagina'
+p2476
+aS'Haryana'
+p2477
+asS'246172'
+p2478
+(lp2479
+S'Satpuri'
+p2480
+aS'Uttaranchal'
+p2481
+asS'246170'
+p2482
+(lp2483
+S'Rikhani Khal'
+p2484
+aS'Uttaranchal'
+p2485
+asS'160036'
+p2486
+(lp2487
+S'Sector 36 Chandigarh'
+p2488
+aS'Chandigarh'
+p2489
+asS'246174'
+p2490
+(lp2491
+S'Srinagar'
+p2492
+aS'Uttaranchal'
+p2493
+asS'410401'
+p2494
+(lp2495
+S'Lonavala'
+p2496
+aS'Maharashtra'
+p2497
+asS'752001'
+p2498
+(lp2499
+S'S C S College'
+p2500
+aS'Orisa'
+p2501
+asS'752002'
+p2502
+(lp2503
+S'Balikhand Chakratirsh'
+p2504
+aS'Orisa'
+p2505
+asS'607402'
+p2506
+(lp2507
+S'Bahoor'
+p2508
+aS'Pondicherry'
+p2509
+asS'360583'
+p2510
+(lp2511
+S'Bakharla'
+p2512
+aS'Gujarat'
+p2513
+asS'783120'
+p2514
+(lp2515
+S'Agia'
+p2516
+aS'Assam'
+p2517
+asS'827014'
+p2518
+(lp2519
+S'Balidih'
+p2520
+aS'Jharkhand'
+p2521
+asS'561227'
+p2522
+(lp2523
+S'Sailapura'
+p2524
+aS'Karnataka'
+p2525
+asS'609602'
+p2526
+(lp2527
+S'Karaikal'
+p2528
+aS'Pondicherry'
+p2529
+asS'827011'
+p2530
+(lp2531
+S'Bokaro Steel City So'
+p2532
+aS'Jharkhand'
+p2533
+asS'144002'
+p2534
+(lp2535
+S'Jalandhar'
+p2536
+aS'Punjab'
+p2537
+asS'122211'
+p2538
+(lp2539
+S'Palmar'
+p2540
+aS'Haryana'
+p2541
+asS'560057'
+p2542
+(lp2543
+S'Dasarahalli'
+p2544
+aS'Karnataka'
+p2545
+asS'560051'
+p2546
+(lp2547
+S'Old Cemetry Road'
+p2548
+aS'Karnataka'
+p2549
+asS'560052'
+p2550
+(lp2551
+S'Vasantanagar'
+p2552
+aS'Karnataka'
+p2553
+asS'204101'
+p2554
+(lp2555
+S'Labour Colony'
+p2556
+aS'Uttar Pradesh'
+p2557
+asS'560059'
+p2558
+(lp2559
+S'R V Niketan'
+p2560
+aS'Karnataka'
+p2561
+asS'811104'
+p2562
+(lp2563
+S'Sarmera'
+p2564
+aS'Bihar'
+p2565
+asS'502257'
+p2566
+(lp2567
+S'Rai Kode'
+p2568
+aS'Andhra Pradesh'
+p2569
+asS'262311'
+p2570
+(lp2571
+S'Nanakmatta'
+p2572
+aS'Uttaranchal'
+p2573
+asS'450661'
+p2574
+(lp2575
+S'Pandhana'
+p2576
+aS'Madhya Pradesh'
+p2577
+asS'344022'
+p2578
+(lp2579
+S'Balotra'
+p2580
+aS'Rajasthan'
+p2581
+asS'174001'
+p2582
+(lp2583
+S'New Bilaspur Township'
+p2584
+aS'Himachal Pradesh'
+p2585
+asS'606207'
+p2586
+(lp2587
+S'Vadakkanendal'
+p2588
+aS'Tamil Nadu'
+p2589
+asS'490036'
+p2590
+(lp2591
+S'Bhilai Nandni Mines'
+p2592
+aS'Chattisgarh'
+p2593
+asS'606202'
+p2594
+(lp2595
+S'Emapper'
+p2596
+aS'Tamil Nadu'
+p2597
+asS'700050'
+p2598
+(lp2599
+S'South Sinthee'
+p2600
+aS'West Bengal'
+p2601
+asS'782486'
+p2602
+(lp2603
+S'Hamren'
+p2604
+aS'Assam'
+p2605
+asS'782481'
+p2606
+(lp2607
+S'Howraghat'
+p2608
+aS'Assam'
+p2609
+asS'452001'
+p2610
+(lp2611
+S'Indore Siyaganj'
+p2612
+aS'Madhya Pradesh'
+p2613
+asS'249302'
+p2614
+(lp2615
+S'Laxman Jhula'
+p2616
+aS'Uttaranchal'
+p2617
+asS'571122'
+p2618
+(lp2619
+S'Talkod'
+p2620
+aS'Karnataka'
+p2621
+asS'606901'
+p2622
+(lp2623
+S'Adamangalam'
+p2624
+aS'Tamil Nadu'
+p2625
+asS'121001'
+p2626
+(lp2627
+S'Faridabad City'
+p2628
+aS'Uttar Pradesh'
+p2629
+asS'700051'
+p2630
+(lp2631
+S'Birati'
+p2632
+aS'West Bengal'
+p2633
+asS'786004'
+p2634
+(lp2635
+S'Dibrugarh University'
+p2636
+aS'Arunachal Pradesh'
+p2637
+asS'786007'
+p2638
+(lp2639
+S'Barbarua'
+p2640
+aS'Arunachal Pradesh'
+p2641
+asS'786001'
+p2642
+(lp2643
+S'Chouki Dingee'
+p2644
+aS'Arunachal Pradesh'
+p2645
+asS'700052'
+p2646
+(lp2647
+S'Kolkata Air Port'
+p2648
+aS'West Bengal'
+p2649
+asS'786003'
+p2650
+(lp2651
+S'Revenue Building'
+p2652
+aS'Arunachal Pradesh'
+p2653
+asS'303012'
+p2654
+(lp2655
+S'Kanota'
+p2656
+aS'Rajasthan'
+p2657
+asS'180009'
+p2658
+(lp2659
+S'Bohr Camp'
+p2660
+aS'Jammu and Kashmir'
+p2661
+asS'180005'
+p2662
+(lp2663
+S'Qilla Bahu'
+p2664
+aS'Jammu and Kashmir'
+p2665
+asS'180004'
+p2666
+(lp2667
+S'Gandhi Nagar H O'
+p2668
+aS'Jammu and Kashmir'
+p2669
+asS'180007'
+p2670
+(lp2671
+S'Jamipura'
+p2672
+aS'Jammu and Kashmir'
+p2673
+asS'180001'
+p2674
+(lp2675
+S'Kachi Chawni'
+p2676
+aS'Jammu and Kashmir'
+p2677
+asS'180003'
+p2678
+(lp2679
+S'Jammu Tawi'
+p2680
+aS'Jammu and Kashmir'
+p2681
+asS'180002'
+p2682
+(lp2683
+S'Talab Tiloo'
+p2684
+aS'Jammu and Kashmir'
+p2685
+asS'451563'
+p2686
+(lp2687
+S'Thibgaon'
+p2688
+aS'Madhya Pradesh'
+p2689
+asS'503102'
+p2690
+(lp2691
+S'Jangampalli'
+p2692
+aS'Andhra Pradesh'
+p2693
+asS'571125'
+p2694
+(lp2695
+S'Hamapapura (H D)'
+p2696
+aS'Karnataka'
+p2697
+asS'500252'
+p2698
+(lp2699
+S'Academy (Hyderabad)'
+p2700
+aS'Andhra Pradesh'
+p2701
+asS'500253'
+p2702
+(lp2703
+S'Falaknuma Hyd'
+p2704
+aS'Andhra Pradesh'
+p2705
+asS'803120'
+p2706
+(lp2707
+S'Asta'
+p2708
+aS'Bihar'
+p2709
+asS'175030'
+p2710
+(lp2711
+S'Dehar'
+p2712
+aS'Himachal Pradesh'
+p2713
+asS'803129'
+p2714
+(lp2715
+S'Tetrawan'
+p2716
+aS'Bihar'
+p2717
+asS'794002'
+p2718
+(lp2719
+S'Lower Chandmari'
+p2720
+aS'Meghalaya'
+p2721
+asS'492112'
+p2722
+(lp2723
+S'Sakara (Basna)'
+p2724
+aS'Chattisgarh'
+p2725
+asS'680104'
+p2726
+(lp2727
+S'Thaikkad'
+p2728
+aS'Kerala'
+p2729
+asS'500036'
+p2730
+(lp2731
+S'Old Malakpet'
+p2732
+aS'Andhra Pradesh'
+p2733
+asS'500037'
+p2734
+(lp2735
+S'T I E Balanagar'
+p2736
+aS'Andhra Pradesh'
+p2737
+asS'500030'
+p2738
+(lp2739
+S'Rajendranagar (Hyd)'
+p2740
+aS'Andhra Pradesh'
+p2741
+asS'175036'
+p2742
+(lp2743
+S'Gurkothu'
+p2744
+aS'Himachal Pradesh'
+p2745
+asS'500032'
+p2746
+(lp2747
+S'Gachibowli'
+p2748
+aS'Andhra Pradesh'
+p2749
+asS'491445'
+p2750
+(lp2751
+S'Dongargarh'
+p2752
+aS'Chattisgarh'
+p2753
+asS'305405'
+p2754
+(lp2755
+S'Kadera'
+p2756
+aS'Rajasthan'
+p2757
+asS'491443'
+p2758
+(lp2759
+S'Bajrangpur (Nawagaon)'
+p2760
+aS'Chattisgarh'
+p2761
+asS'532127'
+p2762
+(lp2763
+S'Rajam'
+p2764
+aS'Andhra Pradesh'
+p2765
+asS'175038'
+p2766
+(lp2767
+S'Nihri'
+p2768
+aS'Himachal Pradesh'
+p2769
+asS'802183'
+p2770
+(lp2771
+S'Gaudarh Rudranagar'
+p2772
+aS'Bihar'
+p2773
+asS'261405'
+p2774
+(lp2775
+S'Sittarganj'
+p2776
+aS'Uttaranchal'
+p2777
+asS'829135'
+p2778
+(lp2779
+S'Bhurkunda'
+p2780
+aS'Jharkhand'
+p2781
+asS'140602'
+p2782
+(lp2783
+S'Manakpur'
+p2784
+aS'Punjab'
+p2785
+asS'686730'
+p2786
+(lp2787
+S'Ooramana'
+p2788
+aS'Kerala'
+p2789
+asS'304508'
+p2790
+(lp2791
+S'Chandsen'
+p2792
+aS'Rajasthan'
+p2793
+asS'801502'
+p2794
+(lp2795
+S'Daudpur (Patna)'
+p2796
+aS'Bihar'
+p2797
+asS'801505'
+p2798
+(lp2799
+S'Phulwarisharif'
+p2800
+aS'Bihar'
+p2801
+asS'454749'
+p2802
+(lp2803
+S'Bagdi'
+p2804
+aS'Madhya Pradesh'
+p2805
+asS'248160'
+p2806
+(lp2807
+S'Harrawalla'
+p2808
+aS'Uttaranchal'
+p2809
+asS'500013'
+p2810
+(lp2811
+S'Central Police Lines'
+p2812
+aS'Andhra Pradesh'
+p2813
+asS'670511'
+p2814
+(lp2815
+S'Thabore B.O'
+p2816
+aS'Kerala'
+p2817
+asS'500010'
+p2818
+(lp2819
+S'Old Alwal Bolaram Bazar'
+p2820
+aS'Andhra Pradesh'
+p2821
+asS'362263'
+p2822
+(lp2823
+S'Bagdu'
+p2824
+aS'Gujarat'
+p2825
+asS'600008'
+p2826
+(lp2827
+S'Egmore'
+p2828
+aS'Tamil Nadu'
+p2829
+asS'201201'
+p2830
+(lp2831
+S'Harmukhpur'
+p2832
+aS'Uttar Pradesh'
+p2833
+asS'454341'
+p2834
+(lp2835
+S'Chikhalda'
+p2836
+aS'Madhya Pradesh'
+p2837
+asS'600009'
+p2838
+(lp2839
+S'Fort St George'
+p2840
+aS'Tamil Nadu'
+p2841
+asS'206002'
+p2842
+(lp2843
+S'Industrial Trainging Institute'
+p2844
+aS'Uttar Pradesh'
+p2845
+asS'795121'
+p2846
+(lp2847
+S'K K Prampat'
+p2848
+aS'Manipur'
+p2849
+asS'450334'
+p2850
+(lp2851
+S'Loni'
+p2852
+aS'Madhya Pradesh'
+p2853
+asS'754161'
+p2854
+(lp2855
+S'Jaipur Ck'
+p2856
+aS'Orisa'
+p2857
+asS'605010'
+p2858
+(lp2859
+S'Reddiarpalayam'
+p2860
+aS'Pondicherry'
+p2861
+asS'204104'
+p2862
+(lp2863
+S'Kanth (Moradabad)'
+p2864
+aS'Uttar Pradesh'
+p2865
+asS'605012'
+p2866
+(lp2867
+S'Padmini Nagar'
+p2868
+aS'Pondicherry'
+p2869
+asS'605014'
+p2870
+(lp2871
+S'Pondicherry University'
+p2872
+aS'Pondicherry'
+p2873
+asS'679308'
+p2874
+(lp2875
+S'Naduvattom'
+p2876
+aS'Kerala'
+p2877
+asS'493992'
+p2878
+(lp2879
+S'Phingeshwar'
+p2880
+aS'Chattisgarh'
+p2881
+asS'363331'
+p2882
+(lp2883
+S'Charadava'
+p2884
+aS'Gujarat'
+p2885
+asS'124506'
+p2886
+(lp2887
+S'Mandothi'
+p2888
+aS'Haryana'
+p2889
+asS'124507'
+p2890
+(lp2891
+S'Industrial Area'
+p2892
+aS'Haryana'
+p2893
+asS'124504'
+p2894
+(lp2895
+S'Chhara'
+p2896
+aS'Haryana'
+p2897
+asS'700053'
+p2898
+(lp2899
+S'New Alipore'
+p2900
+aS'West Bengal'
+p2901
+asS'301408'
+p2902
+(lp2903
+S'Rajgarh Alwar'
+p2904
+aS'Rajasthan'
+p2905
+asS'121005'
+p2906
+(lp2907
+S'Faridabad Sector 22'
+p2908
+aS'Uttar Pradesh'
+p2909
+asS'121006'
+p2910
+(lp2911
+S'Industrial Estate'
+p2912
+aS'Uttar Pradesh'
+p2913
+asS'124501'
+p2914
+(lp2915
+S'Sampla'
+p2916
+aS'Haryana'
+p2917
+asS'182161'
+p2918
+(lp2919
+S'Mantalai'
+p2920
+aS'Jammu and Kashmir'
+p2921
+asS'124508'
+p2922
+(lp2923
+S'Noona Majra'
+p2924
+aS'Haryana'
+p2925
+asS'301403'
+p2926
+(lp2927
+S'Harsoli Alwar'
+p2928
+aS'Rajasthan'
+p2929
+asS'501508'
+p2930
+(lp2931
+S'Rai Pole'
+p2932
+aS'Andhra Pradesh'
+p2933
+asS'501506'
+p2934
+(lp2935
+S'Ibrahimpatnam'
+p2936
+aS'Andhra Pradesh'
+p2937
+asS'501504'
+p2938
+(lp2939
+S'Himayat Nagar'
+p2940
+aS'Andhra Pradesh'
+p2941
+asS'604305'
+p2942
+(lp2943
+S'Olakkur'
+p2944
+aS'Tamil Nadu'
+p2945
+asS'274408'
+p2946
+(lp2947
+S'Tarkulwa'
+p2948
+aS'Tamil Nadu'
+p2949
+asS'203203'
+p2950
+(lp2951
+S'Kakore'
+p2952
+aS'Uttar Pradesh'
+p2953
+asS'274401'
+p2954
+(lp2955
+S'Fazil Nagar'
+p2956
+aS'Tamil Nadu'
+p2957
+asS'302016'
+p2958
+(lp2959
+S'Rajasthan Police Academy'
+p2960
+aS'Rajasthan'
+p2961
+asS'302017'
+p2962
+(lp2963
+S'Jaipur 17 Bajaj Nagar'
+p2964
+aS'Rajasthan'
+p2965
+asS'451558'
+p2966
+(lp2967
+S'Dawana'
+p2968
+aS'Madhya Pradesh'
+p2969
+asS'302015'
+p2970
+(lp2971
+S'S D M Hospital'
+p2972
+aS'Rajasthan'
+p2973
+asS'302012'
+p2974
+(lp2975
+S'Jaipur 12 Jhotwara'
+p2976
+aS'Rajasthan'
+p2977
+asS'302013'
+p2978
+(lp2979
+S'Jaipur 13 Vishwa Karma In'
+p2980
+aS'Rajasthan'
+p2981
+asS'302010'
+p2982
+(lp2983
+S'Jaipur 10 D M Ts Office'
+p2984
+aS'Rajasthan'
+p2985
+asS'160020'
+p2986
+(lp2987
+S'Sector 20 Chandigarh'
+p2988
+aS'Chandigarh'
+p2989
+asS'160023'
+p2990
+(lp2991
+S'Sector 35 Chandigarh'
+p2992
+aS'Chandigarh'
+p2993
+asS'160022'
+p2994
+(lp2995
+S'Sector 21 Chandigarh'
+p2996
+aS'Chandigarh'
+p2997
+asS'451556'
+p2998
+(lp2999
+S'Anjaoi'
+p3000
+aS'Madhya Pradesh'
+p3001
+asS'246164'
+p3002
+(lp3003
+S'Pabua'
+p3004
+aS'Uttaranchal'
+p3005
+asS'160026'
+p3006
+(lp3007
+S'Sector 26 Chandigarh'
+p3008
+aS'Chandigarh'
+p3009
+asS'133001'
+p3010
+(lp3011
+S'Ambala'
+p3012
+aS'Haryana'
+p3013
+asS'364071'
+p3014
+(lp3015
+S'Hathab'
+p3016
+aS'Gujarat'
+p3017
+asS'752019'
+p3018
+(lp3019
+S'Nirakarpur'
+p3020
+aS'Orisa'
+p3021
+asS'752017'
+p3022
+(lp3023
+S'Kanas'
+p3024
+aS'Orisa'
+p3025
+asS'360592'
+p3026
+(lp3027
+S'Fatana'
+p3028
+aS'Gujarat'
+p3029
+asS'752014'
+p3030
+(lp3031
+S'Sakhigopal'
+p3032
+aS'Orisa'
+p3033
+asS'827003'
+p3034
+(lp3035
+S'Herla Sector Iii'
+p3036
+aS'Jharkhand'
+p3037
+asS'827009'
+p3038
+(lp3039
+S'Sector Ix Dhanbad'
+p3040
+aS'Jharkhand'
+p3041
+asS'560042'
+p3042
+(lp3043
+S'K Kamraj Road'
+p3044
+aS'Karnataka'
+p3045
+asS'560040'
+p3046
+(lp3047
+S'R P C Layout North'
+p3048
+aS'Karnataka'
+p3049
+asS'560047'
+p3050
+(lp3051
+S'Ookadapalyam'
+p3052
+aS'Karnataka'
+p3053
+asS'560046'
+p3054
+(lp3055
+S'Jayamahal Extn'
+p3056
+aS'Karnataka'
+p3057
+asS'560049'
+p3058
+(lp3059
+S'Virgonagar'
+p3060
+aS'Karnataka'
+p3061
+asS'794111'
+p3062
+(lp3063
+S'Simsanggiri'
+p3064
+aS'Meghalaya'
+p3065
+asS'502246'
+p3066
+(lp3067
+S'Zarasangam'
+p3068
+aS'Andhra Pradesh'
+p3069
+asS'262309'
+p3070
+(lp3071
+S'Tanakpur'
+p3072
+aS'Uttaranchal'
+p3073
+asS'814145'
+p3074
+(lp3075
+S'Nunihat'
+p3076
+aS'Jharkhand'
+p3077
+asS'814143'
+p3078
+(lp3079
+S'Kunda'
+p3080
+aS'Jharkhand'
+p3081
+asS'814141'
+p3082
+(lp3083
+S'Jarmundi'
+p3084
+aS'Jharkhand'
+p3085
+asS'782126'
+p3086
+(lp3087
+S'Moirabari'
+p3088
+aS'Assam'
+p3089
+asS'782124'
+p3090
+(lp3091
+S'Juria'
+p3092
+aS'Assam'
+p3093
+asS'782122'
+p3094
+(lp3095
+S'Batadrava'
+p3096
+aS'Assam'
+p3097
+asS'814148'
+p3098
+(lp3099
+S'Raghunathpur'
+p3100
+aS'Jharkhand'
+p3101
+asS'246444'
+p3102
+(lp3103
+S'Karan Prayag'
+p3104
+aS'Uttaranchal'
+p3105
+asS'689672'
+p3106
+(lp3107
+S'Ranny'
+p3108
+aS'Kerala'
+p3109
+asS'673313'
+p3110
+(lp3111
+S'Olavilam'
+p3112
+aS'Kerala'
+p3113
+asS'782010'
+p3114
+(lp3115
+S'Senchowa'
+p3116
+aS'Assam'
+p3117
+asS'496225'
+p3118
+(lp3119
+S'Kunkruai'
+p3120
+aS'Chattisgarh'
+p3121
+asS'174010'
+p3122
+(lp3123
+S'Sawhan'
+p3124
+aS'Himachal Pradesh'
+p3125
+asS'496223'
+p3126
+(lp3127
+S'Kansabel'
+p3128
+aS'Chattisgarh'
+p3129
+asS'174012'
+p3130
+(lp3131
+S'Panjgain'
+p3132
+aS'Himachal Pradesh'
+p3133
+asS'246162'
+p3134
+(lp3135
+S'Naugaon Khal'
+p3136
+aS'Uttaranchal'
+p3137
+asS'248203'
+p3138
+(lp3139
+S'Pashulok'
+p3140
+aS'Uttaranchal'
+p3141
+asS'500012'
+p3142
+(lp3143
+S'Osmania General Hospital'
+p3144
+aS'Andhra Pradesh'
+p3145
+asS'246166'
+p3146
+(lp3147
+S'Parsundakhal'
+p3148
+aS'Uttaranchal'
+p3149
+asS'361316'
+p3150
+(lp3151
+S'Ran'
+p3152
+aS'Gujarat'
+p3153
+asS'360575'
+p3154
+(lp3155
+S'Hanumangufa'
+p3156
+aS'Gujarat'
+p3157
+asS'360570'
+p3158
+(lp3159
+S'Ranakandorna'
+p3160
+aS'Gujarat'
+p3161
+asS'142057'
+p3162
+(lp3163
+S'Samadh Bhal'
+p3164
+aS'Punjab'
+p3165
+asS'181207'
+p3166
+(lp3167
+S'Pragwal'
+p3168
+aS'Jammu and Kashmir'
+p3169
+asS'456443'
+p3170
+(lp3171
+S'Mahidpur Bazar'
+p3172
+aS'Madhya Pradesh'
+p3173
+asS'400009'
+p3174
+(lp3175
+S'Yusuf Meher Ali Road Masj'
+p3176
+aS'Maharashtra'
+p3177
+asS'361220'
+p3178
+(lp3179
+S'Latipur'
+p3180
+aS'Gujarat'
+p3181
+asS'606107'
+p3182
+(lp3183
+S'Ullunderpet'
+p3184
+aS'Tamil Nadu'
+p3185
+asS'606102'
+p3186
+(lp3187
+S'Kalamarudur'
+p3188
+aS'Tamil Nadu'
+p3189
+asS'282001'
+p3190
+(lp3191
+S'Agra'
+p3192
+aS'Uttar Pradesh'
+p3193
+asS'786102'
+p3194
+(lp3195
+S'Chabua Air Field'
+p3196
+aS'Arunachal Pradesh'
+p3197
+asS'500023'
+p3198
+(lp3199
+S'Dabirpura'
+p3200
+aS'Andhra Pradesh'
+p3201
+asS'500021'
+p3202
+(lp3203
+S'Eme Records'
+p3204
+aS'Andhra Pradesh'
+p3205
+asS'500027'
+p3206
+(lp3207
+S'Veer Savarkar Marg'
+p3208
+aS'Andhra Pradesh'
+p3209
+asS'500026'
+p3210
+(lp3211
+S'West Maredpalli'
+p3212
+aS'Andhra Pradesh'
+p3213
+asS'500025'
+p3214
+(lp3215
+S'Padmarao Nagar'
+p3216
+aS'Andhra Pradesh'
+p3217
+asS'500024'
+p3218
+(lp3219
+S'Darju Sahifa'
+p3220
+aS'Andhra Pradesh'
+p3221
+asS'670327'
+p3222
+(lp3223
+S'Edat'
+p3224
+aS'Kerala'
+p3225
+asS'500029'
+p3226
+(lp3227
+S'Hamayatnagar (Hyd)'
+p3228
+aS'Andhra Pradesh'
+p3229
+asS'500028'
+p3230
+(lp3231
+S'Datta Treya Colony'
+p3232
+aS'Andhra Pradesh'
+p3233
+asS'457001'
+p3234
+(lp3235
+S'Ratlam Hat Ki Chouki'
+p3236
+aS'Madhya Pradesh'
+p3237
+asS'262301'
+p3238
+(lp3239
+S'Lohia Head'
+p3240
+aS'Uttaranchal'
+p3241
+asS'600055'
+p3242
+(lp3243
+S'Central Vehicle Depot'
+p3244
+aS'Tamil Nadu'
+p3245
+asS'248199'
+p3246
+(lp3247
+S'Tuini'
+p3248
+aS'Uttaranchal'
+p3249
+asS'248196'
+p3250
+(lp3251
+S'Sahiya'
+p3252
+aS'Uttaranchal'
+p3253
+asS'208024'
+p3254
+(lp3255
+S'Railganj'
+p3256
+aS'Uttar Pradesh'
+p3257
+asS'208022'
+p3258
+(lp3259
+S'Udyognagar (Kanpur)'
+p3260
+aS'Uttar Pradesh'
+p3261
+asS'208020'
+p3262
+(lp3263
+S'Panki Power House'
+p3264
+aS'Uttar Pradesh'
+p3265
+asS'248191'
+p3266
+(lp3267
+S'Vikas Nagar'
+p3268
+aS'Uttaranchal'
+p3269
+asS'362215'
+p3270
+(lp3271
+S'Lushala'
+p3272
+aS'Gujarat'
+p3273
+asS'494777'
+p3274
+(lp3275
+S'Bande Colony'
+p3276
+aS'Chattisgarh'
+p3277
+asS'456663'
+p3278
+(lp3279
+S'Kaytha'
+p3280
+aS'Madhya Pradesh'
+p3281
+asS'456665'
+p3282
+(lp3283
+S'Tarana'
+p3284
+aS'Madhya Pradesh'
+p3285
+asS'456666'
+p3286
+(lp3287
+S'Vijaiganj Mandi'
+p3288
+aS'Madhya Pradesh'
+p3289
+asS'362520'
+p3290
+(lp3291
+S'Zampu'
+p3292
+aS'Gujarat'
+p3293
+asS'362036'
+p3294
+(lp3295
+S'Chhodvadi'
+p3296
+aS'Gujarat'
+p3297
+asS'700001'
+p3298
+(lp3299
+S'Writers Building'
+p3300
+aS'West Bengal'
+p3301
+asS'671324'
+p3302
+(lp3303
+S'Ichilangode B.O'
+p3304
+aS'Kerala'
+p3305
+asS'671321'
+p3306
+(lp3307
+S'Bela B.O'
+p3308
+aS'Kerala'
+p3309
+asS'671320'
+p3310
+(lp3311
+S'Chamnad'
+p3312
+aS'Kerala'
+p3313
+asS'671323'
+p3314
+(lp3315
+S'Majaibail B.O'
+p3316
+aS'Kerala'
+p3317
+asS'671322'
+p3318
+(lp3319
+S'Bakur B.O'
+p3320
+aS'Kerala'
+p3321
+asS'605006'
+p3322
+(lp3323
+S'Dhanvantri Nagar'
+p3324
+aS'Pondicherry'
+p3325
+asS'605004'
+p3326
+(lp3327
+S'Mudaliarpet'
+p3328
+aS'Pondicherry'
+p3329
+asS'244714'
+p3330
+(lp3331
+S'Sugar Mill Kashipur'
+p3332
+aS'Uttaranchal'
+p3333
+asS'244715'
+p3334
+(lp3335
+S'Rambagar (Nainital)'
+p3336
+aS'Uttaranchal'
+p3337
+asS'605001'
+p3338
+(lp3339
+S'Pondicherry Ho.'
+p3340
+aS'Pondicherry'
+p3341
+asS'244717'
+p3342
+(lp3343
+S'Sugar Factory Nadehi'
+p3344
+aS'Uttaranchal'
+p3345
+asS'700004'
+p3346
+(lp3347
+S'Ultadanga'
+p3348
+aS'West Bengal'
+p3349
+asS'605009'
+p3350
+(lp3351
+S'Tattanchavadi'
+p3352
+aS'Tamil Nadu'
+p3353
+asS'605008'
+p3354
+(lp3355
+S'Lawspet'
+p3356
+aS'Pondicherry'
+p3357
+asS'754154'
+p3358
+(lp3359
+S'Antei'
+p3360
+aS'Orisa'
+p3361
+asS'754159'
+p3362
+(lp3363
+S'Godma'
+p3364
+aS'Orisa'
+p3365
+asS'799211'
+p3366
+(lp3367
+S'Mohanpur'
+p3368
+aS'Tripura'
+p3369
+asS'799213'
+p3370
+(lp3371
+S'Simna'
+p3372
+aS'Tripura'
+p3373
+asS'700008'
+p3374
+(lp3375
+S'Purba Barisha'
+p3376
+aS'West Bengal'
+p3377
+asS'362140'
+p3378
+(lp3379
+S'Akolwadi'
+p3380
+aS'Gujarat'
+p3381
+asS'123502'
+p3382
+(lp3383
+S'Khalilpur'
+p3384
+aS'Haryana'
+p3385
+asS'123506'
+p3386
+(lp3387
+S'Farrukh Nagar'
+p3388
+aS'Haryana'
+p3389
+asS'123504'
+p3390
+(lp3391
+S'Haily Mandi'
+p3392
+aS'Haryana'
+p3393
+asS'124515'
+p3394
+(lp3395
+S'Nigana'
+p3396
+aS'Haryana'
+p3397
+asS'124516'
+p3398
+(lp3399
+S'Gorawar'
+p3400
+aS'Haryana'
+p3401
+asS'124510'
+p3402
+(lp3403
+S'Matan'
+p3404
+aS'Haryana'
+p3405
+asS'124513'
+p3406
+(lp3407
+S'Nidana'
+p3408
+aS'Haryana'
+p3409
+asS'700048'
+p3410
+(lp3411
+S'Patipukur'
+p3412
+aS'West Bengal'
+p3413
+asS'700047'
+p3414
+(lp3415
+S'Ganguly Bagan'
+p3416
+aS'West Bengal'
+p3417
+asS'301412'
+p3418
+(lp3419
+S'Harsora'
+p3420
+aS'Rajasthan'
+p3421
+asS'301411'
+p3422
+(lp3423
+S'Tijara Dehra'
+p3424
+aS'Rajasthan'
+p3425
+asS'700044'
+p3426
+(lp3427
+S'Badartala'
+p3428
+aS'West Bengal'
+p3429
+asS'700043'
+p3430
+(lp3431
+S'Coal Dock Road'
+p3432
+aS'West Bengal'
+p3433
+asS'124518'
+p3434
+(lp3435
+S'Barain'
+p3436
+aS'Haryana'
+p3437
+asS'700040'
+p3438
+(lp3439
+S'Netajinagar'
+p3440
+aS'West Bengal'
+p3441
+asS'246482'
+p3442
+(lp3443
+S'Talwari'
+p3444
+aS'Uttaranchal'
+p3445
+asS'246487'
+p3446
+(lp3447
+S'Nauti'
+p3448
+aS'Uttaranchal'
+p3449
+asS'363030'
+p3450
+(lp3451
+S'I E'
+p3452
+aS'Gujarat'
+p3453
+asS'679575'
+p3454
+(lp3455
+S'Nannamukku South B.O'
+p3456
+aS'Kerala'
+p3457
+asS'793025'
+p3458
+(lp3459
+S'Governors Camp'
+p3460
+aS'Meghalaya'
+p3461
+asS'160014'
+p3462
+(lp3463
+S'Sector 14 Chandigarh'
+p3464
+aS'Chandigarh'
+p3465
+asS'246155'
+p3466
+(lp3467
+S'Lansdowne Ho.'
+p3468
+aS'Uttaranchal'
+p3469
+asS'160017'
+p3470
+(lp3471
+S'General Bus Stand'
+p3472
+aS'Chandigarh'
+p3473
+asS'160010'
+p3474
+(lp3475
+S'Sector 10 Chandigarh'
+p3476
+aS'Chandigarh'
+p3477
+asS'160011'
+p3478
+(lp3479
+S'Sector 11 Chandigarh'
+p3480
+aS'Chandigarh'
+p3481
+asS'800008'
+p3482
+(lp3483
+S'S M Mills'
+p3484
+aS'Bihar'
+p3485
+asS'800006'
+p3486
+(lp3487
+S'Mahendru'
+p3488
+aS'Bihar'
+p3489
+asS'800007'
+p3490
+(lp3491
+S'Pachhim Darwaza'
+p3492
+aS'Bihar'
+p3493
+asS'800004'
+p3494
+(lp3495
+S'Machuatoli'
+p3496
+aS'Bihar'
+p3497
+asS'160018'
+p3498
+(lp3499
+S'Sector 18 Chandigarh'
+p3500
+aS'Chandigarh'
+p3501
+asS'800003'
+p3502
+(lp3503
+S'Lohanipur'
+p3504
+aS'Bihar'
+p3505
+asS'301709'
+p3506
+(lp3507
+S'Gandala'
+p3508
+aS'Rajasthan'
+p3509
+asS'800001'
+p3510
+(lp3511
+S'Darul Mallick'
+p3512
+aS'Bihar'
+p3513
+asS'302005'
+p3514
+(lp3515
+S'Vidyut Bhawan'
+p3516
+aS'Rajasthan'
+p3517
+asS'302004'
+p3518
+(lp3519
+S'Jaipur 4 Adarshnagar'
+p3520
+aS'Rajasthan'
+p3521
+asS'302006'
+p3522
+(lp3523
+S'Raj Bhawan'
+p3524
+aS'Rajasthan'
+p3525
+asS'302001'
+p3526
+(lp3527
+S'Indira Bazar'
+p3528
+aS'Rajasthan'
+p3529
+asS'302003'
+p3530
+(lp3531
+S'Ramganj Bazar'
+p3532
+aS'Rajasthan'
+p3533
+asS'302002'
+p3534
+(lp3535
+S'Jalebi Chowk'
+p3536
+aS'Rajasthan'
+p3537
+asS'781023'
+p3538
+(lp3539
+S'Amerigog'
+p3540
+aS'Assam'
+p3541
+asS'781021'
+p3542
+(lp3543
+S'Bamunimaidan'
+p3544
+aS'Assam'
+p3545
+asS'781026'
+p3546
+(lp3547
+S'Narangi'
+p3548
+aS'Assam'
+p3549
+asS'571220'
+p3550
+(lp3551
+S'Devarapura'
+p3552
+aS'Karnataka'
+p3553
+asS'571222'
+p3554
+(lp3555
+S'Kaikeri'
+p3556
+aS'Karnataka'
+p3557
+asS'303907'
+p3558
+(lp3559
+S'Chandlai'
+p3560
+aS'Rajasthan'
+p3561
+asS'799146'
+p3562
+(lp3563
+S'Kalsibazar'
+p3564
+aS'Tripura'
+p3565
+asS'799141'
+p3566
+(lp3567
+S'Jolaibari'
+p3568
+aS'Tripura'
+p3569
+asS'799143'
+p3570
+(lp3571
+S'Manubazar'
+p3572
+aS'Tripura'
+p3573
+asS'396230'
+p3574
+(lp3575
+S'Silvasa'
+p3576
+aS'Dadar and Nagar Haveli'
+p3577
+asS'799148'
+p3578
+(lp3579
+S'Baikara'
+p3580
+aS'Tripura'
+p3581
+asS'752069'
+p3582
+(lp3583
+S'Nayagarh H O'
+p3584
+aS'Orisa'
+p3585
+asS'752060'
+p3586
+(lp3587
+S'Bajpur'
+p3588
+aS'Orisa'
+p3589
+asS'752067'
+p3590
+(lp3591
+S'Manikgoda'
+p3592
+aS'Orisa'
+p3593
+asS'274505'
+p3594
+(lp3595
+S'Lal Road'
+p3596
+aS'Tamil Nadu'
+p3597
+asS'274502'
+p3598
+(lp3599
+S'Lansdowne Cantt'
+p3600
+aS'Tamil Nadu'
+p3601
+asS'360360'
+p3602
+(lp3603
+S'Jetalsar Jn'
+p3604
+aS'Gujarat'
+p3605
+asS'670307'
+p3606
+(lp3607
+S'Padiotchal Edso'
+p3608
+aS'Kerala'
+p3609
+asS'793150'
+p3610
+(lp3611
+S'Jowai'
+p3612
+aS'Meghalaya'
+p3613
+asS'679531'
+p3614
+(lp3615
+S'Painkulam B.O'
+p3616
+aS'Kerala'
+p3617
+asS'781336'
+p3618
+(lp3619
+S'Chandkuchi'
+p3620
+aS'Assam'
+p3621
+asS'491338'
+p3622
+(lp3623
+S'Khamaria'
+p3624
+aS'Chattisgarh'
+p3625
+asS'491336'
+p3626
+(lp3627
+S'Dashrangpur'
+p3628
+aS'Chattisgarh'
+p3629
+asS'496107'
+p3630
+(lp3631
+S'Tamnar'
+p3632
+aS'Chattisgarh'
+p3633
+asS'491332'
+p3634
+(lp3635
+S'Berta'
+p3636
+aS'Chattisgarh'
+p3637
+asS'781338'
+p3638
+(lp3639
+S'Solmara'
+p3640
+aS'Assam'
+p3641
+asS'794108'
+p3642
+(lp3643
+S'Resubelpara'
+p3644
+aS'Meghalaya'
+p3645
+asS'794107'
+p3646
+(lp3647
+S'Nangalbibra'
+p3648
+aS'Meghalaya'
+p3649
+asS'794105'
+p3650
+(lp3651
+S'Garobandha'
+p3652
+aS'Meghalaya'
+p3653
+asS'794103'
+p3654
+(lp3655
+S'Barengapara'
+p3656
+aS'Meghalaya'
+p3657
+asS'794101'
+p3658
+(lp3659
+S'Araimail'
+p3660
+aS'Meghalaya'
+p3661
+asS'825420'
+p3662
+(lp3663
+S'Hunerganj'
+p3664
+aS'Jharkhand'
+p3665
+asS'811301'
+p3666
+(lp3667
+S'Aliganj'
+p3668
+aS'Bihar'
+p3669
+asS'782139'
+p3670
+(lp3671
+S'Salana'
+p3672
+aS'Assam'
+p3673
+asS'814150'
+p3674
+(lp3675
+S'Sarwan'
+p3676
+aS'Jharkhand'
+p3677
+asS'814152'
+p3678
+(lp3679
+S'Rohini'
+p3680
+aS'Jharkhand'
+p3681
+asS'782136'
+p3682
+(lp3683
+S'Jakhalbandha'
+p3684
+aS'Assam'
+p3685
+asS'782130'
+p3686
+(lp3687
+S'Singimari'
+p3688
+aS'Assam'
+p3689
+asS'361160'
+p3690
+(lp3691
+S'Kalavad'
+p3692
+aS'Gujarat'
+p3693
+asS'174028'
+p3694
+(lp3695
+S'Hatwar'
+p3696
+aS'Himachal Pradesh'
+p3697
+asS'175004'
+p3698
+(lp3699
+S'Bhambla'
+p3700
+aS'Himachal Pradesh'
+p3701
+asS'175006'
+p3702
+(lp3703
+S'Tikkar (Mandi)'
+p3704
+aS'Himachal Pradesh'
+p3705
+asS'175001'
+p3706
+(lp3707
+S'Mandi H O'
+p3708
+aS'Himachal Pradesh'
+p3709
+asS'171013'
+p3710
+(lp3711
+S'Jubbar Hatti'
+p3712
+aS'Himachal Pradesh'
+p3713
+asS'174022'
+p3714
+(lp3715
+S'Naswal'
+p3716
+aS'Himachal Pradesh'
+p3717
+asS'171011'
+p3718
+(lp3719
+S'Totu'
+p3720
+aS'Himachal Pradesh'
+p3721
+asS'171017'
+p3722
+(lp3723
+S'Guma'
+p3724
+aS'Himachal Pradesh'
+p3725
+asS'783350'
+p3726
+(lp3727
+S'Kachugaon'
+p3728
+aS'Assam'
+p3729
+asS'307026'
+p3730
+(lp3731
+S'Abu Road'
+p3732
+aS'Rajasthan'
+p3733
+asS'361305'
+p3734
+(lp3735
+S'Kalyan Raiji Mandir'
+p3736
+aS'Gujarat'
+p3737
+asS'676303'
+p3738
+(lp3739
+S'Ullanam North B.O'
+p3740
+aS'Kerala'
+p3741
+asS'503124'
+p3742
+(lp3743
+S'Demi'
+p3744
+aS'Andhra Pradesh'
+p3745
+asS'503122'
+p3746
+(lp3747
+S'Y R Old Town'
+p3748
+aS'Andhra Pradesh'
+p3749
+asS'503120'
+p3750
+(lp3751
+S'Yerra Pahad'
+p3752
+aS'Andhra Pradesh'
+p3753
+asS'262519'
+p3754
+(lp3755
+S'Munakote'
+p3756
+aS'Uttaranchal'
+p3757
+asS'493776'
+p3758
+(lp3759
+S'Rudri'
+p3760
+aS'Chattisgarh'
+p3761
+asS'802129'
+p3762
+(lp3763
+S'Nawanagar'
+p3764
+aS'Bihar'
+p3765
+asS'303703'
+p3766
+(lp3767
+S'Tankarda'
+p3768
+aS'Rajasthan'
+p3769
+asS'786172'
+p3770
+(lp3771
+S'Powai'
+p3772
+aS'Arunachal Pradesh'
+p3773
+asS'680121'
+p3774
+(lp3775
+S'Irinjalakuda'
+p3776
+aS'Kerala'
+p3777
+asS'246168'
+p3778
+(lp3779
+S'Paukhal (Cpo A.1884)'
+p3780
+aS'Uttaranchal'
+p3781
+asS'301424'
+p3782
+(lp3783
+S'Tatarpur'
+p3784
+aS'Rajasthan'
+p3785
+asS'494331'
+p3786
+(lp3787
+S'Keshkal'
+p3788
+aS'Chattisgarh'
+p3789
+asS'494333'
+p3790
+(lp3791
+S'Narharpur'
+p3792
+aS'Chattisgarh'
+p3793
+asS'140802'
+p3794
+(lp3795
+S'Sanghol'
+p3796
+aS'Punjab'
+p3797
+asS'494335'
+p3798
+(lp3799
+S'Sarona'
+p3800
+aS'Chattisgarh'
+p3801
+asS'494337'
+p3802
+(lp3803
+S'Charama'
+p3804
+aS'Chattisgarh'
+p3805
+asS'490042'
+p3806
+(lp3807
+S'Bhilai Kumhari'
+p3808
+aS'Chattisgarh'
+p3809
+asS'209203'
+p3810
+(lp3811
+S'Chabeypur (Kanpur)'
+p3812
+aS'Uttar Pradesh'
+p3813
+asS'493222'
+p3814
+(lp3815
+S'Bhatgaon'
+p3816
+aS'Chattisgarh'
+p3817
+asS'493551'
+p3818
+(lp3819
+S'Pithoa'
+p3820
+aS'Chattisgarh'
+p3821
+asS'493559'
+p3822
+(lp3823
+S'Sarsiwa'
+p3824
+aS'Chattisgarh'
+p3825
+asS'493228'
+p3826
+(lp3827
+S'Pallari'
+p3828
+aS'Chattisgarh'
+p3829
+asS'403803'
+p3830
+(lp3831
+S'Marmugao'
+p3832
+aS'Goa'
+p3833
+asS'403802'
+p3834
+(lp3835
+S'Vasco-Da-Gama Town'
+p3836
+aS'Goa'
+p3837
+asS'403801'
+p3838
+(lp3839
+S'Air Port Dabolim'
+p3840
+aS'Goa'
+p3841
+asS'303705'
+p3842
+(lp3843
+S'Hadota'
+p3844
+aS'Rajasthan'
+p3845
+asS'124321'
+p3846
+(lp3847
+S'Lath'
+p3848
+aS'Haryana'
+p3849
+asS'124205'
+p3850
+(lp3851
+S'Pilana'
+p3852
+aS'Haryana'
+p3853
+asS'671319'
+p3854
+(lp3855
+S'Udma'
+p3856
+aS'Kerala'
+p3857
+asS'500762'
+p3858
+(lp3859
+S'Ecil Hyderabad'
+p3860
+aS'Andhra Pradesh'
+p3861
+asS'671314'
+p3862
+(lp3863
+S'Uppilakal B.O'
+p3864
+aS'Kerala'
+p3865
+asS'671316'
+p3866
+(lp3867
+S'Ravaneswaram B.O'
+p3868
+aS'Kerala'
+p3869
+asS'671317'
+p3870
+(lp3871
+S'Chandragiri Edso'
+p3872
+aS'Kerala'
+p3873
+asS'182205'
+p3874
+(lp3875
+S'Medical College'
+p3876
+aS'Jammu and Kashmir'
+p3877
+asS'182203'
+p3878
+(lp3879
+S'Thatri'
+p3880
+aS'Jammu and Kashmir'
+p3881
+asS'182202'
+p3882
+(lp3883
+S'Doda'
+p3884
+aS'Jammu and Kashmir'
+p3885
+asS'400059'
+p3886
+(lp3887
+S'J B Nagar'
+p3888
+aS'Maharashtra'
+p3889
+asS'799202'
+p3890
+(lp3891
+S'Khowai Court'
+p3892
+aS'Tripura'
+p3893
+asS'754144'
+p3894
+(lp3895
+S'Paradeep Lock'
+p3896
+aS'Orisa'
+p3897
+asS'799206'
+p3898
+(lp3899
+S'Bachaibari'
+p3900
+aS'Tripura'
+p3901
+asS'754140'
+p3902
+(lp3903
+S'Rahama'
+p3904
+aS'Orisa'
+p3905
+asS'790115'
+p3906
+(lp3907
+S'Tenga Valley'
+p3908
+aS'Arunachal Pradesh'
+p3909
+asS'362151'
+p3910
+(lp3911
+S'Ghunsia'
+p3912
+aS'Gujarat'
+p3913
+asS'685505'
+p3914
+(lp3915
+S'Upputhara'
+p3916
+aS'Kerala'
+p3917
+asS'124520'
+p3918
+(lp3919
+S'Farmana (Rohtak)'
+p3920
+aS'Haryana'
+p3921
+asS'124522'
+p3922
+(lp3923
+S'Ajaib'
+p3924
+aS'Haryana'
+p3925
+asS'700039'
+p3926
+(lp3927
+S'Picnic Garden'
+p3928
+aS'West Bengal'
+p3929
+asS'124524'
+p3930
+(lp3931
+S'Chiri'
+p3932
+aS'Haryana'
+p3933
+asS'124527'
+p3934
+(lp3935
+S'Chaushala'
+p3936
+aS'Haryana'
+p3937
+asS'124528'
+p3938
+(lp3939
+S'Escort Nagar'
+p3940
+aS'Haryana'
+p3941
+asS'124529'
+p3942
+(lp3943
+S'Gandhra'
+p3944
+aS'Haryana'
+p3945
+asS'700030'
+p3946
+(lp3947
+S'Sethbagan'
+p3948
+aS'West Bengal'
+p3949
+asS'700031'
+p3950
+(lp3951
+S'K P Roy Lane'
+p3952
+aS'West Bengal'
+p3953
+asS'700036'
+p3954
+(lp3955
+S'Baranagar'
+p3956
+aS'West Bengal'
+p3957
+asS'700037'
+p3958
+(lp3959
+S'Belgachia Road'
+p3960
+aS'West Bengal'
+p3961
+asS'700034'
+p3962
+(lp3963
+S'Parchanantala'
+p3964
+aS'West Bengal'
+p3965
+asS'781102'
+p3966
+(lp3967
+S'Hajo'
+p3968
+aS'Assam'
+p3969
+asS'828119'
+p3970
+(lp3971
+S'Patherdih'
+p3972
+aS'Jharkhand'
+p3973
+asS'828116'
+p3974
+(lp3975
+S'Kusunda'
+p3976
+aS'Jharkhand'
+p3977
+asS'828114'
+p3978
+(lp3979
+S'Katras Bazar'
+p3980
+aS'Jharkhand'
+p3981
+asS'828112'
+p3982
+(lp3983
+S'Jamadoba'
+p3984
+aS'Jharkhand'
+p3985
+asS'828110'
+p3986
+(lp3987
+S'Jealgora'
+p3988
+aS'Jharkhand'
+p3989
+asS'246125'
+p3990
+(lp3991
+S'Dehal Chauri'
+p3992
+aS'Uttaranchal'
+p3993
+asS'363001'
+p3994
+(lp3995
+S'M P Shah College'
+p3996
+aS'Gujarat'
+p3997
+asS'364270'
+p3998
+(lp3999
+S'Palitana'
+p4000
+aS'Gujarat'
+p4001
+asS'493881'
+p4002
+(lp4003
+S'Nayapararajim'
+p4004
+aS'Chattisgarh'
+p4005
+asS'797001'
+p4006
+(lp4007
+S'Kohima Pwd'
+p4008
+aS'Nagaland'
+p4009
+asS'364275'
+p4010
+(lp4011
+S'Parvadi'
+p4012
+aS'Gujarat'
+p4013
+asS'793014'
+p4014
+(lp4015
+S'Nongthymmai'
+p4016
+aS'Meghalaya'
+p4017
+asS'493889'
+p4018
+(lp4019
+S'Gariaband'
+p4020
+aS'Chattisgarh'
+p4021
+asS'793010'
+p4022
+(lp4023
+S'Laitkor Peak'
+p4024
+aS'Meghalaya'
+p4025
+asS'793012'
+p4026
+(lp4027
+S'Mawpat'
+p4028
+aS'Meghalaya'
+p4029
+asS'160002'
+p4030
+(lp4031
+S'Industrial Area Sector 28'
+p4032
+aS'Chandigarh'
+p4033
+asS'246147'
+p4034
+(lp4035
+S'Khirshn'
+p4036
+aS'Uttaranchal'
+p4037
+asS'246144'
+p4038
+(lp4039
+S'Kanda Khal'
+p4040
+aS'Uttaranchal'
+p4041
+asS'246149'
+p4042
+(lp4043
+S'Kotdwar'
+p4044
+aS'Uttaranchal'
+p4045
+asS'160008'
+p4046
+(lp4047
+S'Sector 8 Chandigarh'
+p4048
+aS'Chandigarh'
+p4049
+asS'800010'
+p4050
+(lp4051
+S'Sadaquat Ashram'
+p4052
+aS'Bihar'
+p4053
+asS'800013'
+p4054
+(lp4055
+S'Pataliputra'
+p4056
+aS'Bihar'
+p4057
+asS'781030'
+p4058
+(lp4059
+S'North Guwahati'
+p4060
+aS'Assam'
+p4061
+asS'781037'
+p4062
+(lp4063
+S'Panjabari'
+p4064
+aS'Assam'
+p4065
+asS'799153'
+p4066
+(lp4067
+S'Radhanagar'
+p4068
+aS'Tripura'
+p4069
+asS'604210'
+p4070
+(lp4071
+S'Illodu'
+p4072
+aS'Tamil Nadu'
+p4073
+asS'799156'
+p4074
+(lp4075
+S'Rishyamukh'
+p4076
+aS'Tripura'
+p4077
+asS'799159'
+p4078
+(lp4079
+S'Matai'
+p4080
+aS'Tripura'
+p4081
+asS'799158'
+p4082
+(lp4083
+S'Ramnagar'
+p4084
+aS'Tripura'
+p4085
+asS'360375'
+p4086
+(lp4087
+S'Navagadh'
+p4088
+aS'Gujarat'
+p4089
+asS'752070'
+p4090
+(lp4091
+S'Nayagarh Bazar (Nayagarh2'
+p4092
+aS'Orisa'
+p4093
+asS'781326'
+p4094
+(lp4095
+S'Patacharkuchi'
+p4096
+aS'Assam'
+p4097
+asS'781320'
+p4098
+(lp4099
+S'Chakchaki Bazar'
+p4100
+aS'Assam'
+p4101
+asS'496113'
+p4102
+(lp4103
+S'Lailunga'
+p4104
+aS'Chattisgarh'
+p4105
+asS'781328'
+p4106
+(lp4107
+S'Bagmara Bazar'
+p4108
+aS'Assam'
+p4109
+asS'782108'
+p4110
+(lp4111
+S'Mikirbheta'
+p4112
+aS'Assam'
+p4113
+asS'814162'
+p4114
+(lp4115
+S'Jama'
+p4116
+aS'Jharkhand'
+p4117
+asS'814166'
+p4118
+(lp4119
+S'Fatehpur(Dumka)'
+p4120
+aS'Jharkhand'
+p4121
+asS'144004'
+p4122
+(lp4123
+S'Jalandhar'
+p4124
+aS'Punjab'
+p4125
+asS'782103'
+p4126
+(lp4127
+S'Raha'
+p4128
+aS'Assam'
+p4129
+asS'825410'
+p4130
+(lp4131
+S'Kodarama'
+p4132
+aS'Jharkhand'
+p4133
+asS'782105'
+p4134
+(lp4135
+S'Marigaon'
+p4136
+aS'Assam'
+p4137
+asS'144003'
+p4138
+(lp4139
+S'Jalandhar'
+p4140
+aS'Punjab'
+p4141
+asS'825413'
+p4142
+(lp4143
+S'Tilaiyadam'
+p4144
+aS'Jharkhand'
+p4145
+asS'202136'
+p4146
+(lp4147
+S'Gabhana'
+p4148
+aS'Uttar Pradesh'
+p4149
+asS'202133'
+p4150
+(lp4151
+S'Dadon'
+p4152
+aS'Uttar Pradesh'
+p4153
+asS'184101'
+p4154
+(lp4155
+S'Kathua H O'
+p4156
+aS'Jammu and Kashmir'
+p4157
+asS'184102'
+p4158
+(lp4159
+S'Industrial Estate'
+p4160
+aS'Jammu and Kashmir'
+p4161
+asS'452005'
+p4162
+(lp4163
+S'Indore Biyavani'
+p4164
+aS'Madhya Pradesh'
+p4165
+asS'452004'
+p4166
+(lp4167
+S'Indore Yeshwant Road H O'
+p4168
+aS'Madhya Pradesh'
+p4169
+asS'174035'
+p4170
+(lp4171
+S'Kalol'
+p4172
+aS'Himachal Pradesh'
+p4173
+asS'452006'
+p4174
+(lp4175
+S'Indore Barwali Chowk'
+p4176
+aS'Madhya Pradesh'
+p4177
+asS'174033'
+p4178
+(lp4179
+S'Jukhala'
+p4180
+aS'Himachal Pradesh'
+p4181
+asS'174031'
+p4182
+(lp4183
+S'Jandutha'
+p4184
+aS'Himachal Pradesh'
+p4185
+asS'452002'
+p4186
+(lp4187
+S'Indore Pardesipura'
+p4188
+aS'Madhya Pradesh'
+p4189
+asS'456010'
+p4190
+(lp4191
+S'Ujjain Gaughat Railway Co'
+p4192
+aS'Madhya Pradesh'
+p4193
+asS'452009'
+p4194
+(lp4195
+S'Indore Sudamanagar'
+p4196
+aS'Madhya Pradesh'
+p4197
+asS'452008'
+p4198
+(lp4199
+S'Indore Sadar Bazar'
+p4200
+aS'Madhya Pradesh'
+p4201
+asS'171009'
+p4202
+(lp4203
+S'Kasumpti'
+p4204
+aS'Himachal Pradesh'
+p4205
+asS'175032'
+p4206
+(lp4207
+S'Chauntra'
+p4208
+aS'Himachal Pradesh'
+p4209
+asS'175034'
+p4210
+(lp4211
+S'Samaila'
+p4212
+aS'Himachal Pradesh'
+p4213
+asS'416115'
+p4214
+(lp4215
+S'Ichalkaranji'
+p4216
+aS'Maharashtra'
+p4217
+asS'171001'
+p4218
+(lp4219
+S'Shimla H O'
+p4220
+aS'Himachal Pradesh'
+p4221
+asS'171003'
+p4222
+(lp4223
+S'Command Hq'
+p4224
+aS'Himachal Pradesh'
+p4225
+asS'171002'
+p4226
+(lp4227
+S'Simla East'
+p4228
+aS'Himachal Pradesh'
+p4229
+asS'171004'
+p4230
+(lp4231
+S'Chaura Maidan Simla'
+p4232
+aS'Himachal Pradesh'
+p4233
+asS'171007'
+p4234
+(lp4235
+S'Mashobra'
+p4236
+aS'Himachal Pradesh'
+p4237
+asS'783344'
+p4238
+(lp4239
+S'Hospital Road Raniganj'
+p4240
+aS'Assam'
+p4241
+asS'783346'
+p4242
+(lp4243
+S'Sarfanguri'
+p4244
+aS'Assam'
+p4245
+asS'786052'
+p4246
+(lp4247
+S'Tinthengia'
+p4248
+aS'Arunachal Pradesh'
+p4249
+asS'786054'
+p4250
+(lp4251
+S'Lezai'
+p4252
+aS'Arunachal Pradesh'
+p4253
+asS'797121'
+p4254
+(lp4255
+S'Piphema'
+p4256
+aS'Nagaland'
+p4257
+asS'811201'
+p4258
+(lp4259
+S'Lal Darwaza'
+p4260
+aS'Bihar'
+p4261
+asS'453446'
+p4262
+(lp4263
+S'Rasalpura'
+p4264
+aS'Madhya Pradesh'
+p4265
+asS'360550'
+p4266
+(lp4267
+S'Ranavav'
+p4268
+aS'Gujarat'
+p4269
+asS'496665'
+p4270
+(lp4271
+S'Chhal'
+p4272
+aS'Chattisgarh'
+p4273
+asS'206248'
+p4274
+(lp4275
+S'Sahar'
+p4276
+aS'Uttar Pradesh'
+p4277
+asS'799260'
+p4278
+(lp4279
+S'Panisagar'
+p4280
+aS'Tripura'
+p4281
+asS'301024'
+p4282
+(lp4283
+S'Narainpur'
+p4284
+aS'Rajasthan'
+p4285
+asS'262501'
+p4286
+(lp4287
+S'Pithoragarh Ho.'
+p4288
+aS'Uttaranchal'
+p4289
+asS'248145'
+p4290
+(lp4291
+S'Raniphool Devi'
+p4292
+aS'Uttaranchal'
+p4293
+asS'248201'
+p4294
+(lp4295
+S'Kolaghar'
+p4296
+aS'Uttaranchal'
+p4297
+asS'600093'
+p4298
+(lp4299
+S'Saligramam'
+p4300
+aS'Tamil Nadu'
+p4301
+asS'802159'
+p4302
+(lp4303
+S'Jitaura'
+p4304
+aS'Bihar'
+p4305
+asS'802157'
+p4306
+(lp4307
+S'Gajgajganj'
+p4308
+aS'Bihar'
+p4309
+asS'802155'
+p4310
+(lp4311
+S'Dalippur'
+p4312
+aS'Bihar'
+p4313
+asS'670306'
+p4314
+(lp4315
+S'Olayambadi B.O'
+p4316
+aS'Kerala'
+p4317
+asS'500594'
+p4318
+(lp4319
+S'Sainikpuri (Secbad)'
+p4320
+aS'Andhra Pradesh'
+p4321
+asS'600095'
+p4322
+(lp4323
+S'Jaffarkhanpet'
+p4324
+aS'Tamil Nadu'
+p4325
+asS'140126'
+p4326
+(lp4327
+S'Nangal Factory Area'
+p4328
+aS'Punjab'
+p4329
+asS'140124'
+p4330
+(lp4331
+S'Nangal Dam'
+p4332
+aS'Punjab'
+p4333
+asS'140125'
+p4334
+(lp4335
+S'Nangal'
+p4336
+aS'Punjab'
+p4337
+asS'670014'
+p4338
+(lp4339
+S'Chalad'
+p4340
+aS'Kerala'
+p4341
+asS'141115'
+p4342
+(lp4343
+S'Machhiwara'
+p4344
+aS'Punjab'
+p4345
+asS'124203'
+p4346
+(lp4347
+S'Majra (Rohtak)'
+p4348
+aS'Haryana'
+p4349
+asS'671541'
+p4350
+(lp4351
+S'Bedadka B.O'
+p4352
+aS'Kerala'
+p4353
+asS'671543'
+p4354
+(lp4355
+S'Belluru B.O'
+p4356
+aS'Kerala'
+p4357
+asS'671542'
+p4358
+(lp4359
+S'Iriyanni B.O'
+p4360
+aS'Kerala'
+p4361
+asS'208001'
+p4362
+(lp4363
+S'Fahimabad'
+p4364
+aS'Uttar Pradesh'
+p4365
+asS'208003'
+p4366
+(lp4367
+S'Chakeri Ad'
+p4368
+aS'Uttar Pradesh'
+p4369
+asS'208004'
+p4370
+(lp4371
+S'Napler Road'
+p4372
+aS'Uttar Pradesh'
+p4373
+asS'208005'
+p4374
+(lp4375
+S'Vijainagar'
+p4376
+aS'Uttar Pradesh'
+p4377
+asS'208007'
+p4378
+(lp4379
+S'Harijinder Nagar'
+p4380
+aS'Uttar Pradesh'
+p4381
+asS'754229'
+p4382
+(lp4383
+S'Ostapur'
+p4384
+aS'Orisa'
+p4385
+asS'754227'
+p4386
+(lp4387
+S'Olavar'
+p4388
+aS'Orisa'
+p4389
+asS'754225'
+p4390
+(lp4391
+S'Rajnagar (Kendrapara)'
+p4392
+aS'Orisa'
+p4393
+asS'362230'
+p4394
+(lp4395
+S'Madhavpur Ghed'
+p4396
+aS'Gujarat'
+p4397
+asS'389350'
+p4398
+(lp4399
+S'Halol'
+p4400
+aS'Gujarat'
+p4401
+asS'825317'
+p4402
+(lp4403
+S'Bsf Meerut'
+p4404
+aS'Jharkhand'
+p4405
+asS'752034'
+p4406
+(lp4407
+S'Gangadharpur'
+p4408
+aS'Orisa'
+p4409
+asS'673008'
+p4410
+(lp4411
+S'Calicut Medical College'
+p4412
+aS'Kerala'
+p4413
+asS'172113'
+p4414
+(lp4415
+S'Tabo'
+p4416
+aS'Himachal Pradesh'
+p4417
+asS'172111'
+p4418
+(lp4419
+S'Pooh'
+p4420
+aS'Himachal Pradesh'
+p4421
+asS'450551'
+p4422
+(lp4423
+S'Nimarkhedi'
+p4424
+aS'Madhya Pradesh'
+p4425
+asS'754232'
+p4426
+(lp4427
+S'Angulai'
+p4428
+aS'Orisa'
+p4429
+asS'754139'
+p4430
+(lp4431
+S'Tiran'
+p4432
+aS'Orisa'
+p4433
+asS'754132'
+p4434
+(lp4435
+S'Raghunathpur'
+p4436
+aS'Orisa'
+p4437
+asS'754136'
+p4438
+(lp4439
+S'Kanakpur'
+p4440
+aS'Orisa'
+p4441
+asS'790102'
+p4442
+(lp4443
+S'Seppa'
+p4444
+aS'Arunachal Pradesh'
+p4445
+asS'125001'
+p4446
+(lp4447
+S'Mini Sectt Hissar'
+p4448
+aS'Haryana'
+p4449
+asS'790104'
+p4450
+(lp4451
+S'Towang'
+p4452
+aS'Arunachal Pradesh'
+p4453
+asS'600078'
+p4454
+(lp4455
+S'K K Nagar'
+p4456
+aS'Tamil Nadu'
+p4457
+asS'303608'
+p4458
+(lp4459
+S'Luniyawas'
+p4460
+aS'Rajasthan'
+p4461
+asS'700028'
+p4462
+(lp4463
+S'Ordnance Factory'
+p4464
+aS'West Bengal'
+p4465
+asS'571119'
+p4466
+(lp4467
+S'Tagadur'
+p4468
+aS'Karnataka'
+p4469
+asS'396210'
+p4470
+(lp4471
+S'Daman'
+p4472
+aS'Gujarat'
+p4473
+asS'700021'
+p4474
+(lp4475
+S'Fort Willium'
+p4476
+aS'West Bengal'
+p4477
+asS'700020'
+p4478
+(lp4479
+S'Gokhale Road'
+p4480
+aS'West Bengal'
+p4481
+asS'781132'
+p4482
+(lp4483
+S'Rampur'
+p4484
+aS'Assam'
+p4485
+asS'700022'
+p4486
+(lp4487
+S'Hastings'
+p4488
+aS'West Bengal'
+p4489
+asS'124533'
+p4490
+(lp4491
+S'Kharainti'
+p4492
+aS'Haryana'
+p4493
+asS'781135'
+p4494
+(lp4495
+S'Singra'
+p4496
+aS'Assam'
+p4497
+asS'124531'
+p4498
+(lp4499
+S'Nilauthi'
+p4500
+aS'Haryana'
+p4501
+asS'571114'
+p4502
+(lp4503
+S'H D Kote'
+p4504
+aS'Karnataka'
+p4505
+asS'828108'
+p4506
+(lp4507
+S'Fuel Research Institute'
+p4508
+aS'Jharkhand'
+p4509
+asS'601105'
+p4510
+(lp4511
+S'Tambaram'
+p4512
+aS'Tamil Nadu'
+p4513
+asS'828104'
+p4514
+(lp4515
+S'Bhuli'
+p4516
+aS'Jharkhand'
+p4517
+asS'828106'
+p4518
+(lp4519
+S'Dhansar'
+p4520
+aS'Jharkhand'
+p4521
+asS'828101'
+p4522
+(lp4523
+S'Baliapur'
+p4524
+aS'Jharkhand'
+p4525
+asS'828102'
+p4526
+(lp4527
+S'Bhagabandh'
+p4528
+aS'Jharkhand'
+p4529
+asS'362014'
+p4530
+(lp4531
+S'Makhiala'
+p4532
+aS'Gujarat'
+p4533
+asS'362540'
+p4534
+(lp4535
+S'Ghoghla'
+p4536
+aS'Gujarat'
+p4537
+asS'678574'
+p4538
+(lp4539
+S'Naduvathupara B.O'
+p4540
+aS'Kerala'
+p4541
+asS'605110'
+p4542
+(lp4543
+S'Villyanpur'
+p4544
+aS'Pondicherry'
+p4545
+asS'364260'
+p4546
+(lp4547
+S'Tana'
+p4548
+aS'Gujarat'
+p4549
+asS'123413'
+p4550
+(lp4551
+S'Bahore Kalan'
+p4552
+aS'Haryana'
+p4553
+asS'793008'
+p4554
+(lp4555
+S'Phudmawri Mawlai'
+p4556
+aS'Meghalaya'
+p4557
+asS'493895'
+p4558
+(lp4559
+S'Mainpur (Raipur)'
+p4560
+aS'Chattisgarh'
+p4561
+asS'123414'
+p4562
+(lp4563
+S'Nanu Kalan'
+p4564
+aS'Haryana'
+p4565
+asS'793003'
+p4566
+(lp4567
+S'Laitumkhrah'
+p4568
+aS'Meghalaya'
+p4569
+asS'793002'
+p4570
+(lp4571
+S'Barabazar'
+p4572
+aS'Meghalaya'
+p4573
+asS'793001'
+p4574
+(lp4575
+S'Oakland'
+p4576
+aS'Meghalaya'
+p4577
+asS'793006'
+p4578
+(lp4579
+S'Umpling'
+p4580
+aS'Meghalaya'
+p4581
+asS'793004'
+p4582
+(lp4583
+S'Bishnupur'
+p4584
+aS'Meghalaya'
+p4585
+asS'781004'
+p4586
+(lp4587
+S'Kharguli'
+p4588
+aS'Assam'
+p4589
+asS'682555'
+p4590
+(lp4591
+S'Kavarathy (Lak)'
+p4592
+aS'Lakshadweep'
+p4593
+asS'781006'
+p4594
+(lp4595
+S'Assam Sachivalaya'
+p4596
+aS'Assam'
+p4597
+asS'682557'
+p4598
+(lp4599
+S'Kalpenthi (Lak)'
+p4600
+aS'Lakshadweep'
+p4601
+asS'781001'
+p4602
+(lp4603
+S'Guwahati H O'
+p4604
+aS'Assam'
+p4605
+asS'571201'
+p4606
+(lp4607
+S'Madikeri H O'
+p4608
+aS'Karnataka'
+p4609
+asS'781003'
+p4610
+(lp4611
+S'Assam Engg Institute'
+p4612
+aS'Assam'
+p4613
+asS'800020'
+p4614
+(lp4615
+S'Ashok Nagar L West'
+p4616
+aS'Bihar'
+p4617
+asS'800021'
+p4618
+(lp4619
+S'Vidyut Parishad'
+p4620
+aS'Bihar'
+p4621
+asS'781008'
+p4622
+(lp4623
+S'Rehabari (Gh)'
+p4624
+aS'Assam'
+p4625
+asS'682559'
+p4626
+(lp4627
+S'Minicoy (Lak)'
+p4628
+aS'Lakshadweep'
+p4629
+asS'491002'
+p4630
+(lp4631
+S'Durg Mohan Nagar'
+p4632
+aS'Chattisgarh'
+p4633
+asS'491003'
+p4634
+(lp4635
+S'Durg Kasardih'
+p4636
+aS'Chattisgarh'
+p4637
+asS'785015'
+p4638
+(lp4639
+S'Korokatoli'
+p4640
+aS'Arunachal Pradesh'
+p4641
+asS'202410'
+p4642
+(lp4643
+S'Bahjoi'
+p4644
+aS'Uttar Pradesh'
+p4645
+asS'202414'
+p4646
+(lp4647
+S'Narauli'
+p4648
+aS'Uttar Pradesh'
+p4649
+asS'604152'
+p4650
+(lp4651
+S'Nallanpillaipetral'
+p4652
+aS'Tamil Nadu'
+p4653
+asS'805126'
+p4654
+(lp4655
+S'Rajhat'
+p4656
+aS'Bihar'
+p4657
+asS'455117'
+p4658
+(lp4659
+S'Tonk Kalan'
+p4660
+aS'Madhya Pradesh'
+p4661
+asS'805124'
+p4662
+(lp4663
+S'Pakribarwan'
+p4664
+aS'Bihar'
+p4665
+asS'609606'
+p4666
+(lp4667
+S'Tirumalarayanpattanam'
+p4668
+aS'Pondicherry'
+p4669
+asS'123308'
+p4670
+(lp4671
+S'Badhra'
+p4672
+aS'Haryana'
+p4673
+asS'455111'
+p4674
+(lp4675
+S'Dewas Balgarh'
+p4676
+aS'Madhya Pradesh'
+p4677
+asS'797107'
+p4678
+(lp4679
+S'Pfutserro'
+p4680
+aS'Nagaland'
+p4681
+asS'403001'
+p4682
+(lp4683
+S'Panaji H O'
+p4684
+aS'Goa'
+p4685
+asS'123306'
+p4686
+(lp4687
+S'Charkhi Dadri City'
+p4688
+aS'Haryana'
+p4689
+asS'609609'
+p4690
+(lp4691
+S'Kottucherry'
+p4692
+aS'Pondicherry'
+p4693
+asS'797103'
+p4694
+(lp4695
+S'Chumukhedima'
+p4696
+aS'Nagaland'
+p4697
+asS'364312'
+p4698
+(lp4699
+S'Pachhegam'
+p4700
+aS'Gujarat'
+p4701
+asS'781310'
+p4702
+(lp4703
+S'Jagara'
+p4704
+aS'Assam'
+p4705
+asS'700029'
+p4706
+(lp4707
+S'Lake Market'
+p4708
+aS'West Bengal'
+p4709
+asS'206001'
+p4710
+(lp4711
+S'Etawah H O'
+p4712
+aS'Uttar Pradesh'
+p4713
+asS'781315'
+p4714
+(lp4715
+S'Barpeta Road'
+p4716
+aS'Assam'
+p4717
+asS'781317'
+p4718
+(lp4719
+S'Sorbhog'
+p4720
+aS'Assam'
+p4721
+asS'781319'
+p4722
+(lp4723
+S'Kalgachia'
+p4724
+aS'Assam'
+p4725
+asS'160101'
+p4726
+(lp4727
+S'Mani Mazra'
+p4728
+aS'Chandigarh'
+p4729
+asS'796181'
+p4730
+(lp4731
+S'Serchhip'
+p4732
+aS'Mizoram'
+p4733
+asS'825408'
+p4734
+(lp4735
+S'Itkhori'
+p4736
+aS'Jharkhand'
+p4737
+asS'825402'
+p4738
+(lp4739
+S'Ichak'
+p4740
+aS'Jharkhand'
+p4741
+asS'825406'
+p4742
+(lp4743
+S'Chauparan'
+p4744
+aS'Jharkhand'
+p4745
+asS'825404'
+p4746
+(lp4747
+S'Pratappur'
+p4748
+aS'Jharkhand'
+p4749
+asS'451770'
+p4750
+(lp4751
+S'Pansemal'
+p4752
+aS'Madhya Pradesh'
+p4753
+asS'202121'
+p4754
+(lp4755
+S'Akradbad'
+p4756
+aS'Uttar Pradesh'
+p4757
+asS'202128'
+p4758
+(lp4759
+S'Jalali Aligarh'
+p4760
+aS'Uttar Pradesh'
+p4761
+asS'360410'
+p4762
+(lp4763
+S'Darbargadh'
+p4764
+aS'Gujarat'
+p4765
+asS'456008'
+p4766
+(lp4767
+S'Ujjain Rishinagar'
+p4768
+aS'Madhya Pradesh'
+p4769
+asS'456001'
+p4770
+(lp4771
+S'Ujjain Madhonagar'
+p4772
+aS'Madhya Pradesh'
+p4773
+asS'303604'
+p4774
+(lp4775
+S'Sambhar Lake H O'
+p4776
+aS'Rajasthan'
+p4777
+asS'456003'
+p4778
+(lp4779
+S'Ujjan Bherongarh'
+p4780
+aS'Madhya Pradesh'
+p4781
+asS'456006'
+p4782
+(lp4783
+S'Ujjain Pandanba'
+p4784
+aS'Madhya Pradesh'
+p4785
+asS'752045'
+p4786
+(lp4787
+S'Gabakund'
+p4788
+aS'Orisa'
+p4789
+asS'700027'
+p4790
+(lp4791
+S'Chetla'
+p4792
+aS'West Bengal'
+p4793
+asS'175028'
+p4794
+(lp4795
+S'Chachiot'
+p4796
+aS'Himachal Pradesh'
+p4797
+asS'175026'
+p4798
+(lp4799
+S'Tihra'
+p4800
+aS'Himachal Pradesh'
+p4801
+asS'175024'
+p4802
+(lp4803
+S'Sarkaghat'
+p4804
+aS'Himachal Pradesh'
+p4805
+asS'502323'
+p4806
+(lp4807
+S'Yelmakanna'
+p4808
+aS'Andhra Pradesh'
+p4809
+asS'175021'
+p4810
+(lp4811
+S'Bhangratu'
+p4812
+aS'Himachal Pradesh'
+p4813
+asS'361321'
+p4814
+(lp4815
+S'Jam Devalia'
+p4816
+aS'Gujarat'
+p4817
+asS'606716'
+p4818
+(lp4819
+S'Taradapattu'
+p4820
+aS'Tamil Nadu'
+p4821
+asS'184203'
+p4822
+(lp4823
+S'Bhaddu'
+p4824
+aS'Jammu and Kashmir'
+p4825
+asS'184201'
+p4826
+(lp4827
+S'Basoli'
+p4828
+aS'Jammu and Kashmir'
+p4829
+asS'184207'
+p4830
+(lp4831
+S'Khog'
+p4832
+aS'Jammu and Kashmir'
+p4833
+asS'184205'
+p4834
+(lp4835
+S'Ramkot'
+p4836
+aS'Jammu and Kashmir'
+p4837
+asS'811212'
+p4838
+(lp4839
+S'Dharhara (Monghyr)'
+p4840
+aS'Bihar'
+p4841
+asS'811214'
+p4842
+(lp4843
+S'Jamalpur Workshop'
+p4844
+aS'Bihar'
+p4845
+asS'795116'
+p4846
+(lp4847
+S'Jiribam'
+p4848
+aS'Manipur'
+p4849
+asS'248152'
+p4850
+(lp4851
+S'Jharipani'
+p4852
+aS'Uttaranchal'
+p4853
+asS'175044'
+p4854
+(lp4855
+S'Ghiri'
+p4856
+aS'Himachal Pradesh'
+p4857
+asS'171101'
+p4858
+(lp4859
+S'Ghana Ki Hatti'
+p4860
+aS'Himachal Pradesh'
+p4861
+asS'171103'
+p4862
+(lp4863
+S'Dhami'
+p4864
+aS'Himachal Pradesh'
+p4865
+asS'606801'
+p4866
+(lp4867
+S'Chettupattu Polur'
+p4868
+aS'Tamil Nadu'
+p4869
+asS'503145'
+p4870
+(lp4871
+S'Dharamraopet'
+p4872
+aS'Andhra Pradesh'
+p4873
+asS'140001'
+p4874
+(lp4875
+S'Rup Nagar College'
+p4876
+aS'Punjab'
+p4877
+asS'262531'
+p4878
+(lp4879
+S'Bering'
+p4880
+aS'Uttaranchal'
+p4881
+asS'262533'
+p4882
+(lp4883
+S'Pankhu'
+p4884
+aS'Uttaranchal'
+p4885
+asS'249204'
+p4886
+(lp4887
+S'S.N. Temple'
+p4888
+aS'Uttaranchal'
+p4889
+asS'110092'
+p4890
+(lp4891
+S'Shakarpur'
+p4892
+aS'New Delhi'
+p4893
+asS'181223'
+p4894
+(lp4895
+S'Tikri'
+p4896
+aS'Jammu and Kashmir'
+p4897
+asS'262403'
+p4898
+(lp4899
+S'Sai Camp'
+p4900
+aS'Uttaranchal'
+p4901
+asS'185151'
+p4902
+(lp4903
+S'Naoshehra'
+p4904
+aS'Jammu and Kashmir'
+p4905
+asS'185153'
+p4906
+(lp4907
+S'Sunderbani'
+p4908
+aS'Jammu and Kashmir'
+p4909
+asS'493332'
+p4910
+(lp4911
+S'Baloda Bazar'
+p4912
+aS'Chattisgarh'
+p4913
+asS'185158'
+p4914
+(lp4915
+S'Rajouri'
+p4916
+aS'Jammu and Kashmir'
+p4917
+asS'562144'
+p4918
+(lp4919
+S'Jangamkote'
+p4920
+aS'Karnataka'
+p4921
+asS'208016'
+p4922
+(lp4923
+S'I I T Kanpur'
+p4924
+aS'Uttar Pradesh'
+p4925
+asS'181134'
+p4926
+(lp4927
+S'Jakh'
+p4928
+aS'Jammu and Kashmir'
+p4929
+asS'181132'
+p4930
+(lp4931
+S'Bishnah Adda'
+p4932
+aS'Jammu and Kashmir'
+p4933
+asS'181133'
+p4934
+(lp4935
+S'Bari Brahmana'
+p4936
+aS'Jammu and Kashmir'
+p4937
+asS'208010'
+p4938
+(lp4939
+S'Tannery (J K Puri)'
+p4940
+aS'Uttar Pradesh'
+p4941
+asS'493445'
+p4942
+(lp4943
+S'Mahasamund'
+p4944
+aS'Chattisgarh'
+p4945
+asS'491559'
+p4946
+(lp4947
+S'Lal Bahadur Nagar (Durg)'
+p4948
+aS'Chattisgarh'
+p4949
+asS'491557'
+p4950
+(lp4951
+S'Chichola'
+p4952
+aS'Chattisgarh'
+p4953
+asS'494227'
+p4954
+(lp4955
+S'Baniyagam'
+p4956
+aS'Chattisgarh'
+p4957
+asS'494225'
+p4958
+(lp4959
+S'Sonarpal'
+p4960
+aS'Chattisgarh'
+p4961
+asS'494223'
+p4962
+(lp4963
+S'Bastar'
+p4964
+aS'Chattisgarh'
+p4965
+asS'494221'
+p4966
+(lp4967
+S'Asna'
+p4968
+aS'Chattisgarh'
+p4969
+asS'362221'
+p4970
+(lp4971
+S'Balagam'
+p4972
+aS'Gujarat'
+p4973
+asS'362220'
+p4974
+(lp4975
+S'Aerodramme Road'
+p4976
+aS'Gujarat'
+p4977
+asS'362226'
+p4978
+(lp4979
+S'Loej'
+p4980
+aS'Gujarat'
+p4981
+asS'494229'
+p4982
+(lp4983
+S'Pharasgaon Camp'
+p4984
+aS'Chattisgarh'
+p4985
+asS'490026'
+p4986
+(lp4987
+S'Bhilai Industrial Estate'
+p4988
+aS'Chattisgarh'
+p4989
+asS'205142'
+p4990
+(lp4991
+S'Pariar'
+p4992
+aS'Uttar Pradesh'
+p4993
+asS'124303'
+p4994
+(lp4995
+S'Sanghi'
+p4996
+aS'Haryana'
+p4997
+asS'124305'
+p4998
+(lp4999
+S'Khanpur'
+p5000
+aS'Haryana'
+p5001
+asS'124307'
+p5002
+(lp5003
+S'Mehmoodpur'
+p5004
+aS'Haryana'
+p5005
+asS'124309'
+p5006
+(lp5007
+S'Madiana'
+p5008
+aS'Haryana'
+p5009
+asS'494005'
+p5010
+(lp5011
+S'Dharampura'
+p5012
+aS'Chattisgarh'
+p5013
+asS'494001'
+p5014
+(lp5015
+S'Jagdalpur Ho.'
+p5016
+aS'Chattisgarh'
+p5017
+asS'172104'
+p5018
+(lp5019
+S'Tapri'
+p5020
+aS'Himachal Pradesh'
+p5021
+asS'172106'
+p5022
+(lp5023
+S'Sangla'
+p5024
+aS'Himachal Pradesh'
+p5025
+asS'210128'
+p5026
+(lp5027
+S'Tindwari'
+p5028
+aS'Uttar Pradesh'
+p5029
+asS'172102'
+p5030
+(lp5031
+S'Sarahan Bushehar'
+p5032
+aS'Himachal Pradesh'
+p5033
+asS'210125'
+p5034
+(lp5035
+S'Kamasin'
+p5036
+aS'Uttar Pradesh'
+p5037
+asS'172109'
+p5038
+(lp5039
+S'Moorang'
+p5040
+aS'Himachal Pradesh'
+p5041
+asS'605051'
+p5042
+(lp5043
+S'Olugarai'
+p5044
+aS'Tamil Nadu'
+p5045
+asS'387370'
+p5046
+(lp5047
+S'Uttarsanda'
+p5048
+aS'Gujarat'
+p5049
+asS'824119'
+p5050
+(lp5051
+S'Harihar Ganj'
+p5052
+aS'Jharkhand'
+p5053
+asS'781127'
+p5054
+(lp5055
+S'Nagarbera'
+p5056
+aS'Assam'
+p5057
+asS'700015'
+p5058
+(lp5059
+S'Tengra'
+p5060
+aS'West Bengal'
+p5061
+asS'781125'
+p5062
+(lp5063
+S'Mirza'
+p5064
+aS'Assam'
+p5065
+asS'700017'
+p5066
+(lp5067
+S'Circus Avenue'
+p5068
+aS'West Bengal'
+p5069
+asS'700010'
+p5070
+(lp5071
+S'Joranandir'
+p5072
+aS'West Bengal'
+p5073
+asS'303611'
+p5074
+(lp5075
+S'Akoda'
+p5076
+aS'Rajasthan'
+p5077
+asS'781120'
+p5078
+(lp5079
+S'Barduar'
+p5080
+aS'Assam'
+p5081
+asS'274201'
+p5082
+(lp5083
+S'Baitalpur'
+p5084
+aS'Tamil Nadu'
+p5085
+asS'274203'
+p5086
+(lp5087
+S'Hata'
+p5088
+aS'Tamil Nadu'
+p5089
+asS'700018'
+p5090
+(lp5091
+S'Rabindranagar'
+p5092
+aS'West Bengal'
+p5093
+asS'700019'
+p5094
+(lp5095
+S'Gariahat Market'
+p5096
+aS'West Bengal'
+p5097
+asS'781129'
+p5098
+(lp5099
+S'Hahim Bazar'
+p5100
+aS'Assam'
+p5101
+asS'274206'
+p5102
+(lp5103
+S'Hetimpur'
+p5104
+aS'Tamil Nadu'
+p5105
+asS'396220'
+p5106
+(lp5107
+S'Moti Daman'
+p5108
+aS'Daman and Diu'
+p5109
+asS'491004'
+p5110
+(lp5111
+S'Durg Padnabhpur'
+p5112
+aS'Chattisgarh'
+p5113
+asS'676528'
+p5114
+(lp5115
+S'Othukungal'
+p5116
+aS'Kerala'
+p5117
+asS'799250'
+p5118
+(lp5119
+S'Dharma Nagar H O'
+p5120
+aS'Tripura'
+p5121
+asS'491771'
+p5122
+(lp5123
+S'Dondilohara'
+p5124
+aS'Chattisgarh'
+p5125
+asS'828131'
+p5126
+(lp5127
+S'Lodna'
+p5128
+aS'Jharkhand'
+p5129
+asS'828134'
+p5130
+(lp5131
+S'Chandankiari'
+p5132
+aS'Jharkhand'
+p5133
+asS'491001'
+p5134
+(lp5135
+S'Durg Sadar Bazar'
+p5136
+aS'Chattisgarh'
+p5137
+asS'796710'
+p5138
+(lp5139
+S'Bunghmun'
+p5140
+aS'Mizoram'
+p5141
+asS'362001'
+p5142
+(lp5143
+S'P T C'
+p5144
+aS'Gujarat'
+p5145
+asS'753010'
+p5146
+(lp5147
+S'Madhupatna (Ck-10)'
+p5148
+aS'Orisa'
+p5149
+asS'753011'
+p5150
+(lp5151
+S'Gopalpur (Cuttack 2)'
+p5152
+aS'Orisa'
+p5153
+asS'753012'
+p5154
+(lp5155
+S'Chhatra Bazar'
+p5156
+aS'Orisa'
+p5157
+asS'143001'
+p5158
+(lp5159
+S'Seth Jagat'
+p5160
+aS'Punjab'
+p5161
+asS'204215'
+p5162
+(lp5163
+S'Najmandi'
+p5164
+aS'Uttar Pradesh'
+p5165
+asS'303503'
+p5166
+(lp5167
+S'Lalsot'
+p5168
+aS'Rajasthan'
+p5169
+asS'781012'
+p5170
+(lp5171
+S'Pandu Rly Colony'
+p5172
+aS'Assam'
+p5173
+asS'781011'
+p5174
+(lp5175
+S'Maligaon Rly Hd Qrs'
+p5176
+aS'Assam'
+p5177
+asS'303507'
+p5178
+(lp5179
+S'Sainthal'
+p5180
+aS'Rajasthan'
+p5181
+asS'781016'
+p5182
+(lp5183
+S'Gopinath Nagar'
+p5184
+aS'Assam'
+p5185
+asS'781014'
+p5186
+(lp5187
+S'Guwahati University H O'
+p5188
+aS'Assam'
+p5189
+asS'790002'
+p5190
+(lp5191
+S'Kalaktang'
+p5192
+aS'Arunachal Pradesh'
+p5193
+asS'781019'
+p5194
+(lp5195
+S'Kahilipara'
+p5196
+aS'Assam'
+p5197
+asS'364410'
+p5198
+(lp5199
+S'Chamardi'
+p5200
+aS'Gujarat'
+p5201
+asS'793102'
+p5202
+(lp5203
+S'Nongpoh'
+p5204
+aS'Meghalaya'
+p5205
+asS'793106'
+p5206
+(lp5207
+S'Balat'
+p5208
+aS'Meghalaya'
+p5209
+asS'793104'
+p5210
+(lp5211
+S'Sumer'
+p5212
+aS'Meghalaya'
+p5213
+asS'793108'
+p5214
+(lp5215
+S'Cherrapunjee'
+p5216
+aS'Meghalaya'
+p5217
+asS'560087'
+p5218
+(lp5219
+S'Varthur'
+p5220
+aS'Karnataka'
+p5221
+asS'805134'
+p5222
+(lp5223
+S'Tetar'
+p5224
+aS'Bihar'
+p5225
+asS'560084'
+p5226
+(lp5227
+S'Lingarajapuram'
+p5228
+aS'Karnataka'
+p5229
+asS'805131'
+p5230
+(lp5231
+S'Wazirganj'
+p5232
+aS'Bihar'
+p5233
+asS'560082'
+p5234
+(lp5235
+S'Jayanagar West'
+p5236
+aS'Karnataka'
+p5237
+asS'560081'
+p5238
+(lp5239
+S'Tavarekere'
+p5240
+aS'Karnataka'
+p5241
+asS'560080'
+p5242
+(lp5243
+S'Sadashivnagar'
+p5244
+aS'Karnataka'
+p5245
+asS'797111'
+p5246
+(lp5247
+S'Wokha'
+p5248
+aS'Nagaland'
+p5249
+asS'797112'
+p5250
+(lp5251
+S'Dimapur Bazar'
+p5252
+aS'Nagaland'
+p5253
+asS'600088'
+p5254
+(lp5255
+S'Ganesh Nagar'
+p5256
+aS'Tamil Nadu'
+p5257
+asS'781307'
+p5258
+(lp5259
+S'Sarthebari'
+p5260
+aS'Assam'
+p5261
+asS'781305'
+p5262
+(lp5263
+S'Chenga'
+p5264
+aS'Assam'
+p5265
+asS'781303'
+p5266
+(lp5267
+S'Banagram'
+p5268
+aS'Assam'
+p5269
+asS'781301'
+p5270
+(lp5271
+S'Thakurbazar'
+p5272
+aS'Assam'
+p5273
+asS'828311'
+p5274
+(lp5275
+S'Amlabad Colliery'
+p5276
+aS'Jharkhand'
+p5277
+asS'600066'
+p5278
+(lp5279
+S'Kadirvedu'
+p5280
+aS'Tamil Nadu'
+p5281
+asS'495684'
+p5282
+(lp5283
+S'Sector 1 Balco'
+p5284
+aS'Chattisgarh'
+p5285
+asS'600060'
+p5286
+(lp5287
+S'Madhavaram'
+p5288
+aS'Tamil Nadu'
+p5289
+asS'600061'
+p5290
+(lp5291
+S'Naganallur South'
+p5292
+aS'Tamil Nadu'
+p5293
+asS'814103'
+p5294
+(lp5295
+S'Kathikund'
+p5296
+aS'Jharkhand'
+p5297
+asS'814101'
+p5298
+(lp5299
+S'Dumka Ho.'
+p5300
+aS'Jharkhand'
+p5301
+asS'403102'
+p5302
+(lp5303
+S'Chorao'
+p5304
+aS'Goa'
+p5305
+asS'403103'
+p5306
+(lp5307
+S'Sisoda'
+p5308
+aS'Goa'
+p5309
+asS'403106'
+p5310
+(lp5311
+S'Santa Estevam'
+p5312
+aS'Goa'
+p5313
+asS'123201'
+p5314
+(lp5315
+S'Loharu'
+p5316
+aS'Haryana'
+p5317
+asS'403108'
+p5318
+(lp5319
+S'Goa Velha'
+p5320
+aS'Goa'
+p5321
+asS'209821'
+p5322
+(lp5323
+S'Ajgain'
+p5324
+aS'Uttar Pradesh'
+p5325
+asS'700054'
+p5326
+(lp5327
+S'Phulbagan'
+p5328
+aS'West Bengal'
+p5329
+asS'604415'
+p5330
+(lp5331
+S'Elankadu'
+p5332
+aS'Tamil Nadu'
+p5333
+asS'452020'
+p5334
+(lp5335
+S'Indore Kasturba Nagar'
+p5336
+aS'Madhya Pradesh'
+p5337
+asS'752050'
+p5338
+(lp5339
+S'Loco Settlement'
+p5340
+aS'Orisa'
+p5341
+asS'752056'
+p5342
+(lp5343
+S'Pallahat (Khurda-2)'
+p5344
+aS'Orisa'
+p5345
+asS'502330'
+p5346
+(lp5347
+S'Indrakannu'
+p5348
+aS'Andhra Pradesh'
+p5349
+asS'606708'
+p5350
+(lp5351
+S'Tanipadi'
+p5352
+aS'Tamil Nadu'
+p5353
+asS'606701'
+p5354
+(lp5355
+S'Chengam'
+p5356
+aS'Tamil Nadu'
+p5357
+asS'360530'
+p5358
+(lp5359
+S'Darbargadh'
+p5360
+aS'Gujarat'
+p5361
+asS'503001'
+p5362
+(lp5363
+S'Valmikinagar'
+p5364
+aS'Andhra Pradesh'
+p5365
+asS'262527'
+p5366
+(lp5367
+S'Barakote'
+p5368
+aS'Uttaranchal'
+p5369
+asS'262525'
+p5370
+(lp5371
+S'Abbot Mount'
+p5372
+aS'Uttaranchal'
+p5373
+asS'262523'
+p5374
+(lp5375
+S'Champawat'
+p5376
+aS'Uttaranchal'
+p5377
+asS'262521'
+p5378
+(lp5379
+S'Wadda'
+p5380
+aS'Uttaranchal'
+p5381
+asS'262529'
+p5382
+(lp5383
+S'Gurna'
+p5384
+aS'Uttaranchal'
+p5385
+asS'785676'
+p5386
+(lp5387
+S'Khowangghat'
+p5388
+aS'Arunachal Pradesh'
+p5389
+asS'140702'
+p5390
+(lp5391
+S'Ghanaur'
+p5392
+aS'Punjab'
+p5393
+asS'201303'
+p5394
+(lp5395
+S'Estate'
+p5396
+aS'Uttar Pradesh'
+p5397
+asS'783362'
+p5398
+(lp5399
+S'Garuphela Bazar'
+p5400
+aS'Assam'
+p5401
+asS'783360'
+p5402
+(lp5403
+S'Gossain Gaon'
+p5404
+aS'Assam'
+p5405
+asS'206121'
+p5406
+(lp5407
+S'Ajitmal'
+p5408
+aS'Uttar Pradesh'
+p5409
+asS'403723'
+p5410
+(lp5411
+S'Velim'
+p5412
+aS'Goa'
+p5413
+asS'403720'
+p5414
+(lp5415
+S'Raja (Raia)'
+p5416
+aS'Goa'
+p5417
+asS'206125'
+p5418
+(lp5419
+S'Chakra Nagar'
+p5420
+aS'Uttar Pradesh'
+p5421
+asS'403727'
+p5422
+(lp5423
+S'Sanvoedem'
+p5424
+aS'Goa'
+p5425
+asS'403724'
+p5426
+(lp5427
+S'Orelm (Goa)'
+p5428
+aS'Goa'
+p5429
+asS'403725'
+p5430
+(lp5431
+S'Drampur'
+p5432
+aS'Goa'
+p5433
+asS'802178'
+p5434
+(lp5435
+S'Kalyanpur(Arrah)'
+p5436
+aS'Bihar'
+p5437
+asS'802171'
+p5438
+(lp5439
+S'Sarenja'
+p5440
+aS'Bihar'
+p5441
+asS'797109'
+p5442
+(lp5443
+S'Tseminyu'
+p5444
+aS'Nagaland'
+p5445
+asS'249132'
+p5446
+(lp5447
+S'Chila Colony (Cpo A2471)'
+p5448
+aS'Uttaranchal'
+p5449
+asS'562154'
+p5450
+(lp5451
+S'Jadigenahalli'
+p5452
+aS'Karnataka'
+p5453
+asS'782411'
+p5454
+(lp5455
+S'Jagibhakatagon'
+p5456
+aS'Assam'
+p5457
+asS'796230'
+p5458
+(lp5459
+S'Sialsuk'
+p5460
+aS'Mizoram'
+p5461
+asS'140109'
+p5462
+(lp5463
+S'Khizrabad West'
+p5464
+aS'Punjab'
+p5465
+asS'363421'
+p5466
+(lp5467
+S'D B Chowk'
+p5468
+aS'Gujarat'
+p5469
+asS'797105'
+p5470
+(lp5471
+S'Cheichema'
+p5472
+aS'Nagaland'
+p5473
+asS'825321'
+p5474
+(lp5475
+S'Tandwa (Hazaribag)'
+p5476
+aS'Jharkhand'
+p5477
+asS'140104'
+p5478
+(lp5479
+S'Sahauran'
+p5480
+aS'Punjab'
+p5481
+asS'825325'
+p5482
+(lp5483
+S'Kedla'
+p5484
+aS'Jharkhand'
+p5485
+asS'805129'
+p5486
+(lp5487
+S'Tungi(Nawadah)'
+p5488
+aS'Bihar'
+p5489
+asS'503178'
+p5490
+(lp5491
+S'Padkal'
+p5492
+aS'Andhra Pradesh'
+p5493
+asS'181124'
+p5494
+(lp5495
+S'B S F Camp Palora'
+p5496
+aS'Jammu and Kashmir'
+p5497
+asS'181122'
+p5498
+(lp5499
+S'Bhalwal'
+p5500
+aS'Jammu and Kashmir'
+p5501
+asS'670563'
+p5502
+(lp5503
+S'Nanicheri B.O'
+p5504
+aS'Kerala'
+p5505
+asS'501158'
+p5506
+(lp5507
+S'C C I (Tandur)'
+p5508
+aS'Andhra Pradesh'
+p5509
+asS'605602'
+p5510
+(lp5511
+S'V Marudur'
+p5512
+aS'Tamil Nadu'
+p5513
+asS'490010'
+p5514
+(lp5515
+S'Bhilai Nawa Gaon'
+p5516
+aS'Chattisgarh'
+p5517
+asS'490012'
+p5518
+(lp5519
+S'Bhilai New Khursipur'
+p5520
+aS'Chattisgarh'
+p5521
+asS'301029'
+p5522
+(lp5523
+S'Dariba Project Alwar'
+p5524
+aS'Rajasthan'
+p5525
+asS'304506'
+p5526
+(lp5527
+S'Lawa'
+p5528
+aS'Rajasthan'
+p5529
+asS'501152'
+p5530
+(lp5531
+S'Indoor'
+p5532
+aS'Andhra Pradesh'
+p5533
+asS'304502'
+p5534
+(lp5535
+S'Malpura Bazar'
+p5536
+aS'Rajasthan'
+p5537
+asS'304503'
+p5538
+(lp5539
+S'Lamba Hari Singh'
+p5540
+aS'Rajasthan'
+p5541
+asS'754202'
+p5542
+(lp5543
+S'Salipur'
+p5544
+aS'Orisa'
+p5545
+asS'754205'
+p5546
+(lp5547
+S'Balichandrapur'
+p5548
+aS'Orisa'
+p5549
+asS'754207'
+p5550
+(lp5551
+S'Nischintakoili'
+p5552
+aS'Orisa'
+p5553
+asS'744211'
+p5554
+(lp5555
+S'Havelock'
+p5556
+aS'Andaman and Nicobar'
+p5557
+asS'124318'
+p5558
+(lp5559
+S'Jauli'
+p5560
+aS'Haryana'
+p5561
+asS'124316'
+p5562
+(lp5563
+S'Garhwal'
+p5564
+aS'Haryana'
+p5565
+asS'124314'
+p5566
+(lp5567
+S'Jassia'
+p5568
+aS'Haryana'
+p5569
+asS'670109'
+p5570
+(lp5571
+S'Vadakkumbad Edso'
+p5572
+aS'Kerala'
+p5573
+asS'670102'
+p5574
+(lp5575
+S'Temple Gate'
+p5576
+aS'Kerala'
+p5577
+asS'247001'
+p5578
+(lp5579
+S'Saharanpur'
+p5580
+aS'Uttar Pradesh'
+p5581
+asS'754114'
+p5582
+(lp5583
+S'Mandasahi'
+p5584
+aS'Orisa'
+p5585
+asS'400008'
+p5586
+(lp5587
+S'Madanpura Byculla'
+p5588
+aS'Maharashtra'
+p5589
+asS'796410'
+p5590
+(lp5591
+S'Sairang'
+p5592
+aS'Mizoram'
+p5593
+asS'602021'
+p5594
+(lp5595
+S'Ikkadu'
+p5596
+aS'Tamil Nadu'
+p5597
+asS'400002'
+p5598
+(lp5599
+S'R C Mama Path No2to28'
+p5600
+aS'Maharashtra'
+p5601
+asS'400003'
+p5602
+(lp5603
+S'H H A Baar Corss Lane No2'
+p5604
+aS'Maharashtra'
+p5605
+asS'400001'
+p5606
+(lp5607
+S'A S D Mello Road Fuller Marg'
+p5608
+aS'Maharashtra'
+p5609
+asS'400006'
+p5610
+(lp5611
+S'Hanging Gardens'
+p5612
+aS'Maharashtra'
+p5613
+asS'400007'
+p5614
+(lp5615
+S'Adenwalabaug'
+p5616
+aS'Maharashtra'
+p5617
+asS'400004'
+p5618
+(lp5619
+S'Gaigali (Cow Lane)'
+p5620
+aS'Maharashtra'
+p5621
+asS'400005'
+p5622
+(lp5623
+S'Hamal Street'
+p5624
+aS'Maharashtra'
+p5625
+asS'494670'
+p5626
+(lp5627
+S'Korar'
+p5628
+aS'Chattisgarh'
+p5629
+asS'670621'
+p5630
+(lp5631
+S'Chala East B.O'
+p5632
+aS'Kerala'
+p5633
+asS'754116'
+p5634
+(lp5635
+S'Madhyasasan'
+p5636
+aS'Orisa'
+p5637
+asS'700003'
+p5638
+(lp5639
+S'Patrika'
+p5640
+aS'West Bengal'
+p5641
+asS'700002'
+p5642
+(lp5643
+S'Indian Research'
+p5644
+aS'West Bengal'
+p5645
+asS'781150'
+p5646
+(lp5647
+S'Chandrapur'
+p5648
+aS'Assam'
+p5649
+asS'454660'
+p5650
+(lp5651
+S'Badnawar'
+p5652
+aS'Madhya Pradesh'
+p5653
+asS'700007'
+p5654
+(lp5655
+S'Archana'
+p5656
+aS'West Bengal'
+p5657
+asS'454666'
+p5658
+(lp5659
+S'Sadalpur'
+p5660
+aS'Madhya Pradesh'
+p5661
+asS'700005'
+p5662
+(lp5663
+S'Hatkhola'
+p5664
+aS'West Bengal'
+p5665
+asS'244711'
+p5666
+(lp5667
+S'Maulekhal'
+p5668
+aS'Uttaranchal'
+p5669
+asS'454668'
+p5670
+(lp5671
+S'Bakhatgarh'
+p5672
+aS'Madhya Pradesh'
+p5673
+asS'246281'
+p5674
+(lp5675
+S'Yamkeshwar'
+p5676
+aS'Uttaranchal'
+p5677
+asS'828126'
+p5678
+(lp5679
+S'Sudamadih'
+p5680
+aS'Jharkhand'
+p5681
+asS'670614'
+p5682
+(lp5683
+S'Iriveri Edso'
+p5684
+aS'Kerala'
+p5685
+asS'828123'
+p5686
+(lp5687
+S'Sindri Institute'
+p5688
+aS'Jharkhand'
+p5689
+asS'828121'
+p5690
+(lp5691
+S'Sijua'
+p5692
+aS'Jharkhand'
+p5693
+asS'246449'
+p5694
+(lp5695
+S'Nand Prayag'
+p5696
+aS'Uttaranchal'
+p5697
+asS'246447'
+p5698
+(lp5699
+S'Malari (Seasonal)'
+p5700
+aS'Uttaranchal'
+p5701
+asS'396235'
+p5702
+(lp5703
+S'Naroli'
+p5704
+aS'Dadar and Nagar Haveli'
+p5705
+asS'246442'
+p5706
+(lp5707
+S'Jakhani'
+p5708
+aS'Uttaranchal'
+p5709
+asS'246440'
+p5710
+(lp5711
+S'Adibadri'
+p5712
+aS'Uttaranchal'
+p5713
+asS'828128'
+p5714
+(lp5715
+S'Tundu'
+p5716
+aS'Jharkhand'
+p5717
+asS'753004'
+p5718
+(lp5719
+S'Nayabazar (Cuttack-4) Cha'
+p5720
+aS'Orisa'
+p5721
+asS'753003'
+p5722
+(lp5723
+S'Central Rice Research'
+p5724
+aS'Orisa'
+p5725
+asS'753002'
+p5726
+(lp5727
+S'Chandnichouk H O'
+p5728
+aS'Orisa'
+p5729
+asS'753001'
+p5730
+(lp5731
+S'Mangalabag'
+p5732
+aS'Orisa'
+p5733
+asS'670581'
+p5734
+(lp5735
+S'Padappangad B.O'
+p5736
+aS'Kerala'
+p5737
+asS'753009'
+p5738
+(lp5739
+S'Telenga Bazar (Cuttack-9)'
+p5740
+aS'Orisa'
+p5741
+asS'753008'
+p5742
+(lp5743
+S'Kanika Rajbati'
+p5744
+aS'Orisa'
+p5745
+asS'363535'
+p5746
+(lp5747
+S'Lunsar'
+p5748
+aS'Gujarat'
+p5749
+asS'362560'
+p5750
+(lp5751
+S'Una Sorath'
+p5752
+aS'Gujarat'
+p5753
+asS'796701'
+p5754
+(lp5755
+S'Lunglei'
+p5756
+aS'Mizoram'
+p5757
+asS'274304'
+p5758
+(lp5759
+S'Padrauna'
+p5760
+aS'Tamil Nadu'
+p5761
+asS'364241'
+p5762
+(lp5763
+S'Ghanghli'
+p5764
+aS'Gujarat'
+p5765
+asS'571266'
+p5766
+(lp5767
+S'Badaga'
+p5768
+aS'Karnataka'
+p5769
+asS'246191'
+p5770
+(lp5771
+S'Padampur (Cpo A-3606)'
+p5772
+aS'Uttaranchal'
+p5773
+asS'246193'
+p5774
+(lp5775
+S'Jailhari Khal'
+p5776
+aS'Uttaranchal'
+p5777
+asS'175131'
+p5778
+(lp5779
+S'Manali'
+p5780
+aS'Himachal Pradesh'
+p5781
+asS'795140'
+p5782
+(lp5783
+S'Tulihal'
+p5784
+aS'Manipur'
+p5785
+asS'795142'
+p5786
+(lp5787
+S'Ukhrul'
+p5788
+aS'Manipur'
+p5789
+asS'795144'
+p5790
+(lp5791
+S'Tengnoupal'
+p5792
+aS'Manipur'
+p5793
+asS'795146'
+p5794
+(lp5795
+S'Lumsung'
+p5796
+aS'Manipur'
+p5797
+asS'209101'
+p5798
+(lp5799
+S'Akbarpur (Kanpur)'
+p5800
+aS'Uttar Pradesh'
+p5801
+asS'142061'
+p5802
+(lp5803
+S'Manawan'
+p5804
+aS'Punjab'
+p5805
+asS'793111'
+p5806
+(lp5807
+S'Cherrabazar'
+p5808
+aS'Meghalaya'
+p5809
+asS'793110'
+p5810
+(lp5811
+S'Pynursla'
+p5812
+aS'Meghalaya'
+p5813
+asS'364330'
+p5814
+(lp5815
+S'Umrala'
+p5816
+aS'Gujarat'
+p5817
+asS'793119'
+p5818
+(lp5819
+S'Nongstoin'
+p5820
+aS'Meghalaya'
+p5821
+asS'565277'
+p5822
+(lp5823
+S'Pahwadi'
+p5824
+aS'Karnataka'
+p5825
+asS'805102'
+p5826
+(lp5827
+S'Gobindpur (Nawadah)'
+p5828
+aS'Bihar'
+p5829
+asS'803116'
+p5830
+(lp5831
+S'Rajgir'
+p5832
+aS'Bihar'
+p5833
+asS'805104'
+p5834
+(lp5835
+S'Kadirganj'
+p5836
+aS'Bihar'
+p5837
+asS'805108'
+p5838
+(lp5839
+S'Lalbigha'
+p5840
+aS'Bihar'
+p5841
+asS'744106'
+p5842
+(lp5843
+S'Shadipur'
+p5844
+aS'Andaman and Nicobar'
+p5845
+asS'797123'
+p5846
+(lp5847
+S'Rangapahar'
+p5848
+aS'Nagaland'
+p5849
+asS'797125'
+p5850
+(lp5851
+S'Zakhama'
+p5852
+aS'Nagaland'
+p5853
+asS'797127'
+p5854
+(lp5855
+S'Viswama'
+p5856
+aS'Nagaland'
+p5857
+asS'781378'
+p5858
+(lp5859
+S'Haribhanga'
+p5860
+aS'Assam'
+p5861
+asS'781372'
+p5862
+(lp5863
+S'Mussalpur'
+p5864
+aS'Assam'
+p5865
+asS'781370'
+p5866
+(lp5867
+S'Kaithalkuchi'
+p5868
+aS'Assam'
+p5869
+asS'600090'
+p5870
+(lp5871
+S'Besant Nagar'
+p5872
+aS'Tamil Nadu'
+p5873
+asS'781376'
+p5874
+(lp5875
+S'Darkuchi'
+p5876
+aS'Assam'
+p5877
+asS'781374'
+p5878
+(lp5879
+S'Makhibaha'
+p5880
+aS'Assam'
+p5881
+asS'185133'
+p5882
+(lp5883
+S'Budhal'
+p5884
+aS'Jammu and Kashmir'
+p5885
+asS'828307'
+p5886
+(lp5887
+S'Nudkhurkee'
+p5888
+aS'Jharkhand'
+p5889
+asS'828305'
+p5890
+(lp5891
+S'Mohuda'
+p5892
+aS'Jharkhand'
+p5893
+asS'828303'
+p5894
+(lp5895
+S'Bhojudih'
+p5896
+aS'Jharkhand'
+p5897
+asS'828301'
+p5898
+(lp5899
+S'Bhaga'
+p5900
+aS'Jharkhand'
+p5901
+asS'814119'
+p5902
+(lp5903
+S'Kurwa'
+p5904
+aS'Jharkhand'
+p5905
+asS'814112'
+p5906
+(lp5907
+S'Baidyanath Deoghar H O'
+p5908
+aS'Jharkhand'
+p5909
+asS'814114'
+p5910
+(lp5911
+S'Deo Sang Bompas Tower'
+p5912
+aS'Jharkhand'
+p5913
+asS'814117'
+p5914
+(lp5915
+S'Talisman Bilasi'
+p5916
+aS'Jharkhand'
+p5917
+asS'140501'
+p5918
+(lp5919
+S'Lairu'
+p5920
+aS'Punjab'
+p5921
+asS'403110'
+p5922
+(lp5923
+S'Corlim Industrial Estate'
+p5924
+aS'Goa'
+p5925
+asS'403112'
+p5926
+(lp5927
+S'Altc Betim'
+p5928
+aS'Goa'
+p5929
+asS'201009'
+p5930
+(lp5931
+S'Dasna Gate'
+p5932
+aS'Uttar Pradesh'
+p5933
+asS'786616'
+p5934
+(lp5935
+S'Lengri Bazar'
+p5936
+aS'Arunachal Pradesh'
+p5937
+asS'786610'
+p5938
+(lp5939
+S'Naharkatia'
+p5940
+aS'Arunachal Pradesh'
+p5941
+asS'452056'
+p5942
+(lp5943
+S'Khajrana (Indore)'
+p5944
+aS'Madhya Pradesh'
+p5945
+asS'175049'
+p5946
+(lp5947
+S'Jamni'
+p5948
+aS'Himachal Pradesh'
+p5949
+asS'175040'
+p5950
+(lp5951
+S'Dharampur Mandi'
+p5952
+aS'Himachal Pradesh'
+p5953
+asS'175042'
+p5954
+(lp5955
+S'Rakoh'
+p5956
+aS'Himachal Pradesh'
+p5957
+asS'502305'
+p5958
+(lp5959
+S'Dhanora'
+p5960
+aS'Andhra Pradesh'
+p5961
+asS'175047'
+p5962
+(lp5963
+S'Janheli'
+p5964
+aS'Himachal Pradesh'
+p5965
+asS'502307'
+p5966
+(lp5967
+S'Idapasham'
+p5968
+aS'Andhra Pradesh'
+p5969
+asS'491993'
+p5970
+(lp5971
+S'Saja'
+p5972
+aS'Chattisgarh'
+p5973
+asS'363320'
+p5974
+(lp5975
+S'Rajsitapur'
+p5976
+aS'Gujarat'
+p5977
+asS'754118'
+p5978
+(lp5979
+S'Sarichuan'
+p5980
+aS'Orisa'
+p5981
+asS'403601'
+p5982
+(lp5983
+S'Margaon H O'
+p5984
+aS'Goa'
+p5985
+asS'403603'
+p5986
+(lp5987
+S'Belui'
+p5988
+aS'Goa'
+p5989
+asS'403602'
+p5990
+(lp5991
+S'Fatorda'
+p5992
+aS'Goa'
+p5993
+asS'143004'
+p5994
+(lp5995
+S'Khanna Ngr Amritsar'
+p5996
+aS'Punjab'
+p5997
+asS'143006'
+p5998
+(lp5999
+S'Majitha Mandi'
+p6000
+aS'Punjab'
+p6001
+asS'815359'
+p6002
+(lp6003
+S'Kundhait'
+p6004
+aS'Jharkhand'
+p6005
+asS'143002'
+p6006
+(lp6007
+S'Amritsar'
+p6008
+aS'Punjab'
+p6009
+asS'815354'
+p6010
+(lp6011
+S'Mihijam'
+p6012
+aS'Jharkhand'
+p6013
+asS'174403'
+p6014
+(lp6015
+S'Slapper'
+p6016
+aS'Himachal Pradesh'
+p6017
+asS'815356'
+p6018
+(lp6019
+S'Sarath'
+p6020
+aS'Jharkhand'
+p6021
+asS'174405'
+p6022
+(lp6023
+S'Chambi'
+p6024
+aS'Himachal Pradesh'
+p6025
+asS'262552'
+p6026
+(lp6027
+S'Thal'
+p6028
+aS'Uttaranchal'
+p6029
+asS'262550'
+p6030
+(lp6031
+S'Merthi'
+p6032
+aS'Uttaranchal'
+p6033
+asS'700049'
+p6034
+(lp6035
+S'Nimta'
+p6036
+aS'West Bengal'
+p6037
+asS'262554'
+p6038
+(lp6039
+S'Munsiari'
+p6040
+aS'Uttaranchal'
+p6041
+asS'305023'
+p6042
+(lp6043
+S'Gagwana'
+p6044
+aS'Rajasthan'
+p6045
+asS'500890'
+p6046
+(lp6047
+S'Quarters'
+p6048
+aS'Andhra Pradesh'
+p6049
+asS'700046'
+p6050
+(lp6051
+S'Abinash Choudhury Lane'
+p6052
+aS'West Bengal'
+p6053
+asS'501143'
+p6054
+(lp6055
+S'Basheerabad'
+p6056
+aS'Andhra Pradesh'
+p6057
+asS'700045'
+p6058
+(lp6059
+S'La Gardens'
+p6060
+aS'West Bengal'
+p6061
+asS'301416'
+p6062
+(lp6063
+S'Saket'
+p6064
+aS'Rajasthan'
+p6065
+asS'174315'
+p6066
+(lp6067
+S'Mehatpur'
+p6068
+aS'Himachal Pradesh'
+p6069
+asS'174312'
+p6070
+(lp6071
+S'Jaura Amb'
+p6072
+aS'Himachal Pradesh'
+p6073
+asS'174310'
+p6074
+(lp6075
+S'Kacha Tnk Nahan N Devi'
+p6076
+aS'Himachal Pradesh'
+p6077
+asS'403730'
+p6078
+(lp6079
+S'St Josede Azeal'
+p6080
+aS'Goa'
+p6081
+asS'600003'
+p6082
+(lp6083
+S'Central Station'
+p6084
+aS'Tamil Nadu'
+p6085
+asS'562122'
+p6086
+(lp6087
+S'Nandagudi'
+p6088
+aS'Karnataka'
+p6089
+asS'140113'
+p6090
+(lp6091
+S'Ghanauli'
+p6092
+aS'Punjab'
+p6093
+asS'782403'
+p6094
+(lp6095
+S'Khetri'
+p6096
+aS'Assam'
+p6097
+asS'110058'
+p6098
+(lp6099
+S'Janakpuri'
+p6100
+aS'New Delhi'
+p6101
+asS'783133'
+p6102
+(lp6103
+S'Rajapara'
+p6104
+aS'Assam'
+p6105
+asS'783130'
+p6106
+(lp6107
+S'Rongjuli'
+p6108
+aS'Assam'
+p6109
+asS'140119'
+p6110
+(lp6111
+S'Takhatgarh'
+p6112
+aS'Punjab'
+p6113
+asS'825330'
+p6114
+(lp6115
+S'Topa'
+p6116
+aS'Jharkhand'
+p6117
+asS'185131'
+p6118
+(lp6119
+S'Rajouri H O'
+p6120
+aS'Jammu and Kashmir'
+p6121
+asS'754215'
+p6122
+(lp6123
+S'Pattamundai'
+p6124
+aS'Orisa'
+p6125
+asS'185134'
+p6126
+(lp6127
+S'Dologra'
+p6128
+aS'Jammu and Kashmir'
+p6129
+asS'825336'
+p6130
+(lp6131
+S'Charhi'
+p6132
+aS'Jharkhand'
+p6133
+asS'680302'
+p6134
+(lp6135
+S'Alagappa Nagar'
+p6136
+aS'Kerala'
+p6137
+asS'503165'
+p6138
+(lp6139
+S'Darpalli'
+p6140
+aS'Andhra Pradesh'
+p6141
+asS'501146'
+p6142
+(lp6143
+S'Agnoor'
+p6144
+aS'Andhra Pradesh'
+p6145
+asS'181112'
+p6146
+(lp6147
+S'Rathana'
+p6148
+aS'Jammu and Kashmir'
+p6149
+asS'181114'
+p6150
+(lp6151
+S'Khour Deviani'
+p6152
+aS'Jammu and Kashmir'
+p6153
+asS'501141'
+p6154
+(lp6155
+S'Old Tandur'
+p6156
+aS'Andhra Pradesh'
+p6157
+asS'493661'
+p6158
+(lp6159
+S'Abhanpur'
+p6160
+aS'Chattisgarh'
+p6161
+asS'670571'
+p6162
+(lp6163
+S'Rayarom B.O'
+p6164
+aS'Kerala'
+p6165
+asS'124140'
+p6166
+(lp6167
+S'Silana'
+p6168
+aS'Haryana'
+p6169
+asS'754217'
+p6170
+(lp6171
+S'Alba'
+p6172
+aS'Orisa'
+p6173
+asS'500001'
+p6174
+(lp6175
+S'Hindi Bhavan'
+p6176
+aS'Andhra Pradesh'
+p6177
+asS'490001'
+p6178
+(lp6179
+S'Sector5 Bhilia'
+p6180
+aS'Chattisgarh'
+p6181
+asS'754214'
+p6182
+(lp6183
+S'Indupur'
+p6184
+aS'Orisa'
+p6185
+asS'754210'
+p6186
+(lp6187
+S'Danpur'
+p6188
+aS'Orisa'
+p6189
+asS'301037'
+p6190
+(lp6191
+S'Chandoli'
+p6192
+aS'Rajasthan'
+p6193
+asS'829126'
+p6194
+(lp6195
+S'Sounda Colliery'
+p6196
+aS'Jharkhand'
+p6197
+asS'301032'
+p6198
+(lp6199
+S'Ajabpura'
+p6200
+aS'Rajasthan'
+p6201
+asS'304510'
+p6202
+(lp6203
+S'Panwalia'
+p6204
+aS'Rajasthan'
+p6205
+asS'744209'
+p6206
+(lp6207
+S'Kadamtala A & N'
+p6208
+aS'Andaman and Nicobar'
+p6209
+asS'802166'
+p6210
+(lp6211
+S'Umraoganj'
+p6212
+aS'Bihar'
+p6213
+asS'802164'
+p6214
+(lp6215
+S'Sandesh'
+p6216
+aS'Bihar'
+p6217
+asS'802162'
+p6218
+(lp6219
+S'Nawadahben'
+p6220
+aS'Bihar'
+p6221
+asS'181203'
+p6222
+(lp6223
+S'Khour'
+p6224
+aS'Jammu and Kashmir'
+p6225
+asS'744201'
+p6226
+(lp6227
+S'Betapur'
+p6228
+aS'Andaman and Nicobar'
+p6229
+asS'744203'
+p6230
+(lp6231
+S'Long Island'
+p6232
+aS'Andaman and Nicobar'
+p6233
+asS'744205'
+p6234
+(lp6235
+S'Ranghat'
+p6236
+aS'Andaman and Nicobar'
+p6237
+asS'181209'
+p6238
+(lp6239
+S'Sidhar'
+p6240
+aS'Jammu and Kashmir'
+p6241
+asS'744207'
+p6242
+(lp6243
+S'Hut Bay'
+p6244
+aS'Andaman and Nicobar'
+p6245
+asS'451110'
+p6246
+(lp6247
+S'Dhakalgaon'
+p6248
+aS'Madhya Pradesh'
+p6249
+asS'451111'
+p6250
+(lp6251
+S'Sanavad Sadar Bazar'
+p6252
+aS'Madhya Pradesh'
+p6253
+asS'451117'
+p6254
+(lp6255
+S'Balwada'
+p6256
+aS'Madhya Pradesh'
+p6257
+asS'671357'
+p6258
+(lp6259
+S'Edachakai B.O'
+p6260
+aS'Kerala'
+p6261
+asS'671350'
+p6262
+(lp6263
+S'Udumbanthala'
+p6264
+aS'Kerala'
+p6265
+asS'796629'
+p6266
+(lp6267
+S'Deomali'
+p6268
+aS'Mizoram'
+p6269
+asS'301712'
+p6270
+(lp6271
+S'Bagheri Kalan'
+p6272
+aS'Rajasthan'
+p6273
+asS'754103'
+p6274
+(lp6275
+S'Jagatsinghpur H O'
+p6276
+aS'Orisa'
+p6277
+asS'210301'
+p6278
+(lp6279
+S'Hamirpur H O'
+p6280
+aS'Uttar Pradesh'
+p6281
+asS'754107'
+p6282
+(lp6283
+S'Alanahat'
+p6284
+aS'Orisa'
+p6285
+asS'754104'
+p6286
+(lp6287
+S'Nalibar'
+p6288
+aS'Orisa'
+p6289
+asS'754109'
+p6290
+(lp6291
+S'Debidol'
+p6292
+aS'Orisa'
+p6293
+asS'494665'
+p6294
+(lp6295
+S'Antagarh'
+p6296
+aS'Chattisgarh'
+p6297
+asS'678611'
+p6298
+(lp6299
+S'Edathara'
+p6300
+aS'Kerala'
+p6301
+asS'494115'
+p6302
+(lp6303
+S'Tongapal'
+p6304
+aS'Chattisgarh'
+p6305
+asS'494111'
+p6306
+(lp6307
+S'Sukma'
+p6308
+aS'Chattisgarh'
+p6309
+asS'172022'
+p6310
+(lp6311
+S'Nogli'
+p6312
+aS'Himachal Pradesh'
+p6313
+asS'172026'
+p6314
+(lp6315
+S'Ani'
+p6316
+aS'Himachal Pradesh'
+p6317
+asS'246458'
+p6318
+(lp6319
+S'Maithana'
+p6320
+aS'Uttaranchal'
+p6321
+asS'172024'
+p6322
+(lp6323
+S'Kingal'
+p6324
+aS'Himachal Pradesh'
+p6325
+asS'246455'
+p6326
+(lp6327
+S'Narain Bazar'
+p6328
+aS'Uttaranchal'
+p6329
+asS'182301'
+p6330
+(lp6331
+S'Katra'
+p6332
+aS'Jammu and Kashmir'
+p6333
+asS'182302'
+p6334
+(lp6335
+S'Vaishno Devi'
+p6336
+aS'Jammu and Kashmir'
+p6337
+asS'246452'
+p6338
+(lp6339
+S'Nauli'
+p6340
+aS'Uttaranchal'
+p6341
+asS'181205'
+p6342
+(lp6343
+S'Chhamb'
+p6344
+aS'Jammu and Kashmir'
+p6345
+asS'683521'
+p6346
+(lp6347
+S'Vadakkumpuram'
+p6348
+aS'Kerala'
+p6349
+asS'124031'
+p6350
+(lp6351
+S'Maina'
+p6352
+aS'Haryana'
+p6353
+asS'141402'
+p6354
+(lp6355
+S'A S College Khanna'
+p6356
+aS'Punjab'
+p6357
+asS'754071'
+p6358
+(lp6359
+S'Kalingchhak'
+p6360
+aS'Orisa'
+p6361
+asS'181201'
+p6362
+(lp6363
+S'Akhnoor Adda'
+p6364
+aS'Jammu and Kashmir'
+p6365
+asS'799045'
+p6366
+(lp6367
+S'Birendra Nagar'
+p6368
+aS'Tripura'
+p6369
+asS'246185'
+p6370
+(lp6371
+S'Bughani'
+p6372
+aS'Uttaranchal'
+p6373
+asS'380025'
+p6374
+(lp6375
+S'Ahmedabad'
+p6376
+aS'Gujarat'
+p6377
+asS'246188'
+p6378
+(lp6379
+S'Adheriya Khal'
+p6380
+aS'Uttaranchal'
+p6381
+asS'571251'
+p6382
+(lp6383
+S'Madapura'
+p6384
+aS'Karnataka'
+p6385
+asS'451335'
+p6386
+(lp6387
+S'Gogawan'
+p6388
+aS'Madhya Pradesh'
+p6389
+asS'795158'
+p6390
+(lp6391
+S'Ching Kompong'
+p6392
+aS'Manipur'
+p6393
+asS'142050'
+p6394
+(lp6395
+S'Talwandi'
+p6396
+aS'Punjab'
+p6397
+asS'142052'
+p6398
+(lp6399
+S'Ferozshah'
+p6400
+aS'Punjab'
+p6401
+asS'363425'
+p6402
+(lp6403
+S'Hadala Bhal'
+p6404
+aS'Gujarat'
+p6405
+asS'364430'
+p6406
+(lp6407
+S'Lathi'
+p6408
+aS'Gujarat'
+p6409
+asS'363423'
+p6410
+(lp6411
+S'Pansina'
+p6412
+aS'Gujarat'
+p6413
+asS'795150'
+p6414
+(lp6415
+S'Mao'
+p6416
+aS'Manipur'
+p6417
+asS'301701'
+p6418
+(lp6419
+S'Bahror H O'
+p6420
+aS'Rajasthan'
+p6421
+asS'363641'
+p6422
+(lp6423
+S'Nani Bazar'
+p6424
+aS'Gujarat'
+p6425
+asS'793120'
+p6426
+(lp6427
+S'Moirang'
+p6428
+aS'Meghalaya'
+p6429
+asS'805110'
+p6430
+(lp6431
+S'Nawadah H O'
+p6432
+aS'Bihar'
+p6433
+asS'781368'
+p6434
+(lp6435
+S'Nagrijuli'
+p6436
+aS'Assam'
+p6437
+asS'781348'
+p6438
+(lp6439
+S'Morowa'
+p6440
+aS'Assam'
+p6441
+asS'800002'
+p6442
+(lp6443
+S'Anisabad'
+p6444
+aS'Bihar'
+p6445
+asS'502220'
+p6446
+(lp6447
+S'Zahirabvad Ganj'
+p6448
+aS'Andhra Pradesh'
+p6449
+asS'781364'
+p6450
+(lp6451
+S'Maharipara'
+p6452
+aS'Assam'
+p6453
+asS'781366'
+p6454
+(lp6455
+S'Gores War'
+p6456
+aS'Assam'
+p6457
+asS'454571'
+p6458
+(lp6459
+S'Gujri'
+p6460
+aS'Madhya Pradesh'
+p6461
+asS'600043'
+p6462
+(lp6463
+S'Rajainagar'
+p6464
+aS'Tamil Nadu'
+p6465
+asS'600044'
+p6466
+(lp6467
+S'Bharathipuram'
+p6468
+aS'Tamil Nadu'
+p6469
+asS'600045'
+p6470
+(lp6471
+S'Tambaram West'
+p6472
+aS'Tamil Nadu'
+p6473
+asS'403004'
+p6474
+(lp6475
+S'Panaji'
+p6476
+aS'Goa'
+p6477
+asS'184145'
+p6478
+(lp6479
+S'Rajpora'
+p6480
+aS'Jammu and Kashmir'
+p6481
+asS'184141'
+p6482
+(lp6483
+S'Ghagwal'
+p6484
+aS'Jammu and Kashmir'
+p6485
+asS'184143'
+p6486
+(lp6487
+S'Barwal'
+p6488
+aS'Jammu and Kashmir'
+p6489
+asS'364290'
+p6490
+(lp6491
+S'Mahuva'
+p6492
+aS'Gujarat'
+p6493
+asS'364292'
+p6494
+(lp6495
+S'Nana Jadra'
+p6496
+aS'Gujarat'
+p6497
+asS'364296'
+p6498
+(lp6499
+S'Ghundarana'
+p6500
+aS'Gujarat'
+p6501
+asS'303302'
+p6502
+(lp6503
+S'Tunga'
+p6504
+aS'Rajasthan'
+p6505
+asS'303308'
+p6506
+(lp6507
+S'Alooda'
+p6508
+aS'Rajasthan'
+p6509
+asS'828206'
+p6510
+(lp6511
+S'Pancher Dam'
+p6512
+aS'Jharkhand'
+p6513
+asS'828204'
+p6514
+(lp6515
+S'Muhamma'
+p6516
+aS'Jharkhand'
+p6517
+asS'828202'
+p6518
+(lp6519
+S'Chirkunda'
+p6520
+aS'Jharkhand'
+p6521
+asS'171201'
+p6522
+(lp6523
+S'Theog'
+p6524
+aS'Himachal Pradesh'
+p6525
+asS'302008'
+p6526
+(lp6527
+S'Jaipur 8 G M Ts Office'
+p6528
+aS'Rajasthan'
+p6529
+asS'799273'
+p6530
+(lp6531
+S'Chaileng'
+p6532
+aS'Tripura'
+p6533
+asS'202001'
+p6534
+(lp6535
+S'D S College'
+p6536
+aS'Uttar Pradesh'
+p6537
+asS'496334'
+p6538
+(lp6539
+S'Duldula'
+p6540
+aS'Chattisgarh'
+p6541
+asS'496330'
+p6542
+(lp6543
+S'Manora'
+p6544
+aS'Chattisgarh'
+p6545
+asS'496338'
+p6546
+(lp6547
+S'Gholeng'
+p6548
+aS'Chattisgarh'
+p6549
+asS'502001'
+p6550
+(lp6551
+S'Kalva Kunta'
+p6552
+aS'Andhra Pradesh'
+p6553
+asS'782141'
+p6554
+(lp6555
+S'Puranigudam'
+p6556
+aS'Assam'
+p6557
+asS'782143'
+p6558
+(lp6559
+S'Silghat'
+p6560
+aS'Assam'
+p6561
+asS'262542'
+p6562
+(lp6563
+S'Dewthal'
+p6564
+aS'Uttaranchal'
+p6565
+asS'361240'
+p6566
+(lp6567
+S'Balambha'
+p6568
+aS'Gujarat'
+p6569
+asS'262544'
+p6570
+(lp6571
+S'Jaulijibi'
+p6572
+aS'Uttaranchal'
+p6573
+asS'262546'
+p6574
+(lp6575
+S'Garbyang'
+p6576
+aS'Uttaranchal'
+p6577
+asS'456221'
+p6578
+(lp6579
+S'Unhel'
+p6580
+aS'Madhya Pradesh'
+p6581
+asS'456224'
+p6582
+(lp6583
+S'Khachrod Town'
+p6584
+aS'Madhya Pradesh'
+p6585
+asS'737128'
+p6586
+(lp6587
+S'Mallibazar'
+p6588
+aS'Sikkim'
+p6589
+asS'673103'
+p6590
+(lp6591
+S'Vadakara Beach'
+p6592
+aS'Kerala'
+p6593
+asS'737122'
+p6594
+(lp6595
+S'Sombaray'
+p6596
+aS'Sikkim'
+p6597
+asS'737120'
+p6598
+(lp6599
+S'Chung Thung'
+p6600
+aS'Sikkim'
+p6601
+asS'804407'
+p6602
+(lp6603
+S'Hulashganj'
+p6604
+aS'Bihar'
+p6605
+asS'403706'
+p6606
+(lp6607
+S'Curchorem'
+p6608
+aS'Goa'
+p6609
+asS'804405'
+p6610
+(lp6611
+S'Dharaut'
+p6612
+aS'Bihar'
+p6613
+asS'804402'
+p6614
+(lp6615
+S'Baidrabad'
+p6616
+aS'Bihar'
+p6617
+asS'403701'
+p6618
+(lp6619
+S'Assolna'
+p6620
+aS'Goa'
+p6621
+asS'403702'
+p6622
+(lp6623
+S'Canacona'
+p6624
+aS'Goa'
+p6625
+asS'123001'
+p6626
+(lp6627
+S'Narnaul Kutchery'
+p6628
+aS'Haryana'
+p6629
+asS'403708'
+p6630
+(lp6631
+S'Colva'
+p6632
+aS'Goa'
+p6633
+asS'804408'
+p6634
+(lp6635
+S'Jahanabad'
+p6636
+aS'Bihar'
+p6637
+asS'783301'
+p6638
+(lp6639
+S'Dhubri H O'
+p6640
+aS'Assam'
+p6641
+asS'174304'
+p6642
+(lp6643
+S'Bani'
+p6644
+aS'Himachal Pradesh'
+p6645
+asS'174306'
+p6646
+(lp6647
+S'Dehlan'
+p6648
+aS'Himachal Pradesh'
+p6649
+asS'174301'
+p6650
+(lp6651
+S'Santokhgarh'
+p6652
+aS'Himachal Pradesh'
+p6653
+asS'174303'
+p6654
+(lp6655
+S'Una H O'
+p6656
+aS'Himachal Pradesh'
+p6657
+asS'497111'
+p6658
+(lp6659
+S'Sitapur (Surguja)'
+p6660
+aS'Chattisgarh'
+p6661
+asS'497114'
+p6662
+(lp6663
+S'Pratapgarh'
+p6664
+aS'Chattisgarh'
+p6665
+asS'174308'
+p6666
+(lp6667
+S'Lathiana'
+p6668
+aS'Himachal Pradesh'
+p6669
+asS'110028'
+p6670
+(lp6671
+S'Naraina'
+p6672
+aS'New Delhi'
+p6673
+asS'782435'
+p6674
+(lp6675
+S'Hojai Bazar'
+p6676
+aS'Assam'
+p6677
+asS'110022'
+p6678
+(lp6679
+S'R K Puram Sector Vii'
+p6680
+aS'New Delhi'
+p6681
+asS'782439'
+p6682
+(lp6683
+S'Murajar Bazar'
+p6684
+aS'Assam'
+p6685
+asS'110020'
+p6686
+(lp6687
+S'C R R I'
+p6688
+aS'New Delhi'
+p6689
+asS'110021'
+p6690
+(lp6691
+S'Moti Bagh'
+p6692
+aS'New Delhi'
+p6693
+asS'110026'
+p6694
+(lp6695
+S'Punjabi Bagh Sector Iii'
+p6696
+aS'New Delhi'
+p6697
+asS'783124'
+p6698
+(lp6699
+S'Dudnai'
+p6700
+aS'Assam'
+p6701
+asS'783127'
+p6702
+(lp6703
+S'Salmara South'
+p6704
+aS'Assam'
+p6705
+asS'185121'
+p6706
+(lp6707
+S'Samote'
+p6708
+aS'Jammu and Kashmir'
+p6709
+asS'205001'
+p6710
+(lp6711
+S'Labour Colony'
+p6712
+aS'Uttar Pradesh'
+p6713
+asS'181105'
+p6714
+(lp6715
+S'Rattian'
+p6716
+aS'Jammu and Kashmir'
+p6717
+asS'181103'
+p6718
+(lp6719
+S'Badyal'
+p6720
+aS'Jammu and Kashmir'
+p6721
+asS'181102'
+p6722
+(lp6723
+S'R S Pura Bus Stnd'
+p6724
+aS'Jammu and Kashmir'
+p6725
+asS'181101'
+p6726
+(lp6727
+S'Miran Sahib'
+p6728
+aS'Jammu and Kashmir'
+p6729
+asS'301001'
+p6730
+(lp6731
+S'Alwar Bus Stand'
+p6732
+aS'Rajasthan'
+p6733
+asS'202394'
+p6734
+(lp6735
+S'Jahangirabad Bulandshahr'
+p6736
+aS'Uttar Pradesh'
+p6737
+asS'181212'
+p6738
+(lp6739
+S'Kothjhajjar'
+p6740
+aS'Jammu and Kashmir'
+p6741
+asS'124022'
+p6742
+(lp6743
+S'Morkhra'
+p6744
+aS'Haryana'
+p6745
+asS'124025'
+p6746
+(lp6747
+S'Kharawal'
+p6748
+aS'Haryana'
+p6749
+asS'802117'
+p6750
+(lp6751
+S'Dhansoi'
+p6752
+aS'Bihar'
+p6753
+asS'802114'
+p6754
+(lp6755
+S'Chausa(Arrah)'
+p6756
+aS'Bihar'
+p6757
+asS'124029'
+p6758
+(lp6759
+S'Baland'
+p6760
+aS'Haryana'
+p6761
+asS'671345'
+p6762
+(lp6763
+S'Padne Kadapuram Edso'
+p6764
+aS'Kerala'
+p6765
+asS'744302'
+p6766
+(lp6767
+S'Campbell Bay'
+p6768
+aS'Andaman and Nicobar'
+p6769
+asS'744304'
+p6770
+(lp6771
+S'Kapanga'
+p6772
+aS'Andaman and Nicobar'
+p6773
+asS'140301'
+p6774
+(lp6775
+S'Kharar Mills Road'
+p6776
+aS'Punjab'
+p6777
+asS'678601'
+p6778
+(lp6779
+S'Edathanattukara B.O'
+p6780
+aS'Kerala'
+p6781
+asS'140307'
+p6782
+(lp6783
+S'Landran'
+p6784
+aS'Punjab'
+p6785
+asS'172030'
+p6786
+(lp6787
+S'Thanedar'
+p6788
+aS'Himachal Pradesh'
+p6789
+asS'172033'
+p6790
+(lp6791
+S'Nithar'
+p6792
+aS'Himachal Pradesh'
+p6793
+asS'670633'
+p6794
+(lp6795
+S'Chandanakampara B.O'
+p6796
+aS'Kerala'
+p6797
+asS'172036'
+p6798
+(lp6799
+S'Luhri'
+p6800
+aS'Himachal Pradesh'
+p6801
+asS'182312'
+p6802
+(lp6803
+S'Jyotipuram'
+p6804
+aS'Jammu and Kashmir'
+p6805
+asS'182315'
+p6806
+(lp6807
+S'Mahore'
+p6808
+aS'Jammu and Kashmir'
+p6809
+asS'210202'
+p6810
+(lp6811
+S'Badausa'
+p6812
+aS'Uttar Pradesh'
+p6813
+asS'248115'
+p6814
+(lp6815
+S'Mathurawala'
+p6816
+aS'Uttaranchal'
+p6817
+asS'781330'
+p6818
+(lp6819
+S'Kakilabari Farm'
+p6820
+aS'Assam'
+p6821
+asS'795011'
+p6822
+(lp6823
+S'Swombung'
+p6824
+aS'Manipur'
+p6825
+asS'754009'
+p6826
+(lp6827
+S'Kalapathar'
+p6828
+aS'Orisa'
+p6829
+asS'141419'
+p6830
+(lp6831
+S'Ghurani Kalan'
+p6832
+aS'Punjab'
+p6833
+asS'141415'
+p6834
+(lp6835
+S'Jarg'
+p6836
+aS'Punjab'
+p6837
+asS'141417'
+p6838
+(lp6839
+S'Rahawan'
+p6840
+aS'Punjab'
+p6841
+asS'754001'
+p6842
+(lp6843
+S'Fulnakhara'
+p6844
+aS'Orisa'
+p6845
+asS'141413'
+p6846
+(lp6847
+S'Dhamot'
+p6848
+aS'Punjab'
+p6849
+asS'362633'
+p6850
+(lp6851
+S'Ghed Koylana'
+p6852
+aS'Gujarat'
+p6853
+asS'455339'
+p6854
+(lp6855
+S'Nemawar'
+p6856
+aS'Madhya Pradesh'
+p6857
+asS'142047'
+p6858
+(lp6859
+S'Ram Road Zira'
+p6860
+aS'Punjab'
+p6861
+asS'142044'
+p6862
+(lp6863
+S'Makhu'
+p6864
+aS'Punjab'
+p6865
+asS'142040'
+p6866
+(lp6867
+S'Canal Colony'
+p6868
+aS'Punjab'
+p6869
+asS'142048'
+p6870
+(lp6871
+S'Ghall Kalan'
+p6872
+aS'Punjab'
+p6873
+asS'795128'
+p6874
+(lp6875
+S'Churachandpur'
+p6876
+aS'Manipur'
+p6877
+asS'450331'
+p6878
+(lp6879
+S'Sanowara'
+p6880
+aS'Madhya Pradesh'
+p6881
+asS'795123'
+p6882
+(lp6883
+S'Wongoi'
+p6884
+aS'Manipur'
+p6885
+asS'450332'
+p6886
+(lp6887
+S'Khakhar'
+p6888
+aS'Madhya Pradesh'
+p6889
+asS'795127'
+p6890
+(lp6891
+S'Chendel'
+p6892
+aS'Manipur'
+p6893
+asS'795125'
+p6894
+(lp6895
+S'Tamel'
+p6896
+aS'Manipur'
+p6897
+asS'781350'
+p6898
+(lp6899
+S'Sanekuchi'
+p6900
+aS'Assam'
+p6901
+asS'781353'
+p6902
+(lp6903
+S'Gopal Bazar'
+p6904
+aS'Assam'
+p6905
+asS'301043'
+p6906
+(lp6907
+S'Alaoda'
+p6908
+aS'Rajasthan'
+p6909
+asS'171219'
+p6910
+(lp6911
+S'Cheog'
+p6912
+aS'Himachal Pradesh'
+p6913
+asS'171215'
+p6914
+(lp6915
+S'Rohni'
+p6916
+aS'Himachal Pradesh'
+p6917
+asS'171217'
+p6918
+(lp6919
+S'Sandhu'
+p6920
+aS'Himachal Pradesh'
+p6921
+asS'171211'
+p6922
+(lp6923
+S'Chopal'
+p6924
+aS'Himachal Pradesh'
+p6925
+asS'171213'
+p6926
+(lp6927
+S'Narkanda'
+p6928
+aS'Himachal Pradesh'
+p6929
+asS'695311'
+p6930
+(lp6931
+S'Edava'
+p6932
+aS'Kerala'
+p6933
+asS'246276'
+p6934
+(lp6935
+S'Bironkhal'
+p6936
+aS'Uttaranchal'
+p6937
+asS'360452'
+p6938
+(lp6939
+S'Chitravad'
+p6940
+aS'Gujarat'
+p6941
+asS'600059'
+p6942
+(lp6943
+S'Ganapathipuram'
+p6944
+aS'Tamil Nadu'
+p6945
+asS'600057'
+p6946
+(lp6947
+S'Ennur Thermal Station'
+p6948
+aS'Tamil Nadu'
+p6949
+asS'184151'
+p6950
+(lp6951
+S'Parole'
+p6952
+aS'Jammu and Kashmir'
+p6953
+asS'600053'
+p6954
+(lp6955
+S'Orgadam'
+p6956
+aS'Tamil Nadu'
+p6957
+asS'600050'
+p6958
+(lp6959
+S'Padi South'
+p6960
+aS'Tamil Nadu'
+p6961
+asS'361001'
+p6962
+(lp6963
+S'Pancheshwar Chowk'
+p6964
+aS'Gujarat'
+p6965
+asS'361007'
+p6966
+(lp6967
+S'Jamnagar Gulabnagar'
+p6968
+aS'Gujarat'
+p6969
+asS'491229'
+p6970
+(lp6971
+S'Manpur (Durg)'
+p6972
+aS'Chattisgarh'
+p6973
+asS'491222'
+p6974
+(lp6975
+S'Sikosa'
+p6976
+aS'Chattisgarh'
+p6977
+asS'491225'
+p6978
+(lp6979
+S'Arjunda'
+p6980
+aS'Chattisgarh'
+p6981
+asS'491227'
+p6982
+(lp6983
+S'Gurur'
+p6984
+aS'Chattisgarh'
+p6985
+asS'502110'
+p6986
+(lp6987
+S'Fatehnagar'
+p6988
+aS'Andhra Pradesh'
+p6989
+asS'752081'
+p6990
+(lp6991
+S'Odagaon'
+p6992
+aS'Orisa'
+p6993
+asS'752085'
+p6994
+(lp6995
+S'Gania'
+p6996
+aS'Orisa'
+p6997
+asS'752087'
+p6998
+(lp6999
+S'Harekrishnapur'
+p7000
+aS'Orisa'
+p7001
+asS'173212'
+p7002
+(lp7003
+S'Solan H O'
+p7004
+aS'Himachal Pradesh'
+p7005
+asS'173213'
+p7006
+(lp7007
+S'Chamba Ghat'
+p7008
+aS'Himachal Pradesh'
+p7009
+asS'173210'
+p7010
+(lp7011
+S'Dagshai'
+p7012
+aS'Himachal Pradesh'
+p7013
+asS'173215'
+p7014
+(lp7015
+S'Kandaghat'
+p7016
+aS'Himachal Pradesh'
+p7017
+asS'502103'
+p7018
+(lp7019
+S'Indira Nagar Colony'
+p7020
+aS'Andhra Pradesh'
+p7021
+asS'173218'
+p7022
+(lp7023
+S'M S Chail'
+p7024
+aS'Himachal Pradesh'
+p7025
+asS'502101'
+p7026
+(lp7027
+S'Rahimkhanpot'
+p7028
+aS'Andhra Pradesh'
+p7029
+asS'132108'
+p7030
+(lp7031
+S'Panipat'
+p7032
+aS'Haryana'
+p7033
+asS'185156'
+p7034
+(lp7035
+S'Kangri'
+p7036
+aS'Jammu and Kashmir'
+p7037
+asS'560037'
+p7038
+(lp7039
+S'Ramesh Nagar'
+p7040
+aS'Karnataka'
+p7041
+asS'246423'
+p7042
+(lp7043
+S'Bampa (Seasonal)'
+p7044
+aS'Uttaranchal'
+p7045
+asS'560032'
+p7046
+(lp7047
+S'Gangenahalli Extn'
+p7048
+aS'Karnataka'
+p7049
+asS'560030'
+p7050
+(lp7051
+S'Adugodi'
+p7052
+aS'Karnataka'
+p7053
+asS'141401'
+p7054
+(lp7055
+S'G M Khanna'
+p7056
+aS'Punjab'
+p7057
+asS'560038'
+p7058
+(lp7059
+S'Hal Ii Stage'
+p7060
+aS'Karnataka'
+p7061
+asS'825223'
+p7062
+(lp7063
+S'Barkatha'
+p7064
+aS'Jharkhand'
+p7065
+asS'262574'
+p7066
+(lp7067
+S'Badabey'
+p7068
+aS'Uttaranchal'
+p7069
+asS'262575'
+p7070
+(lp7071
+S'Quitee'
+p7072
+aS'Uttaranchal'
+p7073
+asS'262572'
+p7074
+(lp7075
+S'Muwani'
+p7076
+aS'Uttaranchal'
+p7077
+asS'737138'
+p7078
+(lp7079
+S'Makha'
+p7080
+aS'Sikkim'
+p7081
+asS'185201'
+p7082
+(lp7083
+S'Solki'
+p7084
+aS'Jammu and Kashmir'
+p7085
+asS'737136'
+p7086
+(lp7087
+S'Dain Thong'
+p7088
+aS'Sikkim'
+p7089
+asS'737133'
+p7090
+(lp7091
+S'Rhenock'
+p7092
+aS'Sikkim'
+p7093
+asS'737132'
+p7094
+(lp7095
+S'Rangpo'
+p7096
+aS'Sikkim'
+p7097
+asS'403713'
+p7098
+(lp7099
+S'Majorda'
+p7100
+aS'Goa'
+p7101
+asS'403710'
+p7102
+(lp7103
+S'Cortalim'
+p7104
+aS'Goa'
+p7105
+asS'403717'
+p7106
+(lp7107
+S'Carmona'
+p7108
+aS'Goa'
+p7109
+asS'403716'
+p7110
+(lp7111
+S'Benavlim'
+p7112
+aS'Goa'
+p7113
+asS'493116'
+p7114
+(lp7115
+S'Baikunth'
+p7116
+aS'Chattisgarh'
+p7117
+asS'804418'
+p7118
+(lp7119
+S'Kako'
+p7120
+aS'Bihar'
+p7121
+asS'493113'
+p7122
+(lp7123
+S'Hatband'
+p7124
+aS'Chattisgarh'
+p7125
+asS'783338'
+p7126
+(lp7127
+S'Satrasal'
+p7128
+aS'Assam'
+p7129
+asS'783335'
+p7130
+(lp7131
+S'Agamani'
+p7132
+aS'Assam'
+p7133
+asS'783331'
+p7134
+(lp7135
+S'Gouri Pur'
+p7136
+aS'Assam'
+p7137
+asS'783333'
+p7138
+(lp7139
+S'Dingdinga'
+p7140
+aS'Assam'
+p7141
+asS'797101'
+p7142
+(lp7143
+S'Birema'
+p7144
+aS'Nagaland'
+p7145
+asS'825313'
+p7146
+(lp7147
+S'Daroo'
+p7148
+aS'Jharkhand'
+p7149
+asS'673001'
+p7150
+(lp7151
+S'Calicut'
+p7152
+aS'Kerala'
+p7153
+asS'562108'
+p7154
+(lp7155
+S'Abbur'
+p7156
+aS'Karnataka'
+p7157
+asS'825315'
+p7158
+(lp7159
+S'Konar Dam'
+p7160
+aS'Jharkhand'
+p7161
+asS'782427'
+p7162
+(lp7163
+S'Kathiatali'
+p7164
+aS'Assam'
+p7165
+asS'782425'
+p7166
+(lp7167
+S'Chaparmukh'
+p7168
+aS'Assam'
+p7169
+asS'110032'
+p7170
+(lp7171
+S'Shahdara'
+p7172
+aS'New Delhi'
+p7173
+asS'209301'
+p7174
+(lp7175
+S'Darapur'
+p7176
+aS'Uttar Pradesh'
+p7177
+asS'209724'
+p7178
+(lp7179
+S'Kamalganj'
+p7180
+aS'Uttar Pradesh'
+p7181
+asS'209725'
+p7182
+(lp7183
+S'Kannauj'
+p7184
+aS'Uttar Pradesh'
+p7185
+asS'603120'
+p7186
+(lp7187
+S'Ozhalur'
+p7188
+aS'Tamil Nadu'
+p7189
+asS'403407'
+p7190
+(lp7191
+S'Usgaon'
+p7192
+aS'Goa'
+p7193
+asS'403404'
+p7194
+(lp7195
+S'Mardol'
+p7196
+aS'Goa'
+p7197
+asS'403402'
+p7198
+(lp7199
+S'Velhagao'
+p7200
+aS'Goa'
+p7201
+asS'403401'
+p7202
+(lp7203
+S'Ponda'
+p7204
+aS'Goa'
+p7205
+asS'784001'
+p7206
+(lp7207
+S'Sonitpur'
+p7208
+aS'Assam'
+p7209
+asS'305007'
+p7210
+(lp7211
+S'G C Road Ajmer'
+p7212
+aS'Rajasthan'
+p7213
+asS'305001'
+p7214
+(lp7215
+S'Ajmer H O'
+p7216
+aS'Rajasthan'
+p7217
+asS'305003'
+p7218
+(lp7219
+S'H M T Ajmer'
+p7220
+aS'Rajasthan'
+p7221
+asS'141310'
+p7222
+(lp7223
+S'Nakodar'
+p7224
+aS'Punjab'
+p7225
+asS'141311'
+p7226
+(lp7227
+S'Dhesian Kahna'
+p7228
+aS'Punjab'
+p7229
+asS'141317'
+p7230
+(lp7231
+S'Sarih'
+p7232
+aS'Punjab'
+p7233
+asS'304023'
+p7234
+(lp7235
+S'Aligarh Tonk'
+p7236
+aS'Rajasthan'
+p7237
+asS'121007'
+p7238
+(lp7239
+S'Faridabad'
+p7240
+aS'Uttar Pradesh'
+p7241
+asS'208012'
+p7242
+(lp7243
+S'Oil Mills Industrial Esta'
+p7244
+aS'Uttar Pradesh'
+p7245
+asS'782001'
+p7246
+(lp7247
+S'Tinali Panigaon'
+p7248
+aS'Assam'
+p7249
+asS'671124'
+p7250
+(lp7251
+S'Madhur B.O'
+p7252
+aS'Kerala'
+p7253
+asS'174029'
+p7254
+(lp7255
+S'Berthin'
+p7256
+aS'Himachal Pradesh'
+p7257
+asS'802101'
+p7258
+(lp7259
+S'Nai Bazar'
+p7260
+aS'Bihar'
+p7261
+asS'782002'
+p7262
+(lp7263
+S'Nowgong Girls College'
+p7264
+aS'Assam'
+p7265
+asS'801109'
+p7266
+(lp7267
+S'Naubatpur'
+p7268
+aS'Bihar'
+p7269
+asS'801101'
+p7270
+(lp7271
+S'Anandpur Homeguard Centre'
+p7272
+aS'Bihar'
+p7273
+asS'500051'
+p7274
+(lp7275
+S'Hindustan Cables (Hyd)'
+p7276
+aS'Andhra Pradesh'
+p7277
+asS'671531'
+p7278
+(lp7279
+S'Achikanam B.O'
+p7280
+aS'Kerala'
+p7281
+asS'671532'
+p7282
+(lp7283
+S'Balanthode B.O'
+p7284
+aS'Kerala'
+p7285
+asS'671533'
+p7286
+(lp7287
+S'Balal B.O'
+p7288
+aS'Kerala'
+p7289
+asS'246476'
+p7290
+(lp7291
+S'Gauri Kund'
+p7292
+aS'Uttaranchal'
+p7293
+asS'246474'
+p7294
+(lp7295
+S'Simli'
+p7296
+aS'Uttaranchal'
+p7297
+asS'799287'
+p7298
+(lp7299
+S'Manikbhandar'
+p7300
+aS'Tripura'
+p7301
+asS'246472'
+p7302
+(lp7303
+S'Pipalkoti'
+p7304
+aS'Uttaranchal'
+p7305
+asS'799285'
+p7306
+(lp7307
+S'Kamalpur'
+p7308
+aS'Tripura'
+p7309
+asS'246470'
+p7310
+(lp7311
+S'Palla Bazar'
+p7312
+aS'Uttaranchal'
+p7313
+asS'799289'
+p7314
+(lp7315
+S'Ambassa'
+p7316
+aS'Tripura'
+p7317
+asS'145001'
+p7318
+(lp7319
+S'Pathankot'
+p7320
+aS'Punjab'
+p7321
+asS'683501'
+p7322
+(lp7323
+S'Udyogamandal'
+p7324
+aS'Kerala'
+p7325
+asS'670622'
+p7326
+(lp7327
+S'Bavode B.O.'
+p7328
+aS'Kerala'
+p7329
+asS'172002'
+p7330
+(lp7331
+S'Gaura'
+p7332
+aS'Himachal Pradesh'
+p7333
+asS'796751'
+p7334
+(lp7335
+S'Demagiri'
+p7336
+aS'Mizoram'
+p7337
+asS'248102'
+p7338
+(lp7339
+S'Sahastradhra'
+p7340
+aS'Uttaranchal'
+p7341
+asS'795004'
+p7342
+(lp7343
+S'Lamphelpat'
+p7344
+aS'Manipur'
+p7345
+asS'795001'
+p7346
+(lp7347
+S'Imphal H O'
+p7348
+aS'Manipur'
+p7349
+asS'753051'
+p7350
+(lp7351
+S'Telengapentha'
+p7352
+aS'Orisa'
+p7353
+asS'795002'
+p7354
+(lp7355
+S'Mantripukhri'
+p7356
+aS'Manipur'
+p7357
+asS'140406'
+p7358
+(lp7359
+S'Hamayunpur'
+p7360
+aS'Punjab'
+p7361
+asS'140401'
+p7362
+(lp7363
+S'Rajpura Township'
+p7364
+aS'Punjab'
+p7365
+asS'754011'
+p7366
+(lp7367
+S'Adaspur'
+p7368
+aS'Orisa'
+p7369
+asS'754013'
+p7370
+(lp7371
+S'Nandankanan'
+p7372
+aS'Orisa'
+p7373
+asS'754015'
+p7374
+(lp7375
+S'Chandaka'
+p7376
+aS'Orisa'
+p7377
+asS'754017'
+p7378
+(lp7379
+S'Baideswar'
+p7380
+aS'Orisa'
+p7381
+asS'362626'
+p7382
+(lp7383
+S'Ghed Bamnasa'
+p7384
+aS'Gujarat'
+p7385
+asS'362624'
+p7386
+(lp7387
+S'Pajod'
+p7388
+aS'Gujarat'
+p7389
+asS'362621'
+p7390
+(lp7391
+S'Limbuda'
+p7392
+aS'Gujarat'
+p7393
+asS'142031'
+p7394
+(lp7395
+S'Hathur'
+p7396
+aS'Punjab'
+p7397
+asS'142036'
+p7398
+(lp7399
+S'Galib Kalan'
+p7400
+aS'Punjab'
+p7401
+asS'142034'
+p7402
+(lp7403
+S'Manoke(Ludhiana)'
+p7404
+aS'Punjab'
+p7405
+asS'176304'
+p7406
+(lp7407
+S'Dalhousie'
+p7408
+aS'Himachal Pradesh'
+p7409
+asS'142055'
+p7410
+(lp7411
+S'Nihal Singh Wala'
+p7412
+aS'Punjab'
+p7413
+asS'795138'
+p7414
+(lp7415
+S'Thoubal'
+p7416
+aS'Manipur'
+p7417
+asS'795130'
+p7418
+(lp7419
+S'Lilong'
+p7420
+aS'Manipur'
+p7421
+asS'795132'
+p7422
+(lp7423
+S'Mayang Imphal'
+p7424
+aS'Manipur'
+p7425
+asS'795134'
+p7426
+(lp7427
+S'Nambol'
+p7428
+aS'Manipur'
+p7429
+asS'795136'
+p7430
+(lp7431
+S'Sekmai'
+p7432
+aS'Manipur'
+p7433
+asS'604101'
+p7434
+(lp7435
+S'Akshipakkam'
+p7436
+aS'Tamil Nadu'
+p7437
+asS'490024'
+p7438
+(lp7439
+S'Bhilai Jamul Cement Factory'
+p7440
+aS'Chattisgarh'
+p7441
+asS'781346'
+p7442
+(lp7443
+S'Barama'
+p7444
+aS'Assam'
+p7445
+asS'491340'
+p7446
+(lp7447
+S'Nandghat'
+p7448
+aS'Chattisgarh'
+p7449
+asS'171209'
+p7450
+(lp7451
+S'Fagu'
+p7452
+aS'Himachal Pradesh'
+p7453
+asS'124110'
+p7454
+(lp7455
+S'Bahu Akbarpur'
+p7456
+aS'Haryana'
+p7457
+asS'171203'
+p7458
+(lp7459
+S'Tikkar'
+p7460
+aS'Himachal Pradesh'
+p7461
+asS'182104'
+p7462
+(lp7463
+S'Tahab'
+p7464
+aS'Jammu and Kashmir'
+p7465
+asS'171207'
+p7466
+(lp7467
+S'Rohru'
+p7468
+aS'Himachal Pradesh'
+p7469
+asS'182103'
+p7470
+(lp7471
+S'P T S (Udm)'
+p7472
+aS'Jammu and Kashmir'
+p7473
+asS'171205'
+p7474
+(lp7475
+S'Jubbal'
+p7476
+aS'Himachal Pradesh'
+p7477
+asS'182101'
+p7478
+(lp7479
+S'Udhampur H O'
+p7480
+aS'Jammu and Kashmir'
+p7481
+asS'209861'
+p7482
+(lp7483
+S'Gangaghat (Unnao)'
+p7484
+aS'Uttar Pradesh'
+p7485
+asS'804420'
+p7486
+(lp7487
+S'Kazisarai'
+p7488
+aS'Bihar'
+p7489
+asS'600028'
+p7490
+(lp7491
+S'Fore Shore Estate'
+p7492
+aS'Tamil Nadu'
+p7493
+asS'202150'
+p7494
+(lp7495
+S'Pali Razapur'
+p7496
+aS'Uttar Pradesh'
+p7497
+asS'600022'
+p7498
+(lp7499
+S'Raj Bhavan Madras Raja'
+p7500
+aS'Tamil Nadu'
+p7501
+asS'600020'
+p7502
+(lp7503
+S'Central Leather Research'
+p7504
+aS'Tamil Nadu'
+p7505
+asS'600021'
+p7506
+(lp7507
+S'Harinarayanapuram'
+p7508
+aS'Tamil Nadu'
+p7509
+asS'600026'
+p7510
+(lp7511
+S'Vadapalani'
+p7512
+aS'Tamil Nadu'
+p7513
+asS'600027'
+p7514
+(lp7515
+S'Madras Air Port'
+p7516
+aS'Tamil Nadu'
+p7517
+asS'202397'
+p7518
+(lp7519
+S'Narora'
+p7520
+aS'Uttar Pradesh'
+p7521
+asS'798628'
+p7522
+(lp7523
+S'Meraring'
+p7524
+aS'Nagaland'
+p7525
+asS'804423'
+p7526
+(lp7527
+S'Naglakinjar'
+p7528
+aS'Bihar'
+p7529
+asS'202392'
+p7530
+(lp7531
+S'Danpur'
+p7532
+aS'Uttar Pradesh'
+p7533
+asS'491230'
+p7534
+(lp7535
+S'Dondiawari'
+p7536
+aS'Chattisgarh'
+p7537
+asS'798622'
+p7538
+(lp7539
+S'Naginamara'
+p7540
+aS'Nagaland'
+p7541
+asS'798620'
+p7542
+(lp7543
+S'Zunheboto'
+p7544
+aS'Nagaland'
+p7545
+asS'798626'
+p7546
+(lp7547
+S'Aghunoto'
+p7548
+aS'Nagaland'
+p7549
+asS'804425'
+p7550
+(lp7551
+S'Sakurabad'
+p7552
+aS'Bihar'
+p7553
+asS'207001'
+p7554
+(lp7555
+S'Etah H O'
+p7556
+aS'Uttar Pradesh'
+p7557
+asS'822116'
+p7558
+(lp7559
+S'Japla Cement Factory'
+p7560
+aS'Jharkhand'
+p7561
+asS'502375'
+p7562
+(lp7563
+S'Palamkole'
+p7564
+aS'Andhra Pradesh'
+p7565
+asS'752091'
+p7566
+(lp7567
+S'Satpatna'
+p7568
+aS'Orisa'
+p7569
+asS'207502'
+p7570
+(lp7571
+S'Kalmganj'
+p7572
+aS'Uttar Pradesh'
+p7573
+asS'804428'
+p7574
+(lp7575
+S'Usri'
+p7576
+aS'Bihar'
+p7577
+asS'361003'
+p7578
+(lp7579
+S'Jamnagar Aerodrome'
+p7580
+aS'Gujarat'
+p7581
+asS'173202'
+p7582
+(lp7583
+S'Sanawar'
+p7584
+aS'Himachal Pradesh'
+p7585
+asS'283203'
+p7586
+(lp7587
+S'Firozabad'
+p7588
+aS'Uttar Pradesh'
+p7589
+asS'173204'
+p7590
+(lp7591
+S'Kasauli Research'
+p7592
+aS'Himachal Pradesh'
+p7593
+asS'361004'
+p7594
+(lp7595
+S'Nagar Estate'
+p7596
+aS'Gujarat'
+p7597
+asS'144401'
+p7598
+(lp7599
+S'Phagwara'
+p7600
+aS'Punjab'
+p7601
+asS'173208'
+p7602
+(lp7603
+S'A U Campus'
+p7604
+aS'Himachal Pradesh'
+p7605
+asS'361009'
+p7606
+(lp7607
+S'Jamnagar Udyog'
+p7608
+aS'Gujarat'
+p7609
+asS'502117'
+p7610
+(lp7611
+S'Rajpalli'
+p7612
+aS'Andhra Pradesh'
+p7613
+asS'786631'
+p7614
+(lp7615
+S'Longding'
+p7616
+aS'Arunachal Pradesh'
+p7617
+asS'803204'
+p7618
+(lp7619
+S'Telmar'
+p7620
+aS'Bihar'
+p7621
+asS'803206'
+p7622
+(lp7623
+S'Fatehpur (Patna)'
+p7624
+aS'Bihar'
+p7625
+asS'803201'
+p7626
+(lp7627
+S'Fatwa'
+p7628
+aS'Bihar'
+p7629
+asS'246429'
+p7630
+(lp7631
+S'Gauchar'
+p7632
+aS'Uttaranchal'
+p7633
+asS'560025'
+p7634
+(lp7635
+S'Langford Town'
+p7636
+aS'Karnataka'
+p7637
+asS'560024'
+p7638
+(lp7639
+S'Extn Iistage'
+p7640
+aS'Karnataka'
+p7641
+asS'560027'
+p7642
+(lp7643
+S'Wilson Garden'
+p7644
+aS'Karnataka'
+p7645
+asS'560026'
+p7646
+(lp7647
+S'Deepanjal Nagar'
+p7648
+aS'Karnataka'
+p7649
+asS'560021'
+p7650
+(lp7651
+S'Ramachandra Puram'
+p7652
+aS'Karnataka'
+p7653
+asS'560023'
+p7654
+(lp7655
+S'Magadi Road'
+p7656
+aS'Karnataka'
+p7657
+asS'246425'
+p7658
+(lp7659
+S'Chandrapuri'
+p7660
+aS'Uttaranchal'
+p7661
+asS'799252'
+p7662
+(lp7663
+S'Bagbassa'
+p7664
+aS'Tripura'
+p7665
+asS'185212'
+p7666
+(lp7667
+S'Thana Mandi'
+p7668
+aS'Jammu and Kashmir'
+p7669
+asS'185211'
+p7670
+(lp7671
+S'Dharamsal'
+p7672
+aS'Jammu and Kashmir'
+p7673
+asS'262561'
+p7674
+(lp7675
+S'Nakote'
+p7676
+aS'Uttaranchal'
+p7677
+asS'246421'
+p7678
+(lp7679
+S'Agustmuni'
+p7680
+aS'Uttaranchal'
+p7681
+asS'603001'
+p7682
+(lp7683
+S'Chengalpattu Medical College'
+p7684
+aS'Tamil Nadu'
+p7685
+asS'603002'
+p7686
+(lp7687
+S'Chengalpattu Bazaar'
+p7688
+aS'Tamil Nadu'
+p7689
+asS'786184'
+p7690
+(lp7691
+S'Chabua'
+p7692
+aS'Arunachal Pradesh'
+p7693
+asS'737101'
+p7694
+(lp7695
+S'Sincheygoan'
+p7696
+aS'Sikkim'
+p7697
+asS'737102'
+p7698
+(lp7699
+S'Doorali'
+p7700
+aS'Sikkim'
+p7701
+asS'737103'
+p7702
+(lp7703
+S'Ramchandrapur'
+p7704
+aS'Sikkim'
+p7705
+asS'786180'
+p7706
+(lp7707
+S'Lekhapani'
+p7708
+aS'Arunachal Pradesh'
+p7709
+asS'786182'
+p7710
+(lp7711
+S'Ledo'
+p7712
+aS'Arunachal Pradesh'
+p7713
+asS'737107'
+p7714
+(lp7715
+S'Dikchu'
+p7716
+aS'Sikkim'
+p7717
+asS'123020'
+p7718
+(lp7719
+S'Sanwar'
+p7720
+aS'Haryana'
+p7721
+asS'123023'
+p7722
+(lp7723
+S'Nangal Chaudhary'
+p7724
+aS'Haryana'
+p7725
+asS'123025'
+p7726
+(lp7727
+S'Baund'
+p7728
+aS'Haryana'
+p7729
+asS'123028'
+p7730
+(lp7731
+S'Nangal Sirohi'
+p7732
+aS'Haryana'
+p7733
+asS'493101'
+p7734
+(lp7735
+S'Simga'
+p7736
+aS'Chattisgarh'
+p7737
+asS'796111'
+p7738
+(lp7739
+S'Darlawn'
+p7740
+aS'Mizoram'
+p7741
+asS'360001'
+p7742
+(lp7743
+S'Rajkot H O'
+p7744
+aS'Gujarat'
+p7745
+asS'783325'
+p7746
+(lp7747
+S'Dharamsala'
+p7748
+aS'Assam'
+p7749
+as.

@@ -1,0 +1,494 @@
+(dp1
+S'MMNS'
+p2
+S'International Conference on Management of Multimedia Networks and Services'
+p3
+sS'MIC'
+p4
+S'Modelling, Identification and Control'
+p5
+sS'MIE'
+p6
+S'Medical Informatics Europe'
+p7
+sS'MIRA'
+p8
+S'Multimedia Information Retrieval Applications'
+p9
+sS'MICRO'
+p10
+S'International Symposium on Microarchitecture'
+p11
+sS'MICCAI'
+p12
+S'Medical Image Computing and Computer-Assisted Intervention'
+p13
+sS'MAMMO'
+p14
+S'Digital Mammography'
+p15
+sS'MIR'
+p16
+S'ACM International Conference on Multimedia Information Retrieval'
+p17
+sS'MDM(MDA)'
+p18
+S'Int. Conf. on Mobile Data Access/Management'
+p19
+sS'MAAMAW'
+p20
+S'Modelling Autonomous Agents in a Multi-Agent World'
+p21
+sS'MLMI'
+p22
+S'Machine Learning for Multimodal Interaction'
+p23
+sS'MHVR'
+p24
+S'Multimedia, Hypermedia, and Virtual Reality'
+p25
+sS'METRICS'
+p26
+S'IEEE International Software Metrics Symposium'
+p27
+sS'MOBIWAC'
+p28
+S'ACM International Workshop on Mobility Management and Wireless Access'
+p29
+sS'MWCN'
+p30
+S'Mobile and Wireless Communication Networks'
+p31
+sS'MM&Sec'
+p32
+S'Multimedia & Security'
+p33
+sS'MRCO'
+p34
+S'Modeling and Retrieval of Context'
+p35
+sS'MSST'
+p36
+S'IEEE Symposium on Massive Storage Systems and Technologies'
+p37
+sS'MRCS'
+p38
+S'Multimedia Content Representation, Classification and Security'
+p39
+sS'MobiHoc'
+p40
+S'ACM International Symposium on Mobile Ad Hoc Networking and Computing'
+p41
+sS'MOBICOM'
+p42
+S'Mobile Computing and Networking'
+p43
+sS'MADNES'
+p44
+S'Secure Mobile Ad-hoc Networks and Sensors'
+p45
+sS'MRC'
+p46
+S'Mobile Robot Competition'
+p47
+sS'Mobile Response\n'
+p48
+S'Mobile Response'
+p49
+sS'Mobility'
+p50
+S'International Conference On Mobile Technology, Applications, And Systems'
+p51
+sS'MMAS'
+p52
+S'Massively Multi-Agent Systems'
+p53
+sS'MAMUS'
+p54
+S'Multiagent for Mass User Support'
+p55
+sS'MMM-ACNS'
+p56
+S'Mathematical Methods, Models, and Architectures for Network Security Systems'
+p57
+sS'Middleware(ODP)'
+p58
+S'International Conference on Distributed Systems Platforms and Open Distributed Processing/Open Distributed Processing'
+p59
+sS'MICAI'
+p60
+S'Mexican International Conference on Artificial Intelligence'
+p61
+sS'MTDT'
+p62
+S'Memory Technology, Design and Testing'
+p63
+sS'META'
+p64
+S'Workshop on Meta-Programming in Logic'
+p65
+sS'Meta-Level Architectures and Reflection\n'
+p66
+S'Meta-Level Architectures and Reflection'
+p67
+sS'MoChArt'
+p68
+S'Model Checking and Artificial Intelligence'
+p69
+sS'MIPS'
+p70
+S'Multimedia Interactive Protocols and Systems'
+p71
+sS'MIS'
+p72
+S'Workshop on Multimedia Information Systems'
+p73
+sS'MedInfo'
+p74
+S'World Congress on Medical and Health Informatics'
+p75
+sS'MINAR'
+p76
+S'Multimedia Information Analysis and Retrieval'
+p77
+sS'MobiQuitous'
+p78
+S'International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services'
+p79
+sS'MobiSys'
+p80
+S'International Conference on Mobile Systems, Applications, and Services'
+p81
+sS'MIAR'
+p82
+S'Medical Imaging and Augmented Reality'
+p83
+sS'MOBIQUITOUS'
+p84
+S'International Conference on Mobile and Ubiquitous Systems: Networking and Services'
+p85
+sS'MLDM'
+p86
+S'Machine Learning and Data Mining in Pattern Recognition'
+p87
+sS'Middleware'
+p88
+S'ACM/IFIP/USENIX International Middleware Conference'
+p89
+sS'MLMTA'
+p90
+S'Machine Learning; Models, Technologies and Applications'
+p91
+sS'MOZ'
+p92
+S'Multiparadigm Programming in Mozart/Oz'
+p93
+sS'MA'
+p94
+S'International Symposium on Mobile Agents'
+p95
+sS'MPC'
+p96
+S'Mathematics of Program Construction'
+p97
+sS'MM'
+p98
+S'ACM Multimedia Conference'
+p99
+sS'ML'
+p100
+S'Workshop on ML'
+p101
+sS'MDM'
+p102
+S'Mobile Data Management'
+p103
+sS'MATES'
+p104
+S'Multiagent System Technologies'
+p105
+sS'MS'
+p106
+S'Modelling and Simulation'
+p107
+sS'MATA'
+p108
+S'Mobile Agents for Telecommunication Applications'
+p109
+sS'MYCRYPT'
+p110
+S'Inf. Conf. on Cryptology in Malaysia'
+p111
+sS'MDA'
+p112
+S'Mass Data Analysis of Signals and Images in Medicine, Biotechnology and Chemistry'
+p113
+sS'MABS'
+p114
+S'Workshop on Multi-Agent Systems and Agent-Based Simulation'
+p115
+sS'MIRRORBOT'
+p116
+S'MirrorBot Project'
+p117
+sS'METACOGNITION'
+p118
+S'Metacognition in Computation'
+p119
+sS'MUE'
+p120
+S'Multimedia and Ubiquitous Engineering'
+p121
+sS'MUC'
+p122
+S'Message Understanding Conference'
+p123
+sS'MIRAGE'
+p124
+S'MIRAGE'
+p125
+sS'MUM'
+p126
+S'Mobile and Ubiquitous Multimedia'
+p127
+sS'MEDIVIS'
+p128
+S'International Conference on Medical Information Visualisation'
+p129
+sS'MDIC'
+p130
+S'Multimedia Databases and Image Communication'
+p131
+sS'MoDELS'
+p132
+S'ACM/IEEE International Conference on Model Driven Engineering Languages and Systems'
+p133
+sS'MOBILWARE'
+p134
+S'MOBILe Wireless MiddleWARE'
+p135
+sS'MEDEA'
+p136
+S'Memory Performance: Dealing With Applications, Systems And Architecture'
+p137
+sS'MMNET'
+p138
+S'Multimedia and Networking'
+p139
+sS'MASS'
+p140
+S'IEEE International Conference on Mobile Ad-hoc and Sensor Systems'
+p141
+sS'MDAI'
+p142
+S'Modeling Decisions for Artificial Intelligence'
+p143
+sS'MoMM'
+p144
+S'Advances in Mobile Multimedia'
+p145
+sS'MEDES'
+p146
+S'Management of Emergent Digital EcoSystems'
+p147
+sS'MD'
+p148
+S'IEEE Meta-Data Conference'
+p149
+sS'MODELS'
+p150
+S'Model Driven Engineering Languages and Systems'
+p151
+sS'MCAM'
+p152
+S'Multimedia Content Analysis and Mining'
+p153
+sS'MSWiM'
+p154
+S'International Workshop on Modeling Analysis and Simulation of Wireless and Mobile Systems'
+p155
+sS'MVA'
+p156
+S'Machine Vision Applications'
+p157
+sS'MALLOW'
+p158
+S'Multi-Agent Logics, Languages, and Organisations Federated Workshops'
+p159
+sS'MVL'
+p160
+S'Multiple-Valued Logic'
+p161
+sS'MineNet'
+p162
+S'Mining Network Data'
+p163
+sS'METMBS'
+p164
+S'Mathematics and Engineering Techniques in Medicine and Biological Scienes'
+p165
+sS'MMS'
+p166
+S'Multimedia Systems'
+p167
+sS'MobileHCI'
+p168
+S'Conference on Human-Computer Interaction with Mobile Devices and Services'
+p169
+sS'MMM'
+p170
+S'Multimedia Modeling'
+p171
+sS'MDAFA'
+p172
+S'Model Driven Architecture Foundations and Applications'
+p173
+sS'MMB'
+p174
+S'Messung, Modellierung und Bewertung vonRechen- und Kommunikationssystemen'
+p175
+sS'Mobile HCI'
+p176
+S'Mobile HCI'
+p177
+sS'MEMOCODE'
+p178
+S'International Conference on Formal Methods and Models for Co-Design'
+p179
+sS'MTSR'
+p180
+S'Metadata and Semantics Research'
+p181
+sS'MSV'
+p182
+S'Int. Conf. on Modeling, Simulation & Visualization Methods'
+p183
+sS'MSS'
+p184
+S'Symposium on Mass Storage Systems'
+p185
+sS'MSR'
+p186
+S'Mining Software Repositories'
+p187
+sS'MSO'
+p188
+S'Modelling, Simulation, and Optimization'
+p189
+sS'MSN'
+p190
+S'Mobile Sensor Networks'
+p191
+sS'MLCW'
+p192
+S'Machine Learning Challenges Workshop'
+p193
+sS'MIMI'
+p194
+S'Medical Imaging and Informatics'
+p195
+sS'MSE'
+p196
+S'Microelectronics Systems Education'
+p197
+sS'MSA'
+p198
+S'Multimedia Systems and Applications'
+p199
+sS'MCTA'
+p200
+S'Mobile Commerce Technologien und Anwendungen'
+p201
+sS'MFCS'
+p202
+S'Mathematical Foundations of Computer Science'
+p203
+sS'MOVEP'
+p204
+S'Modeling and Verification of Parallel Processes'
+p205
+sS'Mobile Ad Hoc Networking and Computing\n'
+p206
+S'Mobile Ad Hoc Networking and Computing'
+p207
+sS'MLG'
+p208
+S'Mining and Learning with Graphs'
+p209
+sS'MTV'
+p210
+S'Workshop on Microprocessor Test and Verification'
+p211
+sS'MTW'
+p212
+S'Models of Trust for the Web'
+p213
+sS'MIXER'
+p214
+S'Workshop on Exploring the Design and Engineering of Mixed Reality Systems'
+p215
+sS'MMSP'
+p216
+S'Multimedia Signal Processing'
+p217
+sS'MASSA'
+p218
+S'Multiagent Systems and Software Architecture'
+p219
+sS'MASCOTS'
+p220
+S'Modeling, Analysis, and Simulation On Computer and Telecommunication Systems'
+p221
+sS'MCO'
+p222
+S'Modelling, Computation and Optimization in Information Systems and Management Sciences'
+p223
+sS'M-Services'
+p224
+S'M-Services'
+p225
+sS'MBUI'
+p226
+S'Model-Based User Interface'
+p227
+sS'MCI'
+p228
+S'Mensch-Computer Interaktion'
+p229
+sS'MMGPS'
+p230
+S'Metadata Management in Grid and P2P Systems'
+p231
+sS'MobiMedia'
+p232
+S'International Conference on Mobile Multimedia Communications'
+p233
+sS'MobiCom'
+p234
+S'ACM International Conference on Mobile Computing and Networking'
+p235
+sS'MobiDE'
+p236
+S'ACM International Workshop on Data Engineering for Wireless and Mobile Access'
+p237
+sS'MDEIS'
+p238
+S'Model-Driven Enterprise Information Systems'
+p239
+sS'MFDBS'
+p240
+S'Mathematical Fundamentals of Database Systems'
+p241
+sS'MCU'
+p242
+S'Machines, Computations, and Universality'
+p243
+sS'MobiArch'
+p244
+S'Mobility In The Evolving Internet Architecture'
+p245
+sS'MCS'
+p246
+S'Multiple Classifier Systems'
+p247
+s.

@@ -1,0 +1,107 @@
+(dp1
+S'Bahrain'
+p2
+(lp3
+S'Asia'
+p4
+asS'Brazil'
+p5
+(lp6
+S'South America'
+p7
+asS'Belarus'
+p8
+(lp9
+S'Europe'
+p10
+asS'Bangladesh'
+p11
+(lp12
+S'Asia'
+p13
+asS'Bhutan'
+p14
+(lp15
+S'Asia'
+p16
+asS'Bolivia'
+p17
+(lp18
+S'South America'
+p19
+asS'Brunei Darussalam'
+p20
+(lp21
+S'Asia'
+p22
+asS'Burkina Faso'
+p23
+(lp24
+S'Africa'
+p25
+asS'Bahamas'
+p26
+(lp27
+S'North America'
+p28
+asS'Burundi'
+p29
+(lp30
+S'Africa'
+p31
+asS'Bermuda'
+p32
+(lp33
+S'North America'
+p34
+asS'British Indian Ocean Territory (Chagos Archipelago)'
+p35
+(lp36
+S'Asia'
+p37
+asS'Bosnia and Herzegovina'
+p38
+(lp39
+S'Europe'
+p40
+asS'Bouvet Island (Bouvetoya)'
+p41
+(lp42
+S'Antarctica'
+p43
+asS'Belgium'
+p44
+(lp45
+S'Europe'
+p46
+asS'British Virgin Islands'
+p47
+(lp48
+S'North America'
+p49
+asS'Bulgaria'
+p50
+(lp51
+S'Europe'
+p52
+asS'Belize'
+p53
+(lp54
+S'North America'
+p55
+asS'Botswana'
+p56
+(lp57
+S'Africa'
+p58
+asS'Barbados'
+p59
+(lp60
+S'North America'
+p61
+asS'Benin'
+p62
+(lp63
+S'Africa'
+p64
+as.

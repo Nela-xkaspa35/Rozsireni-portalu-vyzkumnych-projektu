@@ -1,0 +1,870 @@
+(dp1
+S'CPSN'
+p2
+S'International Conference on Computers for People with Special Needs'
+p3
+sS'CHES'
+p4
+S'Workshop on Cryptographic Hardware and Embedded Systems'
+p5
+sS'CCU'
+p6
+S'Contemporary Computing in Ukraine'
+p7
+sS'CPA'
+p8
+S'Communicating Process Architectures'
+p9
+sS'CEC(WECWIS)'
+p10
+S'Workshop on Advanced Issues of E-Commerce and Web/based Information Systems/Conference on Electronic Commerce'
+p11
+sS'CCS'
+p12
+S'Computer and Communications Security'
+p13
+sS'CCL'
+p14
+S'Constraints in Computational Logics'
+p15
+sS'CCN'
+p16
+S'Communications and Computer Networks'
+p17
+sS'CANS'
+p18
+S'Cryptology and Network Security'
+p19
+sS'COMPLIFE'
+p20
+S'Computational Life Sciences'
+p21
+sS'CTRS'
+p22
+S'Conditional Term Rewriting Systems'
+p23
+sS'CONIELECOMP'
+p24
+S'International Conference on Electronics, Communications, and Computers'
+p25
+sS'CPR'
+p26
+S'Special Interest Group on Computer Personnel Research Annual Conference'
+p27
+sS'CaLC'
+p28
+S'Cryptography and Lattices'
+p29
+sS'CCA'
+p30
+S'Computability and Complexity in Analysis'
+p31
+sS'COORDINATION'
+p32
+S'Coordination Models and Languages'
+p33
+sS'CCC'
+p34
+S'Conference on Computational Complexity'
+p35
+sS'CODAS'
+p36
+S'International Symposium on Cooperative Database Systems for Advanced Applications'
+p37
+sS'CSWWS'
+p38
+S'Canadian Semantic Web Working Symposium'
+p39
+sS'CP'
+p40
+S'Principles and Practice of Constraint Programming'
+p41
+sS'CCGrid'
+p42
+S'IEEE/ACM International Symposium on Cluster Computing and the Grid'
+p43
+sS'CIAA(WIA)'
+p44
+S'Workshop on Implementing Automata/Conference on Implementation and Application of Automata'
+p45
+sS'CW'
+p46
+S'International Conference on Cyberworlds'
+p47
+sS'COLIS'
+p48
+S'Conference on Conceptions of Library and Information Sciences'
+p49
+sS'CVPR'
+p50
+S'Conference on Computer Vision and Pattern Recognition'
+p51
+sS'CEFP'
+p52
+S'Central European Functional Programming School'
+p53
+sS'CRITICAL'
+p54
+S'Critical Computing'
+p55
+sS'CEEMAS'
+p56
+S'International Workshop of Central and Eastern Europe on Multi-Agent Systems'
+p57
+sS'CCECE'
+p58
+S'Canadian Conference on Electrical and Computer Engineering'
+p59
+sS'COMMA'
+p60
+S'Computational Models of Argument'
+p61
+sS'CASES'
+p62
+S'International Conference on Compilers, Architecture, and Synthesis for Embedded Systems'
+p63
+sS'COOTS'
+p64
+S'Conference on Object-Oriented Technologies and Systems'
+p65
+sS'CARDIS'
+p66
+S'CARDIS'
+p67
+sS'CRITIS'
+p68
+S'Critical Information Infrastructures Security'
+p69
+sS'CSFW'
+p70
+S'Computer Security Foundations Workshop'
+p71
+sS'CCGRID'
+p72
+S'Cluster Computing and the Grid'
+p73
+sS'CQL'
+p74
+S'Symposium on Computers and the Quality of Life'
+p75
+sS'CHI'
+p76
+S'Computer Human Interaction'
+p77
+sS'CLEAR'
+p78
+S'Classification of Events, Activities and Relationships'
+p79
+sS'CSIE'
+p80
+S'Computer Science and Information Engineering'
+p81
+sS'CoBuild'
+p82
+S'Cooperative Buildings'
+p83
+sS'CNKBS'
+p84
+S'Compulog Net Meeting on Knowledge Bases'
+p85
+sS'CORIA'
+p86
+S"Conference en Recherche d'Infomations et Applications"
+p87
+sS'CGIM'
+p88
+S'Conference on Computer Graphics and Imaging'
+p89
+sS'CRV'
+p90
+S'Canadian Conference on Computer and Robot Vision'
+p91
+sS'CompSysTech'
+p92
+S'International Conference on Computer Systems and Technologies'
+p93
+sS'COMPOS'
+p94
+S'Compositionality: The Significant Difference'
+p95
+sS'CLUSTER'
+p96
+S'IEEE International Conference on Cluster Computing'
+p97
+sS'CoCo'
+p98
+S'Structure in Complexity Theory Conference'
+p99
+sS'CODES+ISSS'
+p100
+S'International Conference on Hardware Software Codesign'
+p101
+sS'CINQ'
+p102
+S'cInQ project'
+p103
+sS'COGSYS'
+p104
+S'Cognitive Systems'
+p105
+sS'CIAC'
+p106
+S'Italian Conference on Algorithms and Complexity'
+p107
+sS'CIAA'
+p108
+S'International Conference on Implementation and Application of Automata'
+p109
+sS'CSL'
+p110
+S'Computer Science Logic'
+p111
+sS'CASSIS'
+p112
+S'Construction and Analysis of Safe, Secure, and Interoperable Smart Devices'
+p113
+sS'COLT'
+p114
+S'Conference on Learning Theory'
+p115
+sS'CIIT'
+p116
+S'Communications, Internet, and Information Technology'
+p117
+sS'CMC'
+p118
+S'International Conference on Cooperative Multimodal Communication'
+p119
+sS'CSB'
+p120
+S'IEEE Computer Society Bioinformatics Conference'
+p121
+sS'CADUI'
+p122
+S'Computer-Aided Design of User Interfaces'
+p123
+sS'CSLP'
+p124
+S'Constraint Solving and Language Processing'
+p125
+sS'Complex'
+p126
+S'Complex Sciences'
+p127
+sS'CONTEXT'
+p128
+S'CONTEXT'
+p129
+sS'COTIM'
+p130
+S'Conference on Telecommunications and Information Markets'
+p131
+sS'CIIC'
+p132
+S'Congreso Internacional de Inteligencia Computacional'
+p133
+sS'CIIA'
+p134
+S'Conf\xc3\xa9rence Internationale sur lInformatique et ses Applications'
+p135
+sS'CIbSE'
+p136
+S'Conferencia Iberoamericana de Software Engineering'
+p137
+sS'COMPCON'
+p138
+S'COMPCON'
+p139
+sS'CoopIS'
+p140
+S'Conference on Cooperative Information Systems'
+p141
+sS'CEC'
+p142
+S'IEEE Congress on Evolutionary Computation'
+p143
+sS'CAIP'
+p144
+S'International Conference on Computer Analysis of Images and Patterns'
+p145
+sS'CLEF'
+p146
+S'Cross-Language Evaluation Forum'
+p147
+sS'Computer and Telecommunications Performance Engineering\n'
+p148
+S'Computer and Telecommunications Performance Engineering'
+p149
+sS'CIRA'
+p150
+S'Computational Intelligence in Robotics'
+p151
+sS'CIT'
+p152
+S'Conference on Information Technology'
+p153
+sS'Current Trends in SNePS'
+p154
+S'Semantic Network Processing System'
+p155
+sS'CAIA'
+p156
+S'Conference on Artificial Intelligence Applications'
+p157
+sS'CUU'
+p158
+S'ACM Conference on Universal Usability'
+p159
+sS'CGI'
+p160
+S'Computer Graphics International'
+p161
+sS'CSO'
+p162
+S'Computational Sciences and Optimization'
+p163
+sS'CNIS'
+p164
+S'Communication, Network, and Information Security'
+p165
+sS'CSE'
+p166
+S'IEEE International Conference on Computational Science and Engineering'
+p167
+sS'CPAIOR'
+p168
+S'CPAIOR'
+p169
+sS'CSF'
+p170
+S'Computer Security Foundations Symposium'
+p171
+sS'CSA'
+p172
+S'Communication Systems and Applications'
+p173
+sS'CSC'
+p174
+S'International Conference on Scientific Computing'
+p175
+sS'CASDMKM'
+p176
+S'Chinese Academy of Sciences Symposium on Data Mining and Knowledge Management'
+p177
+sS'CDVE'
+p178
+S'Cooperative Design, Visualization, and Engineering'
+p179
+sS'COMPSAC'
+p180
+S'International Computer Software and Applications Conference'
+p181
+sS'COLING'
+p182
+S'International Conference on Computational Linguistics'
+p183
+sS'CQRE'
+p184
+S'International Exhibition and Congress on Network Security'
+p185
+sS'CRIWG'
+p186
+S'International Workshop on Groupware'
+p187
+sS'CODATA'
+p188
+S'International Council of Scientific Unions Committee on Data for Scienceand Technology'
+p189
+sS'CGVR'
+p190
+S'International Conference on Computer Graphics and Virtual Reality'
+p191
+sS'COODBSE'
+p192
+S'Colloquium on Object Orientation in Databases and Software Engineering'
+p193
+sS'CGO'
+p194
+S'Symposium on Code Generation and Optimization'
+p195
+sS'CJCDGCGT'
+p196
+S'China-Japan Conference on Discrete Geometry, Combinatorics and Graph Theory'
+p197
+sS'CANPC'
+p198
+S'Communication, Architecture, and Applications for Network-Based Parallel Computing'
+p199
+sS'CDES'
+p200
+S'International Conference on Computer Design'
+p201
+sS'CFIP'
+p202
+S"Colloque Francophone sur l'Ing\xc3\xa9nierie des Protocoles"
+p203
+sS'CCCG'
+p204
+S'Canadian Conference on Computational Geometry'
+p205
+sS'CODES'
+p206
+S'International Conference on Hardware Software Codesign'
+p207
+sS'CoNEXT'
+p208
+S'Conference on Emerging Network Experiment and Technology'
+p209
+sS'C&C'
+p210
+S'Creativity and Cognition'
+p211
+sS'CONEXT'
+p212
+S'ACM International Conference on Emerging Networking Experiments and Technologies'
+p213
+sS'CSREAHCI'
+p214
+S'CSREA HCI'
+p215
+sS'CBSE'
+p216
+S'Component-Based Software Engineering'
+p217
+sS'CLIN'
+p218
+S'Computational Linguistics in the Netherlands'
+p219
+sS'CNSR'
+p220
+S'Conference on Communication Networks and Services Research'
+p221
+sS'CFCP'
+p222
+S'Canada-France Conference on Parallel and Distributed Computing'
+p223
+sS'CCSC'
+p224
+S'Consortium for Computing in Small Colleges'
+p225
+sS'COCV'
+p226
+S'Compiler Optimization Meets Compiler Verification'
+p227
+sS'CASC'
+p228
+S'Computer Algebra in Scientific Computing'
+p229
+sS'CIKM'
+p230
+S'International Conference on Information and Knowledge Management'
+p231
+sS'CVRMed'
+p232
+S'Computer Vision, Virtual Reality and Robotics in Medicine'
+p233
+sS'CISS'
+p234
+S'Conference on Information Sciences and Systems'
+p235
+sS'CISM'
+p236
+S'Workshops'
+p237
+sS'CMG'
+p238
+S'Computer Measurement Group Conference'
+p239
+sS'CUSEC'
+p240
+S'Canadian University Software Engineering Conference'
+p241
+sS'CAINE'
+p242
+S'Computer Applications in Industry and Engineering'
+p243
+sS'CVBIA'
+p244
+S'Computer Vision for Biomedical Image Applications'
+p245
+sS'CSR'
+p246
+S'Computer Science Symposium in Russia'
+p247
+sS'Computational Aesthetics'
+p248
+S'Eurographics Workshop on Computational Aesthetics in Graphics, Visualization and Imaging'
+p249
+sS'C5'
+p250
+S'Conference on Creating, Connecting and Collaborating through Computing'
+p251
+sS'CSEDU'
+p252
+S'International Conference on Computer Supported Education'
+p253
+sS'CAiSE'
+p254
+S'Conference on Advanced Information Systems Engineering'
+p255
+sS'CAAN'
+p256
+S'Combinatorial and Algorithmic Aspects of Networking'
+p257
+sS'CHIMIT'
+p258
+S'Computer Human Interaction for the Management of Information Technology'
+p259
+sS'Compute'
+p260
+S'Bangalore Annual Compute Conference'
+p261
+sS'CGAMES'
+p262
+S'Computer Games Conference'
+p263
+sS'CL'
+p264
+S'International Conference on Computational Logic'
+p265
+sS'CIBCB'
+p266
+S'Symposium on Computational Intelligence in Bioinformatics and Computational Biology'
+p267
+sS'CARS'
+p268
+S'Computer Assisted Radiology and Surgery'
+p269
+sS'CA'
+p270
+S'Computer Animation Conference'
+p271
+sS'CG'
+p272
+S'Computers and Games'
+p273
+sS'CLA'
+p274
+S'Concept Lattices and their Applications'
+p275
+sS'CD'
+p276
+S'IFIP/ACM Working Conference on Component Deployment'
+p277
+sS'COMAD'
+p278
+S'International Conference on Management of Data'
+p279
+sS'CONPAR'
+p280
+S'Conference on Algorithms and Hardware for Parallel Processing'
+p281
+sS'CLIMA'
+p282
+S'Computational Logic in Multi-Agent Systems'
+p283
+sS'C3S2E'
+p284
+S'Canadian Conference on Computer Science & Software Engineering'
+p285
+sS'CPM'
+p286
+S'Combinatorial Pattern Matching'
+p287
+sS'COST 237 Workshops\n'
+p288
+S'COST 237 Workshops'
+p289
+sS'CAAP'
+p290
+S'Colloquium on Trees in Algebra and Programming'
+p291
+sS'CSMR'
+p292
+S'Conference on Software Maintenance and Reengineering'
+p293
+sS'CDB'
+p294
+S'Constraint Databases and Applications'
+p295
+sS'CDC'
+p296
+S'Conference on Decision and Control'
+p297
+sS'CTW'
+p298
+S'Cologne Twente Workshop on Graphs and Combinatorical Optimization'
+p299
+sS'CAIVD'
+p300
+S'Content-Based Access of Image and Video Databases'
+p301
+sS'CHINZ'
+p302
+S"ACM SIGCHI New Zealand Chapter's International Conference on Computer-Human Interaction"
+p303
+sS'CLEANDB'
+p304
+S'Clean Databases'
+p305
+sS'CASCON'
+p306
+S'Conference of the Centre for Advanced Studies on Collaborative Research'
+p307
+sS'CloudCom'
+p308
+S'Cloud Computing'
+p309
+sS'CEAS'
+p310
+S'Conference on Email and Anti-Spam'
+p311
+sS'CSREAEEE'
+p312
+S'International Conference on E-Business, Enterprise Information Systems, E-Government, and Outsourcing'
+p313
+sS'CISMOD'
+p314
+S'Conference on Information Systems and Management of Data'
+p315
+sS'Coordination'
+p316
+S'International Conference on Coordination Models and Languages'
+p317
+sS'CIC'
+p318
+S'Communications in Computing'
+p319
+sS'COEA'
+p320
+S'Component-Oriented Enterprise Applications'
+p321
+sS'CIA'
+p322
+S'Cooperative Information Agents'
+p323
+sS'CIG'
+p324
+S'IEEE Symposium on Computational Intelligence and Games'
+p325
+sS'CSSE'
+p326
+S'International Conference on Computer Science and Software Engineering'
+p327
+sS'CIE'
+p328
+S'Conference on Computability in Europe'
+p329
+sS'COLCOM'
+p330
+S'Collaborative Computing'
+p331
+sS'CAR'
+p332
+S'International Asia Conference on Informatics in Control, Automation and Robotics'
+p333
+sS'CSSW'
+p334
+S'Conference on Social Semantic Web'
+p335
+sS'CAP'
+p336
+S"Conf\xc3\xa9rence francophone sur l'apprentissage automatique"
+p337
+sS'CAW'
+p338
+S'Computer Architecture Workshop'
+p339
+sS'CAV'
+p340
+S'Computer Aided Verification'
+p341
+sS'CAU'
+p342
+S'Cryptographic Algorithms and their Uses'
+p343
+sS'CIS'
+p344
+S'Computational and Information Science'
+p345
+sS'CSCWD'
+p346
+S'Computer Supported Cooperative Work in Design'
+p347
+sS'CBMS'
+p348
+S'IEEE Symposium on Computer-Based Medical Systems'
+p349
+sS'CADE'
+p350
+S'Conference on Automated Deduction'
+p351
+sS'CLOR'
+p352
+S'Toward Category-Level Object Recognition'
+p353
+sS'CAL'
+p354
+S'Conf\xc3\xa9rence francophone sur les Architectures Logicielles'
+p355
+sS'CORES'
+p356
+S'Computer Recognition Systems'
+p357
+sS'COMPUTE'
+p358
+S'Annual Bangalore Compute Conference'
+p359
+sS'CSCL'
+p360
+S'International Conference on Computer Supported Collaborative Learning'
+p361
+sS'COMSWARE'
+p362
+S'COMmunication System softWAre and MiddlewaRE'
+p363
+sS'CAD'
+p364
+S'Rechnerunterst\xc3\xbctztes Entwerfen und Konstruieren'
+p365
+sS'COCOA'
+p366
+S'Conference on Combinatorial Optimization and Applications'
+p367
+sS'CVE'
+p368
+S'Collaborative Virtual Environments'
+p369
+sS'CIMCA'
+p370
+S'International Conference on Computational Intelligence forModelling, Control and Automation'
+p371
+sS'CAMP'
+p372
+S'Computer Architectures for Machine Perception'
+p373
+sS'CISST'
+p374
+S'Conference on Imaging Science, Systems and Technology'
+p375
+sS'CC'
+p376
+S'International Conference on Compiler Construction'
+p377
+sS'CT-RSA'
+p378
+S"The Cryptographer's Track at RSA Conference"
+p379
+sS'CICLing'
+p380
+S'International Conference on Intelligent Text Processing and Computational Linguistics'
+p381
+sS'CRIS'
+p382
+S'Comparative Review of Information Systems Design Methodologies'
+p383
+sS'CLADE'
+p384
+S'Challenges of Large Applications in Distributed Environments'
+p385
+sS'CIDM'
+p386
+S'IEEE Symposium on Computational Intelligence and Data Mining'
+p387
+sS'CISIS'
+p388
+S'International Conference on Complex, Intelligent and Software Intensive Systems'
+p389
+sS'CSREAPSC'
+p390
+S'Pervasive Systems and Computing'
+p391
+sS'CALISCE'
+p392
+S'Computer Aided Learning and Instruction in Science and Engineering'
+p393
+sS'CSEE&T'
+p394
+S'Conference on Software Engineering Education and Training'
+p395
+sS'CIDE'
+p396
+S'Colloque International sur le Document Electronique'
+p397
+sS'C++'
+p398
+S'C++ Conference'
+p399
+sS'COSIT'
+p400
+S'Spatial Information Theory'
+p401
+sS'CHARME'
+p402
+S'Conference on Correct Hardware Design and Verification Methods'
+p403
+sS'CAEPIA'
+p404
+S'Conferencia de la Asociaci\xc3\xb3n Espa\xc3\xb1ola para la Inteligencia Artificial'
+p405
+sS'CANDC'
+p406
+S'Creativity & Cognition'
+p407
+sS'COCOON'
+p408
+S'International Computing and Combinatorics Conference'
+p409
+sS'CISIM'
+p410
+S'Computer Information Systems and Industrial Management Applications'
+p411
+sS'CONCUR'
+p412
+S'International Conference on Concurrency Theory'
+p413
+sS'CIDR'
+p414
+S'Conference on Innovative Data Systems Research'
+p415
+sS'CATA'
+p416
+S'Computers and Their Applications'
+p417
+sS'CATE'
+p418
+S'Computers and Advanced Technology in Education'
+p419
+sS'CAPTECH'
+p420
+S'Modelling and Motion Capture Techniques for Virtual Environments'
+p421
+sS'CATS'
+p422
+S'Computing: The Australasian Theory Symposium'
+p423
+sS'CSCW'
+p424
+S'Conference on Computer Supported Cooperative Work'
+p425
+sS'CALCO'
+p426
+S'Conference on Algebra and Coalgebra in Computer Science'
+p427
+sS'CITA'
+p428
+S'International Conference on Information Technology in Asia'
+p429
+sS'CITC'
+p430
+S'Conference On Information Technology Education'
+p431
+sS'CFP'
+p432
+S'Computers, Freedom and Privacy'
+p433
+sS'CRYPTO'
+p434
+S'International Crytology Conference'
+p435
+s.

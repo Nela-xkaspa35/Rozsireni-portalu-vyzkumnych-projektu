@@ -1,0 +1,109 @@
+(dp1
+S'Canada'
+p2
+(lp3
+S'North America'
+p4
+asS'Colombia'
+p5
+(lp6
+S'South America'
+p7
+asS'Chad'
+p8
+(lp9
+S'Africa'
+p10
+asS'Cuba'
+p11
+(lp12
+S'North America'
+p13
+asS'Cyprus'
+p14
+(lp15
+S'Asia'
+p16
+asS'Cayman Islands'
+p17
+(lp18
+S'North America'
+p19
+asS'Cape Verde'
+p20
+(lp21
+S'Africa'
+p22
+asS'Cambodia'
+p23
+(lp24
+S'Asia'
+p25
+asS'Central African Republic'
+p26
+(lp27
+S'Africa'
+p28
+asS'Cocos (Keeling) Islands'
+p29
+(lp30
+S'Asia'
+p31
+asS'Congo'
+p32
+(lp33
+S'Africa'
+p34
+aS'Africa'
+p35
+asS'Christmas Island'
+p36
+(lp37
+S'Asia'
+p38
+asS'China'
+p39
+(lp40
+S'Asia'
+p41
+asS'Chile'
+p42
+(lp43
+S'South America'
+p44
+asS'Croatia'
+p45
+(lp46
+S'Europe'
+p47
+asS"Cote d'Ivoire"
+p48
+(lp49
+S'Africa'
+p50
+asS'Costa Rica'
+p51
+(lp52
+S'North America'
+p53
+asS'Cameroon'
+p54
+(lp55
+S'Africa'
+p56
+asS'Comoros'
+p57
+(lp58
+S'Africa'
+p59
+asS'Cook Islands'
+p60
+(lp61
+S'Oceania'
+p62
+asS'Czech Republic'
+p63
+(lp64
+S'Europe'
+p65
+as.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="bnc_unlemmatised2frequency"/>
+    <type value="dict"/>
+    <keysize value="329441"/>
+    <valuesize value="658882"/>
+    <min-key-length value="2"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

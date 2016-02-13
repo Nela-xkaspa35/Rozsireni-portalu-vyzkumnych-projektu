@@ -1,0 +1,522 @@
+(dp1
+S'Whittier College'
+p2
+(lp3
+S'Whittier College'
+p4
+asS'West Liberty State College'
+p5
+(lp6
+S'West Liberty State College'
+p7
+asS'Wesleyan University'
+p8
+(lp9
+S'Wesleyan University'
+p10
+asS'Warren Wilson College'
+p11
+(lp12
+S'Warren Wilson College'
+p13
+asS'Warsaw School Of Economics'
+p14
+(lp15
+S'Warsaw School Of Economics'
+p16
+asS'Washington State University'
+p17
+(lp18
+S'Washington State University'
+p19
+asS'Wofford College'
+p20
+(lp21
+S'Wofford College'
+p22
+asS'Washington & Lee University'
+p23
+(lp24
+S'Washington & Lee University'
+p25
+asS'Western Carolina University'
+p26
+(lp27
+S'Western Carolina University'
+p28
+asS'West Texas A&m University'
+p29
+(lp30
+S'West Texas A&m University'
+p31
+asS'Waynesburg College'
+p32
+(lp33
+S'Waynesburg College'
+p34
+asS'Waikato Polytechnic'
+p35
+(lp36
+S'Waikato Polytechnic'
+p37
+asS'Warner Pacific College'
+p38
+(lp39
+S'Warner Pacific College'
+p40
+asS'Warsaw University'
+p41
+(lp42
+S'Warsaw University'
+p43
+asS'Westmont College'
+p44
+(lp45
+S'Westmont College'
+p46
+asS'Widener University'
+p47
+(lp48
+S'Widener University'
+p49
+asS'Wright State University'
+p50
+(lp51
+S'Wright State University'
+p52
+asS'William Jewell College'
+p53
+(lp54
+S'William Jewell College'
+p55
+asS'West Chester University'
+p56
+(lp57
+S'West Chester University'
+p58
+asS'Weizmann Institute Of Science'
+p59
+(lp60
+S'Weizmann Institute Of Science'
+p61
+asS'Wilmington College'
+p62
+(lp63
+S'Wilmington College'
+p64
+asS'Williams Baptist College'
+p65
+(lp66
+S'Williams Baptist College'
+p67
+asS'West University Of Timisoara'
+p68
+(lp69
+S'West University Of Timisoara'
+p70
+asS'Wakkanai Hokusei Gakuen Junior College'
+p71
+(lp72
+S'Wakkanai Hokusei Gakuen Junior College'
+p73
+asS'Winthrop University'
+p74
+(lp75
+S'Winthrop University'
+p76
+asS'Westminster Theological Seminary'
+p77
+(lp78
+S'Westminster Theological Seminary'
+p79
+asS'Whitworth College'
+p80
+(lp81
+S'Whitworth College'
+p82
+asS'Wingate University'
+p83
+(lp84
+S'Wingate University'
+p85
+asS'Western Oregon State College'
+p86
+(lp87
+S'Western Oregon State College'
+p88
+asS'William Paterson College'
+p89
+(lp90
+S'William Paterson College'
+p91
+asS'Wuhan University Of Technology'
+p92
+(lp93
+S'Wuhan University Of Technology'
+p94
+asS'Wellesley College'
+p95
+(lp96
+S'Wellesley College'
+p97
+asS'Willamette University'
+p98
+(lp99
+S'Willamette University'
+p100
+asS'Webster University'
+p101
+(lp102
+S'Webster University'
+p103
+asS'Wayne State University'
+p104
+(lp105
+S'Wayne State University'
+p106
+asS'Wittenberg University'
+p107
+(lp108
+S'Wittenberg University'
+p109
+asS'Wroclaw Technical University'
+p110
+(lp111
+S'Wroclaw Technical University'
+p112
+asS'West Georgia College'
+p113
+(lp114
+S'West Georgia College'
+p115
+asS'William Howard Taft University'
+p116
+(lp117
+S'William Howard Taft University'
+p118
+asS'Wichita State University'
+p119
+(lp120
+S'Wichita State University'
+p121
+asS'Wheaton College, Illinois'
+p122
+(lp123
+S'Wheaton College, Illinois'
+p124
+asS'Wentworth Institute Of Technology'
+p125
+(lp126
+S'Wentworth Institute Of Technology'
+p127
+asS'Wakayama University'
+p128
+(lp129
+S'Wakayama University'
+p130
+asS'Whitman College'
+p131
+(lp132
+S'Whitman College'
+p133
+asS'Wu-feng Junior College Of Technology & Commerce'
+p134
+(lp135
+S'Wu-feng Junior College Of Technology & Commerce'
+p136
+asS'Wake Forest University'
+p137
+(lp138
+S'Wake Forest University'
+p139
+asS'Wagner College'
+p140
+(lp141
+S'Wagner College'
+p142
+asS'Whu Koblenz School Of Corporate Management'
+p143
+(lp144
+S'Whu Koblenz School Of Corporate Management'
+p145
+asS'Westminster College, Oxford'
+p146
+(lp147
+S'Westminster College, Oxford'
+p148
+asS'West Valley College'
+p149
+(lp150
+S'West Valley College'
+p151
+asS'William Penn College'
+p152
+(lp153
+S'William Penn College'
+p154
+asS'Whitecliffe College Of Art & Design'
+p155
+(lp156
+S'Whitecliffe College Of Art & Design'
+p157
+asS'Washtenaw Community College'
+p158
+(lp159
+S'Washtenaw Community College'
+p160
+asS'Western Washington University'
+p161
+(lp162
+S'Western Washington University'
+p163
+asS'William Rainey Harper College'
+p164
+(lp165
+S'William Rainey Harper College'
+p166
+asS'Washington College'
+p167
+(lp168
+S'Washington College'
+p169
+asS'West Coast University'
+p170
+(lp171
+S'West Coast University'
+p172
+asS'West Virginia State College'
+p173
+(lp174
+S'West Virginia State College'
+p175
+asS'Western Illinios University'
+p176
+(lp177
+S'Western Illinios University'
+p178
+asS'Western New England College'
+p179
+(lp180
+S'Western New England College'
+p181
+asS'Wabash College'
+p182
+(lp183
+S'Wabash College'
+p184
+asS'Williams College'
+p185
+(lp186
+S'Williams College'
+p187
+asS'Westminster College, Missouri'
+p188
+(lp189
+S'Westminster College, Missouri'
+p190
+asS'Worcester Polytechnic Institute'
+p191
+(lp192
+S'Worcester Polytechnic Institute'
+p193
+asS'Westf\xc3\xa5lische Wilhelms Universit\xc3\xa5t, M\xc3\xbcnster'
+p194
+(lp195
+S'Westf\xc3\xa5lische Wilhelms Universit\xc3\xa5t, M\xc3\xbcnster'
+p196
+asS'Washington University In St. Louis'
+p197
+(lp198
+S'Washington University In St. Louis'
+p199
+asS'Western State College Of Colorado'
+p200
+(lp201
+S'Western State College Of Colorado'
+p202
+asS'Waterford Regional Technical College'
+p203
+(lp204
+S'Waterford Regional Technical College'
+p205
+asS'Westmoreland County Community College'
+p206
+(lp207
+S'Westmoreland County Community College'
+p208
+asS'Wuhan University'
+p209
+(lp210
+S'Wuhan University'
+p211
+asS'Washburn University'
+p212
+(lp213
+S'Washburn University'
+p214
+asS'West Virginia University'
+p215
+(lp216
+S'West Virginia University'
+p217
+asS'Western Michigan University'
+p218
+(lp219
+S'Western Michigan University'
+p220
+asS'Westminster College, Pennsylvania'
+p221
+(lp222
+S'Westminster College, Pennsylvania'
+p223
+asS'Wheeling Jesuit College'
+p224
+(lp225
+S'Wheeling Jesuit College'
+p226
+asS'Waseda University'
+p227
+(lp228
+S'Waseda University'
+p229
+asS'William Woods University'
+p230
+(lp231
+S'William Woods University'
+p232
+asS'Wilkes University'
+p233
+(lp234
+S'Wilkes University'
+p235
+asS'Wells College'
+p236
+(lp237
+S'Wells College'
+p238
+asS'Western Nevada Community College'
+p239
+(lp240
+S'Western Nevada Community College'
+p241
+asS'Wolfson College, Oxford'
+p242
+(lp243
+S'Wolfson College, Oxford'
+p244
+asS'Wharton School'
+p245
+(lp246
+S'Wharton School'
+p247
+asS'Western Nebraska Community College'
+p248
+(lp249
+S'Western Nebraska Community College'
+p250
+asS'Walla Walla College'
+p251
+(lp252
+S'Walla Walla College'
+p253
+asS'Waikato University'
+p254
+(lp255
+S'Waikato University'
+p256
+asS'Wheaton College, Massachusetts'
+p257
+(lp258
+S'Wheaton College, Massachusetts'
+p259
+asS'Warsaw University Of Technology'
+p260
+(lp261
+S'Warsaw University Of Technology'
+p262
+asS'Western Kentucky University'
+p263
+(lp264
+S'Western Kentucky University'
+p265
+asS'Walden University'
+p266
+(lp267
+S'Walden University'
+p268
+asS'Western Iowa Tech Community College'
+p269
+(lp270
+S'Western Iowa Tech Community College'
+p271
+asS'Western Baptist College'
+p272
+(lp273
+S'Western Baptist College'
+p274
+asS'Westminster College, Salt Lake City'
+p275
+(lp276
+S'Westminster College, Salt Lake City'
+p277
+asS'Washington Bible College & Capital Bible Seminary'
+p278
+(lp279
+S'Washington Bible College & Capital Bible Seminary'
+p280
+asS'Weber State University'
+p281
+(lp282
+S'Weber State University'
+p283
+asS'Western Connecticut State University'
+p284
+(lp285
+S'Western Connecticut State University'
+p286
+asS'Western New England College School Of Law'
+p287
+(lp288
+S'Western New England College School Of Law'
+p289
+asS'Waubonsee Community College'
+p290
+(lp291
+S'Waubonsee Community College'
+p292
+asS'Worthington Community College'
+p293
+(lp294
+S'Worthington Community College'
+p295
+asS'Winona State University'
+p296
+(lp297
+S'Winona State University'
+p298
+asS'Wilfrid Laurier University'
+p299
+(lp300
+S'Wilfrid Laurier University'
+p301
+asS'Western Iowa Community College'
+p302
+(lp303
+S'Western Iowa Community College'
+p304
+asS'Wesley College'
+p305
+(lp306
+S'Wesley College'
+p307
+asS'Western Maryland College'
+p308
+(lp309
+S'Western Maryland College'
+p310
+asS'Wageningen Agricultural University'
+p311
+(lp312
+S'Wageningen Agricultural University'
+p313
+as.

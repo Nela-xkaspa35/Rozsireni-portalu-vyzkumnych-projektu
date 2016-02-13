@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>European Research Projects Portal</title>
+
+    <!-- Bootstrap -->
+    
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}" >
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" >
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="row" id="subheader">
+        <div class="col-lg-2 hidden-xs" >
+            <div class="input-group">
+                <a href="/"><img alt="logo" src="{{ url_for('static', filename='img/logo.jpg') }}"></a>
+            </div>
+        </div>
+        <div class="col-lg-8" id="sub-tab">
+            <form action="/find" method="GET" class="input-group">
+                <input type="text" name="keyword" class="form-control" placeholder="Search for...">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="input">Search</button>
+                </span>
+            </form>
+        </div>
+    </div>
+      
+    <div id="articles">
+      <h2>
+            {% if s.abbr %}
+                &#91; {{ s.abbr }} &#93;
+            {% endif %}
+            {{ s.title }}
+        </h2>
+        {% if s.startDate %}{% if s.endDate %}
+            <p><b>From</b> {{ s.startDate.date() }} <b>to</b> {{ s.endDate.date() }} </p>
+        {% endif %}{% endif %}
+        {% if s.url %}
+            <a href="http://cordis.europa.eu/{{ s.url }}" target="_blank"> View project on Cordis </a> 
+        {% endif %}
+        {% if s.url and s.origWeb %}
+            or
+        {% endif %}
+        {% if s.origWeb %}
+            <a href="{{ s.origWeb }}" target="_blank"> View official project site </a>
+        {% endif %}
+        
+        
+        {% if s.objective %}
+            <h4>Summary:</h4>
+            <p> {{ s.objective }}</p>
+        {% endif %}
+        
+        <br><h4>More info:</h4>
+            <div class="row">
+                <div class="col-lg-5">
+                    <ul>
+                    {% if s.programme %}
+                        <li><p><b>Programme: </b>{{ s.programme }}</p></li>
+                    {% endif %}
+                    {% if s.subprogramme %}
+                        <li><p><b>Subprogramme: </b>{{ s.subprogramme }}</p></li>
+                    {% endif %}
+                    {% if s.totalCost %}
+                        <li><p><b>Total cost: </b>EUR {{ '{:20,d}'.format(s.totalCost|int) }}</p></li>
+                    {% endif %}
+                    {% if s.euCon %}
+                        <li><p><b>EU contribution: </b>EUR {{ '{:20,d}'.format(s.euCon|int) }}</p></li>
+                    {% endif %}
+                    {% if s.fundedUnder %}
+                        <li><p><b>Funded under: </b>{{ s.fundedUnder }}</p></li>
+                    {% endif %}
+                    {% if s.fundingScheme %}
+                        <li><p><b>Funding scheme: </b> {{ s.fundingScheme }}</p></li>
+                    {% endif %}
+
+                    </ul>
+                </div>
+                <div class="col-lg-5">
+                    <ul>
+                    {% if s.coordinator %}
+                        <li><p><b>Coordinator: </b>{{ s.coordinator.title() }}</p></li>
+                    {% endif %}
+                    {% if s.country %}
+                        <li><p><b>Coordinated in: </b>{{ s.country }}</p></li>
+                    {% endif %}
+                    {% if s.coordName %}
+                        <li><p><b>Administrative contact: </b>{{ s.coordName }}</p></li>
+                    {% endif %}
+                    {% if s.coordTel %}
+                        <li><p><b>Tel.: </b>{{ s.coordTel }}</p></li>
+                    {% endif %}
+                    {% if s.coordFax %}
+                        <li><p><b>Fax.: </b>{{ s.coordFax }}</p></li>
+                    {% endif %}
+
+                    </ul>
+                </div>
+            </div>
+        {% if s.participant %}{% if s.partCountry %}
+            <br><h4>Participants:</h4>
+            <div class="row">
+                <div class="col-lg-6">
+                    <ul>
+                        {% for participant in s.participant %}
+                            <li><p> {{ participant.title() }}</p></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-lg-2 country">
+                    <ul>
+                        {% for partCountry in s.partCountry %}
+                            <p>{{ partCountry.title() }}</p>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        {% endif %}{% endif %}
+        {% if d %}
+            <br><h4>Deliverables:</h4>
+            
+            {% if s.delivWeb %}
+                <p><small>Deliverables from official project site may be found <a href="{{ s.delivWeb }}">here</a>. </small></p>
+            {% endif %}
+                <div class="row">
+                <div class="col-lg-10">
+                    <ul>
+                        {% for deli in d %}
+                            <li><p> <a href="{{ deli.deliv_url }}" target="_blank">{{ deli.deliv_title }}</a></p></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        {% endif %}
+        
+        {% if similar %}
+            <br><h4>Similar projects:</h4>
+            <div class="row">
+                {% for item in similar %}
+                <div class="col-lg-4">
+                    <div class="similar">
+                        <a href="/project/{{ item.id[0] }}"><h4>{{ item.title[0] }}</h4></a>
+                        {% if item.objective and item.objective[0] %}
+                        <p>{{ item.objective[0][:300] }}...</p>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        
+            
+            {% if url %}
+                <center><a href="{{ url }}"><h3>&#60; Return to search</h3></a></center> 
+            {% else %}
+               <center><a href="/"><h3>&#60; Return to search</h3></a></center> 
+            {% endif %}
+
+        
+    </div>
+         
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    
+  </body>
+</html>

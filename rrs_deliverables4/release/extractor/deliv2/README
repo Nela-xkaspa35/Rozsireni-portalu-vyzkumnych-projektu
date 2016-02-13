@@ -1,0 +1,6 @@
+deliverables.py - hlavny script riadiaci cely proces
+delivdbglib.py  - trieda DeliverableDebugger zabezpecujuca vypis debug vypisov
+deliverrno.py   - chybove kody
+gethtmlandparse.py - trieda getHtmlAndParse zabezpecuje stahovanie a parsovanie jednotlivych stranok
+getdelivpage.py  - najde stranku s deliverables
+getdelivrecords.py - ziska jedntolive zaznamy zo stranky

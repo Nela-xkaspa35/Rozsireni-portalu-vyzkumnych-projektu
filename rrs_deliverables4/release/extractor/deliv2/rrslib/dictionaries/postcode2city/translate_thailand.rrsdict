@@ -1,0 +1,2515 @@
+(dp1
+S'48110'
+p2
+(lp3
+S'That Phanom'
+p4
+aS'Nakhon Phanom'
+p5
+asS'40150'
+p6
+(lp7
+S'Phu Wiang'
+p8
+aS'Khon Kaen'
+p9
+asS'47120'
+p10
+(lp11
+S'Wanon Niwat'
+p12
+aS'Sakon Nakhon'
+p13
+asS'41380'
+p14
+(lp15
+S'Na Yung'
+p16
+aS'Udon Thani'
+p17
+asS'10510'
+p18
+(lp19
+S'Min Buri'
+p20
+aS'Bangkok'
+p21
+asS'10100'
+p22
+(lp23
+S'Pom Prap Sattru Phai'
+p24
+aS'Bangkok'
+p25
+asS'67270'
+p26
+(lp27
+S'Khao Kho'
+p28
+aS'Phetchabun'
+p29
+asS'24160'
+p30
+(lp31
+S'Sanam Chai Khet'
+p32
+aS'Chachoengsao'
+p33
+asS'50160'
+p34
+(lp35
+S'Doi Lor'
+p36
+aS'Chiang Mai'
+p37
+asS'73120'
+p38
+(lp39
+S'Nakhon Chaisi'
+p40
+aS'Nakhon Pathom'
+p41
+asS'22180'
+p42
+(lp43
+S'Soi Dao'
+p44
+aS'Chanthaburi'
+p45
+asS'30190'
+p46
+(lp47
+S'Chok Chai'
+p48
+aS'Nakhon Ratchasima'
+p49
+asS'30210'
+p50
+(lp51
+S'Dan Khun Thot'
+p52
+aS'Nakhon Ratchasima'
+p53
+asS'72140'
+p54
+(lp55
+S'Si Prachan'
+p56
+aS'Suphanburi'
+p57
+asS'10200'
+p58
+(lp59
+S'Phra Nakhon'
+p60
+aS'Bangkok'
+p61
+asS'22000'
+p62
+(lp63
+S'Muang Chanthaburi'
+p64
+aS'Chanthaburi'
+p65
+asS'51160'
+p66
+(lp67
+S'Thung Hua Chang'
+p68
+aS'Lamphun'
+p69
+asS'95130'
+p70
+(lp71
+S'Bannang Sata'
+p72
+aS'Yala'
+p73
+asS'46130'
+p74
+(lp75
+S'Kong Chai'
+p76
+aS'Kalasin'
+p77
+asS'41150'
+p78
+(lp79
+S'Phen'
+p80
+aS'Udon Thani'
+p81
+asS'56120'
+p82
+(lp83
+S'Dok Kham Tai'
+p84
+aS'Phayao'
+p85
+asS'84230'
+p86
+(lp87
+S'Ban Ta Khun'
+p88
+aS'Surat Thani'
+p89
+asS'55220'
+p90
+(lp91
+S'Bo Klua'
+p92
+aS'Nan'
+p93
+asS'10800'
+p94
+(lp95
+S'Bang Su'
+p96
+aS'Bangkok'
+p97
+asS'37210'
+p98
+(lp99
+S'Chanunman'
+p100
+aS'Amnat Charoen'
+p101
+asS'18170'
+p102
+(lp103
+S'Nong Saeng'
+p104
+aS'Saraburi'
+p105
+asS'52000'
+p106
+(lp107
+S'Muang Lampang'
+p108
+aS'Lampang'
+p109
+asS'72160'
+p110
+(lp111
+S'U-Thong'
+p112
+aS'Suphanburi'
+p113
+asS'76110'
+p114
+(lp115
+S'Ban Laem'
+p116
+aS'Phetchaburi'
+p117
+asS'50260'
+p118
+(lp119
+S'Doi Tao'
+p120
+aS'Chiang Mai'
+p121
+asS'30280'
+p122
+(lp123
+S'Kham Thale So'
+p124
+aS'Nakhon Ratchasima'
+p125
+asS'62120'
+p126
+(lp127
+S'Khlong Khlung'
+p128
+aS'Kamphaeng Phet'
+p129
+asS'74120'
+p130
+(lp131
+S'Ban Phaeo'
+p132
+aS'Samut Sakhon'
+p133
+asS'53120'
+p134
+(lp135
+S'Phichai'
+p136
+aS'Uttaradit'
+p137
+asS'51110'
+p138
+(lp139
+S'Li'
+p140
+aS'Lamphun'
+p141
+asS'43110'
+p142
+(lp143
+S'Tha Bo'
+p144
+aS'Nong Khai'
+p145
+asS'46000'
+p146
+(lp147
+S'Muang Kalasin'
+p148
+aS'Kalasin'
+p149
+asS'10330'
+p150
+(lp151
+S'Pahtum Wan'
+p152
+aS'Bangkok'
+p153
+asS'52130'
+p154
+(lp155
+S'Ko Kha'
+p156
+aS'Lampang'
+p157
+asS'66130'
+p158
+(lp159
+S'Pho Thale'
+p160
+aS'Phichit'
+p161
+asS'10700'
+p162
+(lp163
+S'Bang Plat'
+p164
+aS'Bangkok'
+p165
+asS'60000'
+p166
+(lp167
+S'Muang Nakhon Sawan'
+p168
+aS'Nakhon Sawan'
+p169
+asS'82120'
+p170
+(lp171
+S'Thai Muang'
+p172
+aS'Phang Nga'
+p173
+asS'57180'
+p174
+(lp175
+S'Mae Suai'
+p176
+aS'Chiang Rai'
+p177
+asS'92130'
+p178
+(lp179
+S'Huai Yot'
+p180
+aS'Trang'
+p181
+asS'11000'
+p182
+(lp183
+S'Muang Nonthaburi'
+p184
+aS'Nonthaburi'
+p185
+asS'90220'
+p186
+(lp187
+S'Kuan Niang'
+p188
+aS'Songkhla'
+p189
+asS'55120'
+p190
+(lp191
+S'Pua'
+p192
+aS'Nan'
+p193
+asS'49160'
+p194
+(lp195
+S'Nong Sung'
+p196
+aS'Mukdahan'
+p197
+asS'35120'
+p198
+(lp199
+S'Loeng Nok Tha'
+p200
+aS'Yasothon'
+p201
+asS'53140'
+p202
+(lp203
+S'Tron'
+p204
+aS'Uttaradit'
+p205
+asS'12120'
+p206
+(lp207
+S'Khlong Luang'
+p208
+aS'Pathum Thani'
+p209
+asS'23140'
+p210
+(lp211
+S'Bo Rai'
+p212
+aS'Trat'
+p213
+asS'10140'
+p214
+(lp215
+S'Thung Khru'
+p216
+aS'Bangkok'
+p217
+asS'47160'
+p218
+(lp219
+S'Phang Khon'
+p220
+aS'Sakon Nakhon'
+p221
+asS'63150'
+p222
+(lp223
+S'Tha Song Yang'
+p224
+aS'Tak'
+p225
+asS'63110'
+p226
+(lp227
+S'Mae Sot'
+p228
+aS'Tak'
+p229
+asS'47000'
+p230
+(lp231
+S'Muang Sakon Nakhon'
+p232
+aS'Sakon Nakhon'
+p233
+asS'82150'
+p234
+(lp235
+S'Khura Buri'
+p236
+aS'Phang Nga'
+p237
+asS'27000'
+p238
+(lp239
+S'Khao Chakhun'
+p240
+aS'Sa Kaeo'
+p241
+asS'37000'
+p242
+(lp243
+S'Lua Amnart'
+p244
+aS'Amnat Charoen'
+p245
+asS'84190'
+p246
+(lp247
+S'Wiang Sa'
+p248
+aS'Surat Thani'
+p249
+asS'55150'
+p250
+(lp251
+S'Na Noi'
+p252
+aS'Nan'
+p253
+asS'10240'
+p254
+(lp255
+S'Saphan Sung B39'
+p256
+aS'Bangkok'
+p257
+asS'48140'
+p258
+(lp259
+S'Na Thom'
+p260
+aS'Nakhon Phanom'
+p261
+asS'14140'
+p262
+(lp263
+S'Chaiyo'
+p264
+aS'Ang Thong'
+p265
+asS'30410'
+p266
+(lp267
+S'Nong Bunnak'
+p268
+aS'Nakhon Ratchasima'
+p269
+asS'41190'
+p270
+(lp271
+S'Ban Phu'
+p272
+aS'Udon Thani'
+p273
+asS'24150'
+p274
+(lp275
+S'Bang Nam Prieo'
+p276
+aS'Chachoengsao'
+p277
+asS'61140'
+p278
+(lp279
+S'Ban Rai'
+p280
+aS'Uthai Thani'
+p281
+asS'44160'
+p282
+(lp283
+S'Chiang Yun'
+p284
+aS'Maha Sarakham'
+p285
+asS'40110'
+p286
+(lp287
+S'Ban Had'
+p288
+aS'Khon Kaen'
+p289
+asS'46190'
+p290
+(lp291
+S'Tha Khantho'
+p292
+aS'Kalasin'
+p293
+asS'34270'
+p294
+(lp295
+S'Kut Khaopun'
+p296
+aS'Ubon Ratchathani'
+p297
+asS'46160'
+p298
+(lp299
+S'Na Ku'
+p300
+aS'Kalasin'
+p301
+asS'52220'
+p302
+(lp303
+S'Mae Mo'
+p304
+aS'Lampang'
+p305
+asS'96160'
+p306
+(lp307
+S'Waeng'
+p308
+aS'Narathiwat'
+p309
+asS'94180'
+p310
+(lp311
+S'Mae Lan'
+p312
+aS'Pattani'
+p313
+asS'56000'
+p314
+(lp315
+S'Muang Phayao'
+p316
+aS'Phayao'
+p317
+asS'52170'
+p318
+(lp319
+S'Sop Prap'
+p320
+aS'Lampang'
+p321
+asS'35150'
+p322
+(lp323
+S'Pa Tiu'
+p324
+aS'Yasothon'
+p325
+asS'64160'
+p326
+(lp327
+S'Khiri Mat'
+p328
+aS'Sukhothai'
+p329
+asS'49000'
+p330
+(lp331
+S'Muang Mukdahan'
+p332
+aS'Mukdahan'
+p333
+asS'64120'
+p334
+(lp335
+S'Si Samrong'
+p336
+aS'Sukhothai'
+p337
+asS'47260'
+p338
+(lp339
+S'Tao Ngoi'
+p340
+aS'Sakon Nakhon'
+p341
+asS'72120'
+p342
+(lp343
+S'Doembang Nangbuat'
+p344
+aS'Suphanburi'
+p345
+asS'66160'
+p346
+(lp347
+S'Sak Lek'
+p348
+aS'Phichit'
+p349
+asS'58130'
+p350
+(lp351
+S'Pai'
+p352
+aS'Mae Hong Son'
+p353
+asS'66000'
+p354
+(lp355
+S'Muang Phichit'
+p356
+aS'Phichit'
+p357
+asS'55180'
+p358
+(lp359
+S'Na Mun'
+p360
+aS'Nan'
+p361
+asS'41260'
+p362
+(lp363
+S'Sang Khom'
+p364
+aS'Udon Thani'
+p365
+asS'36180'
+p366
+(lp367
+S'Khon San'
+p368
+aS'Chaiyaphum'
+p369
+asS'47280'
+p370
+(lp371
+S'Khok Si Supan'
+p372
+aS'Sakon Nakhon'
+p373
+asS'50000'
+p374
+(lp375
+S'Muang Chiang Mai'
+p376
+aS'Chiang Mai'
+p377
+asS'70110'
+p378
+(lp379
+S'Ban Pong'
+p380
+aS'Ratchaburi'
+p381
+asS'94110'
+p382
+(lp383
+S'Sai Buri'
+p384
+aS'Pattani'
+p385
+asS'45120'
+p386
+(lp387
+S'Salaphum'
+p388
+aS'Roi Et'
+p389
+asS'23110'
+p390
+(lp391
+S'Khlong Yai'
+p392
+aS'Trat'
+p393
+asS'81000'
+p394
+(lp395
+S'Muang Krabi'
+p396
+aS'Krabi'
+p397
+asS'46220'
+p398
+(lp399
+S'Nong Kung Si'
+p400
+aS'Kalasin'
+p401
+asS'45240'
+p402
+(lp403
+S'Phon Sai'
+p404
+aS'Roi Et'
+p405
+asS'41000'
+p406
+(lp407
+S'Muang Udon Thani'
+p408
+aS'Udon Thani'
+p409
+asS'65160'
+p410
+(lp411
+S'Wat Bot'
+p412
+aS'Phitsanulok'
+p413
+asS'90130'
+p414
+(lp415
+S'Chana'
+p416
+aS'Songkhla'
+p417
+asS'56160'
+p418
+(lp419
+S'Chiacg Muan'
+p420
+aS'Phayao'
+p421
+asS'84140'
+p422
+(lp423
+S'Ko Samui'
+p424
+aS'Surat Thani'
+p425
+asS'10110'
+p426
+(lp427
+S'Wattana'
+p428
+aS'Bangkok'
+p429
+asS'24110'
+p430
+(lp431
+S'Bang Khla'
+p432
+aS'Chachoengsao'
+p433
+asS'42110'
+p434
+(lp435
+S'Chiang Khan'
+p436
+aS'Loei'
+p437
+asS'36110'
+p438
+(lp439
+S'Phu Khieo'
+p440
+aS'Chaiyaphum'
+p441
+asS'50170'
+p442
+(lp443
+S'Chiang Dao'
+p444
+aS'Chiang Mai'
+p445
+asS'48190'
+p446
+(lp447
+S'Phon Sawan'
+p448
+aS'Nakhon Phanom'
+p449
+asS'18110'
+p450
+(lp451
+S'Kaeng Khoi'
+p452
+aS'Saraburi'
+p453
+asS'41130'
+p454
+(lp455
+S'Nong Han'
+p456
+aS'Udon Thani'
+p457
+asS'94230'
+p458
+(lp459
+S'Kpho'
+p460
+aS'Pattani'
+p461
+asS'43190'
+p462
+(lp463
+S'Pak Khat'
+p464
+aS'Nong Khai'
+p465
+asS'10230'
+p466
+(lp467
+S'Lat Phrao'
+p468
+aS'Bangkok'
+p469
+asS'48170'
+p470
+(lp471
+S'Renu Nakhon'
+p472
+aS'Nakhon Phanom'
+p473
+asS'10250'
+p474
+(lp475
+S'Pra Vet'
+p476
+aS'Bangkok'
+p477
+asS'44180'
+p478
+(lp479
+S'Na Dun'
+p480
+aS'Maha Sarakham'
+p481
+asS'74000'
+p482
+(lp483
+S'Muang Samut Sakhon'
+p484
+aS'Samut Sakhon'
+p485
+asS'81130'
+p486
+(lp487
+S'Nua Khlong'
+p488
+aS'Krabi'
+p489
+asS'95120'
+p490
+(lp491
+S'Ka Bung'
+p492
+aS'Yala'
+p493
+asS'67140'
+p494
+(lp495
+S'Nong Phai'
+p496
+aS'Phetchabun'
+p497
+asS'40140'
+p498
+(lp499
+S'Nam Phong'
+p500
+aS'Khon Kaen'
+p501
+asS'30110'
+p502
+(lp503
+S'Phimai'
+p504
+aS'Nakhon Ratchasima'
+p505
+asS'96000'
+p506
+(lp507
+S'Muang Narathiwat'
+p508
+aS'Narathiwat'
+p509
+asS'30440'
+p510
+(lp511
+S'Kang Sanam Nang'
+p512
+aS'Nakhon Ratchasima'
+p513
+asS'60120'
+p514
+(lp515
+S'Chumsaeng'
+p516
+aS'Nakhon Sawan'
+p517
+asS'21110'
+p518
+(lp519
+S'Khao Chamao'
+p520
+aS'Rayong'
+p521
+asS'67240'
+p522
+(lp523
+S'Wang Pong'
+p524
+aS'Phetchabun'
+p525
+asS'92000'
+p526
+(lp527
+S'Muang Trang'
+p528
+aS'Trang'
+p529
+asS'76120'
+p530
+(lp531
+S'Cha-Am'
+p532
+aS'Phetchaburi'
+p533
+asS'83000'
+p534
+(lp535
+S'Muang Phuket'
+p536
+aS'Phuket'
+p537
+asS'44130'
+p538
+(lp539
+S'Kud Rang'
+p540
+aS'Maha Sarakham'
+p541
+asS'11120'
+p542
+(lp543
+S'Pak Kret'
+p544
+aS'Nonthaburi'
+p545
+asS'50210'
+p546
+(lp547
+S'San Sai'
+p548
+aS'Chiang Mai'
+p549
+asS'54140'
+p550
+(lp551
+S'Rong Kwang'
+p552
+aS'Phrae'
+p553
+asS'62110'
+p554
+(lp555
+S'Phran Kratai'
+p556
+aS'Kamphaeng Phet'
+p557
+asS'43120'
+p558
+(lp559
+S'Fao Rai'
+p560
+aS'Nong Khai'
+p561
+asS'12000'
+p562
+(lp563
+S'Muang Pathum Thani'
+p564
+aS'Pathum Thani'
+p565
+asS'40320'
+p566
+(lp567
+S'Phra Yun'
+p568
+aS'Khon Kaen'
+p569
+asS'96130'
+p570
+(lp571
+S'Rangae'
+p572
+aS'Narathiwat'
+p573
+asS'72000'
+p574
+(lp575
+S'Muang Suphan Buri'
+p576
+aS'Suphanburi'
+p577
+asS'30360'
+p578
+(lp579
+S'Non Daeng'
+p580
+aS'Nakhon Ratchasima'
+p581
+asS'57290'
+p582
+(lp583
+S'Phaya Mengrai'
+p584
+aS'Chiang Rai'
+p585
+asS'34160'
+p586
+(lp587
+S'Det Udom'
+p588
+aS'Ubon Ratchathani'
+p589
+asS'66120'
+p590
+(lp591
+S'Bang Mun Nak'
+p592
+aS'Phichit'
+p593
+asS'23120'
+p594
+(lp595
+S'Ko Chang'
+p596
+aS'Trat'
+p597
+asS'45170'
+p598
+(lp599
+S'Thawatchaburi'
+p600
+aS'Roi Et'
+p601
+asS'60150'
+p602
+(lp603
+S'Chum Tabong'
+p604
+aS'Nakhon Sawan'
+p605
+asS'64180'
+p606
+(lp607
+S'Si Nakhon'
+p608
+aS'Sukhothai'
+p609
+asS'72180'
+p610
+(lp611
+S'Dan Chang'
+p612
+aS'Suphanburi'
+p613
+asS'70150'
+p614
+(lp615
+S'Chom Bung'
+p616
+aS'Ratchaburi'
+p617
+asS'50320'
+p618
+(lp619
+S'Chai Prakarn'
+p620
+aS'Chiang Mai'
+p621
+asS'84110'
+p622
+(lp623
+S'Chaiya'
+p624
+aS'Surat Thani'
+p625
+asS'50280'
+p626
+(lp627
+S'Mae Ai'
+p628
+aS'Chiang Mai'
+p629
+asS'10150'
+p630
+(lp631
+S'Bang Bon'
+p632
+aS'Bangkok'
+p633
+asS'57110'
+p634
+(lp635
+S'Doi Luang'
+p636
+aS'Chiang Rai'
+p637
+asS'84260'
+p638
+(lp639
+S'Khian Sa'
+p640
+aS'Surat Thani'
+p641
+asS'43220'
+p642
+(lp643
+S'Bung Khong Long'
+p644
+aS'Nong Khai'
+p645
+asS'22120'
+p646
+(lp647
+S'Tha Mai'
+p648
+aS'Chanthaburi'
+p649
+asS'50130'
+p650
+(lp651
+S'Mae On'
+p652
+aS'Chiang Mai'
+p653
+asS'94160'
+p654
+(lp655
+S'Yarang'
+p656
+aS'Pattani'
+p657
+asS'84180'
+p658
+(lp659
+S'Wiphawadi'
+p660
+aS'Surat Thani'
+p661
+asS'42150'
+p662
+(lp663
+S'Pak Chom'
+p664
+aS'Loei'
+p665
+asS'45000'
+p666
+(lp667
+S'Muang Roi Et'
+p668
+aS'Roi Et'
+p669
+asS'10270'
+p670
+(lp671
+S'Muang Samut Prakan'
+p672
+aS'Samut Prakan'
+p673
+asS'56140'
+p674
+(lp675
+S'Pong'
+p676
+aS'Phayao'
+p677
+asS'40170'
+p678
+(lp679
+S'Kranuan'
+p680
+aS'Khon Kaen'
+p681
+asS'48130'
+p682
+(lp683
+S'Wang Yang'
+p684
+aS'Nakhon Phanom'
+p685
+asS'63170'
+p686
+(lp687
+S'Umphang'
+p688
+aS'Tak'
+p689
+asS'36160'
+p690
+(lp691
+S'Bamnet Narong'
+p692
+aS'Chaiyaphum'
+p693
+asS'50140'
+p694
+(lp695
+S'Saraphi'
+p696
+aS'Chiang Mai'
+p697
+asS'65120'
+p698
+(lp699
+S'Nakhon Thai'
+p700
+aS'Phitsanulok'
+p701
+asS'96120'
+p702
+(lp703
+S'Sungai Kolok'
+p704
+aS'Narathiwat'
+p705
+asS'62150'
+p706
+(lp707
+S'Sai Ngam'
+p708
+aS'Kamphaeng Phet'
+p709
+asS'43000'
+p710
+(lp711
+S'Muang Nong Khai'
+p712
+aS'Nong Khai'
+p713
+asS'46110'
+p714
+(lp715
+S'Kuchinarai'
+p716
+aS'Kalasin'
+p717
+asS'30120'
+p718
+(lp719
+S'Bua Yai'
+p720
+aS'Nakhon Ratchasima'
+p721
+asS'30240'
+p722
+(lp723
+S'Huai Thalaeng'
+p724
+aS'Nakhon Ratchasima'
+p725
+asS'57150'
+p726
+(lp727
+S'Chiang Saen'
+p728
+aS'Chiang Rai'
+p729
+asS'40220'
+p730
+(lp731
+S'Si Chomphu'
+p732
+aS'Khon Kaen'
+p733
+asS'34000'
+p734
+(lp735
+S'Muang Ubon Ratchathani'
+p736
+aS'Ubon Ratchathani'
+p737
+asS'57130'
+p738
+(lp739
+S'Mae Sai'
+p740
+aS'Chiang Rai'
+p741
+asS'53160'
+p742
+(lp743
+S'Fak Tha'
+p744
+aS'Uttaradit'
+p745
+asS'50360'
+p746
+(lp747
+S'Mae Wang'
+p748
+aS'Chiang Mai'
+p749
+asS'18150'
+p750
+(lp751
+S'Wihan Daeng'
+p752
+aS'Saraburi'
+p753
+asS'73140'
+p754
+(lp755
+S'Khamphaeng Saen'
+p756
+aS'Nakhon Pathom'
+p757
+asS'30330'
+p758
+(lp759
+S'Soeng Sang'
+p760
+aS'Nakhon Ratchasima'
+p761
+asS'37110'
+p762
+(lp763
+S'Phathumratvongsa'
+p764
+aS'Amnat Charoen'
+p765
+asS'95000'
+p766
+(lp767
+S'Kung Pinung'
+p768
+aS'Yala'
+p769
+asS'43170'
+p770
+(lp771
+S'So Phisai'
+p772
+aS'Nong Khai'
+p773
+asS'76160'
+p774
+(lp775
+S'Nong Ya Plong'
+p776
+aS'Phetchaburi'
+p777
+asS'46240'
+p778
+(lp779
+S'Huai Phung'
+p780
+aS'Kalasin'
+p781
+asS'90330'
+p782
+(lp783
+S'Singha Nakorn'
+p784
+aS'Songkhla'
+p785
+asS'45220'
+p786
+(lp787
+S'Muang Suang'
+p788
+aS'Roi Et'
+p789
+asS'44210'
+p790
+(lp791
+S'Yang Si Surat'
+p792
+aS'Maha Sarakham'
+p793
+asS'63000'
+p794
+(lp795
+S'Wang Chaw'
+p796
+aS'Tak'
+p797
+asS'92150'
+p798
+(lp799
+S'Sikao'
+p800
+aS'Trang'
+p801
+asS'53000'
+p802
+(lp803
+S'Muang Uttaradit'
+p804
+aS'Uttaradit'
+p805
+asS'12140'
+p806
+(lp807
+S'Lat Lum Kaeo'
+p808
+aS'Pathum Thani'
+p809
+asS'26000'
+p810
+(lp811
+S'Muang Nakhon Nayok'
+p812
+aS'Nakhon Nayok'
+p813
+asS'85000'
+p814
+(lp815
+S'Muang Ranong'
+p816
+aS'Ranong'
+p817
+asS'10530'
+p818
+(lp819
+S'Nong Chok'
+p820
+aS'Bangkok'
+p821
+asS'53230'
+p822
+(lp823
+S'Tong Saen Khan'
+p824
+aS'Uttaradit'
+p825
+asS'61120'
+p826
+(lp827
+S'Thap Than'
+p828
+aS'Uthai Thani'
+p829
+asS'47140'
+p830
+(lp831
+S'Ban Muang'
+p832
+aS'Sakon Nakhon'
+p833
+asS'58150'
+p834
+(lp835
+S'Pang Mapha'
+p836
+aS'Mae Hong Son'
+p837
+asS'36120'
+p838
+(lp839
+S'Kaset Sombun'
+p840
+aS'Chaiyaphum'
+p841
+asS'63130'
+p842
+(lp843
+S'Sam Ngao'
+p844
+aS'Tak'
+p845
+asS'41310'
+p846
+(lp847
+S'Thung Fon'
+p848
+aS'Udon Thani'
+p849
+asS'85130'
+p850
+(lp851
+S'La-Un'
+p852
+aS'Ranong'
+p853
+asS'65000'
+p854
+(lp855
+S'Muang Phitsanulok'
+p856
+aS'Phitsanulok'
+p857
+asS'60230'
+p858
+(lp859
+S'Kao Lieo'
+p860
+aS'Nakhon Sawan'
+p861
+asS'30170'
+p862
+(lp863
+S'Sung Noen'
+p864
+aS'Nakhon Ratchasima'
+p865
+asS'62210'
+p866
+(lp867
+S'Bung Samakki'
+p868
+aS'Kamphaeng Phet'
+p869
+asS'10540'
+p870
+(lp871
+S'Bang Phli'
+p872
+aS'Samut Prakan'
+p873
+asS'10220'
+p874
+(lp875
+S'Sai Mai'
+p876
+aS'Bangkok'
+p877
+asS'91130'
+p878
+(lp879
+S'Manung'
+p880
+aS'Satun'
+p881
+asS'27250'
+p882
+(lp883
+S'Wang Sombun'
+p884
+aS'Sa Kaeo'
+p885
+asS'84210'
+p886
+(lp887
+S'Chai Buri'
+p888
+aS'Surat Thani'
+p889
+asS'40340'
+p890
+(lp891
+S'Puai Noi'
+p892
+aS'Khon Kaen'
+p893
+asS'18190'
+p894
+(lp895
+S'Nong Doan'
+p896
+aS'Saraburi'
+p897
+asS'54150'
+p898
+(lp899
+S'Long'
+p900
+aS'Phrae'
+p901
+asS'43130'
+p902
+(lp903
+S'Po Tak'
+p904
+aS'Nong Khai'
+p905
+asS'91000'
+p906
+(lp907
+S'Muang Satun'
+p908
+aS'Satun'
+p909
+asS'30270'
+p910
+(lp911
+S'Chum Phuang'
+p912
+aS'Nakhon Ratchasima'
+p913
+asS'34220'
+p914
+(lp915
+S'Khong Chiam'
+p916
+aS'Ubon Ratchathani'
+p917
+asS'51130'
+p918
+(lp919
+S'Ban Hong'
+p920
+aS'Lamphun'
+p921
+asS'52240'
+p922
+(lp923
+S'Muang Pan'
+p924
+aS'Lampang'
+p925
+asS'67120'
+p926
+(lp927
+S'Lom Kao'
+p928
+aS'Phetchabun'
+p929
+asS'46140'
+p930
+(lp931
+S'Sahatsakhan'
+p932
+aS'Kalasin'
+p933
+asS'10310'
+p934
+(lp935
+S'Wangthong Lang'
+p936
+aS'Bangkok'
+p937
+asS'45140'
+p938
+(lp939
+S'Phaanom Phrai'
+p940
+aS'Roi Et'
+p941
+asS'35170'
+p942
+(lp943
+S'Sai Mun'
+p944
+aS'Yasothon'
+p945
+asS'60140'
+p946
+(lp947
+S'Takhli'
+p948
+aS'Nakhon Sawan'
+p949
+asS'42240'
+p950
+(lp951
+S'Pha Khao'
+p952
+aS'Loei'
+p953
+asS'11140'
+p954
+(lp955
+S'Bang Yai'
+p956
+aS'Nonthaburi'
+p957
+asS'36250'
+p958
+(lp959
+S'Nong Bua Rawe'
+p960
+aS'Chaiyaphum'
+p961
+asS'23000'
+p962
+(lp963
+S'Muang Trat'
+p964
+aS'Trat'
+p965
+asS'43140'
+p966
+(lp967
+S'Bung Kla'
+p968
+aS'Nong Khai'
+p969
+asS'26120'
+p970
+(lp971
+S'Ongkarak'
+p972
+aS'Nakhon Nayok'
+p973
+asS'49140'
+p974
+(lp975
+S'Don Luang'
+p976
+aS'Mukdahan'
+p977
+asS'58110'
+p978
+(lp979
+S'Mae Sariang'
+p980
+aS'Mae Hong Son'
+p981
+asS'70180'
+p982
+(lp983
+S'Suan Phung'
+p984
+aS'Ratchaburi'
+p985
+asS'47180'
+p986
+(lp987
+S'Kut Bak'
+p988
+aS'Sakon Nakhon'
+p989
+asS'10160'
+p990
+(lp991
+S'Nong Khaem'
+p992
+aS'Bangkok'
+p993
+asS'27180'
+p994
+(lp995
+S'Ta Phraya'
+p996
+aS'Sa Kaeo'
+p997
+asS'96210'
+p998
+(lp999
+S'Si Sakhon'
+p1000
+aS'Narathiwat'
+p1001
+asS'70130'
+p1002
+(lp1003
+S'Damnoen Saduak'
+p1004
+aS'Ratchaburi'
+p1005
+asS'41210'
+p1006
+(lp1007
+S'Nam Som'
+p1008
+aS'Udon Thani'
+p1009
+asS'10260'
+p1010
+(lp1011
+S'Bang Na'
+p1012
+aS'Bangkok'
+p1013
+asS'44110'
+p1014
+(lp1015
+S'Phayakkhaphum Phisai'
+p1016
+aS'Maha Sarakham'
+p1017
+asS'90110'
+p1018
+(lp1019
+S'Bang Klam'
+p1020
+aS'Songkhla'
+p1021
+asS'73000'
+p1022
+(lp1023
+S'Muang Nakhon Pathom'
+p1024
+aS'Nakhon Pathom'
+p1025
+asS'65140'
+p1026
+(lp1027
+S'Bang Rakam'
+p1028
+aS'Phitsanulok'
+p1029
+asS'40160'
+p1030
+(lp1031
+S'Mancha Khiri'
+p1032
+aS'Khon Kaen'
+p1033
+asS'10500'
+p1034
+(lp1035
+S'Bang Rak'
+p1036
+aS'Bangkok'
+p1037
+asS'48120'
+p1038
+(lp1039
+S'Tha Uthen'
+p1040
+aS'Nakhon Phanom'
+p1041
+asS'14160'
+p1042
+(lp1043
+S'Samko'
+p1044
+aS'Ang Thong'
+p1045
+asS'84250'
+p1046
+(lp1047
+S'Phanom'
+p1048
+aS'Surat Thani'
+p1049
+asS'75000'
+p1050
+(lp1051
+S'Muang Samut Songkhram'
+p1052
+aS'Samut Songkhram'
+p1053
+asS'61000'
+p1054
+(lp1055
+S'Muang Uthai Thani'
+p1056
+aS'Uthai Thani'
+p1057
+asS'44140'
+p1058
+(lp1059
+S'Kosum Phisai'
+p1060
+aS'Maha Sarakham'
+p1061
+asS'90180'
+p1062
+(lp1063
+S'Rattapum'
+p1064
+aS'Songkhla'
+p1065
+asS'61160'
+p1066
+(lp1067
+S'Lan Sak'
+p1068
+aS'Uthai Thani'
+p1069
+asS'37290'
+p1070
+(lp1071
+S'Senangkhanikhorn'
+p1072
+aS'Amnat Charoen'
+p1073
+asS'30220'
+p1074
+(lp1075
+S'Non Thai'
+p1076
+aS'Nakhon Ratchasima'
+p1077
+asS'91160'
+p1078
+(lp1079
+S'Khuan Doan'
+p1080
+aS'Satun'
+p1081
+asS'90270'
+p1082
+(lp1083
+S'Krasae Sin'
+p1084
+aS'Songkhla'
+p1085
+asS'67160'
+p1086
+(lp1087
+S'Bung Sam Phan'
+p1088
+aS'Phetchabun'
+p1089
+asS'96140'
+p1090
+(lp1091
+S'Sungai Padi'
+p1092
+aS'Narathiwat'
+p1093
+asS'30130'
+p1094
+(lp1095
+S'Pak Chong'
+p1096
+aS'Nakhon Ratchasima'
+p1097
+asS'40230'
+p1098
+(lp1099
+S'Waeng Noi'
+p1100
+aS'Khon Kaen'
+p1101
+asS'92170'
+p1102
+(lp1103
+S'Na Yong'
+p1104
+aS'Trang'
+p1105
+asS'47230'
+p1106
+(lp1107
+S'Pon Nakaew'
+p1108
+aS'Sakon Nakhon'
+p1109
+asS'36210'
+p1110
+(lp1111
+S'Nong Bua Daeng'
+p1112
+aS'Chaiyaphum'
+p1113
+asS'54120'
+p1114
+(lp1115
+S'Song'
+p1116
+aS'Phrae'
+p1117
+asS'18000'
+p1118
+(lp1119
+S'Chaloem Phakiat'
+p1120
+aS'Saraburi'
+p1121
+asS'24120'
+p1122
+(lp1123
+S'Rachsan'
+p1124
+aS'Chachoengsao'
+p1125
+asS'60190'
+p1126
+(lp1127
+S'Tak Fa'
+p1128
+aS'Nakhon Sawan'
+p1129
+asS'64140'
+p1130
+(lp1131
+S'Ban Dan Lan Hoi'
+p1132
+aS'Sukhothai'
+p1133
+asS'45190'
+p1134
+(lp1135
+S'Pathum Rat'
+p1136
+aS'Roi Et'
+p1137
+asS'57340'
+p1138
+(lp1139
+S'Khun Tan'
+p1140
+aS'Chiang Rai'
+p1141
+asS'66140'
+p1142
+(lp1143
+S'Sam Ngam'
+p1144
+aS'Phichit'
+p1145
+asS'94130'
+p1146
+(lp1147
+S'Panare'
+p1148
+aS'Pattani'
+p1149
+asS'50180'
+p1150
+(lp1151
+S'Mae Rim'
+p1152
+aS'Chiang Mai'
+p1153
+asS'57190'
+p1154
+(lp1155
+S'Pa Daet'
+p1156
+aS'Chiang Rai'
+p1157
+asS'84130'
+p1158
+(lp1159
+S'Phunphin'
+p1160
+aS'Surat Thani'
+p1161
+asS'70170'
+p1162
+(lp1163
+S'Wat Phleng'
+p1164
+aS'Ratchaburi'
+p1165
+asS'21180'
+p1166
+(lp1167
+S'Nikhom Pattana'
+p1168
+aS'Rayong'
+p1169
+asS'55130'
+p1170
+(lp1171
+S'Thung Chang'
+p1172
+aS'Nan'
+p1173
+asS'52150'
+p1174
+(lp1175
+S'Mae Tha'
+p1176
+aS'Lampang'
+p1177
+asS'35130'
+p1178
+(lp1179
+S'Maha Chana Chai'
+p1180
+aS'Yasothon'
+p1181
+asS'10600'
+p1182
+(lp1183
+S'Bangkok Yai'
+p1184
+aS'Bangkok'
+p1185
+asS'42210'
+p1186
+(lp1187
+S'Na Duang'
+p1188
+aS'Loei'
+p1189
+asS'85120'
+p1190
+(lp1191
+S'Suk Samran'
+p1192
+aS'Ranong'
+p1193
+asS'90150'
+p1194
+(lp1195
+S'Thepha'
+p1196
+aS'Songkhla'
+p1197
+asS'14120'
+p1198
+(lp1199
+S'Pho Thong'
+p1200
+aS'Ang Thong'
+p1201
+asS'24130'
+p1202
+(lp1203
+S'Bang Pakong'
+p1204
+aS'Chachoengsao'
+p1205
+asS'82180'
+p1206
+(lp1207
+S'Thap Put'
+p1208
+aS'Phang Nga'
+p1209
+asS'36130'
+p1210
+(lp1211
+S'Chaturat'
+p1212
+aS'Chaiyaphum'
+p1213
+asS'94140'
+p1214
+(lp1215
+S'Thung Yan Daeng'
+p1216
+aS'Pattani'
+p1217
+asS'75120'
+p1218
+(lp1219
+S'Bang Khonthi'
+p1220
+aS'Samut Songkhram'
+p1221
+asS'82000'
+p1222
+(lp1223
+S'Muang Phang Nga'
+p1224
+aS'Phang Nga'
+p1225
+asS'42130'
+p1226
+(lp1227
+S'Wang Saphung'
+p1228
+aS'Loei'
+p1229
+asS'41240'
+p1230
+(lp1231
+S'Non Sa-at'
+p1232
+aS'Udon Thani'
+p1233
+asS'55000'
+p1234
+(lp1235
+S'Phu Piang'
+p1236
+aS'Nan'
+p1237
+asS'73170'
+p1238
+(lp1239
+S'Phutha Monthon'
+p1240
+aS'Nakhon Pathom'
+p1241
+asS'62180'
+p1242
+(lp1243
+S'Khlong Lan'
+p1244
+aS'Kamphaeng Phet'
+p1245
+asS'40190'
+p1246
+(lp1247
+S'Nong Song Hong'
+p1248
+aS'Khon Kaen'
+p1249
+asS'30140'
+p1250
+(lp1251
+S'Sikhiu'
+p1252
+aS'Nakhon Ratchasima'
+p1253
+asS'41110'
+p1254
+(lp1255
+S'Kumphawapi'
+p1256
+aS'Udon Thani'
+p1257
+asS'18210'
+p1258
+(lp1259
+S'Don Phut'
+p1260
+aS'Saraburi'
+p1261
+asS'48150'
+p1262
+(lp1263
+S'Si Songkhram'
+p1264
+aS'Nakhon Phanom'
+p1265
+asS'91120'
+p1266
+(lp1267
+S'Thung Wa'
+p1268
+aS'Satun'
+p1269
+asS'22130'
+p1270
+(lp1271
+S'Laem Sing'
+p1272
+aS'Chanthaburi'
+p1273
+asS'65190'
+p1274
+(lp1275
+S'Noen Maprang'
+p1276
+aS'Phitsanulok'
+p1277
+asS'67000'
+p1278
+(lp1279
+S'Muang Phetchabun'
+p1280
+aS'Phetchabun'
+p1281
+asS'81110'
+p1282
+(lp1283
+S'Ao Luk'
+p1284
+aS'Krabi'
+p1285
+asS'96180'
+p1286
+(lp1287
+S'Yi-Ngo'
+p1288
+aS'Narathiwat'
+p1289
+asS'40120'
+p1290
+(lp1291
+S'Phon'
+p1292
+aS'Khon Kaen'
+p1293
+asS'14000'
+p1294
+(lp1295
+S'Muang ANG THONG'
+p1296
+aS'Ang Thong'
+p1297
+asS'36140'
+p1298
+(lp1299
+S'Khon Sawan'
+p1300
+aS'Chaiyaphum'
+p1301
+asS'56110'
+p1302
+(lp1303
+S'Chiang Kham'
+p1304
+aS'Phayao'
+p1305
+asS'27120'
+p1306
+(lp1307
+S'Wang Nam Yen'
+p1308
+aS'Sa Kaeo'
+p1309
+asS'54160'
+p1310
+(lp1311
+S'Wang Chin'
+p1312
+aS'Phrae'
+p1313
+asS'21130'
+p1314
+(lp1315
+S'Ban Chang'
+p1316
+aS'Rayong'
+p1317
+asS'40270'
+p1318
+(lp1319
+S'Ban Fang'
+p1320
+aS'Khon Kaen'
+p1321
+asS'50230'
+p1322
+(lp1323
+S'Hang Dong'
+p1324
+aS'Chiang Mai'
+p1325
+asS'62170'
+p1326
+(lp1327
+S'Lan Krabue'
+p1328
+aS'Kamphaeng Phet'
+p1329
+asS'42000'
+p1330
+(lp1331
+S'Muang Loei'
+p1332
+aS'Loei'
+p1333
+asS'30260'
+p1334
+(lp1335
+S'Khong'
+p1336
+aS'Nakhon Ratchasima'
+p1337
+asS'22150'
+p1338
+(lp1339
+S'Makham'
+p1340
+aS'Chanthaburi'
+p1341
+asS'46170'
+p1342
+(lp1343
+S'Huai Mek'
+p1344
+aS'Kalasin'
+p1345
+asS'51120'
+p1346
+(lp1347
+S'Wiang Nonglong'
+p1348
+aS'Lamphun'
+p1349
+asS'81160'
+p1350
+(lp1351
+S'Plai Phraya'
+p1352
+aS'Krabi'
+p1353
+asS'83110'
+p1354
+(lp1355
+S'Thalang'
+p1356
+aS'Phuket'
+p1357
+asS'64000'
+p1358
+(lp1359
+S'Muang Sukhothai'
+p1360
+aS'Sukhothai'
+p1361
+asS'49120'
+p1362
+(lp1363
+S'Don Tan'
+p1364
+aS'Mukdahan'
+p1365
+asS'60170'
+p1366
+(lp1367
+S'Krok Phra'
+p1368
+aS'Nakhon Sawan'
+p1369
+asS'18130'
+p1370
+(lp1371
+S'Ban Mo'
+p1372
+aS'Saraburi'
+p1373
+asS'52190'
+p1374
+(lp1375
+S'Hang Chat'
+p1376
+aS'Lampang'
+p1377
+asS'66190'
+p1378
+(lp1379
+S'Pho Prathap Chang'
+p1380
+aS'Phichit'
+p1381
+asS'76140'
+p1382
+(lp1383
+S'Khao Yoi'
+p1384
+aS'Phetchaburi'
+p1385
+asS'57160'
+p1386
+(lp1387
+S'Thoeng'
+p1388
+aS'Chiang Rai'
+p1389
+asS'43150'
+p1390
+(lp1391
+S'Seka'
+p1392
+aS'Nong Khai'
+p1393
+asS'92120'
+p1394
+(lp1395
+S'Had Samran'
+p1396
+aS'Trang'
+p1397
+asS'10170'
+p1398
+(lp1399
+S'Thawi Wattana'
+p1400
+aS'Bangkok'
+p1401
+asS'47190'
+p1402
+(lp1403
+S'Song Dao'
+p1404
+aS'Sakon Nakhon'
+p1405
+asS'58120'
+p1406
+(lp1407
+S'Mae La Noi'
+p1408
+aS'Mae Hong Son'
+p1409
+asS'55160'
+p1410
+(lp1411
+S'Chiang Klang'
+p1412
+aS'Nan'
+p1413
+asS'42170'
+p1414
+(lp1415
+S'Na Haeo'
+p1416
+aS'Loei'
+p1417
+asS'35000'
+p1418
+(lp1419
+S'Muang Yasothon'
+p1420
+aS'Yasothon'
+p1421
+asS'45150'
+p1422
+(lp1423
+S'Kaset Wisai'
+p1424
+aS'Roi Et'
+p1425
+asS'12160'
+p1426
+(lp1427
+S'Sam Khok'
+p1428
+aS'Pathum Thani'
+p1429
+asS'34140'
+p1430
+(lp1431
+S'Muang Samsib'
+p1432
+aS'Ubon Ratchathani'
+p1433
+asS'84160'
+p1434
+(lp1435
+S'Kanchanadit'
+p1436
+aS'Surat Thani'
+p1437
+as.

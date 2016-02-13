@@ -1,0 +1,792 @@
+(dp1
+S'Maple Woods Community College'
+p2
+(lp3
+S'Maple Woods Community College'
+p4
+asS'Michigan Technological University'
+p5
+(lp6
+S'Michigan Technological University'
+p7
+asS'Moscow Power Engineering Institute'
+p8
+(lp9
+S'Moscow Power Engineering Institute'
+p10
+asS'Muhlenberg College'
+p11
+(lp12
+S'Muhlenberg College'
+p13
+asS'Morehouse College'
+p14
+(lp15
+S'Morehouse College'
+p16
+asS'Marshall University'
+p17
+(lp18
+S'Marshall University'
+p19
+asS'Marymount College'
+p20
+(lp21
+S'Marymount College'
+p22
+asS'Miyazaki International College'
+p23
+(lp24
+S'Miyazaki International College'
+p25
+asS'Maebashi City College Of Technology'
+p26
+(lp27
+S'Maebashi City College Of Technology'
+p28
+asS'Mcmurry University'
+p29
+(lp30
+S'Mcmurry University'
+p31
+asS'Marlboro College'
+p32
+(lp33
+S'Marlboro College'
+p34
+asS'Masaryk University'
+p35
+(lp36
+S'Masaryk University'
+p37
+asS'Moscow Bauman State Technical University'
+p38
+(lp39
+S'Moscow Bauman State Technical University'
+p40
+asS'Miami-dade Community College'
+p41
+(lp42
+S'Miami-dade Community College'
+p43
+asS'Monmouth College, Il'
+p44
+(lp45
+S'Monmouth College, Il'
+p46
+asS'Moscow Institute Of Physics And Technology'
+p47
+(lp48
+S'Moscow Institute Of Physics And Technology'
+p49
+asS'Malaspina University College'
+p50
+(lp51
+S'Malaspina University College'
+p52
+asS'Manhattanville College'
+p53
+(lp54
+S'Manhattanville College'
+p55
+asS'M. S. Ramaiah Institute Of Technology'
+p56
+(lp57
+S'M. S. Ramaiah Institute Of Technology'
+p58
+asS'Mathematical Institute Of The Hungarian Academy Of Sciences'
+p59
+(lp60
+S'Mathematical Institute Of The Hungarian Academy Of Sciences'
+p61
+asS'Millikin University'
+p62
+(lp63
+S'Millikin University'
+p64
+asS'Manchester Metropolitan University'
+p65
+(lp66
+S'Manchester Metropolitan University'
+p67
+asS'Masters College'
+p68
+(lp69
+S'Masters College'
+p70
+asS'Montana State University - Billings'
+p71
+(lp72
+S'Montana State University - Billings'
+p73
+asS'Mohave Community College'
+p74
+(lp75
+S'Mohave Community College'
+p76
+asS'Mclaren School Of Business'
+p77
+(lp78
+S'Mclaren School Of Business'
+p79
+asS'Marist College'
+p80
+(lp81
+S'Marist College'
+p82
+asS'Morris College'
+p83
+(lp84
+S'Morris College'
+p85
+asS'Monnmouth University, Nj'
+p86
+(lp87
+S'Monnmouth University, Nj'
+p88
+asS'Murdoch University'
+p89
+(lp90
+S'Murdoch University'
+p91
+asS'Miami University, Ohio'
+p92
+(lp93
+S'Miami University, Ohio'
+p94
+asS'Maria Curie-sklodowska University'
+p95
+(lp96
+S'Maria Curie-sklodowska University'
+p97
+asS'Mercer University'
+p98
+(lp99
+S'Mercer University'
+p100
+asS'Monash University'
+p101
+(lp102
+S'Monash University'
+p103
+asS'Mansfield University'
+p104
+(lp105
+S'Mansfield University'
+p106
+asS'Mendel University Of Agriculture And Forestry'
+p107
+(lp108
+S'Mendel University Of Agriculture And Forestry'
+p109
+asS'Mount Holyoke College'
+p110
+(lp111
+S'Mount Holyoke College'
+p112
+asS'Medical College Of Georgia'
+p113
+(lp114
+S'Medical College Of Georgia'
+p115
+asS'Madison Area Technical College'
+p116
+(lp117
+S'Madison Area Technical College'
+p118
+asS'Macquarie University'
+p119
+(lp120
+S'Macquarie University'
+p121
+asS"Mount Saint Mary's College"
+p122
+(lp123
+S"Mount Saint Mary's College"
+p124
+asS'Metropolitan State College Of Denver'
+p125
+(lp126
+S'Metropolitan State College Of Denver'
+p127
+asS'Maharashtra Institute Of Technology, Pune'
+p128
+(lp129
+S'Maharashtra Institute Of Technology, Pune'
+p130
+asS'Meiji University'
+p131
+(lp132
+S'Meiji University'
+p133
+asS'Medical University Of South Carolina'
+p134
+(lp135
+S'Medical University Of South Carolina'
+p136
+asS'Missouri Western State College'
+p137
+(lp138
+S'Missouri Western State College'
+p139
+asS'Marywood College'
+p140
+(lp141
+S'Marywood College'
+p142
+asS'Mercer County Community College'
+p143
+(lp144
+S'Mercer County Community College'
+p145
+asS'Maryland Bible College And Seminary'
+p146
+(lp147
+S'Maryland Bible College And Seminary'
+p148
+asS'Mohawk Valley Community College'
+p149
+(lp150
+S'Mohawk Valley Community College'
+p151
+asS'Milwaukee School Of Engineering'
+p152
+(lp153
+S'Milwaukee School Of Engineering'
+p154
+asS'Montreat College'
+p155
+(lp156
+S'Montreat College'
+p157
+asS'Mississippi College'
+p158
+(lp159
+S'Mississippi College'
+p160
+asS'Macon College'
+p161
+(lp162
+S'Macon College'
+p163
+asS'Miyazaki Medical College'
+p164
+(lp165
+S'Miyazaki Medical College'
+p166
+asS'Messiah College'
+p167
+(lp168
+S'Messiah College'
+p169
+asS'Mindanao State University - Iligan Institute Of Technology'
+p170
+(lp171
+S'Mindanao State University - Iligan Institute Of Technology'
+p172
+asS'Montana Tech Of The University Of Montana'
+p173
+(lp174
+S'Montana Tech Of The University Of Montana'
+p175
+asS'Medical University Of Luebeck'
+p176
+(lp177
+S'Medical University Of Luebeck'
+p178
+asS'Montana State University-northern Havre'
+p179
+(lp180
+S'Montana State University-northern Havre'
+p181
+asS'Miami Christian University'
+p182
+(lp183
+S'Miami Christian University'
+p184
+asS'Medical College Of Ohio'
+p185
+(lp186
+S'Medical College Of Ohio'
+p187
+asS'Macalester College'
+p188
+(lp189
+S'Macalester College'
+p190
+asS'Malone College'
+p191
+(lp192
+S'Malone College'
+p193
+asS'Maharishi University Of Management'
+p194
+(lp195
+S'Maharishi University Of Management'
+p196
+asS'Marmara University'
+p197
+(lp198
+S'Marmara University'
+p199
+asS'Manhattan College'
+p200
+(lp201
+S'Manhattan College'
+p202
+asS'Monash Mt Eliza Business School'
+p203
+(lp204
+S'Monash Mt Eliza Business School'
+p205
+asS'Massachusetts Maritime Academy'
+p206
+(lp207
+S'Massachusetts Maritime Academy'
+p208
+asS'Medical College Of Wisconsin'
+p209
+(lp210
+S'Medical College Of Wisconsin'
+p211
+asS'Montanuniversit\xc3\xa5t Leoben'
+p212
+(lp213
+S'Montanuniversit\xc3\xa5t Leoben'
+p214
+asS'Muroran Institute Of Technology'
+p215
+(lp216
+S'Muroran Institute Of Technology'
+p217
+asS'Meisei University'
+p218
+(lp219
+S'Meisei University'
+p220
+asS'M\xc3\xa5lardalens H\xc3\xb6gskola'
+p221
+(lp222
+S'M\xc3\xa5lardalens H\xc3\xb6gskola'
+p223
+asS'Mid Sweden University'
+p224
+(lp225
+S'Mid Sweden University'
+p226
+asS'Manatee Community College'
+p227
+(lp228
+S'Manatee Community College'
+p229
+asS'Montcalm Community College'
+p230
+(lp231
+S'Montcalm Community College'
+p232
+asS'Moravian College'
+p233
+(lp234
+S'Moravian College'
+p235
+asS'Morehouse School Of Medicine'
+p236
+(lp237
+S'Morehouse School Of Medicine'
+p238
+asS'Meharry Medical College'
+p239
+(lp240
+S'Meharry Medical College'
+p241
+asS'Merton College, Oxford'
+p242
+(lp243
+S'Merton College, Oxford'
+p244
+asS'Mountain View College'
+p245
+(lp246
+S'Mountain View College'
+p247
+asS'Maine College Of Art'
+p248
+(lp249
+S'Maine College Of Art'
+p250
+asS'Middle Georgia College'
+p251
+(lp252
+S'Middle Georgia College'
+p253
+asS'Martin Luther Universit\xc3\xa5t Halle-wittenberg'
+p254
+(lp255
+S'Martin Luther Universit\xc3\xa5t Halle-wittenberg'
+p256
+asS'Muskingum College'
+p257
+(lp258
+S'Muskingum College'
+p259
+asS'Matej Bel University'
+p260
+(lp261
+S'Matej Bel University'
+p262
+asS'Malaspina University-college'
+p263
+(lp264
+S'Malaspina University-college'
+p265
+asS'Murray State University'
+p266
+(lp267
+S'Murray State University'
+p268
+asS'Massey University'
+p269
+(lp270
+S'Massey University'
+p271
+asS'Manipal Institute Of Technology'
+p272
+(lp273
+S'Manipal Institute Of Technology'
+p274
+asS'Maine Maritime Academy'
+p275
+(lp276
+S'Maine Maritime Academy'
+p277
+asS'Montclair State University'
+p278
+(lp279
+S'Montclair State University'
+p280
+asS'Mills College'
+p281
+(lp282
+S'Mills College'
+p283
+asS'Model Engineering College'
+p284
+(lp285
+S'Model Engineering College'
+p286
+asS'Mepco Schlenk Engineering College'
+p287
+(lp288
+S'Mepco Schlenk Engineering College'
+p289
+asS'Mie University'
+p290
+(lp291
+S'Mie University'
+p292
+asS'Mohawk College Of Applied Arts And Technology'
+p293
+(lp294
+S'Mohawk College Of Applied Arts And Technology'
+p295
+asS'Ming-chuan College'
+p296
+(lp297
+S'Ming-chuan College'
+p298
+asS'Moody Bible Institute'
+p299
+(lp300
+S'Moody Bible Institute'
+p301
+asS'Moorpark College'
+p302
+(lp303
+S'Moorpark College'
+p304
+asS'Mount Royal College'
+p305
+(lp306
+S'Mount Royal College'
+p307
+asS'Mayo Foundation'
+p308
+(lp309
+S'Mayo Foundation'
+p310
+asS'Monterey Institute Of International Studies'
+p311
+(lp312
+S'Monterey Institute Of International Studies'
+p313
+asS'Michigan State University'
+p314
+(lp315
+S'Michigan State University'
+p316
+asS'Molde College'
+p317
+(lp318
+S'Molde College'
+p319
+asS'Mankato State University'
+p320
+(lp321
+S'Mankato State University'
+p322
+asS'Matsuyama University'
+p323
+(lp324
+S'Matsuyama University'
+p325
+asS'Moscow State University'
+p326
+(lp327
+S'Moscow State University'
+p328
+asS'Mount Ida College'
+p329
+(lp330
+S'Mount Ida College'
+p331
+asS'Montana State University-bozeman'
+p332
+(lp333
+S'Montana State University-bozeman'
+p334
+asS'Miracosta College'
+p335
+(lp336
+S'Miracosta College'
+p337
+asS'Mahanakorn University Of Technology'
+p338
+(lp339
+S'Mahanakorn University Of Technology'
+p340
+asS'Meredith College'
+p341
+(lp342
+S'Meredith College'
+p343
+asS'Mendocino College'
+p344
+(lp345
+S'Mendocino College'
+p346
+asS'Moraine Park Technical College'
+p347
+(lp348
+S'Moraine Park Technical College'
+p349
+asS'Mcneese State University'
+p350
+(lp351
+S'Mcneese State University'
+p352
+asS'Milligan College'
+p353
+(lp354
+S'Milligan College'
+p355
+asS'Maricopa Community Colleges'
+p356
+(lp357
+S'Maricopa Community Colleges'
+p358
+asS'Mary Washington College'
+p359
+(lp360
+S'Mary Washington College'
+p361
+asS'Mount Allison University'
+p362
+(lp363
+S'Mount Allison University'
+p364
+asS'Marietta College'
+p365
+(lp366
+S'Marietta College'
+p367
+asS'Mahidol University'
+p368
+(lp369
+S'Mahidol University'
+p370
+asS'Middlebury College'
+p371
+(lp372
+S'Middlebury College'
+p373
+asS'Memorial University Of Newfoundland'
+p374
+(lp375
+S'Memorial University Of Newfoundland'
+p376
+asS'Mesa Community College'
+p377
+(lp378
+S'Mesa Community College'
+p379
+asS'Massachusetts Institute Of Technology'
+p380
+(lp381
+S'Massachusetts Institute Of Technology'
+p382
+asS'Mississippi Valley State University'
+p383
+(lp384
+S'Mississippi Valley State University'
+p385
+asS'Millersville University'
+p386
+(lp387
+S'Millersville University'
+p388
+asS"Marine Institute St. John's"
+p389
+(lp390
+S"Marine Institute St. John's"
+p391
+asS'Middle East Technical University'
+p392
+(lp393
+S'Middle East Technical University'
+p394
+asS'Maryland Institute, College Of Art'
+p395
+(lp396
+S'Maryland Institute, College Of Art'
+p397
+asS'Maharaja Sayajirao University Of Baroda'
+p398
+(lp399
+S'Maharaja Sayajirao University Of Baroda'
+p400
+asS'Mercyhurst College'
+p401
+(lp402
+S'Mercyhurst College'
+p403
+asS'Mississippi State University'
+p404
+(lp405
+S'Mississippi State University'
+p406
+asS'Mcgill University'
+p407
+(lp408
+S'Mcgill University'
+p409
+asS'Mississippi University For Women'
+p410
+(lp411
+S'Mississippi University For Women'
+p412
+asS'Midwestern State University'
+p413
+(lp414
+S'Midwestern State University'
+p415
+asS'Middle Tennessee State University'
+p416
+(lp417
+S'Middle Tennessee State University'
+p418
+asS'Minneapolis College Of Art And Design'
+p419
+(lp420
+S'Minneapolis College Of Art And Design'
+p421
+asS'Musashi University'
+p422
+(lp423
+S'Musashi University'
+p424
+asS'Metropolitan State University'
+p425
+(lp426
+S'Metropolitan State University'
+p427
+asS'Minot State University'
+p428
+(lp429
+S'Minot State University'
+p430
+asS'Marquette University'
+p431
+(lp432
+S'Marquette University'
+p433
+asS'Miyazaki University'
+p434
+(lp435
+S'Miyazaki University'
+p436
+asS'Mount Saint Mary College'
+p437
+(lp438
+S'Mount Saint Mary College'
+p439
+asS'Middlesex University'
+p440
+(lp441
+S'Middlesex University'
+p442
+asS'Mcmaster University'
+p443
+(lp444
+S'Mcmaster University'
+p445
+asS'Missouri Baptist College'
+p446
+(lp447
+S'Missouri Baptist College'
+p448
+asS'Muscatine Community College'
+p449
+(lp450
+S'Muscatine Community College'
+p451
+asS'Mayo College'
+p452
+(lp453
+S'Mayo College'
+p454
+asS'Millsaps College'
+p455
+(lp456
+S'Millsaps College'
+p457
+asS'Mount Saint Vincent University'
+p458
+(lp459
+S'Mount Saint Vincent University'
+p460
+asS'Metropolitan Community Colleges'
+p461
+(lp462
+S'Metropolitan Community Colleges'
+p463
+asS'Milwaukee Area Technical College'
+p464
+(lp465
+S'Milwaukee Area Technical College'
+p466
+asS'Marymount University'
+p467
+(lp468
+S'Marymount University'
+p469
+asS'Mount Union College'
+p470
+(lp471
+S'Mount Union College'
+p472
+asS'Musashi Institute Of Technology'
+p473
+(lp474
+S'Musashi Institute Of Technology'
+p475
+as.

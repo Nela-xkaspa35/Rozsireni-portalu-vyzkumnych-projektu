@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="countrywoeid2city"/>
+    <type value="dict"/>
+    <keysize value="226"/>
+    <valuesize value="33188"/>
+    <min-key-length value="8"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

@@ -1,0 +1,594 @@
+(dp1
+S'Baruch College School Of Business'
+p2
+(lp3
+S'Baruch College School Of Business'
+p4
+asS'Budapest University Of Economic Sciences'
+p5
+(lp6
+S'Budapest University Of Economic Sciences'
+p7
+asS'Baker University'
+p8
+(lp9
+S'Baker University'
+p10
+asS'Brandon University'
+p11
+(lp12
+S'Brandon University'
+p13
+asS'Bucknell University'
+p14
+(lp15
+S'Bucknell University'
+p16
+asS'Bristol University'
+p17
+(lp18
+S'Bristol University'
+p19
+asS'Bermuda College'
+p20
+(lp21
+S'Bermuda College'
+p22
+asS'Brown University'
+p23
+(lp24
+S'Brown University'
+p25
+asS'Beijing University Of Chemical Technology'
+p26
+(lp27
+S'Beijing University Of Chemical Technology'
+p28
+asS'Belmont Abbey College'
+p29
+(lp30
+S'Belmont Abbey College'
+p31
+asS'Bethany College, West Virginia'
+p32
+(lp33
+S'Bethany College, West Virginia'
+p34
+asS'Bastyr University'
+p35
+(lp36
+S'Bastyr University'
+p37
+asS'Bentley College'
+p38
+(lp39
+S'Bentley College'
+p40
+asS'Bank Street College'
+p41
+(lp42
+S'Bank Street College'
+p43
+asS"Bishop's University"
+p44
+(lp45
+S"Bishop's University"
+p46
+asS'Baldwin-wallace College'
+p47
+(lp48
+S'Baldwin-wallace College'
+p49
+asS'Bilkent University'
+p50
+(lp51
+S'Bilkent University'
+p52
+asS'Bridgewater College'
+p53
+(lp54
+S'Bridgewater College'
+p55
+asS'Bradley University'
+p56
+(lp57
+S'Bradley University'
+p58
+asS'Biel School Of Engineering'
+p59
+(lp60
+S'Biel School Of Engineering'
+p61
+asS'Bowie State University'
+p62
+(lp63
+S'Bowie State University'
+p64
+asS'Blackburn College'
+p65
+(lp66
+S'Blackburn College'
+p67
+asS'Brevard Community College'
+p68
+(lp69
+S'Brevard Community College'
+p70
+asS'Bard College'
+p71
+(lp72
+S'Bard College'
+p73
+asS'Big Bend Community College'
+p74
+(lp75
+S'Big Bend Community College'
+p76
+asS'Barry University'
+p77
+(lp78
+S'Barry University'
+p79
+asS'Bournemouth University'
+p80
+(lp81
+S'Bournemouth University'
+p82
+asS'Beijing Institute Of Technology'
+p83
+(lp84
+S'Beijing Institute Of Technology'
+p85
+asS'Boston University'
+p86
+(lp87
+S'Boston University'
+p88
+asS'Buena Vista University'
+p89
+(lp90
+S'Buena Vista University'
+p91
+asS'Bloomsburg University'
+p92
+(lp93
+S'Bloomsburg University'
+p94
+asS'Brigham Young University'
+p95
+(lp96
+S'Brigham Young University'
+p97
+asS'Brooklyn College'
+p98
+(lp99
+S'Brooklyn College'
+p100
+asS'Borough Of Manhattan Community College'
+p101
+(lp102
+S'Borough Of Manhattan Community College'
+p103
+asS'Bryant College'
+p104
+(lp105
+S'Bryant College'
+p106
+asS'Bridgewater State College'
+p107
+(lp108
+S'Bridgewater State College'
+p109
+asS'Bergen University'
+p110
+(lp111
+S'Bergen University'
+p112
+asS'Bob Jones University'
+p113
+(lp114
+S'Bob Jones University'
+p115
+asS'Bemidji State University'
+p116
+(lp117
+S'Bemidji State University'
+p118
+asS'Berea College'
+p119
+(lp120
+S'Berea College'
+p121
+asS'Boise State University'
+p122
+(lp123
+S'Boise State University'
+p124
+asS'Barton Institute Of Technical And Further Education'
+p125
+(lp126
+S'Barton Institute Of Technical And Further Education'
+p127
+asS'Boston College'
+p128
+(lp129
+S'Boston College'
+p130
+asS'Briarcliffe College'
+p131
+(lp132
+S'Briarcliffe College'
+p133
+asS'Brock University'
+p134
+(lp135
+S'Brock University'
+p136
+asS'Bar-ilan University, Ramat Gan'
+p137
+(lp138
+S'Bar-ilan University, Ramat Gan'
+p139
+asS'Brandeis University'
+p140
+(lp141
+S'Brandeis University'
+p142
+asS'Birmingham College Of Food'
+p143
+(lp144
+S'Birmingham College Of Food'
+p145
+asS'Bms College Of Engineering'
+p146
+(lp147
+S'Bms College Of Engineering'
+p148
+asS'Bond University'
+p149
+(lp150
+S'Bond University'
+p151
+asS'Bangladesh University Of Engineering And Technology'
+p152
+(lp153
+S'Bangladesh University Of Engineering And Technology'
+p154
+asS'Boston University Brussels'
+p155
+(lp156
+S'Boston University Brussels'
+p157
+asS'Barnard College'
+p158
+(lp159
+S'Barnard College'
+p160
+asS'Bryn Mawr College'
+p161
+(lp162
+S'Bryn Mawr College'
+p163
+asS'Beijing University Of Aeronautics & Astronautics'
+p164
+(lp165
+S'Beijing University Of Aeronautics & Astronautics'
+p166
+aS'Beijing University Of Aeronautics & Astronautics'
+p167
+asS'Bellevue Community College'
+p168
+(lp169
+S'Bellevue Community College'
+p170
+asS'Barrington University'
+p171
+(lp172
+S'Barrington University'
+p173
+asS'Brookdale Community College'
+p174
+(lp175
+S'Brookdale Community College'
+p176
+asS'Bengal Engineering College'
+p177
+(lp178
+S'Bengal Engineering College'
+p179
+asS'Brandenburg Technical University Of Cottbus'
+p180
+(lp181
+S'Brandenburg Technical University Of Cottbus'
+p182
+asS'Birzeit University'
+p183
+(lp184
+S'Birzeit University'
+p185
+asS'Bowdoin College'
+p186
+(lp187
+S'Bowdoin College'
+p188
+asS'Boston Architectual Center'
+p189
+(lp190
+S'Boston Architectual Center'
+p191
+asS'Baylor University'
+p192
+(lp193
+S'Baylor University'
+p194
+asS'Blue Ridge Community College'
+p195
+(lp196
+S'Blue Ridge Community College'
+p197
+asS'Birla Institute Of Technology'
+p198
+(lp199
+S'Birla Institute Of Technology'
+p200
+asS'Brenau University'
+p201
+(lp202
+S'Brenau University'
+p203
+asS'Broward Community College'
+p204
+(lp205
+S'Broward Community College'
+p206
+asS'Bangkok University'
+p207
+(lp208
+S'Bangkok University'
+p209
+asS'Benedictine College'
+p210
+(lp211
+S'Benedictine College'
+p212
+asS'Babson College'
+p213
+(lp214
+S'Babson College'
+p215
+asS'Bogazici University'
+p216
+(lp217
+S'Bogazici University'
+p218
+asS'Bedford Business College'
+p219
+(lp220
+S'Bedford Business College'
+p221
+asS'Bell College Of Technology'
+p222
+(lp223
+S'Bell College Of Technology'
+p224
+asS'Blue Mountain Community College'
+p225
+(lp226
+S'Blue Mountain Community College'
+p227
+asS'Beloit College'
+p228
+(lp229
+S'Beloit College'
+p230
+asS'Berufsakademie Ravensburg'
+p231
+(lp232
+S'Berufsakademie Ravensburg'
+p233
+asS'Bethany College, California'
+p234
+(lp235
+S'Bethany College, California'
+p236
+asS'British Columbia Institute Of Technology'
+p237
+(lp238
+S'British Columbia Institute Of Technology'
+p239
+asS'Business Management Training College Of Southern Africa'
+p240
+(lp241
+S'Business Management Training College Of Southern Africa'
+p242
+asS'Babes-bolyai University Of Cluj'
+p243
+(lp244
+S'Babes-bolyai University Of Cluj'
+p245
+asS'Biola University'
+p246
+(lp247
+S'Biola University'
+p248
+asS'Beijing University Of Posts And Telecommunications'
+p249
+(lp250
+S'Beijing University Of Posts And Telecommunications'
+p251
+asS'Ben-gurion University Of The Negev'
+p252
+(lp253
+S'Ben-gurion University Of The Negev'
+p254
+asS'Beijing Polytechnic University'
+p255
+(lp256
+S'Beijing Polytechnic University'
+p257
+asS'Buckinghamshire College'
+p258
+(lp259
+S'Buckinghamshire College'
+p260
+asS'Benedict College'
+p261
+(lp262
+S'Benedict College'
+p263
+asS'Bergen College'
+p264
+(lp265
+S'Bergen College'
+p266
+asS'Birmingham-southern College'
+p267
+(lp268
+S'Birmingham-southern College'
+p269
+asS'Brooklands College'
+p270
+(lp271
+S'Brooklands College'
+p272
+asS'Brunel University'
+p273
+(lp274
+S'Brunel University'
+p275
+asS'Brigham Young University, Hawaii'
+p276
+(lp277
+S'Brigham Young University, Hawaii'
+p278
+asS'Broome Community College'
+p279
+(lp280
+S'Broome Community College'
+p281
+asS'Brooks Institute Of Photography'
+p282
+(lp283
+S'Brooks Institute Of Photography'
+p284
+asS'Bates College'
+p285
+(lp286
+S'Bates College'
+p287
+asS'Birkbeck College'
+p288
+(lp289
+S'Birkbeck College'
+p290
+asS'Bessenyei Gyorgy Teachers Training College'
+p291
+(lp292
+S'Bessenyei Gyorgy Teachers Training College'
+p293
+asS'Butler University'
+p294
+(lp295
+S'Butler University'
+p296
+asS'Bradley Academy For The Visual Arts'
+p297
+(lp298
+S'Bradley Academy For The Visual Arts'
+p299
+asS'Baylor College Of Dentistry'
+p300
+(lp301
+S'Baylor College Of Dentistry'
+p302
+asS'Butte Community College'
+p303
+(lp304
+S'Butte Community College'
+p305
+asS'Boston Theological Institute'
+p306
+(lp307
+S'Boston Theological Institute'
+p308
+asS'Black Hills State University'
+p309
+(lp310
+S'Black Hills State University'
+p311
+asS'Bluffton College'
+p312
+(lp313
+S'Bluffton College'
+p314
+asS'Baylor College Of Medicine'
+p315
+(lp316
+S'Baylor College Of Medicine'
+p317
+asS'Bethel College And Seminary, St. Paul Minnesota'
+p318
+(lp319
+S'Bethel College And Seminary, St. Paul Minnesota'
+p320
+asS'Beaver College'
+p321
+(lp322
+S'Beaver College'
+p323
+asS'Bowling Green State University'
+p324
+(lp325
+S'Bowling Green State University'
+p326
+asS'Bristol Old Vic Theatre School'
+p327
+(lp328
+S'Bristol Old Vic Theatre School'
+p329
+asS'Birmingham College Of Speech And Drama'
+p330
+(lp331
+S'Birmingham College Of Speech And Drama'
+p332
+asS'Berklee College Of Music'
+p333
+(lp334
+S'Berklee College Of Music'
+p335
+asS'Beijing Agriculture University'
+p336
+(lp337
+S'Beijing Agriculture University'
+p338
+asS'Ball State University'
+p339
+(lp340
+S'Ball State University'
+p341
+asS'Birla Institute Of Technology And Science'
+p342
+(lp343
+S'Birla Institute Of Technology And Science'
+p344
+asS'Briar Cliff College'
+p345
+(lp346
+S'Briar Cliff College'
+p347
+asS'Belmont University'
+p348
+(lp349
+S'Belmont University'
+p350
+asS'Bethel College, Newton, Kansas'
+p351
+(lp352
+S'Bethel College, Newton, Kansas'
+p353
+asS'Beijing Agricultural University'
+p354
+(lp355
+S'Beijing Agricultural University'
+p356
+as.

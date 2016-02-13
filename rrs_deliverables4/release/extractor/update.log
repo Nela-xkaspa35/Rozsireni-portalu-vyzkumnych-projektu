@@ -1,0 +1,53 @@
+Info: Opening page 1 - http://cordis.europa.eu/projects/result_en?q=programme/code=%27FP7%27%20AND%20contenttype=%27project%27%20AND%20/project/startDate=2015-06-11-2015-06-18&p=1&num=20
+DEBUG: ['/project/rcn/189861_en.html', '/project/rcn/191240_en.html']
+Info: Opening page 2 - http://cordis.europa.eu/projects/result_en?q=programme/code=%27FP7%27%20AND%20contenttype=%27project%27%20AND%20/project/startDate=2015-06-11-2015-06-18&p=2&num=20
+Info: Opening project /project/rcn/189861_en.html ...
+189861:
+  Title: "Scalability, Robustness and Fundamental Limits in Large Scale Heterogeneous Networks"
+	Abbreviation: SCALEHETNET
+	Start date: 2015-06-15
+	End date: 2019-06-14
+	Project refrence: 618599
+	Funded under: FP7-PEOPLE
+	Total cost in EUR: 100000
+	EU contribution in EUR: 100000
+	Subprogramme: None
+	Call for proposal: FP7-PEOPLE-2013-CIG
+	Funding scheme: MC-CIG - Support for training and career development of researcher (CIG)
+	Participants: None
+	Participants' countries: None
+	Web: None
+	Subject: ['Life Sciences']
+	Last updated on: 2015-04-22
+  Coordinator: CYPRUS UNIVERSITY OF TECHNOLOGY
+	Name: Charalambos Chrisostomou
+	Address: None
+	Country: Cyprus
+	Tel.: +357 25002562
+	Fax: +357 25002763
+	PDF structure: Empty
+Info: Opening project /project/rcn/191240_en.html ...
+191240:
+  Title: Cavitation enhanced Ablation for Focused Ultrasound Surgery
+	Abbreviation: CAVABLATE
+	Start date: 2015-06-15
+	End date: 2017-06-14
+	Project refrence: 623608
+	Funded under: FP7-PEOPLE
+	Total cost in EUR: 202405,8
+	EU contribution in EUR: 202405,8
+	Subprogramme: None
+	Call for proposal: FP7-PEOPLE-2013-IEF
+	Funding scheme: MC-IEF - Intra-European Fellowships (IEF)
+	Participants: None
+	Participants' countries: None
+	Web: None
+	Subject: None
+	Last updated on: 2015-03-12
+  Coordinator: None
+	Name: None
+	Address: None
+	Country: None
+	Tel.: None
+	Fax: None
+	PDF structure: Empty

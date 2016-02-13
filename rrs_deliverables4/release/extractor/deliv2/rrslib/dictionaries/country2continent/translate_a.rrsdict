@@ -1,0 +1,77 @@
+(dp1
+S'Afghanistan'
+p2
+(lp3
+S'Asia'
+p4
+asS'Albania'
+p5
+(lp6
+S'Europe'
+p7
+asS'Angola'
+p8
+(lp9
+S'Africa'
+p10
+asS'Algeria'
+p11
+(lp12
+S'Africa'
+p13
+asS'American Samoa'
+p14
+(lp15
+S'Oceania'
+p16
+asS'Austria'
+p17
+(lp18
+S'Europe'
+p19
+asS'Andorra'
+p20
+(lp21
+S'Europe'
+p22
+asS'Antarctica'
+p23
+(lp24
+S'Antarctica'
+p25
+asS'Australia'
+p26
+(lp27
+S'Oceania'
+p28
+asS'Antigua and Barbuda'
+p29
+(lp30
+S'North America'
+p31
+asS'Armenia'
+p32
+(lp33
+S'Asia'
+p34
+asS'Aruba'
+p35
+(lp36
+S'North America'
+p37
+asS'Argentina'
+p38
+(lp39
+S'South America'
+p40
+asS'Anguilla'
+p41
+(lp42
+S'North America'
+p43
+asS'Azerbaijan'
+p44
+(lp45
+S'Asia'
+p46
+as.

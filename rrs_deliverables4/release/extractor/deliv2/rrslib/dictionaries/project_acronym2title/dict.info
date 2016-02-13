@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="project_acronym2title"/>
+    <type value="dict"/>
+    <keysize value="37166"/>
+    <valuesize value="47762"/>
+    <min-key-length value="1"/>
+    <simplekeys value="False"/>
+</rrsdictionary>

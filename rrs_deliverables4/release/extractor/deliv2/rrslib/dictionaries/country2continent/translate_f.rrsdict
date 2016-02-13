@@ -1,0 +1,42 @@
+(dp1
+S'French Southern Territories'
+p2
+(lp3
+S'Antarctica'
+p4
+asS'Faroe Islands'
+p5
+(lp6
+S'Europe'
+p7
+asS'Finland'
+p8
+(lp9
+S'Europe'
+p10
+asS'French Polynesia'
+p11
+(lp12
+S'Oceania'
+p13
+asS'France'
+p14
+(lp15
+S'Europe'
+p16
+asS'Falkland Islands (Malvinas)'
+p17
+(lp18
+S'South America'
+p19
+asS'French Guiana'
+p20
+(lp21
+S'South America'
+p22
+asS'Fiji'
+p23
+(lp24
+S'Oceania'
+p25
+as.

@@ -1,0 +1,394 @@
+(dp1
+S'DRR'
+p2
+S'Document Recognition and Retrieval'
+p3
+sS'DEXA'
+p4
+S'Database and Expert Systems Applications'
+p5
+sS'DART'
+p6
+S'Databases: Active and Real-Time'
+p7
+sS'DRM'
+p8
+S'ACM Digital Rights Management Workshop'
+p9
+sS'DATESO'
+p10
+S'Databases, Texts, Specifications, Objects'
+p11
+sS'DISCEX'
+p12
+S'DARPA Information Survivability Conference and Exposition'
+p13
+sS'DAARC'
+p14
+S'Discourse Anaphora and Anaphor Resolution Colloquium'
+p15
+sS'DCC'
+p16
+S'Data Compression Conference'
+p17
+sS'DSML'
+p18
+S'Domain-Specific Modeling Languages'
+p19
+sS'DCW'
+p20
+S'Workshop on Distributed Communities on the Web'
+p21
+sS'DANTE'
+p22
+S'Database Applications in Non-Traditional Environments'
+p23
+sS'DISC(WDAG)'
+p24
+S'Workshop on Distributed Algorithms/International Symposium on Distributed Computing'
+p25
+sS'DMIN'
+p26
+S'Int. Conf. on Data Mining'
+p27
+sS'DASC'
+p28
+S'Symposium on Dependable Autonomic and Secure Computing'
+p29
+sS'DBA'
+p30
+S'Databases and Applications'
+p31
+sS'DEPCOS'
+p32
+S'International Conference on Dependability of Computer Systems'
+p33
+sS'DSOM'
+p34
+S'Distributed Systems, Operations and Management'
+p35
+sS'DIAL M'
+p36
+S'Workshop on Discrete Algothrithms and Methods for MOBILE Computing and Communications'
+p37
+sS'DCEIS'
+p38
+S'ICEIS Doctoral Consortium'
+p39
+sS'DMG'
+p40
+S'Data Management in Grids'
+p41
+sS'DAISD'
+p42
+S'Deductive Approach to Information Systems and Databases'
+p43
+sS'DFRWS'
+p44
+S'Digital Forensic Research Workshop'
+p45
+sS'DMS'
+p46
+S'Distributed Multimedia Systems'
+p47
+sS'DIGRA'
+p48
+S'Conference of the Digital Games Research Association'
+p49
+sS'Diagrams'
+p50
+S'Diagrams'
+p51
+sS'DKSME'
+p52
+S'Data and Knowledge Systems for Manufacturing and Engineering'
+p53
+sS'DAGS'
+p54
+S'link'
+p55
+sS'DSV-IS'
+p56
+S'Design, Specification, and Verification of Interactive Systems'
+p57
+sS'DBTA'
+p58
+S'Database Technology and Applications'
+p59
+sS'DIMEA'
+p60
+S'International Conference on Digital Interactive Media in Entertainment and Arts'
+p61
+sS'DISCO'
+p62
+S'Design and Implementation of Symbolic Computation Systems'
+p63
+sS'DLS'
+p64
+S'Dynamic Languages Symposium'
+p65
+sS'DSL'
+p66
+S'Domain-Specific Languages'
+p67
+sS'DLT'
+p68
+S'International Conference on Developments in Language Theory'
+p69
+sS'DDB'
+p70
+S'Symposium on Distributed Data Bases'
+p71
+sS'DSD'
+p72
+S'Euromicro Symposium on Digital Systems Design'
+p73
+sS'DIGITEL'
+p74
+S'Digital Game and Intelligent Toy Enhanced Learning'
+p75
+sS'DAIS'
+p76
+S'Distributed Applications and Interoperable Systems'
+p77
+sS'DSN'
+p78
+S'International Conference on Dependable Systems and Networks'
+p79
+sS'DAPSYS'
+p80
+S'Distributed and Parallel Systems'
+p81
+sS'DPDS'
+p82
+S'International Symposium on Databases in Parallel and Distributed Systems'
+p83
+sS'DOOD'
+p84
+S'Deductive and Object-Oriented Databases'
+p85
+sS'DLog'
+p86
+S'Description Logics'
+p87
+sS'DSRT'
+p88
+S'Distributed Simulation and Real-Time Applications'
+p89
+sS'DFMA'
+p90
+S'Distributed Frameworks for Multimedia Applications'
+p91
+sS'DMDW'
+p92
+S'Design and Management of Data Warehouses'
+p93
+sS'DCOSS'
+p94
+S'IEEE International Conference on Distributed Computing in Sensor Systems'
+p95
+sS'DOA'
+p96
+S'International Symposium on Distributed Objects and Applications'
+p97
+sS'DBSEC'
+p98
+S'IFIP Workshop on Database Security'
+p99
+sS'Dynamo'
+p100
+S'Workshop on Dynamic and Adaptive Compilation and Optimization'
+p101
+sS'DRMTICS'
+p102
+S'Digital Rights Management: Technology, Issues, Challenges and Systems'
+p103
+sS'DCFS'
+p104
+S'International Workshop on Descriptional Complexity of Formal Systems'
+p105
+sS'DEEC'
+p106
+S'Data Engineering Issues in E-Commerce'
+p107
+sS'DILS'
+p108
+S'Data Integration in the Life Sciences'
+p109
+sS'DIWeb'
+p110
+S'Data Integration over the Web'
+p111
+sS'DDOPS'
+p112
+S'Development and Deployment of Product Software'
+p113
+sS'DAMAS'
+p114
+S'Defence Applications of Multi-Agent Systems'
+p115
+sS'DGO'
+p116
+S'DG.O (Inter)National Conference on Digital Government Research'
+p117
+sS'DNA'
+p118
+S'DNA Computing'
+p119
+sS'DFT'
+p120
+S'Defect and Fault Tolerance in VLSI Systems'
+p121
+sS'DIMACS Series in Discrete Mathematics and Theoretical Computer Science\n'
+p122
+S'DIMACS Series in Discrete Mathematics and Theoretical Computer Science'
+p123
+sS'DUX'
+p124
+S'Designing For User Experiences'
+p125
+sS'DATE'
+p126
+S'Design, Automation, and Test in Europe'
+p127
+sS'DSSCV'
+p128
+S'Deep Structure, Singularities, and Computer Vision'
+p129
+sS'DASFAA'
+p130
+S'Database Systems for Advanced Applications'
+p131
+sS'DFKI'
+p132
+S'DFKI Publications'
+p133
+sS'DDSS'
+p134
+S'Distributed Data Sharing Systems'
+p135
+sS'DaWaK'
+p136
+S'Data Warehousing and Knowledge Discovery'
+p137
+sS'DIM'
+p138
+S'Digital Identity Management'
+p139
+sS'DL'
+p140
+S'Digital Libraries'
+p141
+sS'DCAGRS'
+p142
+S'Descriptional Complexity of Automata, Grammars and Related Structures'
+p143
+sS'DALT'
+p144
+S'Declarative Agent Languages and Technologies'
+p145
+sS'DISC'
+p146
+S'International Symposium on Distributed Computing'
+p147
+sS'DPC'
+p148
+S'Data Processing Clinic'
+p149
+sS'DAMON'
+p150
+S'International Workshop on Data Management on New Hardware'
+p151
+sS'DW'
+p152
+S'Data Warehousing'
+p153
+sS'DS'
+p154
+S'IFIP Working Conference on Database Semantics'
+p155
+sS'DIS'
+p156
+S'Designing Interactive Systems'
+p157
+sS'DACH'
+p158
+S'D-A-CH Security'
+p159
+sS'DeLFI'
+p160
+S'Fachtagung "e-Learning" der Gesellschaft f\xc3\xbcr Informatik'
+p161
+sS'DBPL'
+p162
+S'Workshop on Database Programming Languages'
+p163
+sS'DAC'
+p164
+S'Design Automation Conference'
+p165
+sS'DGCI'
+p166
+S'Discrete Geometry for Computer Imagery'
+p167
+sS'DAI'
+p168
+S'Distributed Artificial Intelligence'
+p169
+sS'DIMVA'
+p170
+S'Detection of Intrusions and Malware & Vulnerability Assessment'
+p171
+sS'DAS'
+p172
+S'Document Analysis Systems'
+p173
+sS'DSMML'
+p174
+S'Deterministic and Statistical Methods in Machine Learning'
+p175
+sS'DPPI'
+p176
+S'Designing Pleasurable Products and Interfaces'
+p177
+sS'DCAI'
+p178
+S'Distributed Computing and Artificial Intelligence'
+p179
+sS'DIAL-M'
+p180
+S'Workshop on Discrete Algorithms and Methods for Mobile Computing and Communications'
+p181
+sS'DMKD'
+p182
+S'Research Issues on Data Mining and Knowledge Discovery'
+p183
+sS'DocEng'
+p184
+S'ACM Symposium on Document Engineering'
+p185
+sS'DMSN'
+p186
+S'Data Management for Sensor Networks'
+p187
+sS'DDECS'
+p188
+S'Workshop on Design and Diagnostics of Electronic Circuits and Systems'
+p189
+sS'DICS'
+p190
+S'Research Results of the DICS Program'
+p191
+sS'DELTA'
+p192
+S'Workshop on Electronic Design, Test and Applications'
+p193
+sS'DNIS'
+p194
+S'Databases in Networked Information Systems'
+p195
+sS'DOLAP'
+p196
+S'International Workshop on Data Warehousing and OLAP'
+p197
+s.

@@ -1,0 +1,646 @@
+(dp1
+S'ESOP'
+p2
+S'European Symposium on Programming'
+p3
+sS'ExpCS'
+p4
+S'Workshop On Experimental Computer Science'
+p5
+sS'EuroCG'
+p6
+S'European Workshop on Computational Geometry'
+p7
+sS'EON'
+p8
+S'Workshop on Evaluation of Ontology-based Tools'
+p9
+sS'EUMAS'
+p10
+S'European Workshop on Multi-Agent Systems'
+p11
+sS'ECUMN'
+p12
+S'European Conference on Universal Multiservice Networks'
+p13
+sS'ESOA'
+p14
+S'Engineering Self-Organising Systems'
+p15
+sS'EPK'
+p16
+S'Gesch\xc3\xa4ftsprozessmanagement mit Ereignisgesteuerten Prozessketten'
+p17
+sS'EGC'
+p18
+S'European Grid Conference'
+p19
+sS'EPEW'
+p20
+S'European Performance Engineering Workshop'
+p21
+sS'ECML PKDD'
+p22
+S'European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases'
+p23
+sS'ENSS'
+p24
+S'Conference On Embedded Networked Sensor Systems'
+p25
+sS'EMNLP'
+p26
+S'Empirical Methods in Natural Language Processing'
+p27
+sS'Eiffel'
+p28
+S'Eiffel'
+p29
+sS'EKAW'
+p30
+S'Knowledge Acquisition, Modeling and Management'
+p31
+sS'EXPDB'
+p32
+S'Evaluation of Data Management Systems'
+p33
+sS'Eurographics Workshop on Rendering Techniques\n'
+p34
+S'Eurographics Workshop on Rendering Techniques'
+p35
+sS'Ethics'
+p36
+S'Ethics in Computer Age'
+p37
+sS'EURONGI'
+p38
+S'Network of Excellence'
+p39
+sS'eCrime'
+p40
+S'Anti-Phishing Working Groups 2nd Annual eCrime Researchers Summit'
+p41
+sS'EWNLG'
+p42
+S'European Workshop on Natural Language Generation'
+p43
+sS'ESCAPE'
+p44
+S'Combinatorics, Algorithms, Probabilistic and Experimental Methodologies'
+p45
+sS'ESORICS'
+p46
+S'European Symposium on Research in Computer Security'
+p47
+sS'ESWS'
+p48
+S'European Semantic Web Symposium / Conference'
+p49
+sS'ESTIMEDIA'
+p50
+S'Embedded Systems for Real-Time Multimedia'
+p51
+sS'EUROVAV'
+p52
+S'European Symposium on Validation and Verification of Knowledge Based Systems'
+p53
+sS'EGITALY'
+p54
+S'Eurographics Italian Chapter Conference'
+p55
+sS'EUROCRYPT'
+p56
+S'Theory and Application of Cryptographic Techniques'
+p57
+sS'EELC'
+p58
+S'Emergence and Evolution of Linguistic Communication'
+p59
+sS'ETAPS'
+p60
+S'European joint conference on Theory And Practice of Software'
+p61
+sS'EUROSSC'
+p62
+S'Smart Sensing and Context'
+p63
+sS'EUROCODE'
+p64
+S'EUROCODE'
+p65
+sS'EEMMAS'
+p66
+S'Engineering Environment-Mediated Multi-Agent Systems'
+p67
+sS'EWHCI'
+p68
+S'EWHCI'
+p69
+sS'EUROS'
+p70
+S'European Robotics Symposium'
+p71
+sS'EUROSYS'
+p72
+S'EuroSys'
+p73
+sS'ECIS'
+p74
+S'European Conference on Information Systems'
+p75
+sS'ECIR'
+p76
+S'European Colloquium on IR Research'
+p77
+sS'EMV'
+p78
+S'Elektromagnetische Vertr\xc3\xa4glichkeit'
+p79
+sS'ECIW'
+p80
+S'European Conference on Information Warfare and Security'
+p81
+sS'EMMCVPR'
+p82
+S'Energy Minimization Methods in Computer Vision and Pattern Recognition'
+p83
+sS'EMS'
+p84
+S'European Symposium on Computer Modeling and Simulation'
+p85
+sS'EEF'
+p86
+S'European Educational Forum'
+p87
+sS'ExaCt'
+p88
+S'Explanation-aware Computing'
+p89
+sS'ECSCW'
+p90
+S'European Conference on Computer Supported Cooperative Work'
+p91
+sS'EUFIT'
+p92
+S'link'
+p93
+sS'ECBS'
+p94
+S'Engineering of Computer-Based Systems'
+p95
+sS'EC-Web'
+p96
+S'Electronic Commerce and Web Technologies'
+p97
+sS'E4MAS'
+p98
+S'Environments for Multi-Agent Systems'
+p99
+sS'EDBT'
+p100
+S'International Conference on Extending Database Technology'
+p101
+sS'Euro PDP'
+p102
+S'Euromicro Conference on Parallel,Distributed and Network-Based Processing'
+p103
+sS'EWCBR'
+p104
+S'European Workshop on Case-Based Reasoning'
+p105
+sS'ESCIENCE'
+p106
+S'e-Science and Grid Computing'
+p107
+sS'ENC'
+p108
+S'Mexican International Conference on Computer Science'
+p109
+sS'EH'
+p110
+S'Evolvable Hardware'
+p111
+sS'EUROSPI'
+p112
+S'European Conference on Software Process Improvement'
+p113
+sS'EA'
+p114
+S'Evolution Artificielle'
+p115
+sS'EC'
+p116
+S'ACM Conference on Electronic Commerce'
+p117
+sS'EHCI'
+p118
+S'Engineering for Human-Computer Interaction'
+p119
+sS'EGICE'
+p120
+S'Intelligent Computing in Engineering and Architecture'
+p121
+sS'ECHT'
+p122
+S'European Conference on Hypertext'
+p123
+sS'ESERNET'
+p124
+S'Experimental Software Engineering Network'
+p125
+sS'EUROPKI'
+p126
+S'European Public Key Infrastructure Workshop'
+p127
+sS'EJC'
+p128
+S'European-Japanese Conference on Information Modelling and Knowledge Bases'
+p129
+sS'EP'
+p130
+S'Electronic Publishing'
+p131
+sS'EUROSAM'
+p132
+S'Symbolic and Algebraic Computation'
+p133
+sS'ECMDAFA'
+p134
+S'Foundations and Applications'
+p135
+sS'ECAI'
+p136
+S'European Conference on Artificial Intelligence'
+p137
+sS'ELEGI'
+p138
+S'European Learning Grid Infrastructure'
+p139
+sS'ECAL'
+p140
+S'European Conference on Artificial Life'
+p141
+sS'ESAS'
+p142
+S'European Workshop on Security in Ad-hoc and Sensor Networks'
+p143
+sS'EuroSys'
+p144
+S'European Conference on Computer Systems'
+p145
+sS'ESAW'
+p146
+S'Engineering Societies in the Agent World'
+p147
+sS'EISWT'
+p148
+S'Enterprise Information Systems and Web Technologies'
+p149
+sS'ECTEL'
+p150
+S'European Conference on Technology Enhanced Learning'
+p151
+sS'EUSFLAT'
+p152
+S'European Society for Fuzzy Logic and Technology'
+p153
+sS'EXTREME'
+p154
+S'Extreme Markup Languages\xc2\xae'
+p155
+sS'ETS'
+p156
+S'European Test Symposium'
+p157
+sS'EEXTT'
+p158
+S'Efficiency and Effectiveness of XML Tools and Techniques'
+p159
+sS'ECKM'
+p160
+S'European Conference on Knowledge Management'
+p161
+sS'ER(OOER)'
+p162
+S'Object-Oriented and Entity-Relationship Modelling/International Conference on Conceptual Modeling / the Entity Relationship Approach'
+p163
+sS'ETX'
+p164
+S'Eclipse Technology eXchange'
+p165
+sS'ECAI(Workshop)'
+p166
+S'European Conference on Artificial Intelligence'
+p167
+sS'EWSPT'
+p168
+S'European Workshop on Software Process Technology'
+p169
+sS'EWSA'
+p170
+S'European Workshop on Software Architecture'
+p171
+sS'E-smart'
+p172
+S'Research in Smart Cards'
+p173
+sS'EWLR'
+p174
+S'European Workshop on Learning Robots'
+p175
+sS'EWSN'
+p176
+S'European Conference on Wireless Sensor Networks'
+p177
+sS'EUROITV'
+p178
+S'European Conference on Interactive TV'
+p179
+sS'ECSA'
+p180
+S'European Conference on Software Architecture'
+p181
+sS'ECA'
+p182
+S'Ethics in the Computer Age'
+p183
+sS'EuroForth'
+p184
+S'European Forth Conference'
+p185
+sS'ECDL'
+p186
+S'European Conference on Digital Libraries'
+p187
+sS'ECI'
+p188
+S'Conference of the European Cooperation in Informatics'
+p189
+sS'ECSS'
+p190
+S'European Computer Science Summit'
+p191
+sS'ECP'
+p192
+S'European Conference an Planning'
+p193
+sS'Euro-Par'
+p194
+S'European Conference on Parallel Processing'
+p195
+sS'ETFA'
+p196
+S'Emerging Technologies and Factory Automation'
+p197
+sS'EDBT(Workshop)'
+p198
+S'International Conference on Extending Database Technology'
+p199
+sS'EMCIS'
+p200
+S'European and Mediterranean Conference on Information Systems'
+p201
+sS'EDCC'
+p202
+S'European Dependable Computing Conference'
+p203
+sS'EUROIMSA'
+p204
+S'Internet, Multimedia Systems and Applications, EuroIMSA'
+p205
+sS'ETRA'
+p206
+S'Eye Tracking Research & Application'
+p207
+sS'EWDW'
+p208
+S'East/West Database Workshops'
+p209
+sS'EUC'
+p210
+S'Embedded and Ubiquitous Computing'
+p211
+sS'Eurographics'
+p212
+S'Annual Conference of the European Association for Computer Graphics'
+p213
+sS'Eurographicss'
+p214
+S'Annual Conference of the European Association for Computer Graphics'
+p215
+sS'EUROPACS'
+p216
+S'EuroPACS'
+p217
+sS'ESANN'
+p218
+S'The European Symposium on Artificial Neural Networks'
+p219
+sS'ELP'
+p220
+S'Extensions of Logic Programming'
+p221
+sS'ETRICS'
+p222
+S'Emerging Trends in Information and Communication Security'
+p223
+sS'ESSMAC'
+p224
+S'European Summer School on Multi-Agent Control'
+p225
+sS'ECCV'
+p226
+S'European Conference on Computer Vision'
+p227
+sS'EuroCOLT'
+p228
+S'European Conference on Computational Learning Theory'
+p229
+sS'EUROSIM'
+p230
+S'EUROSIM'
+p231
+sS'EMSOFT'
+p232
+S'International Workshop on Embedded Systems'
+p233
+sS'EUROCAL'
+p234
+S'European Conference on Computer Algebra'
+p235
+sS'EDS'
+p236
+S'Expert Database Systems'
+p237
+sS'EACL'
+p238
+S'Conference of the European Chapter of the Association for Computational Linguistics'
+p239
+sS'ECCE'
+p240
+S'European Conference on Cognitive Ergonomics'
+p241
+sS'EPIA'
+p242
+S'Portuguese Conference on Artificial Intelligence'
+p243
+sS'ERLANG'
+p244
+S'Erlang Workshop'
+p245
+sS'EMISA'
+p246
+S'Entwicklungsmethoden f\xc3\xbcr Informationssysteme und deren Anwendung'
+p247
+sS'EDUTAINMENT'
+p248
+S'International Conference on E-learning and Games'
+p249
+sS'EUROWEB'
+p250
+S'EuroWeb'
+p251
+sS'EIT'
+p252
+S'IEEE International Conference on Electro/Information Technology'
+p253
+sS'ECLIPSE'
+p254
+S'oopsla workshop on eclipse technology exchange'
+p255
+sS'ESSIR'
+p256
+S'European Summer School in Information Retrieval'
+p257
+sS'ECOWS'
+p258
+S'European Conference on Web Services'
+p259
+sS'ESSLLI'
+p260
+S'European Summer School in Logic, Language and Information'
+p261
+sS'ECSQARU'
+p262
+S'Symbolic and Quantitative Approaches to Reasoning and Uncertainty'
+p263
+sS'ECMAST'
+p264
+S'European Conference on Multimedia Applications, Services and Techniques'
+p265
+sS'EFIS(EFDBS)'
+p266
+S'Engineering Federated Information (Database) Systems'
+p267
+sS'ECOOP(Workshop)'
+p268
+S'European Conference on Object-Oriented Programming'
+p269
+sS'ELPUB'
+p270
+S'International Conference on Electronic Publishing'
+p271
+sS'ECRTS'
+p272
+S'Euromicro Conference on Real-Time Systems'
+p273
+sS'EUPROJECTS'
+p274
+S'EU Projects'
+p275
+sS'EWIMT'
+p276
+S'European Workshop on the Integration of Knowledge, Semantic and Digital Media Technologies'
+p277
+sS'EUROCAST'
+p278
+S'EUROCAST'
+p279
+sS'ESUG'
+p280
+S'International Smalltalk Conference'
+p281
+sS'Euro-PDS'
+p282
+S'Parallel and Distributed Systems'
+p283
+sS'EmNets'
+p284
+S'Embedded Networked Sensors'
+p285
+sS'ERSA'
+p286
+S'Engineering of Reconfigurable Systems and Algorithms'
+p287
+sS'EUROMICRO'
+p288
+S'EUROMICRO'
+p289
+sS'EWMF'
+p290
+S'European Web Mining Forum'
+p291
+sS'EATIS'
+p292
+S'Euro American Conference on Telematics and Information Systems'
+p293
+sS'EGCDMAS'
+p294
+S'Electronic Government and Commerce: Design, Modeling, Analysis and Security'
+p295
+sS'ESA'
+p296
+S'European Symposium on Algorithms'
+p297
+sS'EDTC'
+p298
+S'European Design and Test Conference'
+p299
+sS'ESM'
+p300
+S'European Simulation Multiconference'
+p301
+sS'ESEM'
+p302
+S'Empirical Software Engineering and Measurement'
+p303
+sS'ECEG'
+p304
+S'European Conference On e-Government'
+p305
+sS'EVOTING'
+p306
+S'Electronic Voting in Europe'
+p307
+sS'EuroGP'
+p308
+S'European Conference on Genetic Programming'
+p309
+sS'ECEH'
+p310
+S'European Conference on eHealth'
+p311
+sS'ECML'
+p312
+S'European Conference on Machine Learning'
+p313
+sS'ESEC'
+p314
+S'European Software Engineering Conference'
+p315
+sS'EURODAC'
+p316
+S'European Design and Test Conference'
+p317
+sS'EBUSINESS'
+p318
+S'E-Business'
+p319
+sS'EASSS'
+p320
+S'European Agent Systems Summer School'
+p321
+sS'ECOOP'
+p322
+S'European Conference on Object-Oriented Programming'
+p323
+s.

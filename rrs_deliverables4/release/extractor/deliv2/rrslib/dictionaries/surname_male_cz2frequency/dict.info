@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="surname_male_cz2frequency"/>
+    <type value="dict"/>
+    <keysize value="60705"/>
+    <valuesize value="604"/>
+    <min-key-length value="2"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

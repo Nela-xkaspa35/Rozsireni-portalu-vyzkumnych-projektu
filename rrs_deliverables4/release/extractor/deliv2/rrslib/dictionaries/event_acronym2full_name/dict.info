@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="event_acronym2full_name"/>
+    <type value="dict"/>
+    <keysize value="2364"/>
+    <valuesize value="2364"/>
+    <min-key-length value="2"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

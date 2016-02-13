@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="woeid2cityaltname"/>
+    <type value="dict"/>
+    <keysize value="18308"/>
+    <valuesize value="47963"/>
+    <min-key-length value="3"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

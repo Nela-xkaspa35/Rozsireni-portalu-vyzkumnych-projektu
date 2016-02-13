@@ -1,0 +1,1726 @@
+(dp1
+S'ISLPED'
+p2
+S'International Symposium on Low Power Electronics and Design'
+p3
+sS'ISDA'
+p4
+S'Intelligent Systems Design and Applications'
+p5
+sS'ISDB'
+p6
+S'Information Systems and Databases'
+p7
+sS'ICTCS'
+p8
+S'Italian Conference on Theoretical Computer Science'
+p9
+sS'IVEVA'
+p10
+S'Intelligent Virtual Environments and Virtual Agents'
+p11
+sS'ICLP'
+p12
+S'International Conference on Logic Programming'
+p13
+sS'ICLS'
+p14
+S'International Conference on Learning Sciences'
+p15
+sS'ISDL'
+p16
+S'International Symposium on Research, Development and Practice in Digital Libraries'
+p17
+sS'IWSEC'
+p18
+S'International Workshop on Security'
+p19
+sS'ISMS'
+p20
+S'International Symposium on Medical Simulation'
+p21
+sS'IWSM'
+p22
+S'International Workshop on Software Measurement'
+p23
+sS'INRIA'
+p24
+S'INRIA'
+p25
+sS'ISMM'
+p26
+S'International Symposium on Memory Management'
+p27
+sS'ISMB'
+p28
+S'International Conference on Intelligent Systems for Molecular Biology'
+p29
+sS'IOT'
+p30
+S'The Internet of Things'
+p31
+sS'IWDOM/OODBS'
+p32
+S'International Workshop on Distributed Object Management/Workshop on Object-Oriented Database Systems'
+p33
+sS'ISWS'
+p34
+S'International Symposium on Web Services and Applications'
+p35
+sS'ICCE'
+p36
+S'International Conference on Computers in Education'
+p37
+sS'ICCD'
+p38
+S'International Conference on Computer Design'
+p39
+sS'ICCG'
+p40
+S'International Conference on Computer Graphics'
+p41
+sS'ISHPC'
+p42
+S'High Performance Computing'
+p43
+sS'ICCM'
+p44
+S'International Conference on Cognitive Modelling'
+p45
+sS'ICCL'
+p46
+S'International Conference on Computer Languages'
+p47
+sS'ICCI'
+p48
+S'International Conference on Computing and Information'
+p49
+sS'ICCV'
+p50
+S'International Conference on Computer Vision'
+p51
+sS'ICCS'
+p52
+S'International Conference on Conceptual Structures'
+p53
+sS'ITRE'
+p54
+S'Information Technology: Research and Education'
+p55
+sS'ICFCA'
+p56
+S'International Conference on Formal Concept Analysis'
+p57
+sS'ISCNZ'
+p58
+S'Information Systems Conference of New Zealand'
+p59
+sS'ISUVR'
+p60
+S'International Symposium on Ubiquitous Virtual Reality'
+p61
+sS'IW-SAPF'
+p62
+S'International Workshop on Software Architectures for Product Families'
+p63
+sS'INFORSID'
+p64
+S'INFORSID'
+p65
+sS'IUI'
+p66
+S'International Conference on Intelligent User Interfaces'
+p67
+sS'ISSTA'
+p68
+S'International Symposium on Software Testing and Analysis'
+p69
+sS'IJCAR'
+p70
+S'International Joint Conference on Automated Reasoning'
+p71
+sS'IFIP PACT'
+p72
+S'Parallel Architectures and Compilation Techniques'
+p73
+sS'ITNG'
+p74
+S'International Conference on Information Technology: New Generations'
+p75
+sS'IWFM'
+p76
+S'Irish Workshop in Formal Methods'
+p77
+sS'IJCAI'
+p78
+S'International Joint Conference on Artificial Intelligence'
+p79
+sS'InterSense'
+p80
+S'Integrated Internet Ad Hoc and Sensor Networks'
+p81
+sS'IFSA'
+p82
+S'International Fuzzy Systems Association World Congress'
+p83
+sS'ICAPS(AIPS)'
+p84
+S'International Conference on Automated Planning and Scheduling/Artificial Intelligence Planning Systems'
+p85
+sS'ICCTA'
+p86
+S'International Conference on Computing: Theory and Applications'
+p87
+sS'ICEISSAM'
+p88
+S'Software Audit and Metrics'
+p89
+sS'IWICPAS'
+p90
+S'International Workshop on Intelligent Computing in Pattern Analysis/Synthesis'
+p91
+sS'ISVD'
+p92
+S'International Symposium on Voronoi Diagrams in Science and Engineering'
+p93
+sS'ISVC'
+p94
+S'International Symposium on Visual Computing'
+p95
+sS'ICITA'
+p96
+S'International Conference in IT & Application'
+p97
+sS'IuK'
+p98
+S'Information and Communication of the Learned Societies in Germany'
+p99
+sS'IHIS'
+p100
+S'Interoperability Of Heterogeneous Information Systems'
+p101
+sS'ICHIT'
+p102
+S'International Conference on Hybrid Information Technology'
+p103
+sS'ISESE'
+p104
+S'International Symposium on Empirical Software'
+p105
+sS'ICHIM'
+p106
+S'International Cultural Heritage Informatics Meeting'
+p107
+sS'ICADL'
+p108
+S'International Conference on Asian Digital Libraries'
+p109
+sS'ISESS'
+p110
+S'International Symposium on Environmental Software Systems'
+p111
+sS'ISBMS'
+p112
+S'International Symposium on Biomedical Simulation'
+p113
+sS'ISSCC'
+p114
+S'International Solid-State Circuits Conference'
+p115
+sS'IITA'
+p116
+S'Intelligent Information Technology Application'
+p117
+sS'ICISP'
+p118
+S'International Conference on Image and Signal Processing'
+p119
+sS'ICISS'
+p120
+S'International Conference on Information Systems Security'
+p121
+sS'IASTEDSEA'
+p122
+S'Software Engineering and Applications'
+p123
+sS'IPSEN'
+p124
+S'IPSEN'
+p125
+sS'ICISC'
+p126
+S'Information Security and Cryptology'
+p127
+sS'ISPDC'
+p128
+S'International Symposium on Parallel and Distributed Computing'
+p129
+sS'ISCIS'
+p130
+S'International Symposium on Computer and Information Sciences'
+p131
+sS'ICGI'
+p132
+S'International Colloquium on Grammatical Inference'
+p133
+sS'ICCAD'
+p134
+S'International Conference on Computer-Aided Design'
+p135
+sS'IDMS'
+p136
+S'Interactive Distributed Multimedia Systems and Telecommunication Services'
+p137
+sS'ICGA'
+p138
+S'International Conference on Genetic Algorithms'
+p139
+sS'ICCAL'
+p140
+S'International Conference on Computers and Learning'
+p141
+sS'ICSEA'
+p142
+S'International Conference on Software Engineering Advances'
+p143
+sS'Infoscale'
+p144
+S'Scalable Information Systems'
+p145
+sS'IWIC'
+p146
+S'International Workshop on Intercultural Collaboration'
+p147
+sS'ICCNMC'
+p148
+S'International Conference on Computer Network and Mobile Computing'
+p149
+sS'ICQNM'
+p150
+S'International Conference on Quantum, Nano, and Micro Technologies'
+p151
+sS'ITCC'
+p152
+S'International Symposium on Information Technology'
+p153
+sS'ISBRA'
+p154
+S'Bioinformatics Research and Applications'
+p155
+sS'ICIAR'
+p156
+S'International Conference on Image Analysis and Recognition'
+p157
+sS'ICIAP'
+p158
+S'International Conference on Image Analysis and Processing'
+p159
+sS'ITCS'
+p160
+S'Information Technology and Computer Science'
+p161
+sS'IWRIDL'
+p162
+S'International Workshop On Research Issues in Digital Libraries'
+p163
+sS'ISIPTA'
+p164
+S'International Symposium on Imprecise Probabilities and Their Applications'
+p165
+sS'ISSA'
+p166
+S'Information Security for South Africa'
+p167
+sS'IWANN'
+p168
+S'International Work-Conference on Artificial and NaturalNeural Networks'
+p169
+sS'IMSCCS'
+p170
+S'International Multi-Symposium of Computer and Computational Sciences'
+p171
+sS'IEEECGIV'
+p172
+S'Computer Graphics, Imaging and Vision'
+p173
+sS'INCOB'
+p174
+S'International Conference on Bioinformatics'
+p175
+sS'ISICT'
+p176
+S'International Symposium on Information and Communication Technologies'
+p177
+sS'ICIC'
+p178
+S'International Conference on Intelligent Computing'
+p179
+sS'IWPT'
+p180
+S'International Workshop on Parsing Technologies'
+p181
+sS'ICIW'
+p182
+S'International Conference on Internet and Web Applications and Services'
+p183
+sS'ICIT'
+p184
+S'International Conference on Information Technology'
+p185
+sS'ISICA'
+p186
+S'International Symposium on Intelligence Computation and Applications'
+p187
+sS'ICIP'
+p188
+S'International Conference on Image Processing'
+p189
+sS'ICECCS'
+p190
+S'International Conference on Engineering of Complex Computer Systems'
+p191
+sS'ICETE'
+p192
+S'Int. Conf. on E-Business and Telecommunication Networks'
+p193
+sS'IWPC'
+p194
+S'International Workshop on Program Comprehension'
+p195
+sS'ISAS'
+p196
+S'International Service Availability Symposium'
+p197
+sS'ICETC'
+p198
+S'International Conference on Education Technology and Computer'
+p199
+sS'ICINCO'
+p200
+S'International Conference on Informatics in Control, Automation and Robotics'
+p201
+sS'ICSOFT'
+p202
+S'International Conference on Software and Data Technologies'
+p203
+sS'IFIP WG8.2'
+p204
+S'IFIP WG8.2 Publications'
+p205
+sS'IFIP WG8.3'
+p206
+S'IFIP WG8.3 Publications'
+p207
+sS'ICDAR'
+p208
+S'International Conference on Document Analysis and Recognition'
+p209
+sS'ICCBSS'
+p210
+S'International Conference on COTS-Based Software Systems'
+p211
+sS'ISPAN'
+p212
+S'International Symposium on Parallel Architectures, Algorithms and Networks'
+p213
+sS'IBERAMIA'
+p214
+S'Ibero-American Conference on AI'
+p215
+sS'IPMI'
+p216
+S'Information Processing in Medical Imaging'
+p217
+sS'ICEBE'
+p218
+S'IEEE International Conference on e-Business Engineering'
+p219
+sS'ISAS-SCI'
+p220
+S'Multi-Conference on Systemics, Cybernetics and Informatics'
+p221
+sS'ICDE'
+p222
+S'International Conference on Data Engineering'
+p223
+sS'ICDCIT'
+p224
+S'Distributed Computing and Internet Technology'
+p225
+sS'ICDM'
+p226
+S'Industrial Conference on Data Mining'
+p227
+sS'ICHL'
+p228
+S'International Conference on Hybrid Learning and Education'
+p229
+sS'ICDS'
+p230
+S'International Conference on the Digital Society'
+p231
+sS'ICDT'
+p232
+S'International Conference on Database Theory'
+p233
+sS'IJIT'
+p234
+S'Conferences'
+p235
+sS'IIH-MSP'
+p236
+S'Intelligent Information Hiding and Multimedia Signal Processing'
+p237
+sS'ICAART'
+p238
+S'International Conference on Agents and Artificial Intelligence'
+p239
+sS'ICRA'
+p240
+S'International Conference on Robotics and Automation'
+p241
+sS'ICSNW'
+p242
+S'International Conference on Semantics of a Networked World'
+p243
+sS'IADT'
+p244
+S'Issues and Applications of Database Technology'
+p245
+sS'ICSNC'
+p246
+S'International Conference on Systems and Networks Communications'
+p247
+sS'IPC'
+p248
+S'Intelligent Pervasive Computing'
+p249
+sS'IWSSD'
+p250
+S'International Workshop on Software Specifications & Design'
+p251
+sS'ICCC'
+p252
+S'International Conference on Computer Communication'
+p253
+sS'IWOMP'
+p254
+S'International Workshop on OpenMP'
+p255
+sS'ISMIS'
+p256
+S'International Syposium on Methodologies for Intelligent Systems'
+p257
+sS'ISMIR'
+p258
+S'International Symposium/Conference on Music Information Retrieval'
+p259
+sS'IWACA'
+p260
+S'International Workshop on Advanced Teleservices and High-Speed Communication Architectures'
+p261
+sS'IEEEMSP'
+p262
+S'IEEE Workshop on Multimedia Signal Processing'
+p263
+sS'IS/KI'
+p264
+S'Workshop on Information Systems and Artificial Intelligence'
+p265
+sS'ICONS'
+p266
+S'International Conference on Systems'
+p267
+sS'ISNN'
+p268
+S'International Symposium on Neural Networks'
+p269
+sS'ICDM2'
+p270
+S'Industrial Conference on Data Mining'
+p271
+sS'IWUC'
+p272
+S'International Workshop on Ubiquitous Computing'
+p273
+sS'IFL'
+p274
+S'Implementation of Functional Languages'
+p275
+sS'IFM'
+p276
+S'Integrated Formal Methods'
+p277
+sS'ISQED'
+p278
+S'International Symposium on Quality Electronic Design'
+p279
+sS'ISCOPE'
+p280
+S'International Symposium on Computing in Object-Oriented Parallel Environments'
+p281
+sS'IIIX'
+p282
+S'Information Interaction in Context'
+p283
+sS'ISWC'
+p284
+S'International Symposium on Wearable Computers'
+p285
+sS'IEEESCC'
+p286
+S'IEEE International Conference on Services Computing'
+p287
+sS'ICANNGA'
+p288
+S'International Conference on Adaptive and Natural Computing Algorithms'
+p289
+sS'I3D'
+p290
+S'ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games'
+p291
+sS'ISER'
+p292
+S'International Symposium on Experimental Robotics'
+p293
+sS'ICMI'
+p294
+S'Int. Conf. on Multimodal Interfaces'
+p295
+sS'IMSA'
+p296
+S'Internet, Multimedia Systems and Applications'
+p297
+sS'ICML'
+p298
+S'International Conference on Machine Learning'
+p299
+sS'ICMB'
+p300
+S'Medical Biometrics'
+p301
+sS'IHM'
+p302
+S'Interaction Homme-Machine'
+p303
+sS'ICME'
+p304
+S'IEEE International Conference on Multimedia and Expo'
+p305
+sS'ISEC'
+p306
+S'International Symposium on Electronic Commerce'
+p307
+sS'ITEE'
+p308
+S'Information Technologies in Environmental Engineering'
+p309
+sS'ICMS'
+p310
+S'International Congress on Mathematical Software'
+p311
+sS'IV'
+p312
+S'International Conference on Information Visualisation'
+p313
+sS'ICMT'
+p314
+S'International Conference on Model Transformation'
+p315
+sS'ICFIE'
+p316
+S'International Conference of Fuzzy Information and Engineering'
+p317
+sS'IIWAS'
+p318
+S'International Conference on Information Integration and Web-based Applications & Services (IIWAS)'
+p319
+sS'ICANN'
+p320
+S'Int. Conference on Artificial Neural Networks'
+p321
+sS'ICIS'
+p322
+S'International Conference on Information Systems'
+p323
+sS'IEEEARES'
+p324
+S'Availability, Reliability and Security'
+p325
+sS'ICOST'
+p326
+S'International Conference on Smart Homes and Health Telematics'
+p327
+sS'ISW'
+p328
+S'International Symposium on Wikis'
+p329
+sS'IFIP'
+p330
+S'World Computer Congress'
+p331
+sS'ISPEC'
+p332
+S'Information Security Practice and Experience'
+p333
+sS'ISM'
+p334
+S'International Symposium on Multimedia'
+p335
+sS'ISA'
+p336
+S'International Symposium on Algorithms'
+p337
+sS'IC'
+p338
+S'International Conference on Internet Computing'
+p339
+sS'ICICIC'
+p340
+S'International Conference on Innovative Computing, Information and Control'
+p341
+sS'ISD'
+p342
+S'Integrated Spatial Databases'
+p343
+sS'ISSS'
+p344
+S'International Symposium on Systems Synthesis'
+p345
+sS'IASTEDCI'
+p346
+S'Computational Intelligence'
+p347
+sS'IE'
+p348
+S'Australasian Conference on Interactive Entertainment'
+p349
+sS'IWCMC'
+p350
+S'International Conference on Wireless Communications and Mobile Computing'
+p351
+sS'ICME(ICMCS)'
+p352
+S'International Conference on Multimedia Computing and Systems/International Conference on Multimedia and Expo'
+p353
+sS'ICUIMC'
+p354
+S'International Conference on Ubiquitous Information Management and Communication'
+p355
+sS'IMC'
+p356
+S'Internet Measurement Conference'
+p357
+sS'IMF'
+p358
+S'IT-Incidents Management & IT-Forensics'
+p359
+sS'IASSE'
+p360
+S'International Conference on Intelligent and Adaptive Systems and Software Engineering'
+p361
+sS'ICVS'
+p362
+S'International Conference on Computer Vision Systems'
+p363
+sS'IMR'
+p364
+S'International Meshing Roundtable'
+p365
+sS'ISPD'
+p366
+S'International Symposium on Physical Design'
+p367
+sS'ISPE'
+p368
+S'ISPE Conference on Concurrent Engineering'
+p369
+sS'ISPA'
+p370
+S'International Symposium on Parallel and Distributed Processing and Applications'
+p371
+sS'IJCBS'
+p372
+S'International Joint Conferences on Bioinformatics, Systems Biology and Intelligent Computing'
+p373
+sS'ICCIT'
+p374
+S'International Conference on Computer and Information Technology'
+p375
+sS'IDC(W)'
+p376
+S'International Database Conference (Workshop)'
+p377
+sS'ITC'
+p378
+S'International Test Conference'
+p379
+sS'itve'
+p380
+S'information technology for virtual enterprises'
+p381
+sS'ICWMC'
+p382
+S'International Conference on Wireless and Mobile Communications'
+p383
+sS'INFOS'
+p384
+S'Informatik & Schule'
+p385
+sS'ITS'
+p386
+S'International Conference on Intelligent Tutoring Systems'
+p387
+sS'IVME'
+p388
+S'interpreters, virtual machines and emulators'
+p389
+sS'IGIS'
+p390
+S'International Workshop on Advanced Research in Geographic Information Systems'
+p391
+sS'ISOTAS'
+p392
+S'International Symposium on Object Technologies for Advanced Software'
+p393
+sS'ICITS'
+p394
+S'International Conference on Information Theoretic Security'
+p395
+sS'ICESS'
+p396
+S'International Conference on Embedded Software and Systems'
+p397
+sS'ICDIM'
+p398
+S'International Conference on Digital Information Management'
+p399
+sS'IJCNLP'
+p400
+S'International Joint Conference on Natural Language Processing'
+p401
+sS'ISAAC'
+p402
+S'International Symposium on Algorithms and Computation'
+p403
+sS'INTERACT'
+p404
+S'IFIP Conference on Human-Computer Interaction'
+p405
+sS'IRMA'
+p406
+S'IRMA Conference'
+p407
+sS'ISKO'
+p408
+S'International Society for Knowledge Organization'
+p409
+sS'ICITNS'
+p410
+S'International Conference on Information Technology (and Natural Sciences)'
+p411
+sS'ICAIL'
+p412
+S'International Conference on Artificial Intelligence and Law'
+p413
+sS'ICPIA'
+p414
+S'International Conference on Parallel Image Analysis'
+p415
+sS'ISCSLP'
+p416
+S'Chinese Spoken Language Processing'
+p417
+sS'ICAT'
+p418
+S'International Conference on Artificial Reality and Telexistence'
+p419
+sS'ICAS'
+p420
+S'International Conference on Autonomic and Autonomous Systems'
+p421
+sS'ICAD'
+p422
+S'International Conference on Auditory Display'
+p423
+sS'ICAC'
+p424
+S'International Conference on Autonomic Computing'
+p425
+sS'IPCC'
+p426
+S'International Professional Communication Conference'
+p427
+sS'ILPS/ISLP/NACLP/SLP'
+p428
+S'International Logic Programming Symposium/International Symposium on Logic Programming/North American Conference on Logic Programming/Symposium on Logic Programming'
+p429
+sS'IPCO'
+p430
+S'Integer Programming and Combinatorial Optimization'
+p431
+sS'IPDPS(IPPS)'
+p432
+S'International Parallel and Distributed Processing Symposium/International Parallel Processing Symposium'
+p433
+sS'ICTAI'
+p434
+S'International Conference on Tools with Artificial Intelligence'
+p435
+sS'IPCV'
+p436
+S'International Conference on Image Processing, Computer Vision, & Pattern Recognition'
+p437
+sS'ICIRA'
+p438
+S'International Conference on Intelligent Robotics and Applications'
+p439
+sS'iStar'
+p440
+S'International i* Workshop'
+p441
+sS'ICTAC'
+p442
+S'International Colloquium on Theoretical Aspects of Computing'
+p443
+sS'IUC'
+p444
+S'International Unicode Conference'
+p445
+sS'IFIP TCS'
+p446
+S'IFIP International Conference on Theoretical Computer Science'
+p447
+sS'ICST'
+p448
+S'International Conference on Software Testing, Verification, and Validation'
+p449
+sS'ICSP'
+p450
+S'International Software Process Workshop'
+p451
+sS'ICSR'
+p452
+S'International Conference on Software Reuse'
+p453
+sS'IICS'
+p454
+S'Innovative Internet Computing Systems'
+p455
+sS'IWINAC'
+p456
+S'International Work-Conference on the Interplay Between Natural and Artificial Computation'
+p457
+sS'IVIC'
+p458
+S'International Visual Informatics Conference'
+p459
+sS'ICSE'
+p460
+S'International Conference on Software Engineering'
+p461
+sS'ICSC'
+p462
+S'International Computer Science Conference'
+p463
+sS'ICSM'
+p464
+S'International Conference on Software Maintenance'
+p465
+sS'ICCI(ieee)'
+p466
+S'International Conference on Cognitive Informatics'
+p467
+sS'ICSI'
+p468
+S'International Conference on Systems Integration'
+p469
+sS'ISPASS'
+p470
+S'International Symposium on Performance Analysis of Systems and Software'
+p471
+sS'IWDC'
+p472
+S'International Workshop on Distributed Computing'
+p473
+sS'IWDM'
+p474
+S'International Workshop on Database Machines'
+p475
+sS'IPDPS'
+p476
+S'IEEE International Parallel and Distributed Processing Symposium'
+p477
+sS'IWDH'
+p478
+S'International Workshop on Hypermedia Design'
+p479
+sS'IASTEDWTAS'
+p480
+S'Web Technologies, Applications, and Services'
+p481
+sS'IWCIA'
+p482
+S'International Workshop on Combinatorial Image Analysis'
+p483
+sS'IWDW'
+p484
+S'International Workshop on Digital Watermarking'
+p485
+sS'IRAL'
+p486
+S'International Workshop on Information Retrieval with Asia Languages'
+p487
+sS'IESS'
+p488
+S'International Embedded Systems Symposium'
+p489
+sS'ISC(ISW)'
+p490
+S'Information Security Conference/Information Security Workshop'
+p491
+sS'IAT'
+p492
+S'International Agent Technology Conference'
+p493
+sS'IAW'
+p494
+S'IEEE Information Assurance Workshop'
+p495
+sS'IAS'
+p496
+S'Information Assurance and Security'
+p497
+sS'ISOLA'
+p498
+S'Leveraging Applications of Formal Methods'
+p499
+sS'IMYCS'
+p500
+S'International Meeting of Young Computer Scientists'
+p501
+sS'IW-MMDBBS'
+p502
+S'Int. Workshop on Multi-Media Data Base Management Systems'
+p503
+sS'IASTEDCSN'
+p504
+S'IASTED International Conference on Communication Systems and Networks'
+p505
+sS'ISMAR'
+p506
+S'International Symposium on Mixed and Augmented Reality'
+p507
+sS'INTELLCOMM'
+p508
+S'IFIP International Conference on Intelligence in Communication Systems'
+p509
+sS'IWCC'
+p510
+S'International Workshop on Cluster Computing'
+p511
+sS'ICAPR'
+p512
+S'Advances in Pattern Recognition'
+p513
+sS'ICAPS'
+p514
+S'International Conference on Automated Planning and Scheduling'
+p515
+sS'IHC'
+p516
+S'Brazilian Symposium on Human Factors in Computing Systems'
+p517
+sS'IWCM'
+p518
+S'International Workshop on Complex Motion'
+p519
+sS'ICNS'
+p520
+S'International Conference on Networking and Services'
+p521
+sS'ICNP'
+p522
+S'International Conference on Network Protocols'
+p523
+sS'ICVGIP'
+p524
+S'Indian Conference on Computer Vision, Graphics & Image Processing'
+p525
+sS'ICNC'
+p526
+S'International Conference on Natural Computation'
+p527
+sS'ISCAPDCS'
+p528
+S'ISCA International Conference on Parallel and Distributed Computing Systems'
+p529
+sS'ISTCS'
+p530
+S'Israel Symposium on Theory of Computing Systems'
+p531
+sS'ISSAC'
+p532
+S'International Symposium on Symbolic and Algebraic Computation'
+p533
+sS'ISOOMS'
+p534
+S'International Symposium on Object-Oriented Methodologies and Systems'
+p535
+sS'IWBRS'
+p536
+S'Biometric Recognition Systems'
+p537
+sS'IAWTIC'
+p538
+S'International Conference on Intelligent Agents, Web Technologiesand Internet Commerce'
+p539
+sS'ICEC'
+p540
+S'International Workshop on Entertainment Computing'
+p541
+sS'ICEB'
+p542
+S'International Conference on Electronic Business'
+p543
+sS'IASTED'
+p544
+S'IASTED Conferences'
+p545
+sS'ICES'
+p546
+S'International Conference on Evolvable Systems'
+p547
+sS'ICER'
+p548
+S'International Computing Education Research Workshop'
+p549
+sS'ISMVL'
+p550
+S'IEEE International Symposium on Multiple-Valued Logic'
+p551
+sS'IWIPS'
+p552
+S'International Workshop on Internationalization of Products and System'
+p553
+sS'IROS'
+p554
+S'International Conference on Intelligent RObots and Systems'
+p555
+sS'ICWS'
+p556
+S'International Conference on Web Services'
+p557
+sS'IDEAS'
+p558
+S'International Database Engineering and Application Symposium'
+p559
+sS'IRCDL'
+p560
+S'Italian Research Conference on Digital Library Management Systems'
+p561
+sS'IDEAL'
+p562
+S'Intelligent Data Engineering and Automated Learning'
+p563
+sS'ISORC'
+p564
+S'Object-Oriented Real-Time Distributed Computing'
+p565
+sS'ICWL'
+p566
+S'International Conference on Web-Based Learning'
+p567
+sS'ILP'
+p568
+S'International Workshop on Inductive Logic Programming'
+p569
+sS'ICWN'
+p570
+S'International Conference on Wireless Networks'
+p571
+sS'IOLTS'
+p572
+S'International On-Line Testing Symposium'
+p573
+sS'ICWE'
+p574
+S'International Conference on Web Engineering'
+p575
+sS'ISECS'
+p576
+S'International Symposium on Electronic Commerce and Security'
+p577
+sS'ICCHP'
+p578
+S'International Conference on Computers for Handicapped Persons'
+p579
+sS'INEX'
+p580
+S'INitiative for the Evaluation of XML Retrieval'
+p581
+sS'ISMDA'
+p582
+S'International Symposium on Medical Data Analysis'
+p583
+sS'IKE'
+p584
+S'Information and Knowledge Engineering'
+p585
+sS'INET'
+p586
+S'Internet Society Conference'
+p587
+sS'ICIDS'
+p588
+S'Interactive Digital Storytelling'
+p589
+sS'IADIS'
+p590
+S'International Association for Development of the Information Society'
+p591
+sS'IWVF'
+p592
+S'International Workshop on Visual Form'
+p593
+sS'ICDCS(Workshop)'
+p594
+S'International Conference on Distributed Computing Systems'
+p595
+sS'IWAN'
+p596
+S'Active Networks'
+p597
+sS'ICOIN'
+p598
+S'International Conference on Information Networking'
+p599
+sS'Inscrypt'
+p600
+S'Conference on Information Security and Cryptology'
+p601
+sS'ICPP(Workshop)'
+p602
+S'International Conference on Parallel Processing'
+p603
+sS'ICYCS'
+p604
+S'International Conference for Young Computer Scientists'
+p605
+sS'IWPEC'
+p606
+S'International Workshop on Parameterized and Exact Computation'
+p607
+sS'IICIS'
+p608
+S'Integrity and Internal Control in Information Systems (IFIP TC11)'
+p609
+sS'ICBA'
+p610
+S'International Conference on Biometric Authentication'
+p611
+sS'IEEE'
+p612
+S'International Workshop on Information Assurance'
+p613
+sS'ICONIP'
+p614
+S'International Conference on Neural Information Processing'
+p615
+sS'INTEROP'
+p616
+S'Interoperating Geographic Information Systems'
+p617
+sS'ICSOC'
+p618
+S'International Conference on Service Oriented Computing'
+p619
+sS'I3'
+p620
+S'Identity, Identifiers, Identification'
+p621
+sS'IWNAS'
+p622
+S'Networking, Architecture and Storages'
+p623
+sS'ITHET'
+p624
+S'Information Technology Based Higher Education and Training'
+p625
+sS'IS&N'
+p626
+S'Intelligence and Services in Networks'
+p627
+sS'ISSEP'
+p628
+S'International Conference on Informatics in Secondary Schools'
+p629
+sS'IRTAW'
+p630
+S'International Workshop on Real-time Ada Issues'
+p631
+sS'IQ'
+p632
+S'MIT Conference on Information Quality'
+p633
+sS'IMTCI'
+p634
+S'Intelligent Media Technology for Communicative Intelligence'
+p635
+sS'IRI'
+p636
+S'Information Reuse and Integration'
+p637
+sS'IM'
+p638
+S'IFIP/IEEE International Symposium on Integrated Network Management'
+p639
+sS'IO'
+p640
+S'Information Outlook (link)'
+p641
+sS'ICMCTA'
+p642
+S'International Castle Meeting on Coding Theory and Applications'
+p643
+sS'ICARCV'
+p644
+S'International Conference on Control, Automation, Robotics and Vision'
+p645
+sS'INLG'
+p646
+S'International Conference on Natural Language Generation'
+p647
+sS'ICPW'
+p648
+S'International Conference on Pragmatic Web'
+p649
+sS'ICPP'
+p650
+S'International Conference on Parallel Processing'
+p651
+sS'ICPR'
+p652
+S'International Conference on Pattern Recognition'
+p653
+sS'ICPS'
+p654
+S'International Conference on Pervasive Services'
+p655
+sS'INFOVIS'
+p656
+S'IEEE Symposium on Information Visualization'
+p657
+sS'ICCCI'
+p658
+S'International Conference on Computational Collective Intelligence'
+p659
+sS'ICCCN'
+p660
+S'International Conference on Computer Communications and Networks'
+p661
+sS'IFIP11-5'
+p662
+S'IFIP WG11.5 Publications'
+p663
+sS'IFIP11-9'
+p664
+S'Digital Forensics'
+p665
+sS'INDOCRYPT'
+p666
+S'INDOCRYPT'
+p667
+sS'IJCNN'
+p668
+S'IJCNN'
+p669
+sS'IWCF'
+p670
+S'International Workshop on Computational Forensics'
+p671
+sS'ICEIS'
+p672
+S'International Conference on Enterprise Information Systems'
+p673
+sS'ISIWI'
+p674
+S'Internationales Symposium f\xc3\xbcr Informationswissenschaft'
+p675
+sS'IEEECIT'
+p676
+S'Conference on Computer and Information Technology'
+p677
+sS'INAP'
+p678
+S'International Conference on Applications of Prolog'
+p679
+sS'IWLS'
+p680
+S'International Workshop on Logic & Synthesis'
+p681
+sS'INFOCOM'
+p682
+S'IEEE INFOCOM'
+p683
+sS'ISCA'
+p684
+S'International Symposium on Computer Architecture'
+p685
+sS'ISCC'
+p686
+S'International Symposium on Computers and Communications'
+p687
+sS'IFIP WG7.2'
+p688
+S'IFIP WG7.2 Publications'
+p689
+sS'ISCN'
+p690
+S'International Symposium on Computer Networks'
+p691
+sS'ICSCCD'
+p692
+S'International Computing Sciences Conferences'
+p693
+sS'ICDCS'
+p694
+S'International Conference on Distributed Computing Systems'
+p695
+sS'ICAISC'
+p696
+S'ICAISC'
+p697
+sS'IWRT'
+p698
+S'International Workshop on RFID Technology'
+p699
+sS'IRP2PN'
+p700
+S'Information Retrieval In Peer-To-Peer Networks'
+p701
+sS'IVCNZ'
+p702
+S'Image and Vision Computing New Zealand'
+p703
+sS'IPTPS'
+p704
+S'International Workshop on Peer-To-Peer Systems'
+p705
+sS'ICDCN'
+p706
+S'International Conference of Distributed Computing and Networking'
+p707
+sS'IPOM'
+p708
+S'IP Operations and Management'
+p709
+sS'ICICS'
+p710
+S'International Conference on Information and Communication Security'
+p711
+sS'IC-AI'
+p712
+S'International Conference on Artificial Intelligence'
+p713
+sS'ISCAS'
+p714
+S'IEEE International Symposium on Circuits and Systems'
+p715
+sS'IWSOS'
+p716
+S'International Workshop on Self-Organizing Systems'
+p717
+sS'IPCCC'
+p718
+S'International Performance, Computing, and Communications Conference'
+p719
+sS'IndoCrypt'
+p720
+S'International Conference on Cryptology in India'
+p721
+sS'ISRR'
+p722
+S'International Symposium of Robotics Research'
+p723
+sS'IWSOC'
+p724
+S'International Workshop System-on-Chip for Real-Time Applications'
+p725
+sS'ISSADS'
+p726
+S'International School and Symposium on Advanced Distributed Systems'
+p727
+sS'Intelligent Systems in Molecular Biology\n'
+p728
+S'Intelligent Systems in Molecular Biology'
+p729
+sS'ICFP'
+p730
+S'International Conference on Functional Programming'
+p731
+sS'InfoVis'
+p732
+S'IEEE Information Visualization Conference'
+p733
+sS'IRREGULAR'
+p734
+S'Workshop on Parallel Algorithms for Irregularly Structured Problems'
+p735
+sS'ICTA'
+p736
+S'Information and Communication Technologies and Accessibility'
+p737
+sS'ICTE'
+p738
+S'Information and Communication Technologies in Education'
+p739
+sS'ICTL'
+p740
+S'International Conference on Temporal Logic'
+p741
+sS'ICEGOV'
+p742
+S'International Conference on Theory and Practice of Electronic Governance'
+p743
+sS'ICCPOL'
+p744
+S'International Conference on the Computer Processing of Oriental Languages'
+p745
+sS'IAAI'
+p746
+S'Innovative Applications of Artificial Intelligence'
+p747
+sS'ICFPC'
+p748
+S'Formalization of Programming Concepts'
+p749
+sS'ICUCT'
+p750
+S'Ubiquitous Convergence Technology'
+p751
+sS'INTETAIN'
+p752
+S'Intelligent Technologies for Interactive Entertainment'
+p753
+sS'ICSTM'
+p754
+S'International Conference on Systems Thinking in Management'
+p755
+sS'ICPADS'
+p756
+S'International Conference on Parallel and Distributed Systems'
+p757
+sS'IF&GIS'
+p758
+S'Information Fusion and Geographical Information Systems'
+p759
+sS'IDS'
+p760
+S'Interfaces to Database Systems'
+p761
+sS'ICALP'
+p762
+S'International Colloquium on Automata, Languages and Programming'
+p763
+sS'ICS'
+p764
+S'International Conference on Supercomputing'
+p765
+sS'ICALT'
+p766
+S'International Conference on Advanced Learning Technologies'
+p767
+sS'IDC'
+p768
+S'Interaction Design and Children'
+p769
+sS'IDA'
+p770
+S'Intelligent Data Analysis'
+p771
+sS'ISIP'
+p772
+S'International Symposium on Information Processing'
+p773
+sS'IBM'
+p774
+S'IBM Germany Scientific Symposium Series'
+p775
+sS'IISWC'
+p776
+S'IEEE International Symposium on Workload Characterization'
+p777
+sS'ISIM'
+p778
+S'International Conference on Information System Implementation and Modeling'
+p779
+sS'IWQoS'
+p780
+S'International Workshop on Quality of Service'
+p781
+sS'ICMLA'
+p782
+S'International Conference on Machine Learning and Applications'
+p783
+sS'ICMLC'
+p784
+S'Machine Learning and Cybernetics'
+p785
+sS'IMECS'
+p786
+S'International MultiConference of Engineers and Computer Scientists'
+p787
+sS'ICOD'
+p788
+S'International Conference on Databases'
+p789
+sS'ICON'
+p790
+S'IEEE International Conference on Networks'
+p791
+sS'IWPSE'
+p792
+S'International Workshop on Principles of Software Evolution'
+p793
+sS'IPAW'
+p794
+S'International Provenance and Annotation Workshop'
+p795
+sS'IOPADS'
+p796
+S'I/O in Parallel and Distributed Systems'
+p797
+sS'ITiCSE'
+p798
+S'Annual Joint Conference Integrating Technology into Computer Science Education'
+p799
+sS'ISADS'
+p800
+S'International Symposium on Autonomous Decentralized Systems'
+p801
+sS'ICNSC'
+p802
+S'International Conference on Networking, Sensing and Control'
+p803
+sS'IICAI'
+p804
+S'Indian International Conference on Artificial Intelligence'
+p805
+sS'IDtrust'
+p806
+S'Identity and Trust on the Internet'
+p807
+sS'ISSRE'
+p808
+S'International Symposium on Software Reliability Engineering'
+p809
+sS'ICQT'
+p810
+S'Internet Charging and QoS Technologies'
+p811
+sS'IPSN'
+p812
+S'ACM/IEEE International Conference on Information Processing in Sensor Networks'
+p813
+sS'ICARIS'
+p814
+S'International Conference on Artificial Immune Systems'
+p815
+sS'IASTEDCCS'
+p816
+S'Circuits, Signals, and Systems'
+p817
+sS'ICLP(JICSLP)'
+p818
+S'International Conference on Logic Programming/Joint International Conference and Symposium on Logic Programming'
+p819
+sS'ICA3PP'
+p820
+S'International Conference on Algorithms and Architectures for Parallel Processing'
+p821
+sS'ICASSP'
+p822
+S'International Conference on Acoustics, Speech, and Signal Processing'
+p823
+sS'ICMAS'
+p824
+S'International Conference on Multiagent Systems'
+p825
+sS'ICCBR'
+p826
+S'Case-Based Reasoning and Development'
+p827
+sS'ICN'
+p828
+S'International Conference on Networking'
+p829
+sS'ICL'
+p830
+S'International Conference on Interactive Computer Aided Learning'
+p831
+sS'ICC'
+p832
+S'IEEE International Conference on Communications'
+p833
+sS'ICB'
+p834
+S'International Conference on Biometrics'
+p835
+sS'ICA'
+p836
+S'Independent Component Analysis'
+p837
+sS'IATA'
+p838
+S'Intelligent Agents for Telecommunication Applications'
+p839
+sS'ICE'
+p840
+S'International Conference on Information and Computation Economies'
+p841
+sS'IASTEDSE'
+p842
+S'Software Engineering'
+p843
+sS'IMA Conference on the Mathematics of Surfaces\n'
+p844
+S'IMA Conference on the Mathematics of Surfaces'
+p845
+sS'InfoSecCD'
+p846
+S'information security curriculum development'
+p847
+sS'ICW'
+p848
+S'Systems Communications (ICW, ICHSN, ICMCS, SENET)'
+p849
+sS'ICT'
+p850
+S'International Conference on Telecommunications'
+p851
+sS'IWAI'
+p852
+S'International Workshop on Affective Interactions'
+p853
+sS'ICMENS'
+p854
+S'International Conference on MEMS, NANO, and Smart Systems'
+p855
+sS'IWAC'
+p856
+S'Methods, Tools and Practices'
+p857
+sS'IEA/AIE'
+p858
+S'Industrial and Engineering Applications of Artificial Intelligence and Expert Systems'
+p859
+sS'IWAR'
+p860
+S'International Workshop on Automated Reasoning'
+p861
+sS'ICECS'
+p862
+S'International Conference on Environmental and Computer Science'
+p863
+s.

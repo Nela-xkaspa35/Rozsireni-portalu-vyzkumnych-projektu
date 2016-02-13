@@ -1,0 +1,22 @@
+(dp1
+S'Jamaica'
+p2
+(lp3
+S'North America'
+p4
+asS'Jordan'
+p5
+(lp6
+S'Asia'
+p7
+asS'Jersey'
+p8
+(lp9
+S'Europe'
+p10
+asS'Japan'
+p11
+(lp12
+S'Asia'
+p13
+as.

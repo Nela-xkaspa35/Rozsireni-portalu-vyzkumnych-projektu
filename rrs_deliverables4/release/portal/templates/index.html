@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>European Research Projects Portal</title>
+
+    <!-- Bootstrap -->
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}" >
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+        <div class="row" id="logo">
+                <a href=".">
+                    <div class="col-lg-4"></div>
+                    <div class="col-lg-1" >
+                        <img alt="logo" src="static/img/logo.jpg">
+                    </div>
+                    <div class="col-lg-3">
+                        <h2>European Research <br>Projects Portal</h2>
+                    </div>
+                    <div class="col-lg-4"></div>
+                </a>
+        </div>
+    </header>
+    <div class="row" id="main-tab">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-6">
+        <form action="/find" method="GET" class="input-group">
+          <input name="keyword" type="text" class="form-control" placeholder="Search for...">
+          <span class="input-group-btn">
+            <button class="btn btn-default" type="submit">Search</button>
+          </span>
+        </form>
+      </div>
+      <div class="col-lg-3"></div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" >
+    
+  </body>
+</html>

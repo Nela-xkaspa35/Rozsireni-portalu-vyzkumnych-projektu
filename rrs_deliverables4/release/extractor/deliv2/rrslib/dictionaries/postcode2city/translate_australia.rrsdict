@@ -1,0 +1,3873 @@
+(dp1
+S'0835'
+p2
+(lp3
+S'Coolalinga'
+p4
+aS'Northern Territory'
+p5
+asS'6721'
+p6
+(lp7
+S'Port Hedland'
+p8
+aS'Western Australia'
+p9
+asS'0836'
+p10
+(lp11
+S'Humpty Doo'
+p12
+aS'Northern Territory'
+p13
+asS'0830'
+p14
+(lp15
+S'Archer'
+p16
+aS'Northern Territory'
+p17
+asS'4020'
+p18
+(lp19
+S'Redcliffe'
+p20
+aS'Queensland'
+p21
+asS'0832'
+p22
+(lp23
+S'Bakewell'
+p24
+aS'Northern Territory'
+p25
+asS'7302'
+p26
+(lp27
+S'Bracknell'
+p28
+aS'Tasmania'
+p29
+asS'7300'
+p30
+(lp31
+S'Perth'
+p32
+aS'Tasmania'
+p33
+asS'7301'
+p34
+(lp35
+S'Blackwood Creek'
+p36
+aS'Tasmania'
+p37
+asS'7306'
+p38
+(lp39
+S'Sheffield'
+p40
+aS'Tasmania'
+p41
+asS'7307'
+p42
+(lp43
+S'Wesley Vale'
+p44
+aS'Tasmania'
+p45
+asS'7304'
+p46
+(lp47
+S'Montana'
+p48
+aS'Tasmania'
+p49
+asS'3550'
+p50
+(lp51
+S'Bendigo'
+p52
+aS'Victoria'
+p53
+asS'2911'
+p54
+(lp55
+S'Mitchell'
+p56
+aS'Australian Capital Territory'
+p57
+asS'2913'
+p58
+(lp59
+S'Nicholls'
+p60
+aS'Australian Capital Territory'
+p61
+asS'2914'
+p62
+(lp63
+S'Amaroo'
+p64
+aS'Australian Capital Territory'
+p65
+asS'3206'
+p66
+(lp67
+S'Albert Park'
+p68
+aS'Victoria'
+p69
+asS'6151'
+p70
+(lp71
+S'South Perth'
+p72
+aS'Western Australia'
+p73
+asS'6152'
+p74
+(lp75
+S'Como'
+p76
+aS'Western Australia'
+p77
+asS'6153'
+p78
+(lp79
+S'Applecross'
+p80
+aS'Western Australia'
+p81
+asS'6158'
+p82
+(lp83
+S'East Fremantle'
+p84
+aS'Western Australia'
+p85
+asS'6090'
+p86
+(lp87
+S'Malaga'
+p88
+aS'Western Australia'
+p89
+asS'7120'
+p90
+(lp91
+S'Tiberias'
+p92
+aS'Tasmania'
+p93
+asS'4171'
+p94
+(lp95
+S'Bulimba'
+p96
+aS'Queensland'
+p97
+asS'1700'
+p98
+(lp99
+S'Ermington'
+p100
+aS'New South Wales'
+p101
+asS'4478'
+p102
+(lp103
+S'Tambo'
+p104
+aS'Queensland'
+p105
+asS'6069'
+p106
+(lp107
+S'Ellenbrook'
+p108
+aS'Western Australia'
+p109
+asS'6753'
+p110
+(lp111
+S'Newman'
+p112
+aS'Western Australia'
+p113
+asS'0800'
+p114
+(lp115
+S'Darwin'
+p116
+aS'Northern Territory'
+p117
+asS'0801'
+p118
+(lp119
+S'Darwin'
+p120
+aS'Northern Territory'
+p121
+asS'3141'
+p122
+(lp123
+S'South Yarra'
+p124
+aS'Victoria'
+p125
+asS'3142'
+p126
+(lp127
+S'Hawksburn'
+p128
+aS'Victoria'
+p129
+asS'3144'
+p130
+(lp131
+S'Kooyong'
+p132
+aS'Victoria'
+p133
+asS'3145'
+p134
+(lp135
+S'Malvern East'
+p136
+aS'Victoria'
+p137
+asS'4558'
+p138
+(lp139
+S'Maroochydore'
+p140
+aS'Queensland'
+p141
+asS'3147'
+p142
+(lp143
+S'Ashburton'
+p144
+aS'Victoria'
+p145
+asS'3149'
+p146
+(lp147
+S'Mount Waverley'
+p148
+aS'Victoria'
+p149
+asS'2540'
+p150
+(lp151
+S'Hmas Creswell'
+p152
+aS'Australian Capital Territory'
+p153
+asS'3026'
+p154
+(lp155
+S'Laverton North'
+p156
+aS'Victoria'
+p157
+asS'3023'
+p158
+(lp159
+S'Cairnlea'
+p160
+aS'Victoria'
+p161
+asS'5419'
+p162
+(lp163
+S'Hallett'
+p164
+aS'South Australia'
+p165
+asS'3021'
+p166
+(lp167
+S'St Albans'
+p168
+aS'Victoria'
+p169
+asS'3020'
+p170
+(lp171
+S'Sunshine'
+p172
+aS'Victoria'
+p173
+asS'4214'
+p174
+(lp175
+S'Ashmore'
+p176
+aS'Queensland'
+p177
+asS'4217'
+p178
+(lp179
+S'Surfers Paradise'
+p180
+aS'Queensland'
+p181
+asS'4216'
+p182
+(lp183
+S'Biggera Waters'
+p184
+aS'Queensland'
+p185
+asS'4211'
+p186
+(lp187
+S'Nerang'
+p188
+aS'Queensland'
+p189
+asS'4213'
+p190
+(lp191
+S'Mudgeeraba'
+p192
+aS'Queensland'
+p193
+asS'5009'
+p194
+(lp195
+S'Beverley'
+p196
+aS'South Australia'
+p197
+asS'4218'
+p198
+(lp199
+S'Broadbeach'
+p200
+aS'Queensland'
+p201
+asS'4355'
+p202
+(lp203
+S'Glenaven'
+p204
+aS'Queensland'
+p205
+asS'4350'
+p206
+(lp207
+S'Toowoomba'
+p208
+aS'Queensland'
+p209
+asS'4352'
+p210
+(lp211
+S'Grapetree'
+p212
+aS'Queensland'
+p213
+asS'2046'
+p214
+(lp215
+S'Five Dock'
+p216
+aS'New South Wales'
+p217
+asS'2047'
+p218
+(lp219
+S'Drummoyne'
+p220
+aS'New South Wales'
+p221
+asS'2044'
+p222
+(lp223
+S'Tempe'
+p224
+aS'New South Wales'
+p225
+asS'2045'
+p226
+(lp227
+S'Haberfield'
+p228
+aS'New South Wales'
+p229
+asS'2042'
+p230
+(lp231
+S'Enmore'
+p232
+aS'New South Wales'
+p233
+asS'2043'
+p234
+(lp235
+S'Erskineville'
+p236
+aS'New South Wales'
+p237
+asS'2040'
+p238
+(lp239
+S'Lilyfield'
+p240
+aS'New South Wales'
+p241
+asS'2041'
+p242
+(lp243
+S'Birchgrove'
+p244
+aS'New South Wales'
+p245
+asS'4422'
+p246
+(lp247
+S'Meandarra'
+p248
+aS'Queensland'
+p249
+asS'2048'
+p250
+(lp251
+S'Stanmore'
+p252
+aS'New South Wales'
+p253
+asS'4425'
+p254
+(lp255
+S'Dulacca'
+p256
+aS'Queensland'
+p257
+asS'6076'
+p258
+(lp259
+S'Kalamunda'
+p260
+aS'Western Australia'
+p261
+asS'3090'
+p262
+(lp263
+S'Plenty'
+p264
+aS'Victoria'
+p265
+asS'6073'
+p266
+(lp267
+S'Mundaring'
+p268
+aS'Western Australia'
+p269
+asS'3094'
+p270
+(lp271
+S'Montmorency'
+p272
+aS'Victoria'
+p273
+asS'3095'
+p274
+(lp275
+S'Eltham'
+p276
+aS'Victoria'
+p277
+asS'2166'
+p278
+(lp279
+S'Cabramatta'
+p280
+aS'New South Wales'
+p281
+asS'2617'
+p282
+(lp283
+S'Mckellar'
+p284
+aS'Australian Capital Territory'
+p285
+asS'2616'
+p286
+(lp287
+S'Belconnen'
+p288
+aS'Australian Capital Territory'
+p289
+asS'2615'
+p290
+(lp291
+S'Fraser'
+p292
+aS'Australian Capital Territory'
+p293
+asS'2614'
+p294
+(lp295
+S'Jamison Centre'
+p296
+aS'Australian Capital Territory'
+p297
+asS'2612'
+p298
+(lp299
+S'Reid'
+p300
+aS'Australian Capital Territory'
+p301
+asS'2611'
+p302
+(lp303
+S'Holder'
+p304
+aS'Australian Capital Territory'
+p305
+asS'2610'
+p306
+(lp307
+S'Canberra Bc'
+p308
+aS'Australian Capital Territory'
+p309
+asS'2618'
+p310
+(lp311
+S'Hall'
+p312
+aS'Australian Capital Territory'
+p313
+asS'4101'
+p314
+(lp315
+S'Highgate Hill'
+p316
+aS'Queensland'
+p317
+asS'4103'
+p318
+(lp319
+S'Annerley'
+p320
+aS'Queensland'
+p321
+asS'4105'
+p322
+(lp323
+S'Yeerongpilly'
+p324
+aS'Queensland'
+p325
+asS'4104'
+p326
+(lp327
+S'Yeronga'
+p328
+aS'Queensland'
+p329
+asS'4107'
+p330
+(lp331
+S'Salisbury'
+p332
+aS'Queensland'
+p333
+asS'4109'
+p334
+(lp335
+S'Sunnybank'
+p336
+aS'Queensland'
+p337
+asS'0872'
+p338
+(lp339
+S'Ernabella'
+p340
+aS'South Australia'
+p341
+asS'6430'
+p342
+(lp343
+S'Kalgoorlie'
+p344
+aS'Western Australia'
+p345
+asS'0909'
+p346
+(lp347
+S'Charles Darwin University'
+p348
+aS'Northern Territory'
+p349
+asS'5700'
+p350
+(lp351
+S'Port Augusta West'
+p352
+aS'South Australia'
+p353
+asS'7260'
+p354
+(lp355
+S'Scottsdale'
+p356
+aS'Tasmania'
+p357
+asS'7262'
+p358
+(lp359
+S'Waterhouse'
+p360
+aS'Tasmania'
+p361
+asS'7001'
+p362
+(lp363
+S'Hobart'
+p364
+aS'Tasmania'
+p365
+asS'7000'
+p366
+(lp367
+S'North Hobart'
+p368
+aS'Tasmania'
+p369
+asS'7005'
+p370
+(lp371
+S'Sandy Bay'
+p372
+aS'Tasmania'
+p373
+asS'7004'
+p374
+(lp375
+S'South Hobart'
+p376
+aS'Tasmania'
+p377
+asS'7007'
+p378
+(lp379
+S'Mount Nelson'
+p380
+aS'Tasmania'
+p381
+asS'3063'
+p382
+(lp383
+S'Oaklands Junction'
+p384
+aS'Victoria'
+p385
+asS'3204'
+p386
+(lp387
+S'Bentleigh'
+p388
+aS'Victoria'
+p389
+asS'4170'
+p390
+(lp391
+S'Norman Park'
+p392
+aS'Queensland'
+p393
+asS'4078'
+p394
+(lp395
+S'Forest Lake'
+p396
+aS'Queensland'
+p397
+asS'3201'
+p398
+(lp399
+S'Carrum Downs'
+p400
+aS'Victoria'
+p401
+asS'3200'
+p402
+(lp403
+S'Pines Forest'
+p404
+aS'Victoria'
+p405
+asS'4075'
+p406
+(lp407
+S'Graceville'
+p408
+aS'Queensland'
+p409
+asS'4074'
+p410
+(lp411
+S'Sumner'
+p412
+aS'Queensland'
+p413
+asS'4076'
+p414
+(lp415
+S'Darra'
+p416
+aS'Queensland'
+p417
+asS'4178'
+p418
+(lp419
+S'Wynnum West'
+p420
+aS'Queensland'
+p421
+asS'4179'
+p422
+(lp423
+S'Manly'
+p424
+aS'Queensland'
+p425
+asS'3066'
+p426
+(lp427
+S'Collingwood'
+p428
+aS'Victoria'
+p429
+asS'7175'
+p430
+(lp431
+S'Bream Creek'
+p432
+aS'Tasmania'
+p433
+asS'7177'
+p434
+(lp435
+S'Dunalley'
+p436
+aS'Tasmania'
+p437
+asS'4010'
+p438
+(lp439
+S'Albion'
+p440
+aS'Queensland'
+p441
+asS'7170'
+p442
+(lp443
+S'Acton Park'
+p444
+aS'Tasmania'
+p445
+asS'3068'
+p446
+(lp447
+S'Clifton Hill'
+p448
+aS'Victoria'
+p449
+asS'5355'
+p450
+(lp451
+S'Nuriootpa'
+p452
+aS'South Australia'
+p453
+asS'5353'
+p454
+(lp455
+S'Moculta'
+p456
+aS'South Australia'
+p457
+asS'5352'
+p458
+(lp459
+S'Rowland Flat'
+p460
+aS'South Australia'
+p461
+asS'6109'
+p462
+(lp463
+S'Maddington'
+p464
+aS'Western Australia'
+p465
+asS'6107'
+p466
+(lp467
+S'Queens Park'
+p468
+aS'Western Australia'
+p469
+asS'6106'
+p470
+(lp471
+S'Welshpool'
+p472
+aS'Western Australia'
+p473
+asS'5452'
+p474
+(lp475
+S'Watervale'
+p476
+aS'South Australia'
+p477
+asS'6104'
+p478
+(lp479
+S'Redcliffe'
+p480
+aS'Western Australia'
+p481
+asS'6103'
+p482
+(lp483
+S'Rivervale'
+p484
+aS'Western Australia'
+p485
+asS'6101'
+p486
+(lp487
+S'East Victoria Park'
+p488
+aS'Western Australia'
+p489
+asS'6100'
+p490
+(lp491
+S'Lathlain'
+p492
+aS'Western Australia'
+p493
+asS'6125'
+p494
+(lp495
+S'Serpentine'
+p496
+aS'Western Australia'
+p497
+asS'1750'
+p498
+(lp499
+S'North Parramatta'
+p500
+aS'New South Wales'
+p501
+asS'2067'
+p502
+(lp503
+S'Chatswood'
+p504
+aS'New South Wales'
+p505
+asS'4467'
+p506
+(lp507
+S'Mungallala'
+p508
+aS'Queensland'
+p509
+asS'4462'
+p510
+(lp511
+S'Amby'
+p512
+aS'Queensland'
+p513
+asS'2089'
+p514
+(lp515
+S'Neutral Bay Junction'
+p516
+aS'New South Wales'
+p517
+asS'2082'
+p518
+(lp519
+S'Berowra Heights'
+p520
+aS'New South Wales'
+p521
+asS'2083'
+p522
+(lp523
+S'Milsons Passage'
+p524
+aS'New South Wales'
+p525
+asS'2080'
+p526
+(lp527
+S'Mount Kuring-Gai'
+p528
+aS'New South Wales'
+p529
+asS'2081'
+p530
+(lp531
+S'Cowan'
+p532
+aS'New South Wales'
+p533
+asS'2086'
+p534
+(lp535
+S'Frenchs Forest'
+p536
+aS'New South Wales'
+p537
+asS'2087'
+p538
+(lp539
+S'Killarney Heights'
+p540
+aS'New South Wales'
+p541
+asS'2084'
+p542
+(lp543
+S'Duffys Forest'
+p544
+aS'New South Wales'
+p545
+asS'2085'
+p546
+(lp547
+S'Belrose West'
+p548
+aS'New South Wales'
+p549
+asS'1470'
+p550
+(lp551
+S'Drummoyne'
+p552
+aS'New South Wales'
+p553
+asS'6033'
+p554
+(lp555
+S'Carabooda'
+p556
+aS'Western Australia'
+p557
+asS'7182'
+p558
+(lp559
+S'Port Arthur'
+p560
+aS'Tasmania'
+p561
+asS'6030'
+p562
+(lp563
+S'Merriwa'
+p564
+aS'Western Australia'
+p565
+asS'6036'
+p566
+(lp567
+S'Butler'
+p568
+aS'Western Australia'
+p569
+asS'5173'
+p570
+(lp571
+S'Aldinga'
+p572
+aS'South Australia'
+p573
+asS'5172'
+p574
+(lp575
+S'Willunga'
+p576
+aS'South Australia'
+p577
+asS'1300'
+p578
+(lp579
+S'Darlinghurst'
+p580
+aS'New South Wales'
+p581
+asS'5072'
+p582
+(lp583
+S'Woodforde'
+p584
+aS'South Australia'
+p585
+asS'4225'
+p586
+(lp587
+S'Coolangatta'
+p588
+aS'Queensland'
+p589
+asS'5070'
+p590
+(lp591
+S'Glynde Plaza'
+p592
+aS'South Australia'
+p593
+asS'4220'
+p594
+(lp595
+S'Miami'
+p596
+aS'Queensland'
+p597
+asS'4223'
+p598
+(lp599
+S'Currumbin'
+p600
+aS'Queensland'
+p601
+asS'1835'
+p602
+(lp603
+S'Auburn'
+p604
+aS'New South Wales'
+p605
+asS'4380'
+p606
+(lp607
+S'Stanthorpe'
+p608
+aS'Queensland'
+p609
+asS'3186'
+p610
+(lp611
+S'Brighton'
+p612
+aS'Victoria'
+p613
+asS'2018'
+p614
+(lp615
+S'Eastlakes'
+p616
+aS'New South Wales'
+p617
+asS'6008'
+p618
+(lp619
+S'Shenton Park'
+p620
+aS'Western Australia'
+p621
+asS'2015'
+p622
+(lp623
+S'Eveleigh'
+p624
+aS'New South Wales'
+p625
+asS'2017'
+p626
+(lp627
+S'Zetland'
+p628
+aS'New South Wales'
+p629
+asS'6845'
+p630
+(lp631
+S'Perth'
+p632
+aS'Western Australia'
+p633
+asS'2011'
+p634
+(lp635
+S'Potts Point'
+p636
+aS'New South Wales'
+p637
+asS'2010'
+p638
+(lp639
+S'Darlinghurst'
+p640
+aS'New South Wales'
+p641
+asS'2012'
+p642
+(lp643
+S'Strawberry Hills'
+p644
+aS'New South Wales'
+p645
+asS'3182'
+p646
+(lp647
+S'St Kilda South'
+p648
+aS'Victoria'
+p649
+asS'2450'
+p650
+(lp651
+S'Coffs Harbour'
+p652
+aS'New South Wales'
+p653
+asS'0840'
+p654
+(lp655
+S'Dundee Beach'
+p656
+aS'Northern Territory'
+p657
+asS'4030'
+p658
+(lp659
+S'Windsor'
+p660
+aS'Queensland'
+p661
+asS'4032'
+p662
+(lp663
+S'Chermside'
+p664
+aS'Queensland'
+p665
+asS'4035'
+p666
+(lp667
+S'Albany Creek'
+p668
+aS'Queensland'
+p669
+asS'4034'
+p670
+(lp671
+S'Carseldine'
+p672
+aS'Queensland'
+p673
+asS'0846'
+p674
+(lp675
+S'Adelaide River'
+p676
+aS'Northern Territory'
+p677
+asS'7254'
+p678
+(lp679
+S'Tunnel'
+p680
+aS'Tasmania'
+p681
+asS'7250'
+p682
+(lp683
+S'Riverside'
+p684
+aS'Tasmania'
+p685
+asS'7253'
+p686
+(lp687
+S'Bell Bay'
+p688
+aS'Tasmania'
+p689
+asS'7315'
+p690
+(lp691
+S'Turners Beach'
+p692
+aS'Tasmania'
+p693
+asS'4132'
+p694
+(lp695
+S'Marsden'
+p696
+aS'Queensland'
+p697
+asS'7316'
+p698
+(lp699
+S'West Pine'
+p700
+aS'Tasmania'
+p701
+asS'7310'
+p702
+(lp703
+S'Erriba'
+p704
+aS'Tasmania'
+p705
+asS'2903'
+p706
+(lp707
+S'Wanniassa'
+p708
+aS'Australian Capital Territory'
+p709
+asS'2901'
+p710
+(lp711
+S'Tuggeranong Dc'
+p712
+aS'Australian Capital Territory'
+p713
+asS'2900'
+p714
+(lp715
+S'Greenway'
+p716
+aS'Australian Capital Territory'
+p717
+asS'2906'
+p718
+(lp719
+S'Gordon'
+p720
+aS'Australian Capital Territory'
+p721
+asS'2905'
+p722
+(lp723
+S'Gilmore'
+p724
+aS'Australian Capital Territory'
+p725
+asS'2904'
+p726
+(lp727
+S'Gowrie'
+p728
+aS'Australian Capital Territory'
+p729
+asS'7030'
+p730
+(lp731
+S'Granton'
+p732
+aS'Tasmania'
+p733
+asS'6160'
+p734
+(lp735
+S'Fremantle'
+p736
+aS'Western Australia'
+p737
+asS'5253'
+p738
+(lp739
+S'Murray Bridge'
+p740
+aS'South Australia'
+p741
+asS'5254'
+p742
+(lp743
+S'Murray Bridge'
+p744
+aS'South Australia'
+p745
+asS'2300'
+p746
+(lp747
+S'Newcastle'
+p748
+aS'New South Wales'
+p749
+asS'6105'
+p750
+(lp751
+S'Perth Airport'
+p752
+aS'Western Australia'
+p753
+asS'6166'
+p754
+(lp755
+S'Henderson'
+p756
+aS'Western Australia'
+p757
+asS'3153'
+p758
+(lp759
+S'Bayswater'
+p760
+aS'Victoria'
+p761
+asS'3152'
+p762
+(lp763
+S'Wantirna'
+p764
+aS'Victoria'
+p765
+asS'3151'
+p766
+(lp767
+S'Burwood East'
+p768
+aS'Victoria'
+p769
+asS'3156'
+p770
+(lp771
+S'Ferntree Gully'
+p772
+aS'Victoria'
+p773
+asS'3018'
+p774
+(lp775
+S'Altona'
+p776
+aS'Victoria'
+p777
+asS'3012'
+p778
+(lp779
+S'Brooklyn'
+p780
+aS'Victoria'
+p781
+asS'3013'
+p782
+(lp783
+S'Yarraville'
+p784
+aS'Victoria'
+p785
+asS'7140'
+p786
+(lp787
+S'Dee'
+p788
+aS'Tasmania'
+p789
+asS'2795'
+p790
+(lp791
+S'Bathurst'
+p792
+aS'New South Wales'
+p793
+asS'4069'
+p794
+(lp795
+S'Chapel Hill'
+p796
+aS'Queensland'
+p797
+asS'5038'
+p798
+(lp799
+S'Plympton'
+p800
+aS'South Australia'
+p801
+asS'5034'
+p802
+(lp803
+S'Millswood'
+p804
+aS'South Australia'
+p805
+asS'5033'
+p806
+(lp807
+S'Richmond'
+p808
+aS'South Australia'
+p809
+asS'5031'
+p810
+(lp811
+S'Torrensville'
+p812
+aS'South Australia'
+p813
+asS'6530'
+p814
+(lp815
+S'Geraldton'
+p816
+aS'Western Australia'
+p817
+asS'1871'
+p818
+(lp819
+S'Liverpool'
+p820
+aS'New South Wales'
+p821
+asS'4343'
+p822
+(lp823
+S'Ingoldsby'
+p824
+aS'Queensland'
+p825
+asS'4340'
+p826
+(lp827
+S'Merryvale'
+p828
+aS'Queensland'
+p829
+asS'2050'
+p830
+(lp831
+S'Camperdown'
+p832
+aS'New South Wales'
+p833
+asS'2880'
+p834
+(lp835
+S'Broken Hill'
+p836
+aS'New South Wales'
+p837
+asS'2059'
+p838
+(lp839
+S'North Sydney'
+p840
+aS'New South Wales'
+p841
+asS'6285'
+p842
+(lp843
+S'Margaret River'
+p844
+aS'Western Australia'
+p845
+asS'5540'
+p846
+(lp847
+S'Port Pirie West'
+p848
+aS'South Australia'
+p849
+asS'6280'
+p850
+(lp851
+S'Busselton'
+p852
+aS'Western Australia'
+p853
+asS'6281'
+p854
+(lp855
+S'Dunsborough'
+p856
+aS'Western Australia'
+p857
+asS'6043'
+p858
+(lp859
+S'Breton Bay'
+p860
+aS'Western Australia'
+p861
+asS'3088'
+p862
+(lp863
+S'Greensborough'
+p864
+aS'Victoria'
+p865
+asS'6044'
+p866
+(lp867
+S'Lancelin'
+p868
+aS'Western Australia'
+p869
+asS'3099'
+p870
+(lp871
+S'Arthurs Creek'
+p872
+aS'Victoria'
+p873
+asS'3085'
+p874
+(lp875
+S'Macleod'
+p876
+aS'Victoria'
+p877
+asS'3084'
+p878
+(lp879
+S'Rosanna'
+p880
+aS'Victoria'
+p881
+asS'2113'
+p882
+(lp883
+S'North Ryde'
+p884
+aS'New South Wales'
+p885
+asS'3081'
+p886
+(lp887
+S'Heidelberg West'
+p888
+aS'Victoria'
+p889
+asS'3083'
+p890
+(lp891
+S'Bundoora'
+p892
+aS'Victoria'
+p893
+asS'5073'
+p894
+(lp895
+S'Tranmere North'
+p896
+aS'South Australia'
+p897
+asS'0828'
+p898
+(lp899
+S'Berrimah'
+p900
+aS'Northern Territory'
+p901
+asS'5108'
+p902
+(lp903
+S'Salisbury'
+p904
+aS'South Australia'
+p905
+asS'5109'
+p906
+(lp907
+S'Salisbury Plain'
+p908
+aS'South Australia'
+p909
+asS'5106'
+p910
+(lp911
+S'Parafield'
+p912
+aS'South Australia'
+p913
+asS'7210'
+p914
+(lp915
+S'Campbell Town'
+p916
+aS'Tasmania'
+p917
+asS'7212'
+p918
+(lp919
+S'Burns Creek'
+p920
+aS'Tasmania'
+p921
+asS'7214'
+p922
+(lp923
+S'Fingal'
+p924
+aS'Tasmania'
+p925
+asS'7215'
+p926
+(lp927
+S'Beaumaris'
+p928
+aS'Tasmania'
+p929
+asS'7216'
+p930
+(lp931
+S'St Helens'
+p932
+aS'Tasmania'
+p933
+asS'2024'
+p934
+(lp935
+S'Bronte'
+p936
+aS'New South Wales'
+p937
+asS'6021'
+p938
+(lp939
+S'Stirling'
+p940
+aS'Western Australia'
+p941
+asS'2026'
+p942
+(lp943
+S'Tamarama'
+p944
+aS'New South Wales'
+p945
+asS'2027'
+p946
+(lp947
+S'Darling Point'
+p948
+aS'New South Wales'
+p949
+asS'2020'
+p950
+(lp951
+S'Sydney International Airport'
+p952
+aS'New South Wales'
+p953
+asS'2021'
+p954
+(lp955
+S'Centennial Park'
+p956
+aS'New South Wales'
+p957
+asS'2022'
+p958
+(lp959
+S'Queens Park'
+p960
+aS'New South Wales'
+p961
+asS'2023'
+p962
+(lp963
+S'Bellevue Hill'
+p964
+aS'New South Wales'
+p965
+asS'3115'
+p966
+(lp967
+S'Wonga Park'
+p968
+aS'Victoria'
+p969
+asS'0821'
+p970
+(lp971
+S'Winnellie'
+p972
+aS'Northern Territory'
+p973
+asS'3146'
+p974
+(lp975
+S'Glen Iris'
+p976
+aS'Victoria'
+p977
+asS'5214'
+p978
+(lp979
+S'Goolwa'
+p980
+aS'South Australia'
+p981
+asS'3111'
+p982
+(lp983
+S'Donvale'
+p984
+aS'Victoria'
+p985
+asS'3232'
+p986
+(lp987
+S'Lorne'
+p988
+aS'Victoria'
+p989
+asS'4164'
+p990
+(lp991
+S'Thornlands'
+p992
+aS'Queensland'
+p993
+asS'7320'
+p994
+(lp995
+S'Montello'
+p996
+aS'Tasmania'
+p997
+asS'4161'
+p998
+(lp999
+S'Alexandra Hills'
+p1000
+aS'Queensland'
+p1001
+asS'4000'
+p1002
+(lp1003
+S'Brisbane'
+p1004
+aS'Queensland'
+p1005
+asS'4001'
+p1006
+(lp1007
+S'Brisbane'
+p1008
+aS'Queensland'
+p1009
+asS'0815'
+p1010
+(lp1011
+S'Charles Darwin University'
+p1012
+aS'Northern Territory'
+p1013
+asS'0814'
+p1014
+(lp1015
+S'Nightcliff'
+p1016
+aS'Northern Territory'
+p1017
+asS'0812'
+p1018
+(lp1019
+S'Karama'
+p1020
+aS'Northern Territory'
+p1021
+asS'4006'
+p1022
+(lp1023
+S'Bowen Hills'
+p1024
+aS'Queensland'
+p1025
+asS'4007'
+p1026
+(lp1027
+S'Hamilton'
+p1028
+aS'Queensland'
+p1029
+asS'3192'
+p1030
+(lp1031
+S'Cheltenham'
+p1032
+aS'Victoria'
+p1033
+asS'3350'
+p1034
+(lp1035
+S'Ballarat'
+p1036
+aS'Victoria'
+p1037
+asS'3058'
+p1038
+(lp1039
+S'Coburg'
+p1040
+aS'Victoria'
+p1041
+asS'3056'
+p1042
+(lp1043
+S'Brunswick'
+p1044
+aS'Victoria'
+p1045
+asS'7109'
+p1046
+(lp1047
+S'Southport'
+p1048
+aS'Tasmania'
+p1049
+asS'3054'
+p1050
+(lp1051
+S'Carlton North'
+p1052
+aS'Victoria'
+p1053
+asS'3052'
+p1054
+(lp1055
+S'Parkville'
+p1056
+aS'Victoria'
+p1057
+asS'6031'
+p1058
+(lp1059
+S'Banksia Grove'
+p1060
+aS'Western Australia'
+p1061
+asS'3050'
+p1062
+(lp1063
+S'Royal Melbourne Hospital'
+p1064
+aS'Victoria'
+p1065
+asS'6004'
+p1066
+(lp1067
+S'East Perth'
+p1068
+aS'Western Australia'
+p1069
+asS'3178'
+p1070
+(lp1071
+S'Rowville'
+p1072
+aS'Victoria'
+p1073
+asS'5092'
+p1074
+(lp1075
+S'Modbury'
+p1076
+aS'South Australia'
+p1077
+asS'4300'
+p1078
+(lp1079
+S'Goodna'
+p1080
+aS'Queensland'
+p1081
+asS'4306'
+p1082
+(lp1083
+S'Kholo'
+p1084
+aS'Queensland'
+p1085
+asS'4305'
+p1086
+(lp1087
+S'Brassall'
+p1088
+aS'Queensland'
+p1089
+asS'4309'
+p1090
+(lp1091
+S'Frazerview'
+p1092
+aS'Queensland'
+p1093
+asS'3022'
+p1094
+(lp1095
+S'Deer Park East'
+p1096
+aS'Victoria'
+p1097
+asS'2094'
+p1098
+(lp1099
+S'Fairlight'
+p1100
+aS'New South Wales'
+p1101
+asS'2090'
+p1102
+(lp1103
+S'Cremorne Junction'
+p1104
+aS'New South Wales'
+p1105
+asS'2093'
+p1106
+(lp1107
+S'Balgowlah'
+p1108
+aS'New South Wales'
+p1109
+asS'2092'
+p1110
+(lp1111
+S'Seaforth'
+p1112
+aS'New South Wales'
+p1113
+asS'4470'
+p1114
+(lp1115
+S'Charleville'
+p1116
+aS'Queensland'
+p1117
+asS'5501'
+p1118
+(lp1119
+S'Windsor'
+p1120
+aS'South Australia'
+p1121
+asS'6006'
+p1122
+(lp1123
+S'North Perth'
+p1124
+aS'Western Australia'
+p1125
+asS'6007'
+p1126
+(lp1127
+S'Leederville'
+p1128
+aS'Western Australia'
+p1129
+asS'3128'
+p1130
+(lp1131
+S'Box Hill'
+p1132
+aS'Victoria'
+p1133
+asS'3129'
+p1134
+(lp1135
+S'Box Hill North'
+p1136
+aS'Victoria'
+p1137
+asS'6003'
+p1138
+(lp1139
+S'Highgate'
+p1140
+aS'Western Australia'
+p1141
+asS'6000'
+p1142
+(lp1143
+S'Perth'
+p1144
+aS'Western Australia'
+p1145
+asS'3121'
+p1146
+(lp1147
+S'Richmond'
+p1148
+aS'Victoria'
+p1149
+asS'3127'
+p1150
+(lp1151
+S'Surrey Hills'
+p1152
+aS'Victoria'
+p1153
+asS'3124'
+p1154
+(lp1155
+S'Camberwell'
+p1156
+aS'Victoria'
+p1157
+asS'4670'
+p1158
+(lp1159
+S'Bundaberg'
+p1160
+aS'Queensland'
+p1161
+asS'7190'
+p1162
+(lp1163
+S'Apslawn'
+p1164
+aS'Tasmania'
+p1165
+asS'5064'
+p1166
+(lp1167
+S'Glen Osmond'
+p1168
+aS'South Australia'
+p1169
+asS'5067'
+p1170
+(lp1171
+S'Kent Town'
+p1172
+aS'South Australia'
+p1173
+asS'5061'
+p1174
+(lp1175
+S'Hyde Park'
+p1176
+aS'South Australia'
+p1177
+asS'5063'
+p1178
+(lp1179
+S'Parkside'
+p1180
+aS'South Australia'
+p1181
+asS'5062'
+p1182
+(lp1183
+S'Mitcham Shopping Centre'
+p1184
+aS'South Australia'
+p1185
+asS'5069'
+p1186
+(lp1187
+S'Hackney'
+p1188
+aS'South Australia'
+p1189
+asS'5068'
+p1190
+(lp1191
+S'Heathpool'
+p1192
+aS'South Australia'
+p1193
+asS'3049'
+p1194
+(lp1195
+S'Westmeadows'
+p1196
+aS'Victoria'
+p1197
+asS'4870'
+p1198
+(lp1199
+S'Cairns'
+p1200
+aS'Queensland'
+p1201
+asS'4405'
+p1202
+(lp1203
+S'Dalby'
+p1204
+aS'Queensland'
+p1205
+asS'4879'
+p1206
+(lp1207
+S'Trinity Beach'
+p1208
+aS'Queensland'
+p1209
+asS'4401'
+p1210
+(lp1211
+S'Oakey'
+p1212
+aS'Queensland'
+p1213
+asS'2068'
+p1214
+(lp1215
+S'Willoughby'
+p1216
+aS'New South Wales'
+p1217
+asS'2069'
+p1218
+(lp1219
+S'Castle Cove'
+p1220
+aS'New South Wales'
+p1221
+asS'6258'
+p1222
+(lp1223
+S'Manjimup'
+p1224
+aS'Western Australia'
+p1225
+asS'2060'
+p1226
+(lp1227
+S'Lavender Bay'
+p1228
+aS'New South Wales'
+p1229
+asS'2061'
+p1230
+(lp1231
+S'Milsons Point'
+p1232
+aS'New South Wales'
+p1233
+asS'2062'
+p1234
+(lp1235
+S'Cammeray'
+p1236
+aS'New South Wales'
+p1237
+asS'2065'
+p1238
+(lp1239
+S'Gore Hill'
+p1240
+aS'New South Wales'
+p1241
+asS'2066'
+p1242
+(lp1243
+S'Longueville'
+p1244
+aS'New South Wales'
+p1245
+asS'2148'
+p1246
+(lp1247
+S'Blacktown'
+p1248
+aS'New South Wales'
+p1249
+asS'0852'
+p1250
+(lp1251
+S'Katherine'
+p1252
+aS'Northern Territory'
+p1253
+asS'0851'
+p1254
+(lp1255
+S'Katherine'
+p1256
+aS'Northern Territory'
+p1257
+asS'5000'
+p1258
+(lp1259
+S'Adelaide'
+p1260
+aS'South Australia'
+p1261
+asS'0854'
+p1262
+(lp1263
+S'Borroloola'
+p1264
+aS'Northern Territory'
+p1265
+asS'6701'
+p1266
+(lp1267
+S'Carnarvon'
+p1268
+aS'Western Australia'
+p1269
+asS'5007'
+p1270
+(lp1271
+S'Hindmarsh'
+p1272
+aS'South Australia'
+p1273
+asS'6707'
+p1274
+(lp1275
+S'Exmouth'
+p1276
+aS'Western Australia'
+p1277
+asS'4280'
+p1278
+(lp1279
+S'Jimboomba'
+p1280
+aS'Queensland'
+p1281
+asS'4128'
+p1282
+(lp1283
+S'Shailer Park'
+p1284
+aS'Queensland'
+p1285
+asS'5005'
+p1286
+(lp1287
+S'Adelaide University'
+p1288
+aS'South Australia'
+p1289
+asS'4122'
+p1290
+(lp1291
+S'Mansfield'
+p1292
+aS'Queensland'
+p1293
+asS'4121'
+p1294
+(lp1295
+S'Holland Park'
+p1296
+aS'Queensland'
+p1297
+asS'5093'
+p1298
+(lp1299
+S'Para Vista'
+p1300
+aS'South Australia'
+p1301
+asS'5095'
+p1302
+(lp1303
+S'The Levels'
+p1304
+aS'South Australia'
+p1305
+asS'5096'
+p1306
+(lp1307
+S'Para Hills'
+p1308
+aS'South Australia'
+p1309
+asS'7248'
+p1310
+(lp1311
+S'Rocherlea'
+p1312
+aS'Tasmania'
+p1313
+asS'5075'
+p1314
+(lp1315
+S'Dernancourt'
+p1316
+aS'South Australia'
+p1317
+asS'2753'
+p1318
+(lp1319
+S'Richmond'
+p1320
+aS'New South Wales'
+p1321
+asS'6210'
+p1322
+(lp1323
+S'Mandurah'
+p1324
+aS'Western Australia'
+p1325
+asS'7025'
+p1326
+(lp1327
+S'Dulcot'
+p1328
+aS'Tasmania'
+p1329
+asS'4054'
+p1330
+(lp1331
+S'Keperra'
+p1332
+aS'Queensland'
+p1333
+asS'4053'
+p1334
+(lp1335
+S'Everton Hills'
+p1336
+aS'Queensland'
+p1337
+asS'4051'
+p1338
+(lp1339
+S'Enoggera'
+p1340
+aS'Queensland'
+p1341
+asS'5244'
+p1342
+(lp1343
+S'Mount Torrens'
+p1344
+aS'South Australia'
+p1345
+asS'6770'
+p1346
+(lp1347
+S'Halls Creek'
+p1348
+aS'Western Australia'
+p1349
+asS'4059'
+p1350
+(lp1351
+S'Kelvin Grove'
+p1352
+aS'Queensland'
+p1353
+asS'7117'
+p1354
+(lp1355
+S'Dover'
+p1356
+aS'Tasmania'
+p1357
+asS'3006'
+p1358
+(lp1359
+S'Southbank'
+p1360
+aS'Victoria'
+p1361
+asS'3000'
+p1362
+(lp1363
+S'Melbourne'
+p1364
+aS'Victoria'
+p1365
+asS'3003'
+p1366
+(lp1367
+S'West Melbourne'
+p1368
+aS'Victoria'
+p1369
+asS'3166'
+p1370
+(lp1371
+S'Oakleigh'
+p1372
+aS'Victoria'
+p1373
+asS'3165'
+p1374
+(lp1375
+S'Bentleigh East'
+p1376
+aS'Victoria'
+p1377
+asS'3008'
+p1378
+(lp1379
+S'Docklands'
+p1380
+aS'Victoria'
+p1381
+asS'3161'
+p1382
+(lp1383
+S'Caulfield North'
+p1384
+aS'Victoria'
+p1385
+asS'3125'
+p1386
+(lp1387
+S'Burwood'
+p1388
+aS'Victoria'
+p1389
+asS'7155'
+p1390
+(lp1391
+S'Kettering'
+p1392
+aS'Tasmania'
+p1393
+asS'1585'
+p1394
+(lp1395
+S'Crows Nest'
+p1396
+aS'New South Wales'
+p1397
+asS'5021'
+p1398
+(lp1399
+S'West Lakes'
+p1400
+aS'South Australia'
+p1401
+asS'5022'
+p1402
+(lp1403
+S'Henley Beach'
+p1404
+aS'South Australia'
+p1405
+asS'4428'
+p1406
+(lp1407
+S'Wallumbilla'
+p1408
+aS'Queensland'
+p1409
+asS'6959'
+p1410
+(lp1411
+S'Fremantle'
+p1412
+aS'Western Australia'
+p1413
+asS'5558'
+p1414
+(lp1415
+S'Hamley'
+p1416
+aS'South Australia'
+p1417
+asS'6009'
+p1418
+(lp1419
+S'Nedlands'
+p1420
+aS'Western Australia'
+p1421
+asS'6058'
+p1422
+(lp1423
+S'Forrestfield'
+p1424
+aS'Western Australia'
+p1425
+asS'6055'
+p1426
+(lp1427
+S'South Guildford'
+p1428
+aS'Western Australia'
+p1429
+asS'2515'
+p1430
+(lp1431
+S'Clifton'
+p1432
+aS'New South Wales'
+p1433
+asS'6057'
+p1434
+(lp1435
+S'Maida Vale'
+p1436
+aS'Western Australia'
+p1437
+asS'6056'
+p1438
+(lp1439
+S'Middle Swan'
+p1440
+aS'Western Australia'
+p1441
+asS'6051'
+p1442
+(lp1443
+S'Maylands'
+p1444
+aS'Western Australia'
+p1445
+asS'6050'
+p1446
+(lp1447
+S'Mount Lawley'
+p1448
+aS'Western Australia'
+p1449
+asS'6053'
+p1450
+(lp1451
+S'Bayswater'
+p1452
+aS'Western Australia'
+p1453
+asS'6052'
+p1454
+(lp1455
+S'Inglewood'
+p1456
+aS'Western Australia'
+p1457
+asS'5114'
+p1458
+(lp1459
+S'Smithfield'
+p1460
+aS'South Australia'
+p1461
+asS'5116'
+p1462
+(lp1463
+S'Hillier'
+p1464
+aS'South Australia'
+p1465
+asS'5113'
+p1466
+(lp1467
+S'Elizabeth Park'
+p1468
+aS'South Australia'
+p1469
+asS'5112'
+p1470
+(lp1471
+S'Elizabeth'
+p1472
+aS'South Australia'
+p1473
+asS'5118'
+p1474
+(lp1475
+S'Gawler'
+p1476
+aS'South Australia'
+p1477
+asS'5291'
+p1478
+(lp1479
+S'Mount Gambier West'
+p1480
+aS'South Australia'
+p1481
+asS'5723'
+p1482
+(lp1483
+S'Coober Pedy'
+p1484
+aS'South Australia'
+p1485
+asS'2036'
+p1486
+(lp1487
+S'Port Botany'
+p1488
+aS'New South Wales'
+p1489
+asS'2035'
+p1490
+(lp1491
+S'Maroubra'
+p1492
+aS'New South Wales'
+p1493
+asS'2034'
+p1494
+(lp1495
+S'Coogee'
+p1496
+aS'New South Wales'
+p1497
+asS'3180'
+p1498
+(lp1499
+S'Knoxfield'
+p1500
+aS'Victoria'
+p1501
+asS'2032'
+p1502
+(lp1503
+S'Kingsford'
+p1504
+aS'New South Wales'
+p1505
+asS'2031'
+p1506
+(lp1507
+S'Clovelly'
+p1508
+aS'New South Wales'
+p1509
+asS'2030'
+p1510
+(lp1511
+S'Vaucluse'
+p1512
+aS'New South Wales'
+p1513
+asS'3188'
+p1514
+(lp1515
+S'Hampton'
+p1516
+aS'Victoria'
+p1517
+asS'2038'
+p1518
+(lp1519
+S'Annandale'
+p1520
+aS'New South Wales'
+p1521
+asS'6071'
+p1522
+(lp1523
+S'Glen Forrest'
+p1524
+aS'Western Australia'
+p1525
+asS'5201'
+p1526
+(lp1527
+S'Meadows'
+p1528
+aS'South Australia'
+p1529
+asS'4152'
+p1530
+(lp1531
+S'Carindale'
+p1532
+aS'Queensland'
+p1533
+asS'4019'
+p1534
+(lp1535
+S'Clontarf'
+p1536
+aS'Queensland'
+p1537
+asS'0829'
+p1538
+(lp1539
+S'Pinelands'
+p1540
+aS'Northern Territory'
+p1541
+asS'4157'
+p1542
+(lp1543
+S'Capalaba'
+p1544
+aS'Queensland'
+p1545
+asS'4154'
+p1546
+(lp1547
+S'Wakerley'
+p1548
+aS'Queensland'
+p1549
+asS'7330'
+p1550
+(lp1551
+S'Woolnorth'
+p1552
+aS'Tasmania'
+p1553
+asS'0822'
+p1554
+(lp1555
+S'Nguiu'
+p1556
+aS'Northern Territory'
+p1557
+asS'4012'
+p1558
+(lp1559
+S'Nundah'
+p1560
+aS'Queensland'
+p1561
+asS'0820'
+p1562
+(lp1563
+S'Bagot'
+p1564
+aS'Northern Territory'
+p1565
+asS'4159'
+p1566
+(lp1567
+S'Birkdale'
+p1568
+aS'Queensland'
+p1569
+asS'4014'
+p1570
+(lp1571
+S'Nudgee'
+p1572
+aS'Queensland'
+p1573
+asS'4005'
+p1574
+(lp1575
+S'New Farm'
+p1576
+aS'Queensland'
+p1577
+asS'7113'
+p1578
+(lp1579
+S'Franklin'
+p1580
+aS'Tasmania'
+p1581
+asS'7112'
+p1582
+(lp1583
+S'Gardners Bay'
+p1584
+aS'Tasmania'
+p1585
+asS'5472'
+p1586
+(lp1587
+S'Georgetown'
+p1588
+aS'South Australia'
+p1589
+asS'0811'
+p1590
+(lp1591
+S'Casuarina'
+p1592
+aS'Northern Territory'
+p1593
+asS'3041'
+p1594
+(lp1595
+S'Strathmore'
+p1596
+aS'Victoria'
+p1597
+asS'3040'
+p1598
+(lp1599
+S'Essendon West'
+p1600
+aS'Victoria'
+p1601
+asS'3043'
+p1602
+(lp1603
+S'Tullamarine'
+p1604
+aS'Victoria'
+p1605
+asS'0810'
+p1606
+(lp1607
+S'Alawa'
+p1608
+aS'Northern Territory'
+p1609
+asS'3044'
+p1610
+(lp1611
+S'Pascoe Vale'
+p1612
+aS'Victoria'
+p1613
+asS'3047'
+p1614
+(lp1615
+S'Broadmeadows'
+p1616
+aS'Victoria'
+p1617
+asS'5277'
+p1618
+(lp1619
+S'Penola'
+p1620
+aS'South Australia'
+p1621
+asS'5271'
+p1622
+(lp1623
+S'Naracoorte'
+p1624
+aS'South Australia'
+p1625
+asS'7053'
+p1626
+(lp1627
+S'Bonnet Hill'
+p1628
+aS'Tasmania'
+p1629
+asS'7050'
+p1630
+(lp1631
+S'Kingston'
+p1632
+aS'Tasmania'
+p1633
+asS'7051'
+p1634
+(lp1635
+S'Kingston'
+p1636
+aS'Tasmania'
+p1637
+asS'5278'
+p1638
+(lp1639
+S'Kalangadoo'
+p1640
+aS'South Australia'
+p1641
+asS'7054'
+p1642
+(lp1643
+S'Fern Tree'
+p1644
+aS'Tasmania'
+p1645
+asS'7249'
+p1646
+(lp1647
+S'Youngtown'
+p1648
+aS'Tasmania'
+p1649
+asS'3134'
+p1650
+(lp1651
+S'Ringwood'
+p1652
+aS'Victoria'
+p1653
+asS'3136'
+p1654
+(lp1655
+S'Croydon'
+p1656
+aS'Victoria'
+p1657
+asS'3131'
+p1658
+(lp1659
+S'Forest Hill'
+p1660
+aS'Victoria'
+p1661
+asS'3130'
+p1662
+(lp1663
+S'Blackburn North'
+p1664
+aS'Victoria'
+p1665
+asS'3132'
+p1666
+(lp1667
+S'Mitcham'
+p1668
+aS'Victoria'
+p1669
+asS'3139'
+p1670
+(lp1671
+S'Seville'
+p1672
+aS'Victoria'
+p1673
+asS'6014'
+p1674
+(lp1675
+S'Floreat'
+p1676
+aS'Western Australia'
+p1677
+asS'6011'
+p1678
+(lp1679
+S'Cottesloe'
+p1680
+aS'Western Australia'
+p1681
+asS'6010'
+p1682
+(lp1683
+S'Claremont'
+p1684
+aS'Western Australia'
+p1685
+asS'6015'
+p1686
+(lp1687
+S'City Beach'
+p1688
+aS'Western Australia'
+p1689
+asS'3039'
+p1690
+(lp1691
+S'Moonee Ponds'
+p1692
+aS'Victoria'
+p1693
+asS'6016'
+p1694
+(lp1695
+S'Mount Hawthorn'
+p1696
+aS'Western Australia'
+p1697
+asS'3034'
+p1698
+(lp1699
+S'Avondale Heights'
+p1700
+aS'Victoria'
+p1701
+asS'6018'
+p1702
+(lp1703
+S'Doubleview'
+p1704
+aS'Western Australia'
+p1705
+asS'3037'
+p1706
+(lp1707
+S'Delahey'
+p1708
+aS'Victoria'
+p1709
+asS'3031'
+p1710
+(lp1711
+S'Kensington'
+p1712
+aS'Victoria'
+p1713
+asS'6027'
+p1714
+(lp1715
+S'Ocean Reef'
+p1716
+aS'Western Australia'
+p1717
+asS'5011'
+p1718
+(lp1719
+S'Woodville'
+p1720
+aS'South Australia'
+p1721
+asS'5012'
+p1722
+(lp1723
+S'Woodville North'
+p1724
+aS'South Australia'
+p1725
+asS'5013'
+p1726
+(lp1727
+S'Rosewater East'
+p1728
+aS'South Australia'
+p1729
+asS'3168'
+p1730
+(lp1731
+S'Notting Hill'
+p1732
+aS'Victoria'
+p1733
+asS'5016'
+p1734
+(lp1735
+S'Peterhead'
+p1736
+aS'South Australia'
+p1737
+asS'5017'
+p1738
+(lp1739
+S'Taperoo'
+p1740
+aS'South Australia'
+p1741
+asS'5152'
+p1742
+(lp1743
+S'Stirling'
+p1744
+aS'South Australia'
+p1745
+asS'5154'
+p1746
+(lp1747
+S'Aldgate'
+p1748
+aS'South Australia'
+p1749
+asS'5157'
+p1750
+(lp1751
+S'Ashbourne'
+p1752
+aS'South Australia'
+p1753
+asS'3061'
+p1754
+(lp1755
+S'Campbellfield'
+p1756
+aS'Victoria'
+p1757
+asS'0871'
+p1758
+(lp1759
+S'Alice Springs'
+p1760
+aS'Northern Territory'
+p1761
+asS'5607'
+p1762
+(lp1763
+S'Wanilla'
+p1764
+aS'South Australia'
+p1765
+asS'5600'
+p1766
+(lp1767
+S'Whyalla'
+p1768
+aS'South Australia'
+p1769
+asS'4419'
+p1770
+(lp1771
+S'Wandoan'
+p1772
+aS'Queensland'
+p1773
+asS'4416'
+p1774
+(lp1775
+S'Condamine'
+p1776
+aS'Queensland'
+p1777
+asS'4413'
+p1778
+(lp1779
+S'Chinchilla'
+p1780
+aS'Queensland'
+p1781
+asS'3163'
+p1782
+(lp1783
+S'Carnegie'
+p1784
+aS'Victoria'
+p1785
+asS'6064'
+p1786
+(lp1787
+S'Koondoola'
+p1788
+aS'Western Australia'
+p1789
+asS'6065'
+p1790
+(lp1791
+S'Wangara'
+p1792
+aS'Western Australia'
+p1793
+asS'6067'
+p1794
+(lp1795
+S'Cullacabardee'
+p1796
+aS'Western Australia'
+p1797
+asS'6060'
+p1798
+(lp1799
+S'Tuart Hill'
+p1800
+aS'Western Australia'
+p1801
+asS'6061'
+p1802
+(lp1803
+S'Mirrabooka'
+p1804
+aS'Western Australia'
+p1805
+asS'6062'
+p1806
+(lp1807
+S'Embleton'
+p1808
+aS'Western Australia'
+p1809
+asS'2073'
+p1810
+(lp1811
+S'Pymble'
+p1812
+aS'New South Wales'
+p1813
+asS'2071'
+p1814
+(lp1815
+S'Killara'
+p1816
+aS'New South Wales'
+p1817
+asS'2070'
+p1818
+(lp1819
+S'East Lindfield'
+p1820
+aS'New South Wales'
+p1821
+asS'2077'
+p1822
+(lp1823
+S'Hornsby'
+p1824
+aS'New South Wales'
+p1825
+asS'2076'
+p1826
+(lp1827
+S'Wahroonga'
+p1828
+aS'New South Wales'
+p1829
+asS'2075'
+p1830
+(lp1831
+S'St Ives'
+p1832
+aS'New South Wales'
+p1833
+asS'2074'
+p1834
+(lp1835
+S'Warrawee'
+p1836
+aS'New South Wales'
+p1837
+asS'2604'
+p1838
+(lp1839
+S'Kingston'
+p1840
+aS'Australian Capital Territory'
+p1841
+asS'2605'
+p1842
+(lp1843
+S'Curtin'
+p1844
+aS'Australian Capital Territory'
+p1845
+asS'2606'
+p1846
+(lp1847
+S"O'Malley"
+p1848
+aS'Australian Capital Territory'
+p1849
+asS'2607'
+p1850
+(lp1851
+S'Pearce'
+p1852
+aS'Australian Capital Territory'
+p1853
+asS'2600'
+p1854
+(lp1855
+S'Duntroon'
+p1856
+aS'Australian Capital Territory'
+p1857
+asS'2601'
+p1858
+(lp1859
+S'Black Mountain'
+p1860
+aS'Australian Capital Territory'
+p1861
+asS'2602'
+p1862
+(lp1863
+S'Ainslie'
+p1864
+aS'Australian Capital Territory'
+p1865
+asS'2603'
+p1866
+(lp1867
+S'Red Hill'
+p1868
+aS'Australian Capital Territory'
+p1869
+asS'2608'
+p1870
+(lp1871
+S'Civic Square'
+p1872
+aS'Australian Capital Territory'
+p1873
+asS'2609'
+p1874
+(lp1875
+S'Fyshwick'
+p1876
+aS'Australian Capital Territory'
+p1877
+asS'4114'
+p1878
+(lp1879
+S'Woodridge'
+p1880
+aS'Queensland'
+p1881
+asS'4113'
+p1882
+(lp1883
+S'Eight Mile Plains'
+p1884
+aS'Queensland'
+p1885
+asS'4110'
+p1886
+(lp1887
+S'Acacia Ridge'
+p1888
+aS'Queensland'
+p1889
+asS'5125'
+p1890
+(lp1891
+S'Greenwith'
+p1892
+aS'South Australia'
+p1893
+asS'5126'
+p1894
+(lp1895
+S'Surrey Downs'
+p1896
+aS'South Australia'
+p1897
+asS'0862'
+p1898
+(lp1899
+S'Tennant Creek'
+p1900
+aS'Northern Territory'
+p1901
+asS'5121'
+p1902
+(lp1903
+S'Penfield'
+p1904
+aS'South Australia'
+p1905
+asS'4119'
+p1906
+(lp1907
+S'Underwood'
+p1908
+aS'Queensland'
+p1909
+asS'7270'
+p1910
+(lp1911
+S'Rowella'
+p1912
+aS'Tasmania'
+p1913
+asS'7277'
+p1914
+(lp1915
+S'Rosevears'
+p1916
+aS'Tasmania'
+p1917
+asS'7275'
+p1918
+(lp1919
+S'Frankford'
+p1920
+aS'Tasmania'
+p1921
+asS'5082'
+p1922
+(lp1923
+S'Prospect East'
+p1924
+aS'South Australia'
+p1925
+asS'5086'
+p1926
+(lp1927
+S'Hillcrest'
+p1928
+aS'South Australia'
+p1929
+asS'5085'
+p1930
+(lp1931
+S'Northgate'
+p1932
+aS'South Australia'
+p1933
+asS'5084'
+p1934
+(lp1935
+S'Blair Athol'
+p1936
+aS'South Australia'
+p1937
+asS'7264'
+p1938
+(lp1939
+S'Pioneer'
+p1940
+aS'Tasmania'
+p1941
+asS'7261'
+p1942
+(lp1943
+S'Branxholm'
+p1944
+aS'Tasmania'
+p1945
+asS'5333'
+p1946
+(lp1947
+S'Loxton'
+p1948
+aS'South Australia'
+p1949
+asS'7018'
+p1950
+(lp1951
+S'Rosny'
+p1952
+aS'Tasmania'
+p1953
+asS'7019'
+p1954
+(lp1955
+S'Clarendon Vale'
+p1956
+aS'Tasmania'
+p1957
+asS'7017'
+p1958
+(lp1959
+S'Tea Tree'
+p1960
+aS'Tasmania'
+p1961
+asS'6163'
+p1962
+(lp1963
+S'Spearwood'
+p1964
+aS'Western Australia'
+p1965
+asS'7010'
+p1966
+(lp1967
+S'Elwick'
+p1968
+aS'Tasmania'
+p1969
+asS'7011'
+p1970
+(lp1971
+S'Berriedale'
+p1972
+aS'Tasmania'
+p1973
+asS'5238'
+p1974
+(lp1975
+S'Mannum'
+p1976
+aS'South Australia'
+p1977
+asS'4060'
+p1978
+(lp1979
+S'Dorrington'
+p1980
+aS'Queensland'
+p1981
+asS'4066'
+p1982
+(lp1983
+S'Toowong'
+p1984
+aS'Queensland'
+p1985
+asS'4064'
+p1986
+(lp1987
+S'Milton'
+p1988
+aS'Queensland'
+p1989
+asS'4065'
+p1990
+(lp1991
+S'Bardon'
+p1992
+aS'Queensland'
+p1993
+asS'4068'
+p1994
+(lp1995
+S'Chelmer'
+p1996
+aS'Queensland'
+p1997
+asS'4740'
+p1998
+(lp1999
+S'Mackay'
+p2000
+aS'Queensland'
+p2001
+asS'5120'
+p2002
+(lp2003
+S'Virginia'
+p2004
+aS'South Australia'
+p2005
+asS'3071'
+p2006
+(lp2007
+S'Thornbury'
+p2008
+aS'Victoria'
+p2009
+asS'3073'
+p2010
+(lp2011
+S'Reservoir'
+p2012
+aS'Victoria'
+p2013
+asS'3074'
+p2014
+(lp2015
+S'Thomastown'
+p2016
+aS'Victoria'
+p2017
+asS'3076'
+p2018
+(lp2019
+S'Epping'
+p2020
+aS'Victoria'
+p2021
+asS'3078'
+p2022
+(lp2023
+S'Fairfield'
+p2024
+aS'Victoria'
+p2025
+asS'3170'
+p2026
+(lp2027
+S'Mulgrave'
+p2028
+aS'Victoria'
+p2029
+asS'3174'
+p2030
+(lp2031
+S'Noble Park'
+p2032
+aS'Victoria'
+p2033
+asS'5345'
+p2034
+(lp2035
+S'Barmera'
+p2036
+aS'South Australia'
+p2037
+asS'5341'
+p2038
+(lp2039
+S'Renmark'
+p2040
+aS'South Australia'
+p2041
+asS'6450'
+p2042
+(lp2043
+S'Esperance'
+p2044
+aS'Western Australia'
+p2045
+asS'7163'
+p2046
+(lp2047
+S'Middleton'
+p2048
+aS'Tasmania'
+p2049
+asS'6111'
+p2050
+(lp2051
+S'Kelmscott'
+p2052
+aS'Western Australia'
+p2053
+asS'6112'
+p2054
+(lp2055
+S'Brookdale'
+p2056
+aS'Western Australia'
+p2057
+asS'0886'
+p2058
+(lp2059
+S'Jabiru'
+p2060
+aS'Northern Territory'
+p2061
+asS'0880'
+p2062
+(lp2063
+S'Nhulunbuy'
+p2064
+aS'Northern Territory'
+p2065
+asS'6902'
+p2066
+(lp2067
+S'Leederville'
+p2068
+aS'Western Australia'
+p2069
+asS'4365'
+p2070
+(lp2071
+S'Leyburn'
+p2072
+aS'Queensland'
+p2073
+asS'2430'
+p2074
+(lp2075
+S'Tinonee'
+p2076
+aS'New South Wales'
+p2077
+asS'4455'
+p2078
+(lp2079
+S'Roma'
+p2080
+aS'Queensland'
+p2081
+asS'3109'
+p2082
+(lp2083
+S'Doncaster Heights'
+p2084
+aS'Victoria'
+p2085
+asS'3104'
+p2086
+(lp2087
+S'Balwyn North'
+p2088
+aS'Victoria'
+p2089
+asS'3106'
+p2090
+(lp2091
+S'Templestowe'
+p2092
+aS'Victoria'
+p2093
+asS'3195'
+p2094
+(lp2095
+S'Mordialloc'
+p2096
+aS'Victoria'
+p2097
+asS'3102'
+p2098
+(lp2099
+S'Kew East'
+p2100
+aS'Victoria'
+p2101
+asS'6028'
+p2102
+(lp2103
+S'Currambine'
+p2104
+aS'Western Australia'
+p2105
+asS'6020'
+p2106
+(lp2107
+S'Marmion'
+p2108
+aS'Western Australia'
+p2109
+asS'6330'
+p2110
+(lp2111
+S'Albany'
+p2112
+aS'Western Australia'
+p2113
+asS'7139'
+p2114
+(lp2115
+S'Strathgordon'
+p2116
+aS'Tasmania'
+p2117
+asS'6023'
+p2118
+(lp2119
+S'Duncraig'
+p2120
+aS'Western Australia'
+p2121
+asS'6025'
+p2122
+(lp2123
+S'Padbury'
+p2124
+aS'Western Australia'
+p2125
+asS'6026'
+p2126
+(lp2127
+S'Woodvale'
+p2128
+aS'Western Australia'
+p2129
+asS'1363'
+p2130
+(lp2131
+S'Moore Park'
+p2132
+aS'New South Wales'
+p2133
+asS'5161'
+p2134
+(lp2135
+S'Reynella'
+p2136
+aS'South Australia'
+p2137
+asS'5165'
+p2138
+(lp2139
+S'Christies Beach'
+p2140
+aS'South Australia'
+p2141
+asS'4169'
+p2142
+(lp2143
+S'Kangaroo Point'
+p2144
+aS'Queensland'
+p2145
+asS'5169'
+p2146
+(lp2147
+S'Seaford Heights'
+p2148
+aS'South Australia'
+p2149
+asS'5024'
+p2150
+(lp2151
+S'Fulham'
+p2152
+aS'South Australia'
+p2153
+asS'5049'
+p2154
+(lp2155
+S'Seacliff'
+p2156
+aS'South Australia'
+p2157
+asS'5046'
+p2158
+(lp2159
+S'Warradale North'
+p2160
+aS'South Australia'
+p2161
+asS'5045'
+p2162
+(lp2163
+S'Glenelg South'
+p2164
+aS'South Australia'
+p2165
+asS'5042'
+p2166
+(lp2167
+S'Pasadena'
+p2168
+aS'South Australia'
+p2169
+asS'5041'
+p2170
+(lp2171
+S'Daw Park'
+p2172
+aS'South Australia'
+p2173
+asS'1800'
+p2174
+(lp2175
+S'Ashfield'
+p2176
+aS'New South Wales'
+p2177
+asS'3197'
+p2178
+(lp2179
+S'Carrum'
+p2180
+aS'Victoria'
+p2181
+asS'2000'
+p2182
+(lp2183
+S'Millers Point'
+p2184
+aS'New South Wales'
+p2185
+asS'3194'
+p2186
+(lp2187
+S'Mentone'
+p2188
+aS'Victoria'
+p2189
+asS'2006'
+p2190
+(lp2191
+S'The University Of Sydney'
+p2192
+aS'New South Wales'
+p2193
+asS'2007'
+p2194
+(lp2195
+S'Ultimo'
+p2196
+aS'New South Wales'
+p2197
+asS'3190'
+p2198
+(lp2199
+S'Highett'
+p2200
+aS'Victoria'
+p2201
+asS'2008'
+p2202
+(lp2203
+S'Darlington'
+p2204
+aS'New South Wales'
+p2205
+asS'7467'
+p2206
+(lp2207
+S'Queenstown'
+p2208
+aS'Tasmania'
+p2209
+asS'6230'
+p2210
+(lp2211
+S'South Bunbury'
+p2212
+aS'Western Australia'
+p2213
+as.

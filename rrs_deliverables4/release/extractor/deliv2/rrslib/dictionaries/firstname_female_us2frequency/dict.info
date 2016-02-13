@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="firstname_female_us2frequency"/>
+    <type value="dict"/>
+    <keysize value="4275"/>
+    <valuesize value="249"/>
+    <min-key-length value="2"/>
+    <simplekeys value="True"/>
+</rrsdictionary>

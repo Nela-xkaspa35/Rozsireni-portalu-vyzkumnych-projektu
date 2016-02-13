@@ -1,0 +1,494 @@
+(lp1
+S'Afghanistan'
+p2
+aS'Albania'
+p3
+aS'Algeria'
+p4
+aS'American Samoa'
+p5
+aS'Andorra'
+p6
+aS'Angola'
+p7
+aS'Anguilla'
+p8
+aS'Antarctica'
+p9
+aS'Antigua and Barbuda'
+p10
+aS'Argentina'
+p11
+aS'Armenia'
+p12
+aS'Aruba'
+p13
+aS'Australia'
+p14
+aS'Austria'
+p15
+aS'Azerbaijan'
+p16
+aS'Bahamas'
+p17
+aS'Bahrain'
+p18
+aS'Bangladesh'
+p19
+aS'Barbados'
+p20
+aS'Belarus'
+p21
+aS'Belgium'
+p22
+aS'Belize'
+p23
+aS'Benin'
+p24
+aS'Bermuda'
+p25
+aS'Bhutan'
+p26
+aS'Bolivia'
+p27
+aS'Bosnia and Herzegovina'
+p28
+aS'Botswana'
+p29
+aS'Bouvet Island (Bouvetoya)'
+p30
+aS'Brazil'
+p31
+aS'British Indian Ocean Territory (Chagos Archipelago)'
+p32
+aS'British Virgin Islands'
+p33
+aS'Brunei Darussalam'
+p34
+aS'Bulgaria'
+p35
+aS'Burkina Faso'
+p36
+aS'Burundi'
+p37
+aS'Cambodia'
+p38
+aS'Cameroon'
+p39
+aS'Canada'
+p40
+aS'Cape Verde'
+p41
+aS'Cayman Islands'
+p42
+aS'Central African Republic'
+p43
+aS'Chad'
+p44
+aS'Chile'
+p45
+aS'China'
+p46
+aS'Christmas Island'
+p47
+aS'Cocos (Keeling) Islands'
+p48
+aS'Colombia'
+p49
+aS'Comoros'
+p50
+aS'Congo'
+p51
+aS'Cook Islands'
+p52
+aS'Costa Rica'
+p53
+aS"Cote d'Ivoire"
+p54
+aS'Croatia'
+p55
+aS'Cuba'
+p56
+aS'Cyprus'
+p57
+aS'Czech Republic'
+p58
+aS'Denmark'
+p59
+aS'Djibouti'
+p60
+aS'Dominica'
+p61
+aS'Dominican Republic'
+p62
+aS'Ecuador'
+p63
+aS'Egypt'
+p64
+aS'El Salvador'
+p65
+aS'Equatorial Guinea'
+p66
+aS'Eritrea'
+p67
+aS'Estonia'
+p68
+aS'Ethiopia'
+p69
+aS'Falkland Islands (Malvinas)'
+p70
+aS'Faroe Islands'
+p71
+aS'Fiji'
+p72
+aS'Finland'
+p73
+aS'France'
+p74
+aS'French Guiana'
+p75
+aS'French Polynesia'
+p76
+aS'French Southern Territories'
+p77
+aS'Gabon'
+p78
+aS'Gambia'
+p79
+aS'Georgia'
+p80
+aS'Germany'
+p81
+aS'Ghana'
+p82
+aS'Gibraltar'
+p83
+aS'Greece'
+p84
+aS'Greenland'
+p85
+aS'Grenada'
+p86
+aS'Guadeloupe'
+p87
+aS'Guam'
+p88
+aS'Guatemala'
+p89
+aS'Guernsey'
+p90
+aS'Guinea'
+p91
+aS'Guinea-Bissau'
+p92
+aS'Guyana'
+p93
+aS'Haiti'
+p94
+aS'Heard Island and McDonald Islands'
+p95
+aS'Holy See (Vatican City State)'
+p96
+aS'Honduras'
+p97
+aS'Hong Kong'
+p98
+aS'Hungary'
+p99
+aS'Iceland'
+p100
+aS'India'
+p101
+aS'Indonesia'
+p102
+aS'Iran'
+p103
+aS'Iraq'
+p104
+aS'Ireland'
+p105
+aS'Isle of Man'
+p106
+aS'Israel'
+p107
+aS'Italy'
+p108
+aS'Jamaica'
+p109
+aS'Japan'
+p110
+aS'Jersey'
+p111
+aS'Jordan'
+p112
+aS'Kazakhstan'
+p113
+aS'Kenya'
+p114
+aS'Kiribati'
+p115
+aS'Korea'
+p116
+aS'Kuwait'
+p117
+aS'Kyrgyz Republic'
+p118
+aS"Lao People's Democratic Republic"
+p119
+aS'Latvia'
+p120
+aS'Lebanon'
+p121
+aS'Lesotho'
+p122
+aS'Liberia'
+p123
+aS'Libyan Arab Jamahiriya'
+p124
+aS'Liechtenstein'
+p125
+aS'Lithuania'
+p126
+aS'Luxembourg'
+p127
+aS'Macao'
+p128
+aS'Macedonia'
+p129
+aS'Madagascar'
+p130
+aS'Malawi'
+p131
+aS'Malaysia'
+p132
+aS'Maldives'
+p133
+aS'Mali'
+p134
+aS'Malta'
+p135
+aS'Marshall Islands'
+p136
+aS'Martinique'
+p137
+aS'Mauritania'
+p138
+aS'Mauritius'
+p139
+aS'Mayotte'
+p140
+aS'Mexico'
+p141
+aS'Micronesia'
+p142
+aS'Moldova'
+p143
+aS'Monaco'
+p144
+aS'Mongolia'
+p145
+aS'Montenegro'
+p146
+aS'Montserrat'
+p147
+aS'Morocco'
+p148
+aS'Mozambique'
+p149
+aS'Myanmar'
+p150
+aS'Namibia'
+p151
+aS'Nauru'
+p152
+aS'Nepal'
+p153
+aS'Netherlands'
+p154
+aS'Netherlands Antilles'
+p155
+aS'New Caledonia'
+p156
+aS'New Zealand'
+p157
+aS'Nicaragua'
+p158
+aS'Niger'
+p159
+aS'Nigeria'
+p160
+aS'Niue'
+p161
+aS'Norfolk Island'
+p162
+aS'Northern Mariana Islands'
+p163
+aS'Norway'
+p164
+aS'Oman'
+p165
+aS'Pakistan'
+p166
+aS'Palau'
+p167
+aS'Palestinian Territory'
+p168
+aS'Panama'
+p169
+aS'Papua New Guinea'
+p170
+aS'Paraguay'
+p171
+aS'Peru'
+p172
+aS'Philippines'
+p173
+aS'Pitcairn Islands'
+p174
+aS'Poland'
+p175
+aS'Portugal'
+p176
+aS'Puerto Rico'
+p177
+aS'Qatar'
+p178
+aS'Reunion'
+p179
+aS'Romania'
+p180
+aS'Russian Federation'
+p181
+aS'Rwanda'
+p182
+aS'Saint Barthelemy'
+p183
+aS'Saint Helena'
+p184
+aS'Saint Kitts and Nevis'
+p185
+aS'Saint Lucia'
+p186
+aS'Saint Martin'
+p187
+aS'Saint Pierre and Miquelon'
+p188
+aS'Saint Vincent and the Grenadines'
+p189
+aS'Samoa'
+p190
+aS'San Marino'
+p191
+aS'Sao Tome and Principe'
+p192
+aS'Saudi Arabia'
+p193
+aS'Senegal'
+p194
+aS'Serbia'
+p195
+aS'Seychelles'
+p196
+aS'Sierra Leone'
+p197
+aS'Singapore'
+p198
+aS'Slovakia (Slovak Republic)'
+p199
+aS'Slovenia'
+p200
+aS'Solomon Islands'
+p201
+aS'Somalia'
+p202
+aS'South Africa'
+p203
+aS'South Georgia and the South Sandwich Islands'
+p204
+aS'Spain'
+p205
+aS'Sri Lanka'
+p206
+aS'Sudan'
+p207
+aS'Suriname'
+p208
+aS'Svalbard & Jan Mayen Islands'
+p209
+aS'Swaziland'
+p210
+aS'Sweden'
+p211
+aS'Switzerland'
+p212
+aS'Syrian Arab Republic'
+p213
+aS'Taiwan'
+p214
+aS'Tajikistan'
+p215
+aS'Tanzania'
+p216
+aS'Thailand'
+p217
+aS'Timor-Leste'
+p218
+aS'Togo'
+p219
+aS'Tokelau'
+p220
+aS'Tonga'
+p221
+aS'Trinidad and Tobago'
+p222
+aS'Tunisia'
+p223
+aS'Turkey'
+p224
+aS'Turkmenistan'
+p225
+aS'Turks and Caicos Islands'
+p226
+aS'Tuvalu'
+p227
+aS'USA'
+p228
+aS'Uganda'
+p229
+aS'Ukraine'
+p230
+aS'United Arab Emirates'
+p231
+aS'United Kingdom of Great Britain & Northern Ireland'
+p232
+aS'United States'
+p233
+aS'United States Minor Outlying Islands'
+p234
+aS'United States Virgin Islands'
+p235
+aS'United States of America'
+p236
+aS'Uruguay'
+p237
+aS'Uzbekistan'
+p238
+aS'Vanuatu'
+p239
+aS'Venezuela'
+p240
+aS'Vietnam'
+p241
+aS'Wallis and Futuna'
+p242
+aS'Western Sahara'
+p243
+aS'Yemen'
+p244
+aS'Zambia'
+p245
+aS'Zimbabwe'
+p246
+aS'\xc3\x85land Islands'
+p247
+a.

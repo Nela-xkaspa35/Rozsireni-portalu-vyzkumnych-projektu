@@ -1,0 +1,13671 @@
+(dp1
+S'580 01'
+p2
+(lp3
+S'Jedouchov'
+p4
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p5
+asS'742 83'
+p6
+(lp7
+S'Josefovice'
+p8
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p9
+asS'742 82'
+p10
+(lp11
+S'Jistebn\xc3\xadk'
+p12
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p13
+asS'517 35'
+p14
+(lp15
+S'Li\xc4\x8dno'
+p16
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p17
+asS'517 36'
+p18
+(lp19
+S'Ole\xc5\xa1nice'
+p20
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p21
+asS'517 31'
+p22
+(lp23
+S'Boleho\xc5\xa1\xc5\xa5sk\xc3\xa1 Lhota'
+p24
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p25
+asS'517 32'
+p26
+(lp27
+S'P\xc5\x99epychy'
+p28
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p29
+asS'285 32'
+p30
+(lp31
+S'Hl\xc3\xadzov'
+p32
+aS'Kutn\xc3\xa1 Hora'
+p33
+asS'285 33'
+p34
+(lp35
+S'C\xc3\xadrkvice'
+p36
+aS'Kutn\xc3\xa1 Hora'
+p37
+asS'763 41'
+p38
+(lp39
+S'Polichno'
+p40
+aS'Zl\xc3\xadn'
+p41
+asS'251 01'
+p42
+(lp43
+S'B\xc5\x99ez\xc3\xad'
+p44
+aS'Praha-v\xc3\xbdchod'
+p45
+asS'440 01'
+p46
+(lp47
+S'T\xc5\x99t\xc4\x9bno'
+p48
+aS'Louny'
+p49
+asS'294 30'
+p50
+(lp51
+S'P\xc4\x9btikozly'
+p52
+aS'Mlad\xc3\xa1 Boleslav'
+p53
+asS'294 31'
+p54
+(lp55
+S'Stra\xc5\xa1nov'
+p56
+aS'Mlad\xc3\xa1 Boleslav'
+p57
+asS'252 41'
+p58
+(lp59
+S'Zlatn\xc3\xadky'
+p60
+aS'Praha-z\xc3\xa1pad'
+p61
+asS'552 12'
+p62
+(lp63
+S'He\xc5\x99manice'
+p64
+aS'N\xc3\xa1chod'
+p65
+asS'252 45'
+p66
+(lp67
+S'Ohrobec'
+p68
+aS'Praha-z\xc3\xa1pad'
+p69
+asS'252 44'
+p70
+(lp71
+S'Doln\xc3\xad Jir\xc4\x8dany'
+p72
+aS'Praha-z\xc3\xa1pad'
+p73
+asS'691 44'
+p74
+(lp75
+S'Nejdek'
+p76
+aS'B\xc5\x99eclav'
+p77
+asS'407 82'
+p78
+(lp79
+S'Nov\xc3\xa1 V\xc3\xadska'
+p80
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p81
+asS'407 80'
+p82
+(lp83
+S'Dolina'
+p84
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p85
+asS'384 21'
+p86
+(lp87
+S'V\xc3\xadcemily'
+p88
+aS'Prachatice'
+p89
+asS'798 13'
+p90
+(lp91
+S'Vrb\xc3\xa1tky'
+p92
+aS'Prost\xc4\x9bjov'
+p93
+asS'384 22'
+p94
+(lp95
+S'Horn\xc3\xad Nakvasovice'
+p96
+aS'Prachatice'
+p97
+asS'798 17'
+p98
+(lp99
+S'Smr\xc5\xbeice'
+p100
+aS'Prost\xc4\x9bjov'
+p101
+asS'798 16'
+p102
+(lp103
+S'\xc4\x8celechovice na Han\xc3\xa9'
+p104
+aS'Prost\xc4\x9bjov'
+p105
+asS'391 01'
+p106
+(lp107
+S'Sezimovo \xc3\x9ast\xc3\xad (\xc4\x8d\xc3\xa1st)'
+p108
+aS'T\xc3\xa1bor'
+p109
+asS'383 01'
+p110
+(lp111
+S'J\xc3\xa1ma'
+p112
+aS'Prachatice'
+p113
+asS'756 62'
+p114
+(lp115
+S'Hutisko'
+p116
+aS'Vset\xc3\xadn'
+p117
+asS'591 02'
+p118
+(lp119
+S'Cikh\xc3\xa1j'
+p120
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p121
+asS'591 01'
+p122
+(lp123
+S'Vojn\xc5\xafv M\xc4\x9bstec'
+p124
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p125
+asS'763 45'
+p126
+(lp127
+S'Doubravy'
+p128
+aS'Zl\xc3\xadn'
+p129
+asS'388 01'
+p130
+(lp131
+S'Hn\xc4\x9bvkov'
+p132
+aS'Strakonice'
+p133
+asS'747 47'
+p134
+(lp135
+S'Kloko\xc4\x8dov'
+p136
+aS'Opava'
+p137
+asS'747 44'
+p138
+(lp139
+S'B\xc5\x99ezov\xc3\xa1'
+p140
+aS'Opava'
+p141
+asS'747 45'
+p142
+(lp143
+S'Sk\xc5\x99ipov'
+p144
+aS'Opava'
+p145
+asS'747 41'
+p146
+(lp147
+S'Jakub\xc4\x8dovice'
+p148
+aS'Opava'
+p149
+asS'512 51'
+p150
+(lp151
+S'Rv\xc3\xa1\xc4\x8dov'
+p152
+aS'Semily'
+p153
+asS'512 53'
+p154
+(lp155
+S'Radostn\xc3\xa1 pod Koz\xc3\xa1kovem'
+p156
+aS'Semily'
+p157
+asS'512 52'
+p158
+(lp159
+S'Bezd\xc4\x9b\xc4\x8d\xc3\xadn'
+p160
+aS'Semily'
+p161
+asS'331 65'
+p162
+(lp163
+S'Kalec'
+p164
+aS'Plze\xc5\x88-sever'
+p165
+asS'588 22'
+p166
+(lp167
+S'Ot\xc3\xadn'
+p168
+aS'Jihlava'
+p169
+asS'588 21'
+p170
+(lp171
+S'Jeclov'
+p172
+aS'Jihlava'
+p173
+asS'364 01'
+p174
+(lp175
+S'Luhov'
+p176
+aS'Karlovy Vary'
+p177
+asS'331 62'
+p178
+(lp179
+S'Jedvaniny'
+p180
+aS'Plze\xc5\x88-sever'
+p181
+asS'378 62'
+p182
+(lp183
+S'Kun\xc5\xbeak'
+p184
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p185
+asS'330 41'
+p186
+(lp187
+S'\xc3\x9ater\xc3\xbd'
+p188
+aS'Plze\xc5\x88-sever'
+p189
+asS'378 61'
+p190
+(lp191
+S'\xc4\x8clunek'
+p192
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p193
+asS'338 28'
+p194
+(lp195
+S'Kamenec'
+p196
+aS'Rokycany'
+p197
+asS'338 22'
+p198
+(lp199
+S'Svojkovice'
+p200
+aS'Rokycany'
+p201
+asS'338 24'
+p202
+(lp203
+S'V\xc5\xa1enice'
+p204
+aS'Rokycany'
+p205
+asS'569 71'
+p206
+(lp207
+S'Pomez\xc3\xad'
+p208
+aS'Svitavy'
+p209
+asS'569 74'
+p210
+(lp211
+S'Trp\xc3\xadn'
+p212
+aS'Svitavy'
+p213
+asS'507 81'
+p214
+(lp215
+S'H\xc5\x99\xc3\xaddelec'
+p216
+aS'Ji\xc4\x8d\xc3\xadn'
+p217
+asS'507 82'
+p218
+(lp219
+S'Kal'
+p220
+aS'Ji\xc4\x8d\xc3\xadn'
+p221
+asS'405 05'
+p222
+(lp223
+S'D\xc4\x9b\xc4\x8d\xc3\xadn XX-Nov\xc3\xa1 Ves'
+p224
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p225
+asS'410 02'
+p226
+(lp227
+S'Chotim\xc4\x9b\xc5\x99'
+p228
+aS'Litom\xc4\x9b\xc5\x99ice'
+p229
+asS'405 02'
+p230
+(lp231
+S'Chmelnice-D\xc4\x9b\xc4\x8d\xc3\xadn XXV x)'
+p232
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p233
+asS'351 01'
+p234
+(lp235
+S'Doln\xc3\xad Lomany'
+p236
+aS'Cheb'
+p237
+asS'417 04'
+p238
+(lp239
+S'Verne\xc5\x99ice'
+p240
+aS'Teplice'
+p241
+asS'417 05'
+p242
+(lp243
+S'Dlouh\xc3\xa1 Louka'
+p244
+aS'Teplice'
+p245
+asS'417 02'
+p246
+(lp247
+S'Drah\xc5\xafnky'
+p248
+aS'Teplice'
+p249
+asS'417 03'
+p250
+(lp251
+S'Msti\xc5\xa1ov'
+p252
+aS'Teplice'
+p253
+asS'793 83'
+p254
+(lp255
+S'Arnultovice'
+p256
+aS'Brunt\xc3\xa1l'
+p257
+asS'793 82'
+p258
+(lp259
+S'Rud\xc3\xadkovy'
+p260
+aS'Brunt\xc3\xa1l'
+p261
+asS'793 84'
+p262
+(lp263
+S'Janov'
+p264
+aS'Brunt\xc3\xa1l'
+p265
+asS'666 01'
+p266
+(lp267
+S'\xc5\xbdern\xc5\xafvka'
+p268
+aS'Brno-venkov'
+p269
+asS'666 02'
+p270
+(lp271
+S'\xc5\xa0t\xc4\x9bp\xc3\xa1novice'
+p272
+aS'Brno-venkov'
+p273
+asS'666 03'
+p274
+(lp275
+S'Malhostovice'
+p276
+aS'Brno-venkov'
+p277
+asS'108 00'
+p278
+(lp279
+S'Male\xc5\xa1ice (\xc4\x8d\xc3\xa1st)'
+p280
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p281
+asS'739 36'
+p282
+(lp283
+S'Bruzovice'
+p284
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p285
+asS'739 37'
+p286
+(lp287
+S'Prost\xc5\x99edn\xc3\xad Bludovice'
+p288
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p289
+asS'739 34'
+p290
+(lp291
+S'V\xc3\xa1clavovice'
+p292
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p293
+asS'739 32'
+p294
+(lp295
+S'\xc5\x98epi\xc5\xa1t\xc4\x9b'
+p296
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p297
+asS'692 01'
+p298
+(lp299
+S'Horn\xc3\xad V\xc4\x9bstonice'
+p300
+aS'B\xc5\x99eclav'
+p301
+asS'676 02'
+p302
+(lp303
+S'Lukov'
+p304
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p305
+asS'370 01'
+p306
+(lp307
+S'Vr\xc3\xa1b\xc4\x8de'
+p308
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p309
+asS'735 42'
+p310
+(lp311
+S'Doln\xc3\xad T\xc4\x9brlicko'
+p312
+aS'Karvin\xc3\xa1'
+p313
+asS'370 05'
+p314
+(lp315
+S'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice 2 (\xc4\x8d\xc3\xa1st)'
+p316
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p317
+asS'370 06'
+p318
+(lp319
+S'Zborov'
+p320
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p321
+asS'370 07'
+p322
+(lp323
+S'Roudn\xc3\xa9'
+p324
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p325
+asS'703 00'
+p326
+(lp327
+S'Ostrava-V\xc3\xadtkovice x)'
+p328
+aS'Ostrava-m\xc4\x9bsto'
+p329
+asS'435 13'
+p330
+(lp331
+S'Mezibo\xc5\x99\xc3\xad'
+p332
+aS'Most'
+p333
+asS'696 18'
+p334
+(lp335
+S'Lu\xc5\xbeice'
+p336
+aS'Hodon\xc3\xadn'
+p337
+asS'696 14'
+p338
+(lp339
+S'\xc4\x8cej\xc4\x8d'
+p340
+aS'Hodon\xc3\xadn'
+p341
+asS'696 16'
+p342
+(lp343
+S'Nov\xc3\xbd Poddvorov'
+p344
+aS'Hodon\xc3\xadn'
+p345
+asS'696 12'
+p346
+(lp347
+S'Hovorany'
+p348
+aS'Hodon\xc3\xadn'
+p349
+asS'468 50'
+p350
+(lp351
+S'Polubn\xc3\xbd'
+p352
+aS'Jablonec nad Nisou'
+p353
+asS'262 31'
+p354
+(lp355
+S'Rti\xc5\xa1ovice'
+p356
+aS'P\xc5\x99\xc3\xadbram'
+p357
+asS'748 01'
+p358
+(lp359
+S'Hlu\xc4\x8d\xc3\xadn'
+p360
+aS'Opava'
+p361
+asS'683 01'
+p362
+(lp363
+S'Habrovany'
+p364
+aS'Vy\xc5\xa1kov'
+p365
+asS'417 25'
+p366
+(lp367
+S'Laho\xc5\xa1\xc5\xa5'
+p368
+aS'Teplice'
+p369
+asS'252 43'
+p370
+(lp371
+S'Rozko\xc5\xa1'
+p372
+aS'Praha-z\xc3\xa1pad'
+p373
+asS'270 62'
+p374
+(lp375
+S'Rynholec'
+p376
+aS'Rakovn\xc3\xadk'
+p377
+asS'270 65'
+p378
+(lp379
+S'Srbe\xc4\x8d'
+p380
+aS'Rakovn\xc3\xadk'
+p381
+asS'270 64'
+p382
+(lp383
+S'Lodenice'
+p384
+aS'Rakovn\xc3\xadk'
+p385
+asS'252 42'
+p386
+(lp387
+S'Osnice'
+p388
+aS'Praha-z\xc3\xa1pad'
+p389
+asS'582 77'
+p390
+(lp391
+S'Libick\xc3\xa1 Lhotka'
+p392
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p393
+asS'582 74'
+p394
+(lp395
+S'Je\xc5\x99i\xc5\xa1no'
+p396
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p397
+asS'783 01'
+p398
+(lp399
+S'Slavon\xc3\xadn'
+p400
+aS'Olomouc'
+p401
+asS'582 72'
+p402
+(lp403
+S'Rozsochatec'
+p404
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p405
+asS'582 73'
+p406
+(lp407
+S'Nov\xc3\xa1 Ves u Chot\xc4\x9bbo\xc5\x99e'
+p408
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p409
+asS'582 71'
+p410
+(lp411
+S'Doln\xc3\xad Krup\xc3\xa1'
+p412
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p413
+asS'277 03'
+p414
+(lp415
+S'K\xc5\x99ivenice'
+p416
+aS'M\xc4\x9bln\xc3\xadk'
+p417
+asS'277 01'
+p418
+(lp419
+S'Doln\xc3\xad Be\xc5\x99kovice'
+p420
+aS'M\xc4\x9bln\xc3\xadk'
+p421
+asS'277 06'
+p422
+(lp423
+S'Lu\xc5\xbeec nad Vltavou'
+p424
+aS'M\xc4\x9bln\xc3\xadk'
+p425
+asS'277 07'
+p426
+(lp427
+S'Ml\xc4\x8dechvosty'
+p428
+aS'M\xc4\x9bln\xc3\xadk'
+p429
+asS'277 05'
+p430
+(lp431
+S'Jevin\xc4\x9bves'
+p432
+aS'M\xc4\x9bln\xc3\xadk'
+p433
+asS'518 01'
+p434
+(lp435
+S'Bohda\xc5\xa1\xc3\xadn'
+p436
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p437
+asS'431 02'
+p438
+(lp439
+S'Vysok\xc3\xa1'
+p440
+aS'Chomutov'
+p441
+asS'431 01'
+p442
+(lp443
+S'Spo\xc5\x99ice'
+p444
+aS'Chomutov'
+p445
+asS'257 08'
+p446
+(lp447
+S'Na\xc4\x8deradec'
+p448
+aS'Bene\xc5\xa1ov'
+p449
+asS'507 12'
+p450
+(lp451
+S'Radim'
+p452
+aS'Ji\xc4\x8d\xc3\xadn'
+p453
+asS'439 26'
+p454
+(lp455
+S'Lib\xc4\x8deves'
+p456
+aS'Louny'
+p457
+asS'683 41'
+p458
+(lp459
+S'Chvalkovice'
+p460
+aS'Vy\xc5\xa1kov'
+p461
+asS'439 22'
+p462
+(lp463
+S'Cho\xc5\xbeov'
+p464
+aS'Louny'
+p465
+asS'439 23'
+p466
+(lp467
+S'Lene\xc5\xa1ice'
+p468
+aS'Louny'
+p469
+asS'373 63'
+p470
+(lp471
+S'\xc5\xa0ev\xc4\x9bt\xc3\xadn'
+p472
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p473
+asS'373 62'
+p474
+(lp475
+S'Chot\xc3\xbd\xc4\x8dany'
+p476
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p477
+asS'373 61'
+p478
+(lp479
+S'Hrd\xc4\x9bjovice'
+p480
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p481
+asS'373 66'
+p482
+(lp483
+S'\xc5\xbdimutice'
+p484
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p485
+asS'373 65'
+p486
+(lp487
+S'Horn\xc3\xad Bukovsko'
+p488
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p489
+asS'542 36'
+p490
+(lp491
+S'Lib\xc5\x88atov'
+p492
+aS'Trutnov'
+p493
+asS'542 37'
+p494
+(lp495
+S'Bat\xc5\x88ovice'
+p496
+aS'Trutnov'
+p497
+asS'542 34'
+p498
+(lp499
+S'Str\xc3\xa1\xc5\xbekovice'
+p500
+aS'Trutnov'
+p501
+asS'542 32'
+p502
+(lp503
+S'Suchovr\xc5\xa1ice'
+p504
+aS'Trutnov'
+p505
+asS'542 33'
+p506
+(lp507
+S'Rtyn\xc4\x9b v Podkrkono\xc5\xa1\xc3\xad'
+p508
+aS'Trutnov'
+p509
+asS'463 34'
+p510
+(lp511
+S'Horn\xc3\xad Sedlo'
+p512
+aS'Liberec'
+p513
+asS'679 04'
+p514
+(lp515
+S'Adamov'
+p516
+aS'Blansko'
+p517
+asS'463 31'
+p518
+(lp519
+S'Doln\xc3\xad Chrastava'
+p520
+aS'Liberec'
+p521
+asS'671 68'
+p522
+(lp523
+S'\xc5\xa0anov'
+p524
+aS'Znojmo'
+p525
+asS'387 32'
+p526
+(lp527
+S'Sedlice'
+p528
+aS'Strakonice'
+p529
+asS'686 06'
+p530
+(lp531
+S'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b (\xc4\x8d\xc3\xa1st'
+p532
+aS'S\xc3\xaddli\xc5\xa1t\xc4\x9b Mojm\xc3\xadr)'
+p533
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p534
+asS'671 67'
+p535
+(lp536
+S'Hru\xc5\xa1ovany nad Jevi\xc5\xa1ovkou'
+p537
+aS'Znojmo'
+p538
+asS'686 04'
+p539
+(lp540
+S'M\xc3\xadkovice'
+p541
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p542
+asS'671 65'
+p543
+(lp544
+S'\xc4\x8cejkovice'
+p545
+aS'Znojmo'
+p546
+asS'671 62'
+p547
+(lp548
+S'Oleksovice'
+p549
+aS'Znojmo'
+p550
+asS'686 03'
+p551
+(lp552
+S'Star\xc3\xa9 M\xc4\x9bsto'
+p553
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p554
+asS'686 01'
+p555
+(lp556
+S'Sady'
+p557
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p558
+asS'788 03'
+p559
+(lp560
+S'Mlado\xc5\x88ov'
+p561
+aS'\xc5\xa0umperk'
+p562
+asS'788 01'
+p563
+(lp564
+S'Mostkov'
+p565
+aS'\xc5\xa0umperk'
+p566
+asS'345 25'
+p567
+(lp568
+S'Byst\xc5\x99ice'
+p569
+aS'Doma\xc5\xbelice'
+p570
+asS'788 04'
+p571
+(lp572
+S'Doln\xc3\xad Ole\xc5\xa1n\xc3\xa1'
+p573
+aS'\xc5\xa0umperk'
+p574
+asS'387 37'
+p575
+(lp576
+S'T\xc5\x99ebohostice'
+p577
+aS'Strakonice'
+p578
+asS'387 75'
+p579
+(lp580
+S'Sko\xc4\x8dice'
+p581
+aS'Strakonice'
+p582
+asS'387 73'
+p583
+(lp584
+S'\xc3\x9at\xc4\x9b\xc5\xa1ov'
+p585
+aS'Strakonice'
+p586
+asS'387 72'
+p587
+(lp588
+S'Lib\xc4\x9bjovice'
+p589
+aS'Strakonice'
+p590
+asS'679 02'
+p591
+(lp592
+S'Kuni\xc4\x8dky'
+p593
+aS'Blansko'
+p594
+asS'739 11'
+p595
+(lp596
+S'Pstru\xc5\xbe\xc3\xad'
+p597
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p598
+asS'274 01'
+p599
+(lp600
+S'\xc5\xbdelev\xc4\x8dice'
+p601
+aS'Kladno'
+p602
+asS'739 12'
+p603
+(lp604
+S'\xc4\x8celadn\xc3\xa1'
+p605
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p606
+asS'273 21'
+p607
+(lp608
+S'Lun\xc3\xadkov'
+p609
+aS'Kladno'
+p610
+asS'273 22'
+p611
+(lp612
+S'Hospoz\xc3\xadn'
+p613
+aS'Kladno'
+p614
+asS'273 24'
+p615
+(lp616
+S'Louck\xc3\xa1'
+p617
+aS'Kladno'
+p618
+asS'273 25'
+p619
+(lp620
+S'Zvolen\xc4\x9bves'
+p621
+aS'Kladno'
+p622
+asS'273 26'
+p623
+(lp624
+S'Neum\xc4\x9b\xc5\x99ice'
+p625
+aS'Kladno'
+p626
+asS'273 28'
+p627
+(lp628
+S'Blevice'
+p629
+aS'Kladno'
+p630
+asS'273 29'
+p631
+(lp632
+S'T\xc3\xbdnec'
+p633
+aS'Kladno'
+p634
+asS'289 21'
+p635
+(lp636
+S'Kostoml\xc3\xa1tky'
+p637
+aS'Nymburk'
+p638
+asS'289 23'
+p639
+(lp640
+S'Mlad\xc3\xa1'
+p641
+aS'Nymburk'
+p642
+asS'289 22'
+p643
+(lp644
+S'Litol'
+p645
+aS'Nymburk'
+p646
+asS'798 11'
+p647
+(lp648
+S'\xc4\x8cech\xc5\xafvky'
+p649
+aS'Prost\xc4\x9bjov'
+p650
+asS'592 04'
+p651
+(lp652
+S'Fry\xc5\xa1ava pod \xc5\xbd\xc3\xa1kovou horou'
+p653
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p654
+asS'592 02'
+p655
+(lp656
+S'\xc4\x8cesk\xc3\xa1 Cik\xc3\xa1nka'
+p657
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p658
+asS'378 42'
+p659
+(lp660
+S'Mat\xc4\x9bjovec'
+p661
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p662
+asS'592 01'
+p663
+(lp664
+S'Bru\xc5\xa1ovec'
+p665
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p666
+asS'543 71'
+p667
+(lp668
+S'Horn\xc3\xad Ole\xc5\xa1nice'
+p669
+aS'Trutnov'
+p670
+asS'543 73'
+p671
+(lp672
+S'Prose\xc4\x8dn\xc3\xa9'
+p673
+aS'Trutnov'
+p674
+asS'543 72'
+p675
+(lp676
+S'Javorn\xc3\xadk'
+p677
+aS'Trutnov'
+p678
+asS'543 75'
+p679
+(lp680
+S'Doln\xc3\xad Ole\xc5\xa1nice'
+p681
+aS'Trutnov'
+p682
+asS'284 01'
+p683
+(lp684
+S'Hlou\xc5\xa1ka'
+p685
+aS'Kutn\xc3\xa1 Hora'
+p686
+asS'543 76'
+p687
+(lp688
+S'Chot\xc4\x9bvice'
+p689
+aS'Trutnov'
+p690
+asS'517 21'
+p691
+(lp692
+S'\xc5\xa0t\xc4\x9bp\xc3\xa1novsko'
+p693
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p694
+asS'798 12'
+p695
+(lp696
+S'Biskupice'
+p697
+aS'Prost\xc4\x9bjov'
+p698
+asS'517 25'
+p699
+(lp700
+S'Velk\xc3\xa1 \xc4\x8cermn\xc3\xa1'
+p701
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p702
+asS'285 21'
+p703
+(lp704
+S'Zbraslavice'
+p705
+aS'Kutn\xc3\xa1 Hora'
+p706
+asS'763 51'
+p707
+(lp708
+S'Sala\xc5\xa1'
+p709
+aS'Zl\xc3\xadn'
+p710
+asS'285 22'
+p711
+(lp712
+S'Michalovice'
+p713
+aS'Kutn\xc3\xa1 Hora'
+p714
+asS'285 25'
+p715
+(lp716
+S'Dvorecko'
+p717
+aS'Kutn\xc3\xa1 Hora'
+p718
+asS'290 01'
+p719
+(lp720
+S'P\xc5\x99edn\xc3\xad Lhota'
+p721
+aS'Nymburk'
+p722
+asS'294 29'
+p723
+(lp724
+S'Bezno'
+p725
+aS'Mlad\xc3\xa1 Boleslav'
+p726
+asS'294 27'
+p727
+(lp728
+S'Velk\xc3\xa9 V\xc5\xa1elisy'
+p729
+aS'Mlad\xc3\xa1 Boleslav'
+p730
+asS'552 25'
+p731
+(lp732
+S'Zvole'
+p733
+aS'N\xc3\xa1chod'
+p734
+asS'294 25'
+p735
+(lp736
+S'Kov\xc3\xa1\xc5\x88'
+p737
+aS'Mlad\xc3\xa1 Boleslav'
+p738
+asS'552 21'
+p739
+(lp740
+S'Raso\xc5\xa1ky'
+p741
+aS'N\xc3\xa1chod'
+p742
+asS'552 22'
+p743
+(lp744
+S'Jasenn\xc3\xa1'
+p745
+aS'N\xc3\xa1chod'
+p746
+asS'565 01'
+p747
+(lp748
+S'S\xc3\xadtiny'
+p749
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p750
+asS'399 01'
+p751
+(lp752
+S'Oslet\xc3\xadn'
+p753
+aS'P\xc3\xadsek'
+p754
+asS'798 29'
+p755
+(lp756
+S'Kov\xc3\xa1lovice-Os\xc3\xad\xc4\x8dany'
+p757
+aS'Prost\xc4\x9bjov'
+p758
+asS'391 31'
+p759
+(lp760
+S'H\xc5\xafrka'
+p761
+aS'T\xc3\xa1bor'
+p762
+asS'391 32'
+p763
+(lp764
+S'Bo\xc5\xbeejovice'
+p765
+aS'T\xc3\xa1bor'
+p766
+asS'391 33'
+p767
+(lp768
+S'Poho\xc5\x99\xc3\xad'
+p769
+aS'T\xc3\xa1bor'
+p770
+asS'391 35'
+p771
+(lp772
+S'Borot\xc3\xadn'
+p773
+aS'T\xc3\xa1bor'
+p774
+asS'391 36'
+p775
+(lp776
+S'Sudom\xc4\x9b\xc5\x99ice u T\xc3\xa1bora'
+p777
+aS'T\xc3\xa1bor'
+p778
+asS'391 37'
+p779
+(lp780
+S'Morave\xc4\x8d'
+p781
+aS'T\xc3\xa1bor'
+p782
+asS'104 00'
+p783
+(lp784
+S'Kr\xc3\xa1lovice'
+p785
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p786
+asS'356 01'
+p787
+(lp788
+S'\xc5\xa0abina'
+p789
+aS'Sokolov'
+p790
+asS'356 04'
+p791
+(lp792
+S'Doln\xc3\xad Rychnov'
+p793
+aS'Sokolov'
+p794
+asS'538 24'
+p795
+(lp796
+S'Sv\xc3\xaddnice'
+p797
+aS'Chrudim'
+p798
+asS'538 25'
+p799
+(lp800
+S'Javorn\xc3\xa9'
+p801
+aS'Chrudim'
+p802
+asS'538 26'
+p803
+(lp804
+S'Bojanov'
+p805
+aS'Chrudim'
+p806
+asS'538 21'
+p807
+(lp808
+S'\xc4\x8cejkovice'
+p809
+aS'Chrudim'
+p810
+asS'538 23'
+p811
+(lp812
+S'Licibo\xc5\x99ice'
+p813
+aS'Chrudim'
+p814
+asS'747 55'
+p815
+(lp816
+S'Bohdanovice'
+p817
+aS'Opava'
+p818
+asS'691 07'
+p819
+(lp820
+S'N\xc4\x9bm\xc4\x8di\xc4\x8dky'
+p821
+aS'B\xc5\x99eclav'
+p822
+asS'691 05'
+p823
+(lp824
+S'Zaje\xc4\x8d\xc3\xad'
+p825
+aS'B\xc5\x99eclav'
+p826
+asS'691 03'
+p827
+(lp828
+S'Rakvice'
+p829
+aS'B\xc5\x99eclav'
+p830
+asS'747 53'
+p831
+(lp832
+S'Jakartovice'
+p833
+aS'Opava'
+p834
+asS'747 52'
+p835
+(lp836
+S'Brat\xc5\x99\xc3\xadkovice'
+p837
+aS'Opava'
+p838
+asS'360 10'
+p839
+(lp840
+S'Ryb\xc3\xa1\xc5\x99e (\xc4\x8d\xc3\xa1st)'
+p841
+aS'Karlovy Vary'
+p842
+asS'360 17'
+p843
+(lp844
+S'\xc4\x8cankov'
+p845
+aS'Karlovy Vary'
+p846
+asS'691 08'
+p847
+(lp848
+S'Bo\xc5\x99etice'
+p849
+aS'B\xc5\x99eclav'
+p850
+asS'664 59'
+p851
+(lp852
+S'Telnice'
+p853
+aS'Brno-venkov'
+p854
+asS'281 06'
+p855
+(lp856
+S'H\xc5\x99iby'
+p857
+aS'Kol\xc3\xadn'
+p858
+asS'281 02'
+p859
+(lp860
+S'Cerhenice'
+p861
+aS'Kol\xc3\xadn'
+p862
+asS'570 01'
+p863
+(lp864
+S'Chmel\xc3\xadk'
+p865
+aS'Svitavy'
+p866
+asS'331 51'
+p867
+(lp868
+S'Obora'
+p869
+aS'Plze\xc5\x88-sever'
+p870
+asS'331 52'
+p871
+(lp872
+S'Nekm\xc3\xad\xc5\x99'
+p873
+aS'Plze\xc5\x88-sever'
+p874
+asS'561 17'
+p875
+(lp876
+S'Dlouh\xc3\xa1 T\xc5\x99ebov\xc3\xa1'
+p877
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p878
+asS'561 16'
+p879
+(lp880
+S'Horn\xc3\xad Libchavy'
+p881
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p882
+asS'561 14'
+p883
+(lp884
+S'\xc4\x8cesk\xc3\xa9 Libchavy'
+p885
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p886
+asS'561 13'
+p887
+(lp888
+S'Sudslava'
+p889
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p890
+asS'561 12'
+p891
+(lp892
+S'Orlick\xc3\xa9 Podh\xc5\xaf\xc5\x99\xc3\xad-Kali\xc5\xa1t\xc4\x9b x)'
+p893
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p894
+asS'561 18'
+p895
+(lp896
+S'\xc4\x8clupek'
+p897
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p898
+asS'569 44'
+p899
+(lp900
+S'Jarom\xc4\x9b\xc5\x99ice'
+p901
+aS'Svitavy'
+p902
+asS'569 41'
+p903
+(lp904
+S'M\xc4\x9bste\xc4\x8dko Trn\xc3\xa1vka'
+p905
+aS'Svitavy'
+p906
+asS'569 43'
+p907
+(lp908
+S'Vr\xc3\xa1\xc5\xben\xc3\xa9'
+p909
+aS'Svitavy'
+p910
+asS'507 92'
+p911
+(lp912
+S'\xc3\x9abislavice'
+p913
+aS'Ji\xc4\x8d\xc3\xadn'
+p914
+asS'507 91'
+p915
+(lp916
+S'Svojek'
+p917
+aS'Semily'
+p918
+asS'398 34'
+p919
+(lp920
+S'Ku\xc4\x8de\xc5\x99'
+p921
+aS'P\xc3\xadsek'
+p922
+asS'398 33'
+p923
+(lp924
+S'Horn\xc3\xad Ostrovec'
+p925
+aS'P\xc3\xadsek'
+p926
+asS'398 32'
+p927
+(lp928
+S'Nov\xc3\xa1 Vr\xc3\xa1\xc5\xbe'
+p929
+aS'P\xc3\xadsek'
+p930
+asS'417 13'
+p931
+(lp932
+S'Modlany'
+p933
+aS'Teplice'
+p934
+asS'417 12'
+p935
+(lp936
+S'P\xc5\x99\xc3\xadtkov'
+p937
+aS'Teplice'
+p938
+asS'351 34'
+p939
+(lp940
+S'Velk\xc3\xbd Luh'
+p941
+aS'Cheb'
+p942
+asS'351 35'
+p943
+(lp944
+S'Plesn\xc3\xa1'
+p945
+aS'Cheb'
+p946
+asS'351 37'
+p947
+(lp948
+S'Luby'
+p949
+aS'Cheb'
+p950
+asS'100 00'
+p951
+(lp952
+S'Praha 10-\xc5\xbdi\xc5\xbekov (\xc4\x8d\xc3\xa1st) x)'
+p953
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p954
+asS'370 10'
+p955
+(lp956
+S'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice 3 (\xc4\x8d\xc3\xa1st)'
+p957
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p958
+asS'793 76'
+p959
+(lp960
+S'Horn\xc3\xad \xc3\x9adol\xc3\xad'
+p961
+aS'Jesen\xc3\xadk'
+p962
+asS'793 71'
+p963
+(lp964
+S'Komora'
+p965
+aS'Brunt\xc3\xa1l'
+p966
+asS'739 25'
+p967
+(lp968
+S'\xc5\xbdabe\xc5\x88'
+p969
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p970
+asS'739 24'
+p971
+(lp972
+S'Krmel\xc3\xadn'
+p973
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p974
+asS'739 23'
+p975
+(lp976
+S'Ko\xc5\xa1atka'
+p977
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p978
+asS'751 19'
+p979
+(lp980
+S'Kanovsko'
+p981
+aS'P\xc5\x99erov'
+p982
+asS'751 16'
+p983
+(lp984
+S'Tu\xc4\x8d\xc3\xadn'
+p985
+aS'P\xc5\x99erov'
+p986
+asS'738 01'
+p987
+(lp988
+S'Fr\xc3\xbddek'
+p989
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p990
+asS'751 14'
+p991
+(lp992
+S'Radkovy'
+p993
+aS'P\xc5\x99erov'
+p994
+asS'751 15'
+p995
+(lp996
+S'Prusy'
+p997
+aS'P\xc5\x99erov'
+p998
+asS'734 01'
+p999
+(lp1000
+S'R\xc3\xa1j'
+p1001
+aS'Karvin\xc3\xa1'
+p1002
+asS'434 01'
+p1003
+(lp1004
+S'Vtelno'
+p1005
+aS'Most'
+p1006
+asS'435 21'
+p1007
+(lp1008
+S'Patokryje'
+p1009
+aS'Most'
+p1010
+asS'435 22'
+p1011
+(lp1012
+S'Ka\xc5\x88kov'
+p1013
+aS'Most'
+p1014
+asS'756 61'
+p1015
+(lp1016
+S'Vigantice'
+p1017
+aS'Vset\xc3\xadn'
+p1018
+asS'435 24'
+p1019
+(lp1020
+S'Lu\xc5\xbeice'
+p1021
+aS'Most'
+p1022
+asS'796 01'
+p1023
+(lp1024
+S'\xc5\xbde\xc5\xa1ov'
+p1025
+aS'Prost\xc4\x9bjov'
+p1026
+asS'796 03'
+p1027
+(lp1028
+S'Prost\xc4\x9bjov (\xc4\x8d\xc3\xa1st)'
+p1029
+aS'Prost\xc4\x9bjov'
+p1030
+asS'796 04'
+p1031
+(lp1032
+S'Prost\xc4\x9bjov (\xc4\x8d\xc3\xa1st)'
+p1033
+aS'Prost\xc4\x9bjov'
+p1034
+asS'796 07'
+p1035
+(lp1036
+S'Dr\xc5\xbeovice'
+p1037
+aS'Prost\xc4\x9bjov'
+p1038
+asS'468 22'
+p1039
+(lp1040
+S'Lou\xc5\xbenice'
+p1041
+aS'Jablonec nad Nisou'
+p1042
+asS'468 21'
+p1043
+(lp1044
+S'Doln\xc3\xad \xc4\x8cern\xc3\xa1 Studnice'
+p1045
+aS'Jablonec nad Nisou'
+p1046
+asS'468 27'
+p1047
+(lp1048
+S'Nov\xc3\xa1 Ves nad Nisou'
+p1049
+aS'Jablonec nad Nisou'
+p1050
+asS'468 24'
+p1051
+(lp1052
+S'Dr\xc5\xbekov'
+p1053
+aS'Jablonec nad Nisou'
+p1054
+asS'696 04'
+p1055
+(lp1056
+S'Svatobo\xc5\x99ice-Mist\xc5\x99\xc3\xadn'
+p1057
+aS'Hodon\xc3\xadn'
+p1058
+asS'262 02'
+p1059
+(lp1060
+S'Star\xc3\xa1 Hu\xc5\xa5'
+p1061
+aS'P\xc5\x99\xc3\xadbram'
+p1062
+asS'262 03'
+p1063
+(lp1064
+S'Chol\xc3\xadn'
+p1065
+aS'P\xc5\x99\xc3\xadbram'
+p1066
+asS'257 86'
+p1067
+(lp1068
+S'Mili\xc4\x8d\xc3\xadn'
+p1069
+aS'Bene\xc5\xa1ov'
+p1070
+asS'257 87'
+p1071
+(lp1072
+S'St\xc5\x99ezim\xc3\xad\xc5\x99'
+p1073
+aS'Bene\xc5\xa1ov'
+p1074
+asS'257 88'
+p1075
+(lp1076
+S'\xc4\x8cerven\xc3\xbd \xc3\x9ajezd'
+p1077
+aS'Bene\xc5\xa1ov'
+p1078
+asS'257 89'
+p1079
+(lp1080
+S'Zechov'
+p1081
+aS'Bene\xc5\xa1ov'
+p1082
+asS'270 54'
+p1083
+(lp1084
+S'P\xc5\x99erubenice'
+p1085
+aS'Rakovn\xc3\xadk'
+p1086
+asS'270 55'
+p1087
+(lp1088
+S'Pochvalov'
+p1089
+aS'Rakovn\xc3\xadk'
+p1090
+asS'783 13'
+p1091
+(lp1092
+S'Moravsk\xc3\xa1 Huzov\xc3\xa1'
+p1093
+aS'Olomouc'
+p1094
+asS'535 01'
+p1095
+(lp1096
+S'Jankovice'
+p1097
+aS'Pardubice'
+p1098
+asS'270 51'
+p1099
+(lp1100
+S'Lu\xc5\xben\xc3\xa1'
+p1101
+aS'Rakovn\xc3\xadk'
+p1102
+asS'582 63'
+p1103
+(lp1104
+S'\xc3\x9adavy'
+p1105
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p1106
+asS'270 53'
+p1107
+(lp1108
+S'Kru\xc5\xa1ovice'
+p1109
+aS'Rakovn\xc3\xadk'
+p1110
+asS'277 11'
+p1111
+(lp1112
+S'Lobkovice'
+p1113
+aS'M\xc4\x9bln\xc3\xadk'
+p1114
+asS'277 13'
+p1115
+(lp1116
+S'Ji\xc5\x99ice'
+p1117
+aS'M\xc4\x9bln\xc3\xadk'
+p1118
+asS'277 15'
+p1119
+(lp1120
+S'Kozly'
+p1121
+aS'M\xc4\x9bln\xc3\xadk'
+p1122
+asS'277 14'
+p1123
+(lp1124
+S'Borek'
+p1125
+aS'M\xc4\x9bln\xc3\xadk'
+p1126
+asS'277 16'
+p1127
+(lp1128
+S'P\xc5\x99\xc3\xadvory'
+p1129
+aS'M\xc4\x9bln\xc3\xadk'
+p1130
+asS'753 61'
+p1131
+(lp1132
+S'Hranice VII'
+p1133
+aS'Slav\xc3\xad\xc4\x8d'
+p1134
+aS'P\xc5\x99erov'
+p1135
+asS'716 00'
+p1136
+(lp1137
+S'Radvanice'
+p1138
+aS'Ostrava-m\xc4\x9bsto'
+p1139
+asS'258 01'
+p1140
+(lp1141
+S'Rataje'
+p1142
+aS'Bene\xc5\xa1ov'
+p1143
+asS'413 01'
+p1144
+(lp1145
+S'Brz\xc3\xa1nky'
+p1146
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1147
+asS'753 64'
+p1148
+(lp1149
+S'Lu\xc4\x8dice'
+p1150
+aS'P\xc5\x99erov'
+p1151
+asS'503 03'
+p1152
+(lp1153
+S'Hab\xc5\x99ina'
+p1154
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p1155
+asS'431 11'
+p1156
+(lp1157
+S'B\xc5\x99ezenec'
+p1158
+aS'Chomutov'
+p1159
+asS'431 15'
+p1160
+(lp1161
+S'Vrskma\xc5\x88'
+p1162
+aS'Chomutov'
+p1163
+asS'542 27'
+p1164
+(lp1165
+S'Doln\xc3\xad Mal\xc3\xa1 \xc3\x9apa'
+p1166
+aS'Trutnov'
+p1167
+asS'542 26'
+p1168
+(lp1169
+S'Doln\xc3\xad Lyse\xc4\x8diny'
+p1170
+aS'Trutnov'
+p1171
+asS'542 21'
+p1172
+(lp1173
+S'Velk\xc3\xa1 \xc3\x9apa'
+p1174
+aS'Trutnov'
+p1175
+asS'270 41'
+p1176
+(lp1177
+S'Rous\xc3\xadnov'
+p1178
+aS'Rakovn\xc3\xadk'
+p1179
+asS'542 23'
+p1180
+(lp1181
+S'Kaln\xc3\xa1 Voda'
+p1182
+aS'Trutnov'
+p1183
+asS'687 12'
+p1184
+(lp1185
+S'Javorovec'
+p1186
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1187
+asS'687 13'
+p1188
+(lp1189
+S'B\xc5\x99ezolupy'
+p1190
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1191
+asS'735 41'
+p1192
+(lp1193
+S'Pet\xc5\x99vald'
+p1194
+aS'Karvin\xc3\xa1'
+p1195
+asS'671 75'
+p1196
+(lp1197
+S'Jeze\xc5\x99any-Mar\xc5\xa1ovice'
+p1198
+aS'Znojmo'
+p1199
+asS'671 76'
+p1200
+(lp1201
+S'Na\xc5\xa1im\xc4\x9b\xc5\x99ice'
+p1202
+aS'Znojmo'
+p1203
+asS'671 71'
+p1204
+(lp1205
+S'Trst\xc4\x9bnice'
+p1206
+aS'Znojmo'
+p1207
+asS'671 73'
+p1208
+(lp1209
+S'\xc4\x8cerm\xc3\xa1kovice'
+p1210
+aS'Znojmo'
+p1211
+asS'671 72'
+p1212
+(lp1213
+S'Suchohrdly u Miroslavi'
+p1214
+aS'Znojmo'
+p1215
+asS'387 01'
+p1216
+(lp1217
+S'Milejovice'
+p1218
+aS'Strakonice'
+p1219
+asS'387 06'
+p1220
+(lp1221
+S'Malenice'
+p1222
+aS'Strakonice'
+p1223
+asS'679 52'
+p1224
+(lp1225
+S'\xc5\xbd\xc4\x8f\xc3\xa1rn\xc3\xa1'
+p1226
+aS'Blansko'
+p1227
+asS'679 51'
+p1228
+(lp1229
+S'N\xc4\x9bm\xc4\x8dice'
+p1230
+aS'Blansko'
+p1231
+asS'742 47'
+p1232
+(lp1233
+S'Hladk\xc3\xa9 \xc5\xbdivotice'
+p1234
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p1235
+asS'539 01'
+p1236
+(lp1237
+S'Hlinsko'
+p1238
+aS'Chrudim'
+p1239
+asS'788 32'
+p1240
+(lp1241
+S'Nov\xc3\xa1 Seninka'
+p1242
+aS'\xc5\xa0umperk'
+p1243
+asS'289 11'
+p1244
+(lp1245
+S'Mil\xc4\x8dice'
+p1246
+aS'Nymburk'
+p1247
+asS'289 12'
+p1248
+(lp1249
+S'Velenka'
+p1250
+aS'Nymburk'
+p1251
+asS'289 13'
+p1252
+(lp1253
+S'P\xc3\xadsty'
+p1254
+aS'Nymburk'
+p1255
+asS'289 15'
+p1256
+(lp1257
+S'\xc4\x8cern\xc3\xadky'
+p1258
+aS'Nymburk'
+p1259
+asS'289 16'
+p1260
+(lp1261
+S'Star\xc3\xbd Vestec'
+p1262
+aS'Nymburk'
+p1263
+asS'289 17'
+p1264
+(lp1265
+S'Semice'
+p1266
+aS'Nymburk'
+p1267
+asS'588 23'
+p1268
+(lp1269
+S'Kamenice'
+p1270
+aS'Jihlava'
+p1271
+asS'592 11'
+p1272
+(lp1273
+S'Po\xc5\x99e\xc5\xbe\xc3\xadn'
+p1274
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p1275
+asS'285 11'
+p1276
+(lp1277
+S'Nepom\xc4\x9b\xc5\x99ice'
+p1278
+aS'Kutn\xc3\xa1 Hora'
+p1279
+asS'592 13'
+p1280
+(lp1281
+S'Bohdalov'
+p1282
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p1283
+asS'592 12'
+p1284
+(lp1285
+S'Bukov\xc3\xa1'
+p1286
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p1287
+asS'588 27'
+p1288
+(lp1289
+S'Rybn\xc3\xa9'
+p1290
+aS'Jihlava'
+p1291
+asS'588 24'
+p1292
+(lp1293
+S'\xc5\x98eho\xc5\x99ov'
+p1294
+aS'Jihlava'
+p1295
+asS'560 02'
+p1296
+(lp1297
+S'Lhotka'
+p1298
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1299
+asS'395 01'
+p1300
+(lp1301
+S'Vint\xc3\xad\xc5\x99ov'
+p1302
+aS'Pelh\xc5\x99imov'
+p1303
+asS'441 01'
+p1304
+(lp1305
+S'Vysok\xc3\xa9 T\xc5\x99ebu\xc5\xa1ice'
+p1306
+aS'Louny'
+p1307
+asS'190 00'
+p1308
+(lp1309
+S'Praha 9-St\xc5\x99\xc3\xad\xc5\xbekov (\xc4\x8d\xc3\xa1st) x)'
+p1310
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p1311
+asS'615 00'
+p1312
+(lp1313
+S'Brno-Z\xc3\xa1brdovice x)'
+p1314
+aS'Brno-m\xc4\x9bsto'
+p1315
+asS'326 00'
+p1316
+(lp1317
+S'Bo\xc5\xbekov'
+p1318
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p1319
+asS'391 26'
+p1320
+(lp1321
+S'Tu\xc4\x8dapy'
+p1322
+aS'T\xc3\xa1bor'
+p1323
+asS'682 01'
+p1324
+(lp1325
+S'K\xc5\x99i\xc5\xbeanovice u Vy\xc5\xa1kova'
+p1326
+aS'Vy\xc5\xa1kov'
+p1327
+asS'352 01'
+p1328
+(lp1329
+S'Kr\xc3\xa1sn\xc3\xa1'
+p1330
+aS'Cheb'
+p1331
+asS'321 00'
+p1332
+(lp1333
+S'\xc5\xa0lovice'
+p1334
+aS'Plze\xc5\x88-jih'
+p1335
+asS'391 20'
+p1336
+(lp1337
+S'Raden\xc3\xadn'
+p1338
+aS'T\xc3\xa1bor'
+p1339
+asS'384 02'
+p1340
+(lp1341
+S'Lhenice'
+p1342
+aS'Prachatice'
+p1343
+asS'384 01'
+p1344
+(lp1345
+S'Nebahovy'
+p1346
+aS'Prachatice'
+p1347
+asS'384 04'
+p1348
+(lp1349
+S'Chroboly'
+p1350
+aS'Prachatice'
+p1351
+asS'543 41'
+p1352
+(lp1353
+S'Doln\xc3\xad L\xc3\xa1nov'
+p1354
+aS'Trutnov'
+p1355
+asS'374 01'
+p1356
+(lp1357
+S'T\xc4\x9b\xc5\xa1\xc3\xadnov'
+p1358
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p1359
+asS'756 41'
+p1360
+(lp1361
+S'Jasenice'
+p1362
+aS'Vset\xc3\xadn'
+p1363
+asS'756 42'
+p1364
+(lp1365
+S'Lhota'
+p1366
+aS'Vset\xc3\xadn'
+p1367
+asS'756 43'
+p1368
+(lp1369
+S'Kladeruby'
+p1370
+aS'Vset\xc3\xadn'
+p1371
+asS'756 44'
+p1372
+(lp1373
+S'Police'
+p1374
+aS'Vset\xc3\xadn'
+p1375
+asS'538 33'
+p1376
+(lp1377
+S'Trojovice'
+p1378
+aS'Chrudim'
+p1379
+asS'538 35'
+p1380
+(lp1381
+S'Zaje\xc4\x8dice'
+p1382
+aS'Chrudim'
+p1383
+asS'538 34'
+p1384
+(lp1385
+S'Rosice'
+p1386
+aS'Chrudim'
+p1387
+asS'747 61'
+p1388
+(lp1389
+S'Vr\xc5\xa1ovice'
+p1390
+aS'Opava'
+p1391
+asS'747 63'
+p1392
+(lp1393
+S'Hrabyn\xc4\x9b'
+p1394
+aS'Opava'
+p1395
+asS'691 11'
+p1396
+(lp1397
+S'Brumovice'
+p1398
+aS'B\xc5\x99eclav'
+p1399
+asS'691 10'
+p1400
+(lp1401
+S'Kobyl\xc3\xad'
+p1402
+aS'B\xc5\x99eclav'
+p1403
+asS'747 67'
+p1404
+(lp1405
+S'Hrabyn\xc4\x9b (\xc4\x8d\xc3\xa1st)'
+p1406
+aS'Opava'
+p1407
+asS'360 01'
+p1408
+(lp1409
+S'Hlinky'
+p1410
+aS'Karlovy Vary'
+p1411
+asS'747 69'
+p1412
+(lp1413
+S'Pust\xc3\xa1 Polom'
+p1414
+aS'Opava'
+p1415
+asS'360 05'
+p1416
+(lp1417
+S'Ryb\xc3\xa1\xc5\x99e (\xc4\x8d\xc3\xa1st)'
+p1418
+aS'Karlovy Vary'
+p1419
+asS'281 72'
+p1420
+(lp1421
+S'Horka'
+p1422
+aS'Kol\xc3\xadn'
+p1423
+asS'338 06'
+p1424
+(lp1425
+S'Cheznovice'
+p1426
+aS'Rokycany'
+p1427
+asS'743 01'
+p1428
+(lp1429
+S'Karlovice'
+p1430
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p1431
+asS'695 01'
+p1432
+(lp1433
+S'Hodon\xc3\xadn'
+p1434
+aS'Hodon\xc3\xadn'
+p1435
+asS'338 08'
+p1436
+(lp1437
+S'Tere\xc5\xa1ov'
+p1438
+aS'Rokycany'
+p1439
+asS'739 41'
+p1440
+(lp1441
+S'Palkovice'
+p1442
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p1443
+asS'331 41'
+p1444
+(lp1445
+S'Slatina'
+p1446
+aS'Plze\xc5\x88-sever'
+p1447
+asS'561 62'
+p1448
+(lp1449
+S'B\xc3\xadl\xc3\xa1 Voda'
+p1450
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1451
+asS'561 63'
+p1452
+(lp1453
+S'Neko\xc5\x99'
+p1454
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1455
+asS'561 61'
+p1456
+(lp1457
+S'\xc4\x8cerven\xc3\xa1 Voda'
+p1458
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1459
+asS'561 64'
+p1460
+(lp1461
+S'Bo\xc5\x99itov'
+p1462
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1463
+asS'561 65'
+p1464
+(lp1465
+S'Jamn\xc3\xa9 nad Orlic\xc3\xad'
+p1466
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1467
+asS'739 47'
+p1468
+(lp1469
+S'Kozlovice'
+p1470
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p1471
+asS'561 68'
+p1472
+(lp1473
+S'Lichkov'
+p1474
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1475
+asS'561 69'
+p1476
+(lp1477
+S'Doln\xc3\xad Hede\xc4\x8d'
+p1478
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p1479
+asS'378 92'
+p1480
+(lp1481
+S'Bude\xc4\x8d'
+p1482
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p1483
+asS'569 53'
+p1484
+(lp1485
+S'Cerekvice nad Lou\xc4\x8dnou'
+p1486
+aS'Svitavy'
+p1487
+asS'739 46'
+p1488
+(lp1489
+S'Doln\xc3\xad Sklenov'
+p1490
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p1491
+asS'569 56'
+p1492
+(lp1493
+S'\xc4\x8cist\xc3\xa1'
+p1494
+aS'Svitavy'
+p1495
+asS'569 55'
+p1496
+(lp1497
+S'Janov'
+p1498
+aS'Svitavy'
+p1499
+asS'763 61'
+p1500
+(lp1501
+S'Old\xc5\x99ichovice'
+p1502
+aS'Zl\xc3\xadn'
+p1503
+asS'789 74'
+p1504
+(lp1505
+S'Kamenn\xc3\xa1'
+p1506
+aS'\xc5\xa0umperk'
+p1507
+asS'739 45'
+p1508
+(lp1509
+S'Fry\xc4\x8dovice'
+p1510
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p1511
+asS'398 42'
+p1512
+(lp1513
+S'Vesel\xc3\xad\xc4\x8dko'
+p1514
+aS'P\xc3\xadsek'
+p1515
+asS'398 43'
+p1516
+(lp1517
+S'B\xc5\x99ez\xc3\xad'
+p1518
+aS'P\xc3\xadsek'
+p1519
+asS'417 22'
+p1520
+(lp1521
+S'H\xc3\xa1j u Duchcova'
+p1522
+aS'Teplice'
+p1523
+asS'417 23'
+p1524
+(lp1525
+S'St\xc5\x99eln\xc3\xa1'
+p1526
+aS'Teplice'
+p1527
+asS'417 24'
+p1528
+(lp1529
+S'Jen\xc3\xadkov'
+p1530
+aS'Teplice'
+p1531
+asS'398 47'
+p1532
+(lp1533
+S'Slab\xc4\x8dice'
+p1534
+aS'P\xc3\xadsek'
+p1535
+asS'702 00'
+p1536
+(lp1537
+S'Ostrava-Moravsk\xc3\xa1 Ostrava x)'
+p1538
+aS'Ostrava-m\xc4\x9bsto'
+p1539
+asS'793 68'
+p1540
+(lp1541
+S'B\xc3\xadl\xc4\x8dice'
+p1542
+aS'Brunt\xc3\xa1l'
+p1543
+asS'330 22'
+p1544
+(lp1545
+S'Zb\xc5\xafch'
+p1546
+aS'Plze\xc5\x88-sever'
+p1547
+asS'330 23'
+p1548
+(lp1549
+S'Vrhave\xc4\x8d'
+p1550
+aS'Tachov'
+p1551
+asS'378 46'
+p1552
+(lp1553
+S'Rose\xc4\x8d'
+p1554
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p1555
+asS'330 21'
+p1556
+(lp1557
+S'L\xc3\xadn\xc4\x9b'
+p1558
+aS'Plze\xc5\x88-sever'
+p1559
+asS'169 00'
+p1560
+(lp1561
+S'Praha 6-B\xc5\x99evnov (\xc4\x8d\xc3\xa1st) x)'
+p1562
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p1563
+asS'378 41'
+p1564
+(lp1565
+S'Kruplov'
+p1566
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p1567
+asS'330 24'
+p1568
+(lp1569
+S'Horn\xc3\xad Seky\xc5\x99any'
+p1570
+aS'Plze\xc5\x88-sever'
+p1571
+asS'751 05'
+p1572
+(lp1573
+S'Kokory'
+p1574
+aS'P\xc5\x99erov'
+p1575
+asS'751 01'
+p1576
+(lp1577
+S'Tova\xc4\x8dov II'
+p1578
+aS'Ann\xc3\xadn'
+p1579
+aS'P\xc5\x99erov'
+p1580
+asS'751 03'
+p1581
+(lp1582
+S'Lukov\xc3\xa1'
+p1583
+aS'P\xc5\x99erov'
+p1584
+asS'751 02'
+p1585
+(lp1586
+S'Troubky'
+p1587
+aS'P\xc5\x99erov'
+p1588
+asS'341 92'
+p1589
+(lp1590
+S'Modrava'
+p1591
+aS'Klatovy'
+p1592
+asS'468 33'
+p1593
+(lp1594
+S'Jeni\xc5\xa1ovice'
+p1595
+aS'Jablonec nad Nisou'
+p1596
+asS'472 01'
+p1597
+(lp1598
+S'Zbyny'
+p1599
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p1600
+asS'262 15'
+p1601
+(lp1602
+S'Borotice'
+p1603
+aS'P\xc5\x99\xc3\xadbram'
+p1604
+asS'262 14'
+p1605
+(lp1606
+S'H\xc5\x99im\xc4\x9b\xc5\xbedice'
+p1607
+aS'P\xc5\x99\xc3\xadbram'
+p1608
+asS'262 13'
+p1609
+(lp1610
+S'Ne\xc4\x8d\xc3\xadn'
+p1611
+aS'P\xc5\x99\xc3\xadbram'
+p1612
+asS'262 11'
+p1613
+(lp1614
+S'Rosovice'
+p1615
+aS'P\xc5\x99\xc3\xadbram'
+p1616
+asS'257 91'
+p1617
+(lp1618
+S'Vratkov'
+p1619
+aS'P\xc5\x99\xc3\xadbram'
+p1620
+asS'712 00'
+p1621
+(lp1622
+S'Ostrava-Muglinov x)'
+p1623
+aS'Ostrava-m\xc4\x9bsto'
+p1624
+asS'407 41'
+p1625
+(lp1626
+S'Dobrn\xc3\xa1'
+p1627
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p1628
+asS'277 24'
+p1629
+(lp1630
+S'Str\xc3\xa1\xc5\xbenice'
+p1631
+aS'M\xc4\x9bln\xc3\xadk'
+p1632
+asS'277 21'
+p1633
+(lp1634
+S'Dob\xc5\x99e\xc5\x88'
+p1635
+aS'M\xc4\x9bln\xc3\xadk'
+p1636
+asS'277 23'
+p1637
+(lp1638
+S'\xc5\xa0emanovice'
+p1639
+aS'M\xc4\x9bln\xc3\xadk'
+p1640
+asS'582 52'
+p1641
+(lp1642
+S'V\xc4\x9b\xc5\xbenice'
+p1643
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p1644
+asS'582 53'
+p1645
+(lp1646
+S'Chy\xc5\xa1ka'
+p1647
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p1648
+asS'582 55'
+p1649
+(lp1650
+S'Dub\xc3\xad'
+p1651
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p1652
+asS'582 56'
+p1653
+(lp1654
+S'V\xc4\x9b\xc5\xbe'
+p1655
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p1656
+asS'431 59'
+p1657
+(lp1658
+S'Vysok\xc3\xa1 Pec'
+p1659
+aS'Chomutov'
+p1660
+asS'250 01'
+p1661
+(lp1662
+S'D\xc5\x99ev\xc4\x8dice'
+p1663
+aS'Praha-v\xc3\xbdchod'
+p1664
+asS'118 00'
+p1665
+(lp1666
+S'Hrad\xc4\x8dany (\xc4\x8d\xc3\xa1st)'
+p1667
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p1668
+asS'435 33'
+p1669
+(lp1670
+S'Louka u Litv\xc3\xadnova'
+p1671
+aS'Most'
+p1672
+asS'504 01'
+p1673
+(lp1674
+S'Zachra\xc5\xa1\xc5\xa5any'
+p1675
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p1676
+asS'411 84'
+p1677
+(lp1678
+S'Vodochody'
+p1679
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1680
+asS'411 87'
+p1681
+(lp1682
+S'Krab\xc4\x8dice'
+p1683
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1684
+asS'411 81'
+p1685
+(lp1686
+S'Brozany nad Oh\xc5\x99\xc3\xad'
+p1687
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1688
+asS'411 83'
+p1689
+(lp1690
+S'Hrobce'
+p1691
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1692
+asS'431 21'
+p1693
+(lp1694
+S'Oras\xc3\xadn'
+p1695
+aS'Chomutov'
+p1696
+asS'392 01'
+p1697
+(lp1698
+S'Dr\xc3\xa1chov'
+p1699
+aS'T\xc3\xa1bor'
+p1700
+asS'792 01'
+p1701
+(lp1702
+S'Val\xc5\xa1ov'
+p1703
+aS'Brunt\xc3\xa1l'
+p1704
+asS'783 24'
+p1705
+(lp1706
+S'Javo\xc5\x99\xc3\xad\xc4\x8dko'
+p1707
+aS'Olomouc'
+p1708
+asS'783 25'
+p1709
+(lp1710
+S'Podol\xc3\xad'
+p1711
+aS'Olomouc'
+p1712
+asS'783 21'
+p1713
+(lp1714
+S'Kluzov'
+p1715
+aS'Olomouc'
+p1716
+asS'783 22'
+p1717
+(lp1718
+S'Dub\xc4\x8dany'
+p1719
+aS'Olomouc'
+p1720
+asS'373 84'
+p1721
+(lp1722
+S'\xc4\x8cakov'
+p1723
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p1724
+asS'542 13'
+p1725
+(lp1726
+S'J\xc3\xadvka'
+p1727
+aS'Trutnov'
+p1728
+asS'373 81'
+p1729
+(lp1730
+S'Kamenn\xc3\xbd \xc3\x9ajezd'
+p1731
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p1732
+asS'373 82'
+p1733
+(lp1734
+S'B\xc5\x99ez\xc3\xad'
+p1735
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p1736
+asS'687 05'
+p1737
+(lp1738
+S'Jalub\xc3\xad'
+p1739
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1740
+asS'687 04'
+p1741
+(lp1742
+S'Su\xc5\xa1ice'
+p1743
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1744
+asS'687 07'
+p1745
+(lp1746
+S'Tupesy'
+p1747
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1748
+asS'687 06'
+p1749
+(lp1750
+S'Velehrad'
+p1751
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1752
+asS'687 03'
+p1753
+(lp1754
+S'Hu\xc5\xa1t\xc4\x9bnovice'
+p1755
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1756
+asS'671 40'
+p1757
+(lp1758
+S'Stupe\xc5\xa1ice'
+p1759
+aS'Znojmo'
+p1760
+asS'687 09'
+p1761
+(lp1762
+S'St\xc5\x99\xc3\xadbrnice'
+p1763
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1764
+asS'687 08'
+p1765
+(lp1766
+S'Buchlovice'
+p1767
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p1768
+asS'387 19'
+p1769
+(lp1770
+S'Ho\xc5\x99ej\xc5\xa1ice'
+p1771
+aS'Strakonice'
+p1772
+asS'362 72'
+p1773
+(lp1774
+S'Nov\xc3\xa1 Kyselka'
+p1775
+aS'Karlovy Vary'
+p1776
+asS'273 03'
+p1777
+(lp1778
+S'Honice'
+p1779
+aS'Kladno'
+p1780
+asS'594 56'
+p1781
+(lp1782
+S'\xc5\xbd\xc4\x8f\xc3\xa1rec'
+p1783
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p1784
+asS'679 22'
+p1785
+(lp1786
+S'La\xc5\xbeany'
+p1787
+aS'Blansko'
+p1788
+asS'679 23'
+p1789
+(lp1790
+S'Synalov'
+p1791
+aS'Blansko'
+p1792
+asS'679 21'
+p1793
+(lp1794
+S'Br\xc5\xa5ov u \xc4\x8cern\xc3\xa9 Hory'
+p1795
+aS'Blansko'
+p1796
+asS'679 24'
+p1797
+(lp1798
+S'Un\xc3\xadn'
+p1799
+aS'Blansko'
+p1800
+asS'387 16'
+p1801
+(lp1802
+S'Kalenice'
+p1803
+aS'Strakonice'
+p1804
+asS'289 07'
+p1805
+(lp1806
+S'Opolany'
+p1807
+aS'Nymburk'
+p1808
+asS'289 06'
+p1809
+(lp1810
+S'Opol\xc3\xa1nky'
+p1811
+aS'Nymburk'
+p1812
+asS'289 05'
+p1813
+(lp1814
+S'Cho\xc5\xa5ovice'
+p1815
+aS'Nymburk'
+p1816
+asS'289 04'
+p1817
+(lp1818
+S'Podmoky'
+p1819
+aS'Nymburk'
+p1820
+asS'289 03'
+p1821
+(lp1822
+S'Z\xc3\xa1hornice'
+p1823
+aS'Nymburk'
+p1824
+asS'289 02'
+p1825
+(lp1826
+S'Osek'
+p1827
+aS'Nymburk'
+p1828
+asS'289 01'
+p1829
+(lp1830
+S'Velenice'
+p1831
+aS'Nymburk'
+p1832
+asS'289 08'
+p1833
+(lp1834
+S'Kn\xc4\x9b\xc5\xbei\xc4\x8dky'
+p1835
+aS'Nymburk'
+p1836
+asS'273 42'
+p1837
+(lp1838
+S'D\xc5\x99etovice'
+p1839
+aS'Kladno'
+p1840
+asS'273 43'
+p1841
+(lp1842
+S'Bu\xc5\xa1t\xc4\x9bhrad'
+p1843
+aS'Kladno'
+p1844
+asS'142 00'
+p1845
+(lp1846
+S'Bran\xc3\xadk (\xc4\x8d\xc3\xa1st)'
+p1847
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p1848
+asS'273 45'
+p1849
+(lp1850
+S'Net\xc5\x99eby'
+p1851
+aS'Kladno'
+p1852
+asS'625 00'
+p1853
+(lp1854
+S'Brno-Star\xc3\xbd L\xc3\xadskovec x)'
+p1855
+aS'Brno-m\xc4\x9bsto'
+p1856
+asS'285 07'
+p1857
+(lp1858
+S'Rataje nad S\xc3\xa1zavou'
+p1859
+aS'Kutn\xc3\xa1 Hora'
+p1860
+asS'285 06'
+p1861
+(lp1862
+S'Nechyba'
+p1863
+aS'Kutn\xc3\xa1 Hora'
+p1864
+asS'285 04'
+p1865
+(lp1866
+S'Koblasko'
+p1867
+aS'Kutn\xc3\xa1 Hora'
+p1868
+asS'285 09'
+p1869
+(lp1870
+S'K\xc3\xa1cov'
+p1871
+aS'Kutn\xc3\xa1 Hora'
+p1872
+asS'724 00'
+p1873
+(lp1874
+S'Ostrava-Proskovice x)'
+p1875
+aS'Ostrava-m\xc4\x9bsto'
+p1876
+asS'568 02'
+p1877
+(lp1878
+S'Mikule\xc4\x8d'
+p1879
+aS'Svitavy'
+p1880
+asS'411 64'
+p1881
+(lp1882
+S'Vrbice'
+p1883
+aS'Litom\xc4\x9b\xc5\x99ice'
+p1884
+asS'637 00'
+p1885
+(lp1886
+S'Brno-Jundrov x)'
+p1887
+aS'Brno-m\xc4\x9bsto'
+p1888
+asS'398 22'
+p1889
+(lp1890
+S'Ra\xc5\xbeice'
+p1891
+aS'P\xc3\xadsek'
+p1892
+asS'294 48'
+p1893
+(lp1894
+S'Domousnice'
+p1895
+aS'Mlad\xc3\xa1 Boleslav'
+p1896
+asS'735 33'
+p1897
+(lp1898
+S'Doubrava'
+p1899
+aS'Karvin\xc3\xa1'
+p1900
+asS'294 41'
+p1901
+(lp1902
+S'T\xc3\xbdnec'
+p1903
+aS'Mlad\xc3\xa1 Boleslav'
+p1904
+asS'294 43'
+p1905
+(lp1906
+S'Vlkava'
+p1907
+aS'Mlad\xc3\xa1 Boleslav'
+p1908
+asS'294 42'
+p1909
+(lp1910
+S'N\xc4\x9bm\xc4\x8dice'
+p1911
+aS'Mlad\xc3\xa1 Boleslav'
+p1912
+asS'294 45'
+p1913
+(lp1914
+S'Charvatce'
+p1915
+aS'Mlad\xc3\xa1 Boleslav'
+p1916
+asS'294 47'
+p1917
+(lp1918
+S'Ledce'
+p1919
+aS'Mlad\xc3\xa1 Boleslav'
+p1920
+asS'294 46'
+p1921
+(lp1922
+S'Kobylnice'
+p1923
+aS'Mlad\xc3\xa1 Boleslav'
+p1924
+asS'391 52'
+p1925
+(lp1926
+S'Smilovy Hory'
+p1927
+aS'T\xc3\xa1bor'
+p1928
+asS'735 31'
+p1929
+(lp1930
+S'Sk\xc5\x99e\xc4\x8do\xc5\x88'
+p1931
+aS'Karvin\xc3\xa1'
+p1932
+asS'391 55'
+p1933
+(lp1934
+S'Ma\xc5\xa1ovice'
+p1935
+aS'T\xc3\xa1bor'
+p1936
+asS'790 82'
+p1937
+(lp1938
+S'Studen\xc3\xbd Zejf'
+p1939
+aS'Jesen\xc3\xadk'
+p1940
+asS'790 84'
+p1941
+(lp1942
+S'Hradec-Nov\xc3\xa1 Ves'
+p1943
+aS'Jesen\xc3\xadk'
+p1944
+asS'543 52'
+p1945
+(lp1946
+S'Str\xc3\xa1\xc5\xben\xc3\xa9'
+p1947
+aS'Trutnov'
+p1948
+asS'543 51'
+p1949
+(lp1950
+S'Bed\xc5\x99ichov'
+p1951
+aS'Trutnov'
+p1952
+asS'756 56'
+p1953
+(lp1954
+S'Prost\xc5\x99edn\xc3\xad Be\xc4\x8dva'
+p1955
+aS'Vset\xc3\xadn'
+p1956
+asS'533 74'
+p1957
+(lp1958
+S'Horn\xc3\xad Jelen\xc3\xad'
+p1959
+aS'Pardubice'
+p1960
+asS'533 75'
+p1961
+(lp1962
+S'Doln\xc3\xad \xc5\x98edice'
+p1963
+aS'Pardubice'
+p1964
+asS'756 52'
+p1965
+(lp1966
+S'St\xc5\x99\xc3\xadte\xc5\xbe nad Be\xc4\x8dvou'
+p1967
+aS'Vset\xc3\xadn'
+p1968
+asS'756 51'
+p1969
+(lp1970
+S'Vesel\xc3\xa1'
+p1971
+aS'Vset\xc3\xadn'
+p1972
+asS'533 71'
+p1973
+(lp1974
+S'Doln\xc3\xad Rove\xc5\x88'
+p1975
+aS'Pardubice'
+p1976
+asS'691 23'
+p1977
+(lp1978
+S'Nov\xc3\xa1 Ves'
+p1979
+aS'B\xc5\x99eclav'
+p1980
+asS'691 24'
+p1981
+(lp1982
+S'P\xc5\x99ibice'
+p1983
+aS'B\xc5\x99eclav'
+p1984
+asS'691 25'
+p1985
+(lp1986
+S'Vranovice'
+p1987
+aS'B\xc5\x99eclav'
+p1988
+asS'691 26'
+p1989
+(lp1990
+S'Pouzd\xc5\x99any'
+p1991
+aS'B\xc5\x99eclav'
+p1992
+asS'691 27'
+p1993
+(lp1994
+S'Popice'
+p1995
+aS'B\xc5\x99eclav'
+p1996
+asS'747 75'
+p1997
+(lp1998
+S'T\xc3\xa1bor'
+p1999
+aS'Opava'
+p2000
+asS'747 74'
+p2001
+(lp2002
+S'Pust\xc3\xbd Ml\xc3\xbdn'
+p2003
+aS'Opava'
+p2004
+asS'747 73'
+p2005
+(lp2006
+S'V\xc3\xa1vrovice'
+p2007
+aS'Opava'
+p2008
+asS'747 70'
+p2009
+(lp2010
+S'Kom\xc3\xa1rov'
+p2011
+aS'Opava'
+p2012
+asS'747 11'
+p2013
+(lp2014
+S'Kozmice'
+p2015
+aS'Opava'
+p2016
+asS'564 01'
+p2017
+(lp2018
+S'Hejnice'
+p2019
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p2020
+asS'571 01'
+p2021
+(lp2022
+S'Rozst\xc3\xa1n\xc3\xad'
+p2023
+aS'Svitavy'
+p2024
+asS'739 38'
+p2025
+(lp2026
+S'Sob\xc4\x9b\xc5\xa1ovice'
+p2027
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p2028
+asS'281 61'
+p2029
+(lp2030
+S'Kou\xc5\x99im'
+p2031
+aS'Kol\xc3\xadn'
+p2032
+asS'281 63'
+p2033
+(lp2034
+S'Svatb\xc3\xadn'
+p2035
+aS'Kol\xc3\xadn'
+p2036
+asS'507 32'
+p2037
+(lp2038
+S'Drahoraz'
+p2039
+aS'Ji\xc4\x8d\xc3\xadn'
+p2040
+asS'281 67'
+p2041
+(lp2042
+S'St\xc5\x99\xc3\xadbrn\xc3\xa1 Skalice'
+p2043
+aS'Kol\xc3\xadn'
+p2044
+asS'364 52'
+p2045
+(lp2046
+S'Veru\xc5\xa1ice'
+p2047
+aS'Karlovy Vary'
+p2048
+asS'364 53'
+p2049
+(lp2050
+S'Luby'
+p2051
+aS'Karlovy Vary'
+p2052
+asS'471 06'
+p2053
+(lp2054
+S'Rade\xc4\x8d'
+p2055
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2056
+asS'561 70'
+p2057
+(lp2058
+S'P\xc3\xadse\xc4\x8dn\xc3\xa1'
+p2059
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p2060
+asS'471 04'
+p2061
+(lp2062
+S'Skalka'
+p2063
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2064
+asS'471 05'
+p2065
+(lp2066
+S'Valte\xc5\x99ice'
+p2067
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2068
+asS'471 03'
+p2069
+(lp2070
+S'Ran\xc3\xa9'
+p2071
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2072
+asS'471 01'
+p2073
+(lp2074
+S'Oslovice'
+p2075
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2076
+asS'471 08'
+p2077
+(lp2078
+S'Str\xc3\xa1\xc5\xbe u \xc4\x8cesk\xc3\xa9 L\xc3\xadpy'
+p2079
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2080
+asS'717 00'
+p2081
+(lp2082
+S'Ostrava-Bartovice x)'
+p2083
+aS'Ostrava-m\xc4\x9bsto'
+p2084
+asS'398 51'
+p2085
+(lp2086
+S'Sepekov'
+p2087
+aS'P\xc3\xadsek'
+p2088
+asS'398 53'
+p2089
+(lp2090
+S'Chy\xc5\xa1ky'
+p2091
+aS'P\xc3\xadsek'
+p2092
+asS'398 52'
+p2093
+(lp2094
+S'Nad\xc4\x9bjkov'
+p2095
+aS'T\xc3\xa1bor'
+p2096
+asS'398 58'
+p2097
+(lp2098
+S'Kostelec nad Vltavou'
+p2099
+aS'P\xc3\xadsek'
+p2100
+asS'417 31'
+p2101
+(lp2102
+S'Novosedlice'
+p2103
+aS'Teplice'
+p2104
+asS'430 01'
+p2105
+(lp2106
+S'V\xc5\xa1ehrdy'
+p2107
+aS'Chomutov'
+p2108
+asS'793 51'
+p2109
+(lp2110
+S'Mutkov'
+p2111
+aS'Olomouc'
+p2112
+asS'430 04'
+p2113
+(lp2114
+S'Chomutov (\xc4\x8d\xc3\xa1st)'
+p2115
+aS'Chomutov'
+p2116
+asS'793 56'
+p2117
+(lp2118
+S'Ry\xc5\xbeovi\xc5\xa1t\xc4\x9b'
+p2119
+aS'Brunt\xc3\xa1l'
+p2120
+asS'378 53'
+p2121
+(lp2122
+S'Sv\xc4\x9btl\xc3\xa1'
+p2123
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p2124
+asS'330 33'
+p2125
+(lp2126
+S'Ple\xc5\xa1nice'
+p2127
+aS'Plze\xc5\x88-sever'
+p2128
+asS'330 32'
+p2129
+(lp2130
+S'Bden\xc4\x9bves'
+p2131
+aS'Plze\xc5\x88-sever'
+p2132
+asS'330 35'
+p2133
+(lp2134
+S'Chr\xc3\xa1stov'
+p2135
+aS'Plze\xc5\x88-sever'
+p2136
+asS'330 34'
+p2137
+(lp2138
+S'\xc3\x9alice'
+p2139
+aS'Plze\xc5\x88-sever'
+p2140
+asS'378 55'
+p2141
+(lp2142
+S'Popel\xc3\xadn'
+p2143
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p2144
+asS'330 36'
+p2145
+(lp2146
+S'M\xc3\xa1lkovice'
+p2147
+aS'Plze\xc5\x88-sever'
+p2148
+asS'267 64'
+p2149
+(lp2150
+S'Ole\xc5\xa1n\xc3\xa1'
+p2151
+aS'Beroun'
+p2152
+asS'744 01'
+p2153
+(lp2154
+S'Trojanovice'
+p2155
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p2156
+asS'378 58'
+p2157
+(lp2158
+S'Velk\xc3\xa1 Lhota'
+p2159
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p2160
+asS'267 61'
+p2161
+(lp2162
+S'\xc3\x9ajezd'
+p2163
+aS'Beroun'
+p2164
+asS'739 01'
+p2165
+(lp2166
+S'Kun\xc4\x8di\xc4\x8dky u Ba\xc5\xa1ky'
+p2167
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p2168
+asS'267 62'
+p2169
+(lp2170
+S'Mrtn\xc3\xadk'
+p2171
+aS'Beroun'
+p2172
+asS'468 04'
+p2173
+(lp2174
+S'Prose\xc4\x8d nad Nisou'
+p2175
+aS'Jablonec nad Nisou'
+p2176
+asS'468 01'
+p2177
+(lp2178
+S'Mar\xc5\xa1ovice'
+p2179
+aS'Jablonec nad Nisou'
+p2180
+asS'468 02'
+p2181
+(lp2182
+S'Pule\xc4\x8dn\xc3\xbd'
+p2183
+aS'Jablonec nad Nisou'
+p2184
+asS'619 00'
+p2185
+(lp2186
+S'P\xc5\x99\xc3\xadz\xc5\x99enice'
+p2187
+aS'Brno-m\xc4\x9bsto'
+p2188
+asS'262 62'
+p2189
+(lp2190
+S'Doln\xc3\xad Hbity'
+p2191
+aS'P\xc5\x99\xc3\xadbram'
+p2192
+asS'262 63'
+p2193
+(lp2194
+S'Velk\xc3\xa1'
+p2195
+aS'P\xc5\x99\xc3\xadbram'
+p2196
+asS'257 65'
+p2197
+(lp2198
+S'Mi\xc5\x99etice'
+p2199
+aS'Bene\xc5\xa1ov'
+p2200
+asS'257 63'
+p2201
+(lp2202
+S'Trhov\xc3\xbd \xc5\xa0t\xc4\x9bp\xc3\xa1nov'
+p2203
+aS'Bene\xc5\xa1ov'
+p2204
+asS'277 33'
+p2205
+(lp2206
+S'\xc5\xbdivon\xc3\xadn'
+p2207
+aS'M\xc4\x9bln\xc3\xadk'
+p2208
+asS'277 32'
+p2209
+(lp2210
+S'Liblice'
+p2211
+aS'M\xc4\x9bln\xc3\xadk'
+p2212
+asS'277 31'
+p2213
+(lp2214
+S'Hle\xc4\x8fsebe'
+p2215
+aS'M\xc4\x9bln\xc3\xadk'
+p2216
+asS'277 36'
+p2217
+(lp2218
+S'Skramou\xc5\xa1'
+p2219
+aS'M\xc4\x9bln\xc3\xadk'
+p2220
+asS'277 35'
+p2221
+(lp2222
+S'R\xc3\xa1j'
+p2223
+aS'M\xc4\x9bln\xc3\xadk'
+p2224
+asS'277 34'
+p2225
+(lp2226
+S'St\xc5\x99emy'
+p2227
+aS'M\xc4\x9bln\xc3\xadk'
+p2228
+asS'277 38'
+p2229
+(lp2230
+S'Vysok\xc3\xa1 Libe\xc5\x88'
+p2231
+aS'M\xc4\x9bln\xc3\xadk'
+p2232
+asS'273 41'
+p2233
+(lp2234
+S'Ol\xc5\xa1any'
+p2235
+aS'Kladno'
+p2236
+asS'141 00'
+p2237
+(lp2238
+S'Michle (\xc4\x8d\xc3\xa1st)'
+p2239
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p2240
+asS'500 11'
+p2241
+(lp2242
+S'T\xc5\x99ebe\xc5\xa1'
+p2243
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2244
+asS'435 42'
+p2245
+(lp2246
+S'Hamr'
+p2247
+aS'Most'
+p2248
+asS'435 43'
+p2249
+(lp2250
+S'\xc4\x8cernice'
+p2251
+aS'Most'
+p2252
+asS'435 46'
+p2253
+(lp2254
+S'Lesn\xc3\xa1'
+p2255
+aS'Most'
+p2256
+asS'435 47'
+p2257
+(lp2258
+S'Brandov'
+p2259
+aS'Most'
+p2260
+asS'435 45'
+p2261
+(lp2262
+S'Mikulovice'
+p2263
+aS'Most'
+p2264
+asS'254 01'
+p2265
+(lp2266
+S'Radl\xc3\xadk'
+p2267
+aS'Praha-z\xc3\xa1pad'
+p2268
+asS'471 29'
+p2269
+(lp2270
+S'Hlem\xc3\xbd\xc5\xbed\xc3\xad'
+p2271
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2272
+asS'431 32'
+p2273
+(lp2274
+S'Na\xc4\x8det\xc3\xadn'
+p2275
+aS'Chomutov'
+p2276
+asS'542 04'
+p2277
+(lp2278
+S'Bernartice'
+p2279
+aS'Trutnov'
+p2280
+asS'542 01'
+p2281
+(lp2282
+S'Bobr'
+p2283
+aS'Trutnov'
+p2284
+asS'783 33'
+p2285
+(lp2286
+S'P\xc5\x99\xc3\xadkazy'
+p2287
+aS'Olomouc'
+p2288
+asS'783 32'
+p2289
+(lp2290
+S'Mezice'
+p2291
+aS'Olomouc'
+p2292
+asS'582 45'
+p2293
+(lp2294
+S'Uheln\xc3\xa1 P\xc5\x99\xc3\xadbram'
+p2295
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2296
+asS'582 44'
+p2297
+(lp2298
+S'S\xc3\xa1zavka'
+p2299
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2300
+asS'582 43'
+p2301
+(lp2302
+S'Tis'
+p2303
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2304
+asS'266 01'
+p2305
+(lp2306
+S'Beroun-Zdejcina'
+p2307
+aS'Beroun'
+p2308
+asS'582 41'
+p2309
+(lp2310
+S'Skuhrov'
+p2311
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2312
+asS'687 31'
+p2313
+(lp2314
+S'\xc5\xa0umice'
+p2315
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2316
+asS'687 33'
+p2317
+(lp2318
+S'Lhotka'
+p2319
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2320
+asS'387 20'
+p2321
+(lp2322
+S'Kraselov'
+p2323
+aS'Strakonice'
+p2324
+asS'687 37'
+p2325
+(lp2326
+S'V\xc3\xa1\xc5\xbeany'
+p2327
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2328
+asS'687 38'
+p2329
+(lp2330
+S'Nedakonice'
+p2331
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2332
+asS'679 39'
+p2333
+(lp2334
+S'\xc3\x9asobrno'
+p2335
+aS'Blansko'
+p2336
+asS'679 38'
+p2337
+(lp2338
+S'Cetkovice'
+p2339
+aS'Blansko'
+p2340
+asS'679 33'
+p2341
+(lp2342
+S'V\xc3\xadsky'
+p2343
+aS'Blansko'
+p2344
+asS'679 32'
+p2345
+(lp2346
+S'Svit\xc3\xa1vka'
+p2347
+aS'Blansko'
+p2348
+asS'679 35'
+p2349
+(lp2350
+S'\xc5\xa0ebetov'
+p2351
+aS'Blansko'
+p2352
+asS'735 11'
+p2353
+(lp2354
+S'Lazy'
+p2355
+aS'Karvin\xc3\xa1'
+p2356
+asS'544 75'
+p2357
+(lp2358
+S'Zadn\xc3\xad Mostek'
+p2359
+aS'Trutnov'
+p2360
+asS'641 00'
+p2361
+(lp2362
+S'Brno-\xc5\xbdeb\xc4\x9bt\xc3\xadn x)'
+p2363
+aS'Brno-m\xc4\x9bsto'
+p2364
+asS'150 00'
+p2365
+(lp2366
+S'Praha 5-Radlice x)'
+p2367
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p2368
+asS'273 51'
+p2369
+(lp2370
+S'\xc4\x8cerven\xc3\xbd \xc3\x9ajezd'
+p2371
+aS'Praha-z\xc3\xa1pad'
+p2372
+asS'273 53'
+p2373
+(lp2374
+S'Hostou\xc5\x88'
+p2375
+aS'Kladno'
+p2376
+asS'273 54'
+p2377
+(lp2378
+S'Makot\xc5\x99asy'
+p2379
+aS'Kladno'
+p2380
+asS'753 01'
+p2381
+(lp2382
+S'Z\xc3\xa1mrsky'
+p2383
+aS'P\xc5\x99erov'
+p2384
+asS'592 33'
+p2385
+(lp2386
+S'Rade\xc5\xa1\xc3\xadnsk\xc3\xa1 Svratka'
+p2387
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p2388
+asS'592 32'
+p2389
+(lp2390
+S'J\xc3\xa1my'
+p2391
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p2392
+asS'592 31'
+p2393
+(lp2394
+S'Hlinn\xc3\xa9'
+p2395
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p2396
+asS'411 74'
+p2397
+(lp2398
+S'Sn\xc4\x9bdovice'
+p2399
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2400
+asS'411 71'
+p2401
+(lp2402
+S'Chodouny'
+p2403
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2404
+asS'411 72'
+p2405
+(lp2406
+S'Kochovice'
+p2407
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2408
+asS'675 41'
+p2409
+(lp2410
+S'L\xc3\xa1z'
+p2411
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2412
+asS'671 55'
+p2413
+(lp2414
+S'Bl\xc3\xad\xc5\xbekovice'
+p2415
+aS'Znojmo'
+p2416
+asS'671 54'
+p2417
+(lp2418
+S'Blann\xc3\xa9'
+p2419
+aS'Znojmo'
+p2420
+asS'671 53'
+p2421
+(lp2422
+S'Rudlice'
+p2423
+aS'Znojmo'
+p2424
+asS'671 52'
+p2425
+(lp2426
+S'Hlubok\xc3\xa9 Ma\xc5\xa1\xc5\xafvky'
+p2427
+aS'Znojmo'
+p2428
+asS'671 51'
+p2429
+(lp2430
+S'\xc5\xbder\xc5\xaftky'
+p2431
+aS'Znojmo'
+p2432
+asS'565 53'
+p2433
+(lp2434
+S'Sloupnice'
+p2435
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p2436
+asS'357 35'
+p2437
+(lp2438
+S'V\xc5\x99esov\xc3\xa1'
+p2439
+aS'Sokolov'
+p2440
+asS'357 31'
+p2441
+(lp2442
+S'Kr\xc3\xa1sno'
+p2443
+aS'Sokolov'
+p2444
+asS'281 30'
+p2445
+(lp2446
+S'Oha\xc5\x99e'
+p2447
+aS'Kol\xc3\xadn'
+p2448
+asS'783 06'
+p2449
+(lp2450
+S'M\xc4\x9bsto Libav\xc3\xa1'
+p2451
+aS'Olomouc'
+p2452
+asS'391 43'
+p2453
+(lp2454
+S'Doln\xc3\xad Sv\xc4\x9btl\xc3\xa1'
+p2455
+aS'T\xc3\xa1bor'
+p2456
+asS'614 00'
+p2457
+(lp2458
+S'Brno-Husovice x)'
+p2459
+aS'Brno-m\xc4\x9bsto'
+p2460
+asS'783 05'
+p2461
+(lp2462
+S'Horn\xc3\xad Lod\xc4\x9bnice'
+p2463
+aS'Olomouc'
+p2464
+asS'379 01'
+p2465
+(lp2466
+S'Nov\xc3\xa1 Hl\xc3\xadna'
+p2467
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p2468
+asS'675 29'
+p2469
+(lp2470
+S'Brodce'
+p2471
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2472
+asS'675 26'
+p2473
+(lp2474
+S'Lesn\xc3\xa1'
+p2475
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2476
+asS'675 27'
+p2477
+(lp2478
+S'\xc5\xa0t\xc4\x9bm\xc4\x9bchy'
+p2479
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2480
+asS'675 24'
+p2481
+(lp2482
+S'\xc4\x8c\xc3\xa1slavice'
+p2483
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2484
+asS'675 22'
+p2485
+(lp2486
+S'Mastn\xc3\xadk'
+p2487
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2488
+asS'675 21'
+p2489
+(lp2490
+S'Pokojovice'
+p2491
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2492
+asS'382 22'
+p2493
+(lp2494
+S'Ho\xc5\x99ice na \xc5\xa0umav\xc4\x9b'
+p2495
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p2496
+asS'755 01'
+p2497
+(lp2498
+S'Semet\xc3\xadn'
+p2499
+aS'Vset\xc3\xadn'
+p2500
+asS'375 01'
+p2501
+(lp2502
+S'Karlov-Nepomuk'
+p2503
+aS'P\xc3\xadsek'
+p2504
+asS'552 11'
+p2505
+(lp2506
+S'Hust\xc3\xad\xc5\x99any'
+p2507
+aS'N\xc3\xa1chod'
+p2508
+asS'756 23'
+p2509
+(lp2510
+S'Jabl\xc5\xafnka'
+p2511
+aS'Vset\xc3\xadn'
+p2512
+asS'756 21'
+p2513
+(lp2514
+S'Kate\xc5\x99inice'
+p2515
+aS'Vset\xc3\xadn'
+p2516
+asS'756 27'
+p2517
+(lp2518
+S'Vala\xc5\xa1sk\xc3\xa1 Byst\xc5\x99ice'
+p2519
+aS'Vset\xc3\xadn'
+p2520
+asS'756 24'
+p2521
+(lp2522
+S'Mikul\xc5\xafvka'
+p2523
+aS'Vset\xc3\xadn'
+p2524
+asS'756 25'
+p2525
+(lp2526
+S'R\xc5\xaf\xc5\xbe\xc4\x8fka'
+p2527
+aS'Vset\xc3\xadn'
+p2528
+asS'281 51'
+p2529
+(lp2530
+S'Velk\xc3\xbd Osek'
+p2531
+aS'Kol\xc3\xadn'
+p2532
+asS'747 06'
+p2533
+(lp2534
+S'Kyle\xc5\xa1ovice'
+p2535
+aS'Opava'
+p2536
+asS'747 07'
+p2537
+(lp2538
+S'Jakta\xc5\x99'
+p2539
+aS'Opava'
+p2540
+asS'747 05'
+p2541
+(lp2542
+S'Mal\xc3\xa9 Ho\xc5\xa1tice'
+p2543
+aS'Opava'
+p2544
+asS'294 74'
+p2545
+(lp2546
+S'Podbrahy'
+p2547
+aS'Mlad\xc3\xa1 Boleslav'
+p2548
+asS'294 76'
+p2549
+(lp2550
+S'Sudovo Hlavno'
+p2551
+aS'Mlad\xc3\xa1 Boleslav'
+p2552
+asS'294 77'
+p2553
+(lp2554
+S'Me\xc4\x8de\xc5\x99\xc3\xad\xc5\xbe'
+p2555
+aS'Mlad\xc3\xa1 Boleslav'
+p2556
+asS'294 71'
+p2557
+(lp2558
+S'Dra\xc5\xbeice'
+p2559
+aS'Mlad\xc3\xa1 Boleslav'
+p2560
+asS'252 81'
+p2561
+(lp2562
+S'Petrov'
+p2563
+aS'Praha-z\xc3\xa1pad'
+p2564
+asS'294 73'
+p2565
+(lp2566
+S'Horky nad Jizerou'
+p2567
+aS'Mlad\xc3\xa1 Boleslav'
+p2568
+asS'768 12'
+p2569
+(lp2570
+S'Sob\xc4\x9blice'
+p2571
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p2572
+asS'294 79'
+p2573
+(lp2574
+S'Horn\xc3\xad Slivno'
+p2575
+aS'Mlad\xc3\xa1 Boleslav'
+p2576
+asS'768 11'
+p2577
+(lp2578
+S'Z\xc3\xa1\xc5\x99\xc3\xad\xc4\x8d\xc3\xad'
+p2579
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p2580
+asS'471 15'
+p2581
+(lp2582
+S'Horn\xc3\xad Prysk'
+p2583
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2584
+asS'471 14'
+p2585
+(lp2586
+S'Pr\xc3\xa1che\xc5\x88'
+p2587
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2588
+asS'471 17'
+p2589
+(lp2590
+S'Skalice u \xc4\x8cesk\xc3\xa9 L\xc3\xadpy'
+p2591
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2592
+asS'471 11'
+p2593
+(lp2594
+S'Horn\xc3\xad Libchava'
+p2595
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2596
+asS'471 13'
+p2597
+(lp2598
+S'Mistrovice'
+p2599
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2600
+asS'471 12'
+p2601
+(lp2602
+S'Volfartice'
+p2603
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2604
+asS'503 66'
+p2605
+(lp2606
+S'K\xc3\xa1ranice'
+p2607
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2608
+asS'503 65'
+p2609
+(lp2610
+S'Kosi\xc4\x8dky'
+p2611
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2612
+asS'471 18'
+p2613
+(lp2614
+S'Bukovany'
+p2615
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p2616
+asS'503 61'
+p2617
+(lp2618
+S'Lov\xc4\x8dice'
+p2619
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2620
+asS'798 26'
+p2621
+(lp2622
+S'Poli\xc4\x8dky'
+p2623
+aS'Prost\xc4\x9bjov'
+p2624
+asS'438 01'
+p2625
+(lp2626
+S'Dob\xc5\x99\xc3\xad\xc4\x8dany'
+p2627
+aS'Louny'
+p2628
+asS'793 44'
+p2629
+(lp2630
+S'Dob\xc5\x99e\xc4\x8dov'
+p2631
+aS'Brunt\xc3\xa1l'
+p2632
+asS'417 42'
+p2633
+(lp2634
+S'Sob\xc4\x9bchleby'
+p2635
+aS'Teplice'
+p2636
+asS'417 43'
+p2637
+(lp2638
+S'Mar\xc5\xa1ov'
+p2639
+aS'Teplice'
+p2640
+asS'417 41'
+p2641
+(lp2642
+S'Vrchoslav'
+p2643
+aS'Teplice'
+p2644
+asS'751 27'
+p2645
+(lp2646
+S'P\xc5\x99erov XIII'
+p2647
+aS'Pen\xc4\x8dice'
+p2648
+aS'P\xc5\x99erov'
+p2649
+asS'789 85'
+p2650
+(lp2651
+S'Podol\xc3\xad'
+p2652
+aS'\xc5\xa0umperk'
+p2653
+asS'751 25'
+p2654
+(lp2655
+S'V\xc3\xbdkleky'
+p2656
+aS'P\xc5\x99erov'
+p2657
+asS'751 24'
+p2658
+(lp2659
+S'Lhotka'
+p2660
+aS'P\xc5\x99erov'
+p2661
+asS'751 22'
+p2662
+(lp2663
+S'Osek nad Be\xc4\x8dvou'
+p2664
+aS'P\xc5\x99erov'
+p2665
+asS'751 21'
+p2666
+(lp2667
+S'Grymov'
+p2668
+aS'P\xc5\x99erov'
+p2669
+asS'752 01'
+p2670
+(lp2671
+S'Uh\xc5\x99i\xc4\x8dice'
+p2672
+aS'P\xc5\x99erov'
+p2673
+asS'330 08'
+p2674
+(lp2675
+S'Senec'
+p2676
+aS'Plze\xc5\x88-sever'
+p2677
+asS'330 04'
+p2678
+(lp2679
+S'Hromnice'
+p2680
+aS'Plze\xc5\x88-sever'
+p2681
+asS'267 51'
+p2682
+(lp2683
+S'Otm\xc3\xad\xc4\x8de'
+p2684
+aS'Beroun'
+p2685
+asS'330 07'
+p2686
+(lp2687
+S'Druztov\xc3\xa1'
+p2688
+aS'Plze\xc5\x88-sever'
+p2689
+asS'330 03'
+p2690
+(lp2691
+S'Chr\xc3\xa1st'
+p2692
+aS'Plze\xc5\x88-sever'
+p2693
+asS'468 11'
+p2694
+(lp2695
+S'Lou\xc4\x8dn\xc3\xa1 nad Nisou'
+p2696
+aS'Jablonec nad Nisou'
+p2697
+asS'541 02'
+p2698
+(lp2699
+S'Horn\xc3\xad Star\xc3\xa9 M\xc4\x9bsto'
+p2700
+aS'Trutnov'
+p2701
+asS'541 03'
+p2702
+(lp2703
+S'Po\xc5\x99\xc3\xad\xc4\x8d\xc3\xad'
+p2704
+aS'Trutnov'
+p2705
+asS'541 01'
+p2706
+(lp2707
+S'Lampertice'
+p2708
+aS'Trutnov'
+p2709
+asS'798 21'
+p2710
+(lp2711
+S'\xc4\x8cehovice'
+p2712
+aS'Prost\xc4\x9bjov'
+p2713
+asS'262 72'
+p2714
+(lp2715
+S'P\xc5\x99edn\xc3\xad Po\xc5\x99\xc3\xad\xc4\x8d\xc3\xad'
+p2716
+aS'P\xc5\x99\xc3\xadbram'
+p2717
+asS'272 01'
+p2718
+(lp2719
+S'Kladno'
+p2720
+aS'Kladno'
+p2721
+asS'272 03'
+p2722
+(lp2723
+S'Dub\xc3\xad'
+p2724
+aS'Kladno'
+p2725
+asS'760 05'
+p2726
+(lp2727
+S'Zl\xc3\xadn (Ji\xc5\xben\xc3\xad Svahy)'
+p2728
+aS'Zl\xc3\xadn'
+p2729
+asS'713 00'
+p2730
+(lp2731
+S'Ostrava-He\xc5\x99manice x)'
+p2732
+aS'Ostrava-m\xc4\x9bsto'
+p2733
+asS'760 01'
+p2734
+(lp2735
+S'Kudlov'
+p2736
+aS'Zl\xc3\xadn'
+p2737
+asS'257 71'
+p2738
+(lp2739
+S'Soutice'
+p2740
+aS'Bene\xc5\xa1ov'
+p2741
+asS'514 01'
+p2742
+(lp2743
+S'\xc5\xa0t\xc4\x9bpanick\xc3\xa1 Lhota'
+p2744
+aS'Semily'
+p2745
+asS'642 00'
+p2746
+(lp2747
+S'Bosonohy'
+p2748
+aS'Brno-m\xc4\x9bsto'
+p2749
+asS'500 09'
+p2750
+(lp2751
+S'Mal\xc5\xa1ova Lhota'
+p2752
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2753
+asS'119 00'
+p2754
+(lp2755
+S'Hrad\xc4\x8dany (\xc4\x8d\xc3\xa1st)'
+p2756
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p2757
+asS'500 03'
+p2758
+(lp2759
+S'Slezsk\xc3\xa9 P\xc5\x99edm\xc4\x9bst\xc3\xad'
+p2760
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2761
+asS'500 02'
+p2762
+(lp2763
+S'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2764
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2765
+asS'500 04'
+p2766
+(lp2767
+S'Kukleny'
+p2768
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2769
+asS'500 06'
+p2770
+(lp2771
+S'Nov\xc3\xbd Hradec Kr\xc3\xa1lov\xc3\xa9 (\xc4\x8d\xc3\xa1st)'
+p2772
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p2773
+asS'407 60'
+p2774
+(lp2775
+S'Brtn\xc3\xadky'
+p2776
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p2777
+asS'683 08'
+p2778
+(lp2779
+S'B\xc5\x99ezina'
+p2780
+aS'Vy\xc5\xa1kov'
+p2781
+asS'382 16'
+p2782
+(lp2783
+S'Sv\xc4\x9btl\xc3\xadk'
+p2784
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p2785
+asS'464 01'
+p2786
+(lp2787
+S'Vi\xc5\xa1\xc5\x88ov\xc3\xa1'
+p2788
+aS'Liberec'
+p2789
+asS'683 03'
+p2790
+(lp2791
+S'Nemojany'
+p2792
+aS'Vy\xc5\xa1kov'
+p2793
+asS'683 05'
+p2794
+(lp2795
+S'P\xc3\xadstovice'
+p2796
+aS'Vy\xc5\xa1kov'
+p2797
+asS'683 04'
+p2798
+(lp2799
+S'Podom\xc3\xad'
+p2800
+aS'Vy\xc5\xa1kov'
+p2801
+asS'382 11'
+p2802
+(lp2803
+S'Su\xc5\xa1'
+p2804
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p2805
+asS'582 32'
+p2806
+(lp2807
+S'Vil\xc3\xa9movec'
+p2808
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2809
+asS'582 33'
+p2810
+(lp2811
+S'Doln\xc3\xad M\xc4\x9bsto'
+p2812
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p2813
+asS'768 75'
+p2814
+(lp2815
+S'Loukov'
+p2816
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p2817
+asS'345 26'
+p2818
+(lp2819
+S'B\xc4\x9bl\xc3\xa1 nad Radbuzou'
+p2820
+aS'Doma\xc5\xbelice'
+p2821
+asS'679 05'
+p2822
+(lp2823
+S'Habr\xc5\xafvka'
+p2824
+aS'Blansko'
+p2825
+asS'679 06'
+p2826
+(lp2827
+S'Senet\xc3\xa1\xc5\x99ov'
+p2828
+aS'Blansko'
+p2829
+asS'679 07'
+p2830
+(lp2831
+S'Kotvrdovice'
+p2832
+aS'Blansko'
+p2833
+asS'345 22'
+p2834
+(lp2835
+S'\xc5\xa0idl\xc3\xa1kov'
+p2836
+aS'Doma\xc5\xbelice'
+p2837
+asS'679 01'
+p2838
+(lp2839
+S'Mladkov'
+p2840
+aS'Blansko'
+p2841
+asS'387 35'
+p2842
+(lp2843
+S'Doubravice'
+p2844
+aS'Strakonice'
+p2845
+asS'735 14'
+p2846
+(lp2847
+S'Poruba'
+p2848
+aS'Karvin\xc3\xa1'
+p2849
+asS'687 24'
+p2850
+(lp2851
+S'Kva\xc4\x8dice'
+p2852
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2853
+asS'346 01'
+p2854
+(lp2855
+S'Doln\xc3\xad Metelsko'
+p2856
+aS'Doma\xc5\xbelice'
+p2857
+asS'687 22'
+p2858
+(lp2859
+S'Chylice'
+p2860
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p2861
+asS'362 51'
+p2862
+(lp2863
+S'Hanu\xc5\xa1ov'
+p2864
+aS'Karlovy Vary'
+p2865
+asS'273 64'
+p2866
+(lp2867
+S'Doksy'
+p2868
+aS'Kladno'
+p2869
+asS'273 62'
+p2870
+(lp2871
+S'Dru\xc5\xbeec'
+p2872
+aS'Kladno'
+p2873
+asS'511 01'
+p2874
+(lp2875
+S'Mal\xc3\xbd Rohozec'
+p2876
+aS'Semily'
+p2877
+asS'403 40'
+p2878
+(lp2879
+S'Skorotice'
+p2880
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p2881
+asS'592 42'
+p2882
+(lp2883
+S'\xc5\xa0irok\xc3\xa9 Pole'
+p2884
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p2885
+asS'592 45'
+p2886
+(lp2887
+S'L\xc3\xadsek'
+p2888
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p2889
+asS'411 41'
+p2890
+(lp2891
+S'\xc5\xbditenice'
+p2892
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2893
+asS'411 45'
+p2894
+(lp2895
+S'Kn\xc3\xadnice'
+p2896
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2897
+asS'411 46'
+p2898
+(lp2899
+S'Lib\xc4\x9b\xc5\xa1ice'
+p2900
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2901
+asS'411 48'
+p2902
+(lp2903
+S'Nu\xc4\x8dnice'
+p2904
+aS'Litom\xc4\x9b\xc5\x99ice'
+p2905
+asS'671 22'
+p2906
+(lp2907
+S'\xc5\xa0atov'
+p2908
+aS'Znojmo'
+p2909
+asS'671 27'
+p2910
+(lp2911
+S'Hr\xc3\xa1dek'
+p2912
+aS'Znojmo'
+p2913
+asS'671 25'
+p2914
+(lp2915
+S'Tasovice'
+p2916
+aS'Znojmo'
+p2917
+asS'671 28'
+p2918
+(lp2919
+S'K\xc5\x99\xc3\xaddl\xc5\xafvky'
+p2920
+aS'Znojmo'
+p2921
+asS'671 29'
+p2922
+(lp2923
+S'Micmanice'
+p2924
+aS'Znojmo'
+p2925
+asS'391 76'
+p2926
+(lp2927
+S'Slapy'
+p2928
+aS'T\xc3\xa1bor'
+p2929
+asS'391 72'
+p2930
+(lp2931
+S'Sudom\xc4\x9b\xc5\x99ice u Bechyn\xc4\x9b'
+p2932
+aS'T\xc3\xa1bor'
+p2933
+asS'391 73'
+p2934
+(lp2935
+S'Hlavatce'
+p2936
+aS'T\xc3\xa1bor'
+p2937
+asS'675 34'
+p2938
+(lp2939
+S'Police'
+p2940
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2941
+asS'675 31'
+p2942
+(lp2943
+S'Slav\xc3\xadkovice'
+p2944
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2945
+asS'675 32'
+p2946
+(lp2947
+S'Opone\xc5\xa1ice'
+p2948
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p2949
+asS'542 38'
+p2950
+(lp2951
+S'Havlovice'
+p2952
+aS'Trutnov'
+p2953
+asS'643 00'
+p2954
+(lp2955
+S'Brno-Chrlice x)'
+p2956
+aS'Brno-m\xc4\x9bsto'
+p2957
+asS'533 51'
+p2958
+(lp2959
+S'Rosice'
+p2960
+aS'Pardubice'
+p2961
+asS'533 52'
+p2962
+(lp2963
+S'Bukovina nad Labem'
+p2964
+aS'Pardubice'
+p2965
+asS'533 53'
+p2966
+(lp2967
+S'Ohrazenice'
+p2968
+aS'Pardubice'
+p2969
+asS'533 54'
+p2970
+(lp2971
+S'Rybitv\xc3\xad'
+p2972
+aS'Pardubice'
+p2973
+asS'747 19'
+p2974
+(lp2975
+S'Bohuslavice'
+p2976
+aS'Opava'
+p2977
+asS'281 41'
+p2978
+(lp2979
+S'Ratbo\xc5\x99'
+p2980
+aS'Kol\xc3\xadn'
+p2981
+asS'281 46'
+p2982
+(lp2983
+S'Doln\xc3\xad Kruty'
+p2984
+aS'Kol\xc3\xadn'
+p2985
+asS'281 44'
+p2986
+(lp2987
+S'Chotouchov'
+p2988
+aS'Kol\xc3\xadn'
+p2989
+asS'691 42'
+p2990
+(lp2991
+S'Valtice'
+p2992
+aS'B\xc5\x99eclav'
+p2993
+asS'691 43'
+p2994
+(lp2995
+S'Hlohovec'
+p2996
+aS'B\xc5\x99eclav'
+p2997
+asS'691 41'
+p2998
+(lp2999
+S'Po\xc5\xa1torn\xc3\xa1'
+p3000
+aS'B\xc5\x99eclav'
+p3001
+asS'335 03'
+p3002
+(lp3003
+S'Dvorec'
+p3004
+aS'Plze\xc5\x88-jih'
+p3005
+asS'747 14'
+p3006
+(lp3007
+S'Markvartovice'
+p3008
+aS'Opava'
+p3009
+asS'335 01'
+p3010
+(lp3011
+S'Chlumy'
+p3012
+aS'Plze\xc5\x88-jih'
+p3013
+asS'747 16'
+p3014
+(lp3015
+S'Ha\xc5\xa5'
+p3016
+aS'Opava'
+p3017
+asS'768 05'
+p3018
+(lp3019
+S'L\xc3\xadskovec'
+p3020
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3021
+asS'768 04'
+p3022
+(lp3023
+S'St\xc5\x99\xc3\xadlky'
+p3024
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3025
+asS'768 01'
+p3026
+(lp3027
+S'Jarohn\xc4\x9bvice'
+p3028
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3029
+asS'768 02'
+p3030
+(lp3031
+S'Divoky'
+p3032
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3033
+asS'180 00'
+p3034
+(lp3035
+S'Praha 8-Libe\xc5\x88 (\xc4\x8d\xc3\xa1st) x)'
+p3036
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3037
+asS'471 23'
+p3038
+(lp3039
+S'Velenice'
+p3040
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p3041
+asS'471 24'
+p3042
+(lp3043
+S'Noviny pod Ralskem'
+p3044
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p3045
+asS'471 25'
+p3046
+(lp3047
+S'Pole'
+p3048
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p3049
+asS'471 27'
+p3050
+(lp3051
+S'Str\xc3\xa1\xc5\xbe pod Ralskem'
+p3052
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p3053
+asS'471 28'
+p3054
+(lp3055
+S'B\xc5\x99evni\xc5\xa1t\xc4\x9b'
+p3056
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p3057
+asS'561 52'
+p3058
+(lp3059
+S'Verm\xc4\x9b\xc5\x99ovice'
+p3060
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3061
+asS'561 56'
+p3062
+(lp3063
+S'Horn\xc3\xad \xc4\x8cermn\xc3\xa1'
+p3064
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3065
+asS'561 54'
+p3066
+(lp3067
+S'Byst\xc5\x99ec'
+p3068
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3069
+asS'756 54'
+p3070
+(lp3071
+S'Zub\xc5\x99\xc3\xad'
+p3072
+aS'Vset\xc3\xadn'
+p3073
+asS'569 82'
+p3074
+(lp3075
+S'Old\xc5\x99i\xc5\xa1'
+p3076
+aS'Svitavy'
+p3077
+asS'671 69'
+p3078
+(lp3079
+S'Hevl\xc3\xadn'
+p3080
+aS'Znojmo'
+p3081
+asS'394 91'
+p3082
+(lp3083
+S'Bohdal\xc3\xadn'
+p3084
+aS'Pelh\xc5\x99imov'
+p3085
+asS'394 92'
+p3086
+(lp3087
+S'Mnich'
+p3088
+aS'Pelh\xc5\x99imov'
+p3089
+asS'394 94'
+p3090
+(lp3091
+S'Pansk\xc3\xa9 Ml\xc3\xbdny'
+p3092
+aS'Pelh\xc5\x99imov'
+p3093
+asS'394 96'
+p3094
+(lp3095
+S'T\xc4\x9bmice'
+p3096
+aS'Pelh\xc5\x99imov'
+p3097
+asS'735 32'
+p3098
+(lp3099
+S'Rychvald'
+p3100
+aS'Karvin\xc3\xa1'
+p3101
+asS'671 63'
+p3102
+(lp3103
+S'Lechovice'
+p3104
+aS'Znojmo'
+p3105
+asS'793 31'
+p3106
+(lp3107
+S'And\xc4\x9blsk\xc3\xa1 Hora'
+p3108
+aS'Brunt\xc3\xa1l'
+p3109
+asS'793 36'
+p3110
+(lp3111
+S'Mal\xc3\xa1 Mor\xc3\xa1vka'
+p3112
+aS'Brunt\xc3\xa1l'
+p3113
+asS'417 53'
+p3114
+(lp3115
+S'\xc3\x9apo\xc5\x99'
+p3116
+aS'Teplice'
+p3117
+asS'417 52'
+p3118
+(lp3119
+S'Hostomice'
+p3120
+aS'Teplice'
+p3121
+asS'417 54'
+p3122
+(lp3123
+S'Kostomlaty pod Mile\xc5\xa1ovkou'
+p3124
+aS'Teplice'
+p3125
+asS'417 57'
+p3126
+(lp3127
+S'\xc4\x8cerven\xc3\xbd \xc3\x9ajezd'
+p3128
+aS'Teplice'
+p3129
+asS'789 91'
+p3130
+(lp3131
+S'Janou\xc5\xa1ov'
+p3132
+aS'\xc5\xa0umperk'
+p3133
+asS'267 42'
+p3134
+(lp3135
+S'Broumy'
+p3136
+aS'Beroun'
+p3137
+asS'267 41'
+p3138
+(lp3139
+S'Kublov'
+p3140
+aS'Beroun'
+p3141
+asS'161 00'
+p3142
+(lp3143
+S'Ruzyn\xc4\x9b'
+p3144
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3145
+asS'364 71'
+p3146
+(lp3147
+S'Skoky'
+p3148
+aS'Karlovy Vary'
+p3149
+asS'739 61'
+p3150
+(lp3151
+S'Horn\xc3\xad L\xc3\xad\xc5\xa1tn\xc3\xa1'
+p3152
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3153
+asS'330 12'
+p3154
+(lp3155
+S'Horn\xc3\xad B\xc5\x99\xc3\xadza'
+p3156
+aS'Plze\xc5\x88-sever'
+p3157
+asS'330 11'
+p3158
+(lp3159
+S'Nev\xc5\x99e\xc5\x88'
+p3160
+aS'Plze\xc5\x88-sever'
+p3161
+asS'330 17'
+p3162
+(lp3163
+S'Chot\xc3\xadkov'
+p3164
+aS'Plze\xc5\x88-sever'
+p3165
+asS'330 14'
+p3166
+(lp3167
+S'Ledce'
+p3168
+aS'Plze\xc5\x88-sever'
+p3169
+asS'262 44'
+p3170
+(lp3171
+S'Hvo\xc5\xbe\xc4\x8fany'
+p3172
+aS'P\xc5\x99\xc3\xadbram'
+p3173
+asS'262 41'
+p3174
+(lp3175
+S'Hav\xc3\xadrna'
+p3176
+aS'P\xc5\x99\xc3\xadbram'
+p3177
+asS'262 42'
+p3178
+(lp3179
+S'Tisov'
+p3180
+aS'Strakonice'
+p3181
+asS'262 43'
+p3182
+(lp3183
+S'V\xc4\x9b\xc5\xa1\xc3\xadn'
+p3184
+aS'P\xc5\x99\xc3\xadbram'
+p3185
+asS'735 52'
+p3186
+(lp3187
+S'Z\xc3\xa1blat\xc3\xad'
+p3188
+aS'Karvin\xc3\xa1'
+p3189
+asS'257 41'
+p3190
+(lp3191
+S'Bukovany'
+p3192
+aS'Bene\xc5\xa1ov'
+p3193
+asS'257 42'
+p3194
+(lp3195
+S'Krhanice'
+p3196
+aS'Bene\xc5\xa1ov'
+p3197
+asS'257 44'
+p3198
+(lp3199
+S'B\xc4\x9blice'
+p3200
+aS'Bene\xc5\xa1ov'
+p3201
+asS'149 00'
+p3202
+(lp3203
+S'Praha 4-\xc3\x9ajezd x)'
+p3204
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3205
+asS'154 00'
+p3206
+(lp3207
+S'Praha 5-Lochkov x)'
+p3208
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3209
+asS'282 01'
+p3210
+(lp3211
+S'Tuchoraz'
+p3212
+aS'Kol\xc3\xadn'
+p3213
+asS'508 01'
+p3214
+(lp3215
+S'Nov\xc3\xa9 Smrkovice'
+p3216
+aS'Ji\xc4\x8d\xc3\xadn'
+p3217
+asS'737 01'
+p3218
+(lp3219
+S'Doln\xc3\xad \xc5\xbdukov'
+p3220
+aS'Karvin\xc3\xa1'
+p3221
+asS'281 62'
+p3222
+(lp3223
+S'Ole\xc5\xa1ka'
+p3224
+aS'Kol\xc3\xadn'
+p3225
+asS'460 08'
+p3226
+(lp3227
+S'Doln\xc3\xad Hanychov-Liberec VIII x)'
+p3228
+aS'Liberec'
+p3229
+asS'460 06'
+p3230
+(lp3231
+S'Rochlice-Liberec VI x)'
+p3232
+aS'Liberec'
+p3233
+asS'199 00'
+p3234
+(lp3235
+S'Let\xc5\x88any'
+p3236
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3237
+asS'460 01'
+p3238
+(lp3239
+S'Bed\xc5\x99ichovka-Liberec XXXIV x)'
+p3240
+aS'Liberec'
+p3241
+asS'696 37'
+p3242
+(lp3243
+S'\xc5\xbdeletice'
+p3244
+aS'Hodon\xc3\xadn'
+p3245
+asS'671 61'
+p3246
+(lp3247
+S'V\xc3\xadtonice'
+p3248
+aS'Znojmo'
+p3249
+asS'696 35'
+p3250
+(lp3251
+S'Dambo\xc5\x99ice'
+p3252
+aS'Hodon\xc3\xadn'
+p3253
+asS'683 35'
+p3254
+(lp3255
+S'Letonice'
+p3256
+aS'Vy\xc5\xa1kov'
+p3257
+asS'683 33'
+p3258
+(lp3259
+S'Snov\xc3\xaddky'
+p3260
+aS'Vy\xc5\xa1kov'
+p3261
+asS'382 08'
+p3262
+(lp3263
+S'Chval\xc5\xa1iny'
+p3264
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p3265
+asS'382 01'
+p3266
+(lp3267
+S'Doln\xc3\xad T\xc5\x99ebon\xc3\xadn'
+p3268
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p3269
+asS'382 03'
+p3270
+(lp3271
+S'M\xc5\x99\xc3\xad\xc4\x8d'
+p3272
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p3273
+asS'582 21'
+p3274
+(lp3275
+S'Pohled'
+p3276
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p3277
+asS'582 22'
+p3278
+(lp3279
+S'H\xc5\x99i\xc5\xa1t\xc4\x9b'
+p3280
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p3281
+asS'679 13'
+p3282
+(lp3283
+S'Vyso\xc4\x8dany'
+p3284
+aS'Blansko'
+p3285
+asS'679 15'
+p3286
+(lp3287
+S'Lipovec'
+p3288
+aS'Blansko'
+p3289
+asS'345 32'
+p3290
+(lp3291
+S'Horn\xc3\xad Folmava'
+p3292
+aS'Doma\xc5\xbelice'
+p3293
+asS'735 03'
+p3294
+(lp3295
+S'Karvin\xc3\xa1-L\xc3\xa1zn\xc4\x9b Darkov x)'
+p3296
+aS'Karvin\xc3\xa1'
+p3297
+asS'687 51'
+p3298
+(lp3299
+S'Nivnice'
+p3300
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3301
+asS'687 56'
+p3302
+(lp3303
+S'Pa\xc5\xa1ovice'
+p3304
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3305
+asS'735 06'
+p3306
+(lp3307
+S'Doly'
+p3308
+aS'Karvin\xc3\xa1'
+p3309
+asS'687 54'
+p3310
+(lp3311
+S'B\xc3\xa1nov'
+p3312
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3313
+asS'687 55'
+p3314
+(lp3315
+S'Byst\xc5\x99ice pod Lopen\xc3\xadkem'
+p3316
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3317
+asS'289 25'
+p3318
+(lp3319
+S'\xc4\x8cilec'
+p3320
+aS'Nymburk'
+p3321
+asS'586 02'
+p3322
+(lp3323
+S'Anton\xc3\xadn\xc5\xafv D\xc5\xafl'
+p3324
+aS'Jihlava'
+p3325
+asS'586 01'
+p3326
+(lp3327
+S'Vysok\xc3\xa1'
+p3328
+aS'Jihlava'
+p3329
+asS'273 73'
+p3330
+(lp3331
+S'Vran\xc3\xbd'
+p3332
+aS'Kladno'
+p3333
+asS'273 72'
+p3334
+(lp3335
+S'Horn\xc3\xad Kamenice'
+p3336
+aS'Kladno'
+p3337
+asS'273 71'
+p3338
+(lp3339
+S'P\xc3\xa1le\xc4\x8d'
+p3340
+aS'Kladno'
+p3341
+asS'273 77'
+p3342
+(lp3343
+S'Hv\xc4\x9bzda'
+p3344
+aS'Kladno'
+p3345
+asS'273 76'
+p3346
+(lp3347
+S'L\xc3\xadsk\xc3\xbd'
+p3348
+aS'Kladno'
+p3349
+asS'273 75'
+p3350
+(lp3351
+S'Kv\xc3\xadlice'
+p3352
+aS'Kladno'
+p3353
+asS'273 74'
+p3354
+(lp3355
+S'P\xc3\xa1le\xc4\x8dek'
+p3356
+aS'Kladno'
+p3357
+asS'273 79'
+p3358
+(lp3359
+S'Studen\xc4\x9bves'
+p3360
+aS'Kladno'
+p3361
+asS'517 92'
+p3362
+(lp3363
+S'Kounov'
+p3364
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p3365
+asS'517 93'
+p3366
+(lp3367
+S'Dobr\xc3\xa9'
+p3368
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p3369
+asS'517 91'
+p3370
+(lp3371
+S'Polom'
+p3372
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p3373
+asS'403 37'
+p3374
+(lp3375
+S'Kr\xc3\xa1sn\xc3\xbd Les'
+p3376
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3377
+asS'403 34'
+p3378
+(lp3379
+S'Velk\xc3\xa9 Chvojno'
+p3380
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3381
+asS'403 35'
+p3382
+(lp3383
+S'Libouchec'
+p3384
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3385
+asS'592 51'
+p3386
+(lp3387
+S'Nivy'
+p3388
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3389
+asS'403 38'
+p3390
+(lp3391
+S'Libo\xc5\x88ov'
+p3392
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3393
+asS'403 39'
+p3394
+(lp3395
+S'Stradov'
+p3396
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3397
+asS'592 55'
+p3398
+(lp3399
+S'Bohdalec'
+p3400
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3401
+asS'592 54'
+p3402
+(lp3403
+S'Moravec'
+p3404
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3405
+asS'592 57'
+p3406
+(lp3407
+S'Bla\xc5\xbeejovice'
+p3408
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3409
+asS'251 68'
+p3410
+(lp3411
+S'Nech\xc3\xa1nice'
+p3412
+aS'Praha-v\xc3\xbdchod'
+p3413
+asS'251 69'
+p3414
+(lp3415
+S'Horn\xc3\xad Lomnice'
+p3416
+aS'Praha-v\xc3\xbdchod'
+p3417
+asS'193 00'
+p3418
+(lp3419
+S'Horn\xc3\xad Po\xc4\x8dernice'
+p3420
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3421
+asS'251 64'
+p3422
+(lp3423
+S'Bo\xc5\xbekov'
+p3424
+aS'Praha-v\xc3\xbdchod'
+p3425
+asS'251 65'
+p3426
+(lp3427
+S'Poddub\xc3\xad'
+p3428
+aS'Praha-v\xc3\xbdchod'
+p3429
+asS'251 66'
+p3430
+(lp3431
+S'Miro\xc5\xa1ovice'
+p3432
+aS'Praha-v\xc3\xbdchod'
+p3433
+asS'251 67'
+p3434
+(lp3435
+S'\xc5\x98ehenice'
+p3436
+aS'Praha-v\xc3\xbdchod'
+p3437
+asS'251 62'
+p3438
+(lp3439
+S'Srb\xc3\xadn'
+p3440
+aS'Praha-v\xc3\xbdchod'
+p3441
+asS'251 63'
+p3442
+(lp3443
+S'Sklenka'
+p3444
+aS'Praha-v\xc3\xbdchod'
+p3445
+asS'411 56'
+p3446
+(lp3447
+S'Bohu\xc5\xa1ovice nad Oh\xc5\x99\xc3\xad'
+p3448
+aS'Litom\xc4\x9b\xc5\x99ice'
+p3449
+asS'411 55'
+p3450
+(lp3451
+S'Terez\xc3\xadn'
+p3452
+aS'Litom\xc4\x9b\xc5\x99ice'
+p3453
+asS'671 33'
+p3454
+(lp3455
+S'Mikulovice'
+p3456
+aS'Znojmo'
+p3457
+asS'671 34'
+p3458
+(lp3459
+S'Tvo\xc5\x99ihr\xc3\xa1z'
+p3460
+aS'Znojmo'
+p3461
+asS'671 38'
+p3462
+(lp3463
+S'Vi\xc5\xa1\xc5\x88ov\xc3\xa9'
+p3464
+aS'Znojmo'
+p3465
+asS'583 01'
+p3466
+(lp3467
+S'Horn\xc3\xad Vestec'
+p3468
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p3469
+asS'709 00'
+p3470
+(lp3471
+S'Ostrava-Mari\xc3\xa1nsk\xc3\xa9 Hory x)'
+p3472
+aS'Ostrava-m\xc4\x9bsto'
+p3473
+asS'342 01'
+p3474
+(lp3475
+S'\xc5\xbdihobce'
+p3476
+aS'Klatovy'
+p3477
+asS'391 62'
+p3478
+(lp3479
+S'St\xc3\xa1dlec'
+p3480
+aS'T\xc3\xa1bor'
+p3481
+asS'284 03'
+p3482
+(lp3483
+S'Sedlec'
+p3484
+aS'Kutn\xc3\xa1 Hora'
+p3485
+asS'391 65'
+p3486
+(lp3487
+S'\xc4\x8cenkov u Bechyn\xc4\x9b'
+p3488
+aS'T\xc3\xa1bor'
+p3489
+asS'675 08'
+p3490
+(lp3491
+S'Kouty'
+p3492
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3493
+asS'460 07'
+p3494
+(lp3495
+S'Horn\xc3\xad R\xc5\xaf\xc5\xbeodol-Liberec VII x)'
+p3496
+aS'Liberec'
+p3497
+asS'675 01'
+p3498
+(lp3499
+S'Slavi\xc4\x8dky'
+p3500
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3501
+asS'675 02'
+p3502
+(lp3503
+S'T\xc5\x99esov'
+p3504
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3505
+asS'675 03'
+p3506
+(lp3507
+S'Kojat\xc3\xadn'
+p3508
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3509
+asS'675 05'
+p3510
+(lp3511
+S'Vl\xc4\x8dat\xc3\xadn'
+p3512
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3513
+asS'675 07'
+p3514
+(lp3515
+S'\xc4\x8c\xc3\xadhal\xc3\xadn'
+p3516
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p3517
+asS'739 91'
+p3518
+(lp3519
+S'P\xc3\xadse\xc4\x8dn\xc3\xa1'
+p3520
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3521
+asS'756 04'
+p3522
+(lp3523
+S'Nov\xc3\xbd Hrozenkov'
+p3524
+aS'Vset\xc3\xadn'
+p3525
+asS'756 05'
+p3526
+(lp3527
+S'Karolinka'
+p3528
+aS'Vset\xc3\xadn'
+p3529
+asS'533 45'
+p3530
+(lp3531
+S'Libi\xc5\xa1any'
+p3532
+aS'Pardubice'
+p3533
+asS'533 44'
+p3534
+(lp3535
+S'Star\xc3\xa9 \xc5\xbdd\xc3\xa1nice'
+p3536
+aS'Pardubice'
+p3537
+asS'790 51'
+p3538
+(lp3539
+S'Sup\xc3\xadkovice'
+p3540
+aS'Jesen\xc3\xadk'
+p3541
+asS'533 42'
+p3542
+(lp3543
+S'\xc5\xbdivanice'
+p3544
+aS'Pardubice'
+p3545
+asS'533 41'
+p3546
+(lp3547
+S'K\xc5\x99i\xc4\x8de\xc5\x88'
+p3548
+aS'Pardubice'
+p3549
+asS'270 06'
+p3550
+(lp3551
+S'Janov'
+p3552
+aS'Rakovn\xc3\xadk'
+p3553
+asS'790 58'
+p3554
+(lp3555
+S'Velk\xc3\xa1 Kra\xc5\xa1'
+p3556
+aS'Jesen\xc3\xadk'
+p3557
+asS'747 24'
+p3558
+(lp3559
+S'Strahovice'
+p3560
+aS'Opava'
+p3561
+asS'747 25'
+p3562
+(lp3563
+S'T\xc5\x99ebom'
+p3564
+aS'Opava'
+p3565
+asS'698 01'
+p3566
+(lp3567
+S'Miloko\xc5\xa1\xc5\xa5'
+p3568
+aS'Hodon\xc3\xadn'
+p3569
+asS'747 21'
+p3570
+(lp3571
+S'Dvo\xc5\x99isko'
+p3572
+aS'Opava'
+p3573
+asS'747 23'
+p3574
+(lp3575
+S'Borov\xc3\xa1'
+p3576
+aS'Opava'
+p3577
+asS'747 28'
+p3578
+(lp3579
+S'Pust\xc3\xa9 Jakartice'
+p3580
+aS'Opava'
+p3581
+asS'270 02'
+p3582
+(lp3583
+S'Kole\xc5\xa1ovice'
+p3584
+aS'Rakovn\xc3\xadk'
+p3585
+asS'691 51'
+p3586
+(lp3587
+S'Lan\xc5\xbehot'
+p3588
+aS'B\xc5\x99eclav'
+p3589
+asS'691 54'
+p3590
+(lp3591
+S'T\xc3\xbdnec'
+p3592
+aS'B\xc5\x99eclav'
+p3593
+asS'691 56'
+p3594
+(lp3595
+S'Hru\xc5\xa1ky'
+p3596
+aS'B\xc5\x99eclav'
+p3597
+asS'407 29'
+p3598
+(lp3599
+S'Karlovka'
+p3600
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p3601
+asS'130 00'
+p3602
+(lp3603
+S'Vinohrady (\xc4\x8d\xc3\xa1st)'
+p3604
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p3605
+asS'407 25'
+p3606
+(lp3607
+S'P\xc5\x99\xc3\xadbram'
+p3608
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p3609
+asS'768 33'
+p3610
+(lp3611
+S'Tet\xc4\x9btice'
+p3612
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3613
+asS'407 21'
+p3614
+(lp3615
+S'Kerhartice'
+p3616
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p3617
+asS'407 22'
+p3618
+(lp3619
+S'Jedlka'
+p3620
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p3621
+asS'569 94'
+p3622
+(lp3623
+S'Mrhov'
+p3624
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3625
+asS'569 92'
+p3626
+(lp3627
+S'Doln\xc3\xad Lhota'
+p3628
+aS'Svitavy'
+p3629
+asS'569 91'
+p3630
+(lp3631
+S'Jedlov\xc3\xa1'
+p3632
+aS'Svitavy'
+p3633
+asS'503 44'
+p3634
+(lp3635
+S'Lib\xc5\x99ice'
+p3636
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p3637
+asS'503 46'
+p3638
+(lp3639
+S'Libn\xc3\xadkovice'
+p3640
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p3641
+asS'391 81'
+p3642
+(lp3643
+S'Vesel\xc3\xad nad Lu\xc5\xbenic\xc3\xad II'
+p3644
+aS'T\xc3\xa1bor'
+p3645
+asS'417 65'
+p3646
+(lp3647
+S'Dol\xc3\xa1nky'
+p3648
+aS'Teplice'
+p3649
+asS'417 61'
+p3650
+(lp3651
+S'\xc3\x9apo\xc5\x99iny'
+p3652
+aS'Teplice'
+p3653
+asS'417 62'
+p3654
+(lp3655
+S'Velv\xc4\x9bty'
+p3656
+aS'Teplice'
+p3657
+asS'417 63'
+p3658
+(lp3659
+S'Hradi\xc5\xa1t\xc4\x9b'
+p3660
+aS'Teplice'
+p3661
+asS'394 46'
+p3662
+(lp3663
+S'\xc4\x8cerven\xc3\xa1 \xc5\x98e\xc4\x8dice'
+p3664
+aS'Pelh\xc5\x99imov'
+p3665
+asS'394 44'
+p3666
+(lp3667
+S'\xc5\xbdeliv'
+p3668
+aS'Pelh\xc5\x99imov'
+p3669
+asS'394 43'
+p3670
+(lp3671
+S'Mlad\xc3\xa9 B\xc5\x99\xc3\xad\xc5\xa1t\xc4\x9b'
+p3672
+aS'Pelh\xc5\x99imov'
+p3673
+asS'793 26'
+p3674
+(lp3675
+S'Vidly'
+p3676
+aS'Brunt\xc3\xa1l'
+p3677
+asS'739 55'
+p3678
+(lp3679
+S'Guty'
+p3680
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3681
+asS'739 51'
+p3682
+(lp3683
+S'Ni\xc5\xben\xc3\xad Lhoty'
+p3684
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3685
+asS'739 53'
+p3686
+(lp3687
+S'Doln\xc3\xad To\xc5\xa1anovice'
+p3688
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3689
+asS'544 56'
+p3690
+(lp3691
+S'H\xc5\x99ibojedy'
+p3692
+aS'Trutnov'
+p3693
+asS'544 54'
+p3694
+(lp3695
+S'Velk\xc3\xbd V\xc5\x99e\xc5\xa1\xc5\xa5ov'
+p3696
+aS'Trutnov'
+p3697
+asS'544 55'
+p3698
+(lp3699
+S'Chot\xc4\x9bborky'
+p3700
+aS'Trutnov'
+p3701
+asS'789 62'
+p3702
+(lp3703
+S'Bohut\xc3\xadn'
+p3704
+aS'\xc5\xa0umperk'
+p3705
+asS'739 59'
+p3706
+(lp3707
+S'St\xc5\x99\xc3\xadte\xc5\xbe'
+p3708
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3709
+asS'544 51'
+p3710
+(lp3711
+S'Doubravice'
+p3712
+aS'Trutnov'
+p3713
+asS'276 01'
+p3714
+(lp3715
+S'Broz\xc3\xa1nky'
+p3716
+aS'M\xc4\x9bln\xc3\xadk'
+p3717
+asS'331 01'
+p3718
+(lp3719
+S'Babina'
+p3720
+aS'Plze\xc5\x88-sever'
+p3721
+asS'364 64'
+p3722
+(lp3723
+S'Vodn\xc3\xa1'
+p3724
+aS'Karlovy Vary'
+p3725
+asS'378 81'
+p3726
+(lp3727
+S'Ruba\xc5\xa1ov'
+p3728
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p3729
+asS'378 83'
+p3730
+(lp3731
+S'\xc4\x8cesk\xc3\xbd Rudolec'
+p3732
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p3733
+asS'549 08'
+p3734
+(lp3735
+S'Provodov'
+p3736
+aS'N\xc3\xa1chod'
+p3737
+asS'549 06'
+p3738
+(lp3739
+S'Bohuslavice'
+p3740
+aS'N\xc3\xa1chod'
+p3741
+asS'549 07'
+p3742
+(lp3743
+S'Naho\xc5\x99any'
+p3744
+aS'N\xc3\xa1chod'
+p3745
+asS'549 01'
+p3746
+(lp3747
+S'Libchyn\xc4\x9b'
+p3748
+aS'N\xc3\xa1chod'
+p3749
+asS'594 41'
+p3750
+(lp3751
+S'Uh\xc5\x99\xc3\xadnov'
+p3752
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3753
+asS'594 44'
+p3754
+(lp3755
+S'Radost\xc3\xadn nad Oslavou'
+p3756
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3757
+asS'262 56'
+p3758
+(lp3759
+S'Zho\xc5\x99'
+p3760
+aS'P\xc5\x99\xc3\xadbram'
+p3761
+asS'262 55'
+p3762
+(lp3763
+S'Ohrada'
+p3764
+aS'P\xc5\x99\xc3\xadbram'
+p3765
+asS'257 56'
+p3766
+(lp3767
+S'Tisem'
+p3768
+aS'Bene\xc5\xa1ov'
+p3769
+asS'257 55'
+p3770
+(lp3771
+S'Mar\xc5\xa1ovice'
+p3772
+aS'Bene\xc5\xa1ov'
+p3773
+asS'257 51'
+p3774
+(lp3775
+S'Nesva\xc4\x8dily'
+p3776
+aS'Bene\xc5\xa1ov'
+p3777
+asS'561 81'
+p3778
+(lp3779
+S'Kunvald'
+p3780
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3781
+asS'561 84'
+p3782
+(lp3783
+S'L\xc3\xad\xc5\xa1nice'
+p3784
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3785
+asS'507 23'
+p3786
+(lp3787
+S'Doln\xc3\xad Rokyt\xc5\x88any'
+p3788
+aS'Ji\xc4\x8d\xc3\xadn'
+p3789
+asS'507 21'
+p3790
+(lp3791
+S'Vesec'
+p3792
+aS'Ji\xc4\x8d\xc3\xadn'
+p3793
+asS'293 06'
+p3794
+(lp3795
+S'Horn\xc3\xad Stakory'
+p3796
+aS'Mlad\xc3\xa1 Boleslav'
+p3797
+asS'293 07'
+p3798
+(lp3799
+S'Deb\xc5\x99'
+p3800
+aS'Mlad\xc3\xa1 Boleslav'
+p3801
+asS'293 01'
+p3802
+(lp3803
+S'Chr\xc3\xa1st'
+p3804
+aS'Mlad\xc3\xa1 Boleslav'
+p3805
+asS'294 26'
+p3806
+(lp3807
+S'Zamachy'
+p3808
+aS'Mlad\xc3\xa1 Boleslav'
+p3809
+asS'460 10'
+p3810
+(lp3811
+S'Karlinky-Liberec XVIII x)'
+p3812
+aS'Liberec'
+p3813
+asS'460 15'
+p3814
+(lp3815
+S'Kunratice-Liberec XXIX x)'
+p3816
+aS'Liberec'
+p3817
+asS'460 14'
+p3818
+(lp3819
+S'Liberec XXI'
+p3820
+aS'Rudolfov'
+p3821
+aS'Liberec'
+p3822
+asS'439 82'
+p3823
+(lp3824
+S'Vroutek'
+p3825
+aS'Louny'
+p3826
+asS'683 21'
+p3827
+(lp3828
+S'Podivice'
+p3829
+aS'Vy\xc5\xa1kov'
+p3830
+asS'439 81'
+p3831
+(lp3832
+S'Kryry'
+p3833
+aS'Louny'
+p3834
+asS'439 86'
+p3835
+(lp3836
+S'B\xc4\x9bsno'
+p3837
+aS'Louny'
+p3838
+asS'294 21'
+p3839
+(lp3840
+S'Vrchb\xc4\x9bl\xc3\xa1'
+p3841
+aS'Mlad\xc3\xa1 Boleslav'
+p3842
+asS'439 84'
+p3843
+(lp3844
+S'Blatno'
+p3845
+aS'Louny'
+p3846
+asS'439 85'
+p3847
+(lp3848
+S'Petrohrad'
+p3849
+aS'Louny'
+p3850
+asS'691 73'
+p3851
+(lp3852
+S'Krumv\xc3\xad\xc5\x99'
+p3853
+aS'B\xc5\x99eclav'
+p3854
+asS'382 32'
+p3855
+(lp3856
+S'St\xc5\x99\xc3\xadte\xc5\xbe'
+p3857
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p3858
+asS'593 01'
+p3859
+(lp3860
+S'Doman\xc3\xadn'
+p3861
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p3862
+asS'345 01'
+p3863
+(lp3864
+S'Mr\xc3\xa1kov'
+p3865
+aS'Doma\xc5\xbelice'
+p3866
+asS'345 02'
+p3867
+(lp3868
+S'Kout na \xc5\xa0umav\xc4\x9b'
+p3869
+aS'Doma\xc5\xbelice'
+p3870
+asS'345 06'
+p3871
+(lp3872
+S'Modl\xc3\xadn'
+p3873
+aS'Doma\xc5\xbelice'
+p3874
+asS'345 07'
+p3875
+(lp3876
+S'V\xc5\xa1eruby'
+p3877
+aS'Doma\xc5\xbelice'
+p3878
+asS'687 41'
+p3879
+(lp3880
+S'\xc3\x9ajezdec'
+p3881
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3882
+asS'345 09'
+p3883
+(lp3884
+S'Pocinovice'
+p3885
+aS'Doma\xc5\xbelice'
+p3886
+asS'687 42'
+p3887
+(lp3888
+S'Osv\xc4\x9btimany'
+p3889
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p3890
+asS'286 01'
+p3891
+(lp3892
+S'Plhov'
+p3893
+aS'Kutn\xc3\xa1 Hora'
+p3894
+asS'362 36'
+p3895
+(lp3896
+S'Pernink'
+p3897
+aS'Karlovy Vary'
+p3898
+asS'362 34'
+p3899
+(lp3900
+S'Merkl\xc3\xadn'
+p3901
+aS'Karlovy Vary'
+p3902
+asS'362 35'
+p3903
+(lp3904
+S'Str\xc3\xa1\xc5\x88'
+p3905
+aS'Karlovy Vary'
+p3906
+asS'345 33'
+p3907
+(lp3908
+S'Chodov'
+p3909
+aS'Doma\xc5\xbelice'
+p3910
+asS'569 34'
+p3911
+(lp3912
+S'Rychnov na Morav\xc4\x9b'
+p3913
+aS'Svitavy'
+p3914
+asS'289 41'
+p3915
+(lp3916
+S'Klipec'
+p3917
+aS'Nymburk'
+p3918
+asS'679 14'
+p3919
+(lp3920
+S'Ostrov u Macochy'
+p3921
+aS'Blansko'
+p3922
+asS'550 01'
+p3923
+(lp3924
+S'Hejtm\xc3\xa1nkovice'
+p3925
+aS'N\xc3\xa1chod'
+p3926
+asS'563 01'
+p3927
+(lp3928
+S'Lan\xc5\xa1kroun-Vnit\xc5\x99n\xc3\xad M\xc4\x9bsto'
+p3929
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p3930
+asS'403 21'
+p3931
+(lp3932
+S'Brn\xc3\xa1'
+p3933
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3934
+asS'768 52'
+p3935
+(lp3936
+S'Kurovice'
+p3937
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p3938
+asS'403 23'
+p3939
+(lp3940
+S'Nov\xc3\xa1 Ves u Pl\xc3\xa1n\xc4\x9b'
+p3941
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3942
+asS'403 22'
+p3943
+(lp3944
+S'Ole\xc5\xa1nice'
+p3945
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3946
+asS'517 84'
+p3947
+(lp3948
+S'Ohni\xc5\xa1ov'
+p3949
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p3950
+asS'403 27'
+p3951
+(lp3952
+S'Ta\xc5\xa1ov'
+p3953
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p3954
+asS'330 38'
+p3955
+(lp3956
+S'Bla\xc5\xbeim'
+p3957
+aS'Plze\xc5\x88-sever'
+p3958
+asS'798 28'
+p3959
+(lp3960
+S'Mo\xc5\x99ice'
+p3961
+aS'Prost\xc4\x9bjov'
+p3962
+asS'357 07'
+p3963
+(lp3964
+S'Nov\xc3\xa9 Domy'
+p3965
+aS'Sokolov'
+p3966
+asS'739 04'
+p3967
+(lp3968
+S'Ra\xc5\xa1kovice'
+p3969
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p3970
+asS'411 20'
+p3971
+(lp3972
+S'Je\xc4\x8dovice'
+p3973
+aS'Litom\xc4\x9b\xc5\x99ice'
+p3974
+asS'357 09'
+p3975
+(lp3976
+S'Krajkov\xc3\xa1'
+p3977
+aS'Sokolov'
+p3978
+asS'798 25'
+p3979
+(lp3980
+S'Dobromilice'
+p3981
+aS'Prost\xc4\x9bjov'
+p3982
+asS'664 06'
+p3983
+(lp3984
+S'Kovalovice'
+p3985
+aS'Brno-venkov'
+p3986
+asS'664 07'
+p3987
+(lp3988
+S'Pozo\xc5\x99ice'
+p3989
+aS'Brno-venkov'
+p3990
+asS'664 04'
+p3991
+(lp3992
+S'Hor\xc3\xa1kov'
+p3993
+aS'Brno-venkov'
+p3994
+asS'378 56'
+p3995
+(lp3996
+S'Studen\xc3\xa1'
+p3997
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p3998
+asS'431 86'
+p3999
+(lp4000
+S'Kov\xc3\xa1\xc5\x99sk\xc3\xa1'
+p4001
+aS'Chomutov'
+p4002
+asS'664 03'
+p4003
+(lp4004
+S'Podol\xc3\xad'
+p4005
+aS'Brno-venkov'
+p4006
+asS'431 84'
+p4007
+(lp4008
+S'Kamenn\xc3\xa9'
+p4009
+aS'Chomutov'
+p4010
+asS'664 01'
+p4011
+(lp4012
+S'Babice nad Svitavou'
+p4013
+aS'Brno-venkov'
+p4014
+asS'798 27'
+p4015
+(lp4016
+S'Hru\xc5\xa1ka'
+p4017
+aS'Prost\xc4\x9bjov'
+p4018
+asS'700 30'
+p4019
+(lp4020
+S'B\xc4\x9blsk\xc3\xbd Les'
+p4021
+aS'Ostrava-m\xc4\x9bsto'
+p4022
+asS'384 11'
+p4023
+(lp4024
+S'Velk\xc3\xbd Bor'
+p4025
+aS'Prachatice'
+p4026
+asS'103 00'
+p4027
+(lp4028
+S'Praha 10-Kolovraty x)'
+p4029
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4030
+asS'798 23'
+p4031
+(lp4032
+S'Ob\xc4\x9bdkovice'
+p4033
+aS'Prost\xc4\x9bjov'
+p4034
+asS'592 64'
+p4035
+(lp4036
+S'Proset\xc3\xadn'
+p4037
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4038
+asS'592 65'
+p4039
+(lp4040
+S'Polom'
+p4041
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4042
+asS'592 61'
+p4043
+(lp4044
+S'Jilmov\xc3\xad'
+p4045
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4046
+asS'592 62'
+p4047
+(lp4048
+S'Horn\xc3\xad \xc4\x8cep\xc3\xad'
+p4049
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4050
+asS'592 63'
+p4051
+(lp4052
+S'\xc5\xa0t\xc4\x9bp\xc3\xa1nov nad Svratkou'
+p4053
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4054
+asS'736 01'
+p4055
+(lp4056
+S'Doln\xc3\xad Datyn\xc4\x9b'
+p4057
+aS'Karvin\xc3\xa1'
+p4058
+asS'742 13'
+p4059
+(lp4060
+S'Nov\xc3\xa1 Horka'
+p4061
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p4062
+asS'533 32'
+p4063
+(lp4064
+S'\xc4\x8cep\xc3\xad'
+p4065
+aS'Pardubice'
+p4066
+asS'533 33'
+p4067
+(lp4068
+S'Dra\xc5\xbekovice'
+p4069
+aS'Pardubice'
+p4070
+asS'756 11'
+p4071
+(lp4072
+S'Pozd\xc4\x9bchov'
+p4073
+aS'Vset\xc3\xadn'
+p4074
+asS'790 63'
+p4075
+(lp4076
+S'Horn\xc3\xad Lipov\xc3\xa1'
+p4077
+aS'Jesen\xc3\xadk'
+p4078
+asS'790 64'
+p4079
+(lp4080
+S'Polka'
+p4081
+aS'Jesen\xc3\xadk'
+p4082
+asS'790 65'
+p4083
+(lp4084
+S'Vl\xc4\x8dice'
+p4085
+aS'Jesen\xc3\xadk'
+p4086
+asS'263 01'
+p4087
+(lp4088
+S'Strupina'
+p4089
+aS'P\xc5\x99\xc3\xadbram'
+p4090
+asS'756 14'
+p4091
+(lp4092
+S'Francova Lhota'
+p4093
+aS'Vset\xc3\xadn'
+p4094
+asS'790 69'
+p4095
+(lp4096
+S'Kameni\xc4\x8dka'
+p4097
+aS'Jesen\xc3\xadk'
+p4098
+asS'785 01'
+p4099
+(lp4100
+S'Hl\xc3\xa1snice'
+p4101
+aS'Olomouc'
+p4102
+asS'747 31'
+p4103
+(lp4104
+S'Velk\xc3\xa9 Ho\xc5\xa1tice'
+p4105
+aS'Opava'
+p4106
+asS'691 67'
+p4107
+(lp4108
+S'\xc5\xa0akvice'
+p4109
+aS'B\xc5\x99eclav'
+p4110
+asS'747 35'
+p4111
+(lp4112
+S'Hn\xc4\x9bvo\xc5\xa1ice'
+p4113
+aS'Opava'
+p4114
+asS'691 63'
+p4115
+(lp4116
+S'Velk\xc3\xa9 N\xc4\x9bm\xc4\x8dice'
+p4117
+aS'B\xc5\x99eclav'
+p4118
+asS'271 01'
+p4119
+(lp4120
+S'T\xc5\x99tice'
+p4121
+aS'Rakovn\xc3\xadk'
+p4122
+asS'768 24'
+p4123
+(lp4124
+S'Chr\xc3\xa1\xc5\xa1\xc5\xa5any'
+p4125
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p4126
+asS'768 23'
+p4127
+(lp4128
+S'\xc5\xbdalkovice'
+p4129
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p4130
+asS'768 21'
+p4131
+(lp4132
+S'Nov\xc3\xa1 D\xc4\x9bdina'
+p4133
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p4134
+asS'335 61'
+p4135
+(lp4136
+S'Lipnice'
+p4137
+aS'Plze\xc5\x88-jih'
+p4138
+asS'335 63'
+p4139
+(lp4140
+S'Planiny'
+p4141
+aS'Plze\xc5\x88-jih'
+p4142
+asS'407 11'
+p4143
+(lp4144
+S'D\xc4\x9b\xc4\x8d\xc3\xadn XXX-Velk\xc3\xa1 Vele\xc5\x88'
+p4145
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p4146
+asS'407 13'
+p4147
+(lp4148
+S'K\xc3\xa1men'
+p4149
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4150
+asS'407 14'
+p4151
+(lp4152
+S'Bynovec'
+p4153
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4154
+asS'407 15'
+p4155
+(lp4156
+S'Srbsk\xc3\xa1 Kamenice'
+p4157
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4158
+asS'407 16'
+p4159
+(lp4160
+S'Rynartice'
+p4161
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4162
+asS'503 57'
+p4163
+(lp4164
+S'Star\xc3\xbd Byd\xc5\xbeov'
+p4165
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4166
+asS'503 56'
+p4167
+(lp4168
+S'Janovice'
+p4169
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4170
+asS'503 55'
+p4171
+(lp4172
+S'Petrovice'
+p4173
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4174
+asS'503 54'
+p4175
+(lp4176
+S'Ohni\xc5\xa1\xc5\xa5any'
+p4177
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4178
+asS'503 53'
+p4179
+(lp4180
+S'\xc5\xa0aplava'
+p4181
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4182
+asS'503 51'
+p4183
+(lp4184
+S'Kosice'
+p4185
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4186
+asS'412 01'
+p4187
+(lp4188
+S'Doln\xc3\xad T\xc3\xbdnec'
+p4189
+aS'Litom\xc4\x9b\xc5\x99ice'
+p4190
+asS'252 31'
+p4191
+(lp4192
+S'V\xc5\xa1enory'
+p4193
+aS'Praha-z\xc3\xa1pad'
+p4194
+asS'471 41'
+p4195
+(lp4196
+S'Doma\xc5\xa1ice'
+p4197
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4198
+asS'384 92'
+p4199
+(lp4200
+S'Borov\xc3\xa1 Lada'
+p4201
+aS'Prachatice'
+p4202
+asS'417 72'
+p4203
+(lp4204
+S'Chot\xc4\x9bjovice'
+p4205
+aS'Teplice'
+p4206
+asS'417 71'
+p4207
+(lp4208
+S'V\xc5\xa1echlapy'
+p4209
+aS'Teplice'
+p4210
+asS'688 01'
+p4211
+(lp4212
+S'Uhersk\xc3\xbd Brod'
+p4213
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p4214
+asS'394 52'
+p4215
+(lp4216
+S'Kej\xc5\xbelice'
+p4217
+aS'Pelh\xc5\x99imov'
+p4218
+asS'793 12'
+p4219
+(lp4220
+S'Svobodn\xc3\xa9 He\xc5\x99manice'
+p4221
+aS'Brunt\xc3\xa1l'
+p4222
+asS'739 43'
+p4223
+(lp4224
+S'Sta\xc5\x99\xc3\xad\xc4\x8d'
+p4225
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p4226
+asS'739 42'
+p4227
+(lp4228
+S'Lys\xc5\xafvky'
+p4229
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p4230
+asS'267 23'
+p4231
+(lp4232
+S'Lhotka'
+p4233
+aS'Beroun'
+p4234
+asS'160 00'
+p4235
+(lp4236
+S'Bubene\xc4\x8d (\xc4\x8d\xc3\xa1st)'
+p4237
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4238
+asS'267 25'
+p4239
+(lp4240
+S'Osovec'
+p4241
+aS'Beroun'
+p4242
+asS'267 24'
+p4243
+(lp4244
+S'L\xc3\xa1\xc5\xbeovice'
+p4245
+aS'Beroun'
+p4246
+asS'267 27'
+p4247
+(lp4248
+S'M\xc4\x9b\xc5\x88any'
+p4249
+aS'Beroun'
+p4250
+asS'267 29'
+p4251
+(lp4252
+S'Zadn\xc3\xad T\xc5\x99eba\xc5\x88'
+p4253
+aS'Beroun'
+p4254
+asS'544 44'
+p4255
+(lp4256
+S'Horn\xc3\xad Vl\xc4\x8dkovice'
+p4257
+aS'Trutnov'
+p4258
+asS'739 49'
+p4259
+(lp4260
+S'Metylovice'
+p4261
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p4262
+asS'789 71'
+p4263
+(lp4264
+S'Le\xc5\xa1tina'
+p4265
+aS'\xc5\xa0umperk'
+p4266
+asS'544 43'
+p4267
+(lp4268
+S'Kuks'
+p4269
+aS'Trutnov'
+p4270
+asS'779 00'
+p4271
+(lp4272
+S'Nov\xc3\xa1 Ulice'
+p4273
+aS'Olomouc'
+p4274
+asS'334 01'
+p4275
+(lp4276
+S'Radkovice'
+p4277
+aS'Plze\xc5\x88-jih'
+p4278
+asS'549 12'
+p4279
+(lp4280
+S'Vysokov'
+p4281
+aS'N\xc3\xa1chod'
+p4282
+asS'588 56'
+p4283
+(lp4284
+S'Volev\xc4\x8dice'
+p4285
+aS'Jihlava'
+p4286
+asS'672 01'
+p4287
+(lp4288
+S'Petrovice'
+p4289
+aS'Znojmo'
+p4290
+asS'588 54'
+p4291
+(lp4292
+S'Mr\xc3\xa1kot\xc3\xadn'
+p4293
+aS'Jihlava'
+p4294
+asS'403 31'
+p4295
+(lp4296
+S'Ryjice'
+p4297
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p4298
+asS'588 51'
+p4299
+(lp4300
+S'Cejle'
+p4301
+aS'Jihlava'
+p4302
+asS'334 44'
+p4303
+(lp4304
+S'Doln\xc3\xad Lukavice'
+p4305
+aS'Plze\xc5\x88-jih'
+p4306
+asS'334 45'
+p4307
+(lp4308
+S'\xc5\x98en\xc4\x8de'
+p4309
+aS'Plze\xc5\x88-jih'
+p4310
+asS'594 55'
+p4311
+(lp4312
+S'Doln\xc3\xad Lou\xc4\x8dky'
+p4313
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4314
+asS'594 53'
+p4315
+(lp4316
+S'Osov\xc3\xa1 B\xc3\xadt\xc3\xbd\xc5\xa1ka'
+p4317
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4318
+asS'334 41'
+p4319
+(lp4320
+S'Vodn\xc3\xad \xc3\x9ajezd'
+p4321
+aS'Plze\xc5\x88-jih'
+p4322
+asS'334 42'
+p4323
+(lp4324
+S'Chlum\xc4\x8dany'
+p4325
+aS'Plze\xc5\x88-jih'
+p4326
+asS'671 81'
+p4327
+(lp4328
+S'Oblekovice'
+p4329
+aS'Znojmo'
+p4330
+asS'257 22'
+p4331
+(lp4332
+S'Vranov'
+p4333
+aS'Bene\xc5\xa1ov'
+p4334
+asS'257 23'
+p4335
+(lp4336
+S'P\xc5\x99estavlky u \xc4\x8cer\xc4\x8dan'
+p4337
+aS'Bene\xc5\xa1ov'
+p4338
+asS'257 21'
+p4339
+(lp4340
+S'Po\xc5\x99\xc3\xad\xc4\x8d\xc3\xad nad S\xc3\xa1zavou'
+p4341
+aS'Bene\xc5\xa1ov'
+p4342
+asS'257 26'
+p4343
+(lp4344
+S'Libe\xc5\xbe'
+p4345
+aS'Bene\xc5\xa1ov'
+p4346
+asS'257 24'
+p4347
+(lp4348
+S'Vestec'
+p4349
+aS'Bene\xc5\xa1ov'
+p4350
+asS'257 25'
+p4351
+(lp4352
+S'Kozmice'
+p4353
+aS'Bene\xc5\xa1ov'
+p4354
+asS'252 29'
+p4355
+(lp4356
+S'Karl\xc3\xadk'
+p4357
+aS'Praha-z\xc3\xa1pad'
+p4358
+asS'252 28'
+p4359
+(lp4360
+S'Solopysky'
+p4361
+aS'Praha-z\xc3\xa1pad'
+p4362
+asS'507 31'
+p4363
+(lp4364
+S'Ji\xc4\x8d\xc3\xadn\xc4\x9bves'
+p4365
+aS'Ji\xc4\x8d\xc3\xadn'
+p4366
+asS'592 53'
+p4367
+(lp4368
+S'Radkov'
+p4369
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p4370
+asS'507 33'
+p4371
+(lp4372
+S'Labou\xc5\x88'
+p4373
+aS'Ji\xc4\x8d\xc3\xadn'
+p4374
+asS'385 01'
+p4375
+(lp4376
+S'Hrabice'
+p4377
+aS'Prachatice'
+p4378
+asS'250 70'
+p4379
+(lp4380
+S'Dol\xc3\xadnek'
+p4381
+aS'Praha-v\xc3\xbdchod'
+p4382
+asS'250 72'
+p4383
+(lp4384
+S'Kojetice'
+p4385
+aS'Praha-v\xc3\xbdchod'
+p4386
+asS'250 73'
+p4387
+(lp4388
+S'Podolanka'
+p4389
+aS'Praha-v\xc3\xbdchod'
+p4390
+asS'148 00'
+p4391
+(lp4392
+S'Chodov (\xc4\x8d\xc3\xa1st)'
+p4393
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4394
+asS'386 01'
+p4395
+(lp4396
+S'\xc5\x98epice'
+p4397
+aS'Strakonice'
+p4398
+asS'387 51'
+p4399
+(lp4400
+S'\xc5\xa0t\xc4\x9bke\xc5\x88'
+p4401
+aS'Strakonice'
+p4402
+asS'547 01'
+p4403
+(lp4404
+S'Lip\xc3\xad'
+p4405
+aS'N\xc3\xa1chod'
+p4406
+asS'349 53'
+p4407
+(lp4408
+S'Horn\xc3\xad Pol\xc5\xbeice'
+p4409
+aS'Tachov'
+p4410
+asS'349 52'
+p4411
+(lp4412
+S'Cebiv'
+p4413
+aS'Tachov'
+p4414
+asS'353 01'
+p4415
+(lp4416
+S'Louka'
+p4417
+aS'Sokolov'
+p4418
+asS'320 00'
+p4419
+(lp4420
+S'Plze\xc5\x88 3-Valcha x)'
+p4421
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p4422
+asS'382 26'
+p4423
+(lp4424
+S'Miln\xc3\xa1'
+p4425
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p4426
+asS'382 23'
+p4427
+(lp4428
+S'\xc4\x8cern\xc3\xa1 v Po\xc5\xa1umav\xc3\xad'
+p4429
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p4430
+asS'341 01'
+p4431
+(lp4432
+S'Pa\xc4\x8dejov'
+p4433
+aS'Klatovy'
+p4434
+asS'382 21'
+p4435
+(lp4436
+S'Kladn\xc3\xa9'
+p4437
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p4438
+asS'382 29'
+p4439
+(lp4440
+S'Boletice'
+p4441
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p4442
+asS'696 83'
+p4443
+(lp4444
+S'Doman\xc3\xadn'
+p4445
+aS'Hodon\xc3\xadn'
+p4446
+asS'696 81'
+p4447
+(lp4448
+S'Bzenec'
+p4449
+aS'Hodon\xc3\xadn'
+p4450
+asS'542 43'
+p4451
+(lp4452
+S'Horn\xc3\xad Star\xc3\xa9 Buky'
+p4453
+aS'Trutnov'
+p4454
+asS'674 01'
+p4455
+(lp4456
+S'Pocoucov'
+p4457
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p4458
+asS'753 53'
+p4459
+(lp4460
+S'Provodovice'
+p4461
+aS'P\xc5\x99erov'
+p4462
+asS'373 14'
+p4463
+(lp4464
+S'Stradov'
+p4465
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p4466
+asS'373 15'
+p4467
+(lp4468
+S'Nov\xc3\xa1 Ves'
+p4469
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p4470
+asS'373 12'
+p4471
+(lp4472
+S'T\xc5\x99ebe\xc4\x8d'
+p4473
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p4474
+asS'363 01'
+p4475
+(lp4476
+S'Kamenec'
+p4477
+aS'Karlovy Vary'
+p4478
+asS'512 65'
+p4479
+(lp4480
+S'V\xc5\xa1e\xc5\x88'
+p4481
+aS'Semily'
+p4482
+asS'362 21'
+p4483
+(lp4484
+S'Rudn\xc3\xa9'
+p4485
+aS'Karlovy Vary'
+p4486
+asS'362 22'
+p4487
+(lp4488
+S'Nejdek (\xc4\x8d\xc3\xa1st)'
+p4489
+aS'Karlovy Vary'
+p4490
+asS'362 25'
+p4491
+(lp4492
+S'Mezirol\xc3\xad'
+p4493
+aS'Karlovy Vary'
+p4494
+asS'621 00'
+p4495
+(lp4496
+S'Jehnice'
+p4497
+aS'Brno-m\xc4\x9bsto'
+p4498
+asS'788 21'
+p4499
+(lp4500
+S'Kol\xc5\xa1ov'
+p4501
+aS'\xc5\xa0umperk'
+p4502
+asS'788 20'
+p4503
+(lp4504
+S'Doln\xc3\xad Stud\xc3\xa9nky'
+p4505
+aS'\xc5\xa0umperk'
+p4506
+asS'512 63'
+p4507
+(lp4508
+S'K\xc5\x99enovy'
+p4509
+aS'Semily'
+p4510
+asS'788 25'
+p4511
+(lp4512
+S'Pet\xc5\x99\xc3\xadkov'
+p4513
+aS'Jesen\xc3\xadk'
+p4514
+asS'403 13'
+p4515
+(lp4516
+S'Hli\xc5\x88any'
+p4517
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p4518
+asS'411 33'
+p4519
+(lp4520
+S'Litochovice nad Labem'
+p4521
+aS'Litom\xc4\x9b\xc5\x99ice'
+p4522
+asS'411 32'
+p4523
+(lp4524
+S'Mile\xc5\xa1ov'
+p4525
+aS'Litom\xc4\x9b\xc5\x99ice'
+p4526
+asS'766 01'
+p4527
+(lp4528
+S'Smolina'
+p4529
+aS'Zl\xc3\xadn'
+p4530
+asS'687 74'
+p4531
+(lp4532
+S'\xc5\xbditkov\xc3\xa1'
+p4533
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p4534
+asS'687 71'
+p4535
+(lp4536
+S'Krhov'
+p4537
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p4538
+asS'431 91'
+p4539
+(lp4540
+S'\xc4\x8cesk\xc3\xa9 Hamry'
+p4541
+aS'Chomutov'
+p4542
+asS'664 17'
+p4543
+(lp4544
+S'Tet\xc4\x8dice'
+p4545
+aS'Brno-venkov'
+p4546
+asS'671 10'
+p4547
+(lp4548
+S'B\xc3\xadtov'
+p4549
+aS'Znojmo'
+p4550
+asS'664 12'
+p4551
+(lp4552
+S'Ketkovice'
+p4553
+aS'Brno-venkov'
+p4554
+asS'415 01'
+p4555
+(lp4556
+S'Drahkov'
+p4557
+aS'Teplice'
+p4558
+asS'415 03'
+p4559
+(lp4560
+S'\xc5\x98etenice'
+p4561
+aS'Teplice'
+p4562
+asS'794 01'
+p4563
+(lp4564
+S'Ho\xc5\xa1\xc5\xa5\xc3\xa1lkovy'
+p4565
+aS'Brunt\xc3\xa1l'
+p4566
+asS'696 50'
+p4567
+(lp4568
+S'H\xc3\xbdsly'
+p4569
+aS'Hodon\xc3\xadn'
+p4570
+asS'339 01'
+p4571
+(lp4572
+S'Chaloupky'
+p4573
+aS'Klatovy'
+p4574
+asS'171 00'
+p4575
+(lp4576
+S'Praha 7-Troja (\xc4\x8d\xc3\xa1st) x)'
+p4577
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4578
+asS'790 70'
+p4579
+(lp4580
+S'Uheln\xc3\xa1'
+p4581
+aS'Jesen\xc3\xadk'
+p4582
+asS'335 54'
+p4583
+(lp4584
+S'\xc5\xbdinkovy'
+p4585
+aS'Plze\xc5\x88-jih'
+p4586
+asS'691 72'
+p4587
+(lp4588
+S'Mork\xc5\xafvky'
+p4589
+aS'B\xc5\x99eclav'
+p4590
+asS'691 76'
+p4591
+(lp4592
+S'\xc5\xa0itbo\xc5\x99ice'
+p4593
+aS'B\xc5\x99eclav'
+p4594
+asS'691 74'
+p4595
+(lp4596
+S'Velk\xc3\xa9 Host\xc4\x9br\xc3\xa1dky'
+p4597
+aS'B\xc5\x99eclav'
+p4598
+asS'747 94'
+p4599
+(lp4600
+S'D\xc4\x9bhylov'
+p4601
+aS'Opava'
+p4602
+asS'517 56'
+p4603
+(lp4604
+S'Slatina nad Zdobnic\xc3\xad'
+p4605
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p4606
+asS'517 55'
+p4607
+(lp4608
+S'Rybn\xc3\xa1 nad Zdobnic\xc3\xad'
+p4609
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p4610
+asS'407 03'
+p4611
+(lp4612
+S'Proset\xc3\xadn'
+p4613
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4614
+asS'407 01'
+p4615
+(lp4616
+S'Kamenec'
+p4617
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p4618
+asS'763 26'
+p4619
+(lp4620
+S'Podhrad\xc3\xad'
+p4621
+aS'Zl\xc3\xadn'
+p4622
+asS'763 24'
+p4623
+(lp4624
+S'Vlachovice'
+p4625
+aS'Zl\xc3\xadn'
+p4626
+asS'763 25'
+p4627
+(lp4628
+S'Vysok\xc3\xa9 Pole'
+p4629
+aS'Zl\xc3\xadn'
+p4630
+asS'763 23'
+p4631
+(lp4632
+S'Sehradice'
+p4633
+aS'Zl\xc3\xadn'
+p4634
+asS'763 21'
+p4635
+(lp4636
+S'Lipov\xc3\xa1'
+p4637
+aS'Zl\xc3\xadn'
+p4638
+asS'714 00'
+p4639
+(lp4640
+S'Ostrava 14'
+p4641
+aS'Ostrava-m\xc4\x9bsto'
+p4642
+asS'503 22'
+p4643
+(lp4644
+S'Lib\xc4\x8dany'
+p4645
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4646
+asS'503 23'
+p4647
+(lp4648
+S'Boharyn\xc4\x9b'
+p4649
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4650
+asS'753 54'
+p4651
+(lp4652
+S'Oprostovice'
+p4653
+aS'P\xc5\x99erov'
+p4654
+asS'503 21'
+p4655
+(lp4656
+S'St\xc4\x9b\xc5\xbeery'
+p4657
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4658
+asS'503 27'
+p4659
+(lp4660
+S'Osi\xc4\x8dky'
+p4661
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4662
+asS'503 25'
+p4663
+(lp4664
+S'Dob\xc5\x99enice'
+p4665
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p4666
+asS'252 25'
+p4667
+(lp4668
+S'Dob\xc5\x99\xc3\xad\xc4\x8d'
+p4669
+aS'Praha-z\xc3\xa1pad'
+p4670
+asS'471 58'
+p4671
+(lp4672
+S'Svitava'
+p4673
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4674
+asS'252 26'
+p4675
+(lp4676
+S'Kucha\xc5\x99\xc3\xadk'
+p4677
+aS'Praha-z\xc3\xa1pad'
+p4678
+asS'471 51'
+p4679
+(lp4680
+S'Rous\xc3\xadnov'
+p4681
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4682
+asS'253 01'
+p4683
+(lp4684
+S'B\xc5\x99ve'
+p4685
+aS'Praha-z\xc3\xa1pad'
+p4686
+asS'471 52'
+p4687
+(lp4688
+S'Maxov'
+p4689
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4690
+asS'471 55'
+p4691
+(lp4692
+S'Kunratice u Cvikova'
+p4693
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4694
+asS'471 54'
+p4695
+(lp4696
+S'Drnovec'
+p4697
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4698
+asS'471 57'
+p4699
+(lp4700
+S'Doln\xc3\xad Sv\xc4\x9btl\xc3\xa1'
+p4701
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4702
+asS'471 56'
+p4703
+(lp4704
+S'Nad\xc4\x9bje'
+p4705
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p4706
+asS'322 00'
+p4707
+(lp4708
+S'Rad\xc4\x8dice'
+p4709
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p4710
+asS'107 00'
+p4711
+(lp4712
+S'Praha 10-Dube\xc4\x8d x)'
+p4713
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4714
+asS'384 81'
+p4715
+(lp4716
+S'L\xc5\xa1t\xc4\x9bn\xc3\xad'
+p4717
+aS'Prachatice'
+p4718
+asS'384 86'
+p4719
+(lp4720
+S'Mi\xc5\x99etice'
+p4721
+aS'Prachatice'
+p4722
+asS'783 46'
+p4723
+(lp4724
+S'Vojnice'
+p4725
+aS'Olomouc'
+p4726
+asS'393 01'
+p4727
+(lp4728
+S'Milotice'
+p4729
+aS'Pelh\xc5\x99imov'
+p4730
+asS'783 47'
+p4731
+(lp4732
+S'Hn\xc4\x9bvot\xc3\xadn'
+p4733
+aS'Olomouc'
+p4734
+asS'417 81'
+p4735
+(lp4736
+S'Moldava'
+p4737
+aS'Teplice'
+p4738
+asS'394 61'
+p4739
+(lp4740
+S'Bo\xc5\xbeejov'
+p4741
+aS'Pelh\xc5\x99imov'
+p4742
+asS'783 45'
+p4743
+(lp4744
+S'Seni\xc4\x8dka'
+p4745
+aS'Olomouc'
+p4746
+asS'394 68'
+p4747
+(lp4748
+S'L\xc3\xa9skovec'
+p4749
+aS'Pelh\xc5\x99imov'
+p4750
+asS'750 02'
+p4751
+(lp4752
+S'P\xc5\x99estavlky'
+p4753
+aS'P\xc5\x99erov'
+p4754
+asS'793 05'
+p4755
+(lp4756
+S'Norber\xc4\x8dany'
+p4757
+aS'Brunt\xc3\xa1l'
+p4758
+asS'750 03'
+p4759
+(lp4760
+S'P\xc5\x99erov 3'
+p4761
+aS'P\xc5\x99erov'
+p4762
+asS'381 01'
+p4763
+(lp4764
+S'Novosedly'
+p4765
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p4766
+asS'267 18'
+p4767
+(lp4768
+S'Lu\xc5\xbece'
+p4769
+aS'Beroun'
+p4770
+asS'267 16'
+p4771
+(lp4772
+S'Vysok\xc3\xbd \xc3\x9ajezd'
+p4773
+aS'Beroun'
+p4774
+asS'267 17'
+p4775
+(lp4776
+S'Mo\xc5\x99ina'
+p4777
+aS'Beroun'
+p4778
+asS'544 74'
+p4779
+(lp4780
+S'Horn\xc3\xad Brusnice'
+p4781
+aS'Trutnov'
+p4782
+asS'267 11'
+p4783
+(lp4784
+S'Z\xc3\xa1hrabsk\xc3\xa1'
+p4785
+aS'Beroun'
+p4786
+asS'267 12'
+p4787
+(lp4788
+S'Chrustenice'
+p4789
+aS'Beroun'
+p4790
+asS'544 77'
+p4791
+(lp4792
+S'Borovnice'
+p4793
+aS'Trutnov'
+p4794
+asS'155 31'
+p4795
+(lp4796
+S'Praha 5-Lipence x)'
+p4797
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4798
+asS'278 01'
+p4799
+(lp4800
+S'Debrno'
+p4801
+aS'Praha-z\xc3\xa1pad'
+p4802
+asS'332 09'
+p4803
+(lp4804
+S'\xc5\xa0t\xc4\x9bnovick\xc3\xbd Borek'
+p4805
+aS'Plze\xc5\x88-jih'
+p4806
+asS'549 21'
+p4807
+(lp4808
+S'\xc4\x8cesk\xc3\xa1 \xc4\x8cermn\xc3\xa1'
+p4809
+aS'N\xc3\xa1chod'
+p4810
+asS'549 22'
+p4811
+(lp4812
+S'Krahul\xc4\x8d\xc3\xad'
+p4813
+aS'N\xc3\xa1chod'
+p4814
+asS'294 04'
+p4815
+(lp4816
+S'\xc5\x98itonice'
+p4817
+aS'Mlad\xc3\xa1 Boleslav'
+p4818
+asS'588 44'
+p4819
+(lp4820
+S'Rohozn\xc3\xa1'
+p4821
+aS'Jihlava'
+p4822
+asS'588 41'
+p4823
+(lp4824
+S'B\xc3\xadl\xc3\xbd K\xc3\xa1men'
+p4825
+aS'Jihlava'
+p4826
+asS'588 42'
+p4827
+(lp4828
+S'\xc3\x9ast\xc3\xad'
+p4829
+aS'Jihlava'
+p4830
+asS'334 52'
+p4831
+(lp4832
+S'Bukov\xc3\xa1'
+p4833
+aS'Plze\xc5\x88-jih'
+p4834
+asS'334 54'
+p4835
+(lp4836
+S'Lu\xc5\xbeany'
+p4837
+aS'Plze\xc5\x88-jih'
+p4838
+asS'751 17'
+p4839
+(lp4840
+S'Horn\xc3\xad Mo\xc5\xa1t\xc4\x9bnice'
+p4841
+aS'P\xc5\x99erov'
+p4842
+asS'159 00'
+p4843
+(lp4844
+S'Praha 5-Mal\xc3\xa1 Chuchle (\xc4\x8d\xc3\xa1st) x)'
+p4845
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p4846
+asS'507 03'
+p4847
+(lp4848
+S'St\xc5\x99\xc3\xadbrnice'
+p4849
+aS'Ji\xc4\x8d\xc3\xadn'
+p4850
+asS'507 04'
+p4851
+(lp4852
+S'T\xc5\x99t\xc4\x9bnice'
+p4853
+aS'Ji\xc4\x8d\xc3\xadn'
+p4854
+asS'507 06'
+p4855
+(lp4856
+S'Lu\xc5\xbeany'
+p4857
+aS'Ji\xc4\x8d\xc3\xadn'
+p4858
+asS'636 00'
+p4859
+(lp4860
+S'\xc5\xbdidenice (\xc4\x8d\xc3\xa1st)'
+p4861
+aS'Brno-m\xc4\x9bsto'
+p4862
+asS'250 63'
+p4863
+(lp4864
+S'Star\xc3\xbd Br\xc3\xa1zdim'
+p4865
+aS'Praha-v\xc3\xbdchod'
+p4866
+asS'250 67'
+p4867
+(lp4868
+S'Drasty'
+p4869
+aS'Praha-v\xc3\xbdchod'
+p4870
+asS'250 66'
+p4871
+(lp4872
+S'Brnky'
+p4873
+aS'Praha-v\xc3\xbdchod'
+p4874
+asS'250 65'
+p4875
+(lp4876
+S'Ba\xc5\xa1\xc5\xa5'
+p4877
+aS'Praha-v\xc3\xbdchod'
+p4878
+asS'250 64'
+p4879
+(lp4880
+S'Zlon\xc3\xadn'
+p4881
+aS'Praha-v\xc3\xbdchod'
+p4882
+asS'250 69'
+p4883
+(lp4884
+S'M\xc3\xa1slovice'
+p4885
+aS'Praha-v\xc3\xbdchod'
+p4886
+asS'250 68'
+p4887
+(lp4888
+S'Husinec'
+p4889
+aS'Praha-v\xc3\xbdchod'
+p4890
+asS'602 00'
+p4891
+(lp4892
+S'Str\xc3\xa1nice'
+p4893
+aS'Brno-m\xc4\x9bsto'
+p4894
+asS'390 02'
+p4895
+(lp4896
+S'Hlinice'
+p4897
+aS'T\xc3\xa1bor'
+p4898
+asS'390 03'
+p4899
+(lp4900
+S'Klokoty'
+p4901
+aS'T\xc3\xa1bor'
+p4902
+asS'390 01'
+p4903
+(lp4904
+S'V\xc4\x9btrovy'
+p4905
+aS'T\xc3\xa1bor'
+p4906
+asS'684 01'
+p4907
+(lp4908
+S'Kobe\xc5\x99ice u Brna'
+p4909
+aS'Vy\xc5\xa1kov'
+p4910
+asS'783 83'
+p4911
+(lp4912
+S'Nov\xc3\xa1 Hrade\xc4\x8dn\xc3\xa1'
+p4913
+aS'Olomouc'
+p4914
+asS'783 86'
+p4915
+(lp4916
+S'K\xc5\x99iv\xc3\xa1'
+p4917
+aS'Olomouc'
+p4918
+asS'696 76'
+p4919
+(lp4920
+S'Louka'
+p4921
+aS'Hodon\xc3\xadn'
+p4922
+asS'696 74'
+p4923
+(lp4924
+S'Velk\xc3\xa1 nad Veli\xc4\x8dkou'
+p4925
+aS'Hodon\xc3\xadn'
+p4926
+asS'696 72'
+p4927
+(lp4928
+S'Lipov'
+p4929
+aS'Hodon\xc3\xadn'
+p4930
+asS'696 73'
+p4931
+(lp4932
+S'Mal\xc3\xa1 Vrbka'
+p4933
+aS'Hodon\xc3\xadn'
+p4934
+asS'696 71'
+p4935
+(lp4936
+S'Blatni\xc4\x8dka'
+p4937
+aS'Hodon\xc3\xadn'
+p4938
+asS'790 55'
+p4939
+(lp4940
+S'Vidnava'
+p4941
+aS'Jesen\xc3\xadk'
+p4942
+asS'735 51'
+p4943
+(lp4944
+S'Bohum\xc3\xadn-Vrbice x)'
+p4945
+aS'Karvin\xc3\xa1'
+p4946
+asS'373 03'
+p4947
+(lp4948
+S'Kolod\xc4\x9bje nad Lu\xc5\xbenic\xc3\xad'
+p4949
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p4950
+asS'373 02'
+p4951
+(lp4952
+S'Nezna\xc5\xa1ov'
+p4953
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p4954
+asS'345 62'
+p4955
+(lp4956
+S'Kv\xc3\xad\xc4\x8dovice'
+p4957
+aS'Doma\xc5\xbelice'
+p4958
+asS'345 61'
+p4959
+(lp4960
+S'Pod\xc4\x9bvousy'
+p4961
+aS'Doma\xc5\xbelice'
+p4962
+asS'756 06'
+p4963
+(lp4964
+S'Mal\xc3\xa9 Karlovice'
+p4965
+aS'Vset\xc3\xadn'
+p4966
+asS'693 01'
+p4967
+(lp4968
+S'Nikol\xc4\x8dice'
+p4969
+aS'B\xc5\x99eclav'
+p4970
+asS'294 06'
+p4971
+(lp4972
+S'\xc5\xbdidn\xc4\x9bves'
+p4973
+aS'Mlad\xc3\xa1 Boleslav'
+p4974
+asS'623 00'
+p4975
+(lp4976
+S'Pis\xc3\xa1rky'
+p4977
+aS'Brno-m\xc4\x9bsto'
+p4978
+asS'756 01'
+p4979
+(lp4980
+S'Hov\xc4\x9bz\xc3\xad'
+p4981
+aS'Vset\xc3\xadn'
+p4982
+asS'790 53'
+p4983
+(lp4984
+S'Nov\xc3\xa1 \xc4\x8cerven\xc3\xa1 Voda'
+p4985
+aS'Jesen\xc3\xadk'
+p4986
+asS'572 01'
+p4987
+(lp4988
+S'S\xc3\xa1dek'
+p4989
+aS'Svitavy'
+p4990
+asS'552 05'
+p4991
+(lp4992
+S'Kom\xc3\xa1rov'
+p4993
+aS'N\xc3\xa1chod'
+p4994
+asS'562 04'
+p4995
+(lp4996
+S'Kerhartice'
+p4997
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p4998
+asS'551 01'
+p4999
+(lp5000
+S'Roztoky'
+p5001
+aS'N\xc3\xa1chod'
+p5002
+asS'562 01'
+p5003
+(lp5004
+S'Se\xc4\x8d'
+p5005
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p5006
+asS'783 36'
+p5007
+(lp5008
+S'K\xc5\x99elov'
+p5009
+aS'Olomouc'
+p5010
+asS'403 02'
+p5011
+(lp5012
+S'C\xc3\xadrkvice'
+p5013
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5014
+asS'403 01'
+p5015
+(lp5016
+S'Doln\xc3\xad Z\xc3\xa1lezly'
+p5017
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5018
+asS'470 06'
+p5019
+(lp5020
+S'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa (\xc4\x8d\xc3\xa1st)'
+p5021
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p5022
+asS'470 01'
+p5023
+(lp5024
+S'P\xc3\xadse\xc4\x8dn\xc3\xa1'
+p5025
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p5026
+asS'411 01'
+p5027
+(lp5028
+S'\xc5\xbdalhostice'
+p5029
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5030
+asS'411 08'
+p5031
+(lp5032
+S'Strachaly'
+p5033
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5034
+asS'613 00'
+p5035
+(lp5036
+S'Brno-\xc4\x8cern\xc3\xa1 Pole x)'
+p5037
+aS'Brno-m\xc4\x9bsto'
+p5038
+asS'687 63'
+p5039
+(lp5040
+S'Bor\xc5\xa1ice u Blatnice'
+p5041
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p5042
+asS'665 01'
+p5043
+(lp5044
+S'K\xc3\xbdvalka'
+p5045
+aS'Brno-venkov'
+p5046
+asS'687 66'
+p5047
+(lp5048
+S'Kv\xc4\x9btn\xc3\xa1'
+p5049
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p5050
+asS'109 00'
+p5051
+(lp5052
+S'Doln\xc3\xad M\xc4\x9bcholupy'
+p5053
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5054
+asS'687 64'
+p5055
+(lp5056
+S'Horn\xc3\xad N\xc4\x9bm\xc4\x8d\xc3\xad'
+p5057
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p5058
+asS'350 02'
+p5059
+(lp5060
+S'Lib\xc3\xa1'
+p5061
+aS'Cheb'
+p5062
+asS'664 24'
+p5063
+(lp5064
+S'Dr\xc3\xa1sov'
+p5065
+aS'Brno-venkov'
+p5066
+asS'439 49'
+p5067
+(lp5068
+S'Sta\xc5\x88kovice'
+p5069
+aS'Louny'
+p5070
+asS'675 71'
+p5071
+(lp5072
+S'Nalou\xc4\x8dany'
+p5073
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5074
+asS'675 73'
+p5075
+(lp5076
+S'Horn\xc3\xad Lhotice'
+p5077
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5078
+asS'463 52'
+p5079
+(lp5080
+S'Jan\xc5\xafv D\xc5\xafl'
+p5081
+aS'Liberec'
+p5082
+asS'463 53'
+p5083
+(lp5084
+S'K\xc5\x99i\xc5\xbeany'
+p5085
+aS'Liberec'
+p5086
+asS'675 79'
+p5087
+(lp5088
+S'Tasov'
+p5089
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5090
+asS'102 00'
+p5091
+(lp5092
+S'Hostiva\xc5\x99 (\xc4\x8d\xc3\xa1st)'
+p5093
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5094
+asS'742 31'
+p5095
+(lp5096
+S'Vl\xc4\x8dnov'
+p5097
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p5098
+asS'164 00'
+p5099
+(lp5100
+S'Praha 6-Nebu\xc5\xa1ice x)'
+p5101
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5102
+asS'742 35'
+p5103
+(lp5104
+S'Vra\xc5\xben\xc3\xa9'
+p5105
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p5106
+asS'742 36'
+p5107
+(lp5108
+S'Lou\xc4\x8dky'
+p5109
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p5110
+asS'798 02'
+p5111
+(lp5112
+S'Mostkovice'
+p5113
+aS'Prost\xc4\x9bjov'
+p5114
+asS'798 03'
+p5115
+(lp5116
+S'Hamry'
+p5117
+aS'Prost\xc4\x9bjov'
+p5118
+asS'533 16'
+p5119
+(lp5120
+S'Tetov'
+p5121
+aS'Pardubice'
+p5122
+asS'790 01'
+p5123
+(lp5124
+S'Doma\xc5\xa1ov'
+p5125
+aS'Jesen\xc3\xadk'
+p5126
+asS'533 12'
+p5127
+(lp5128
+S'Kojice'
+p5129
+aS'Pardubice'
+p5130
+asS'335 44'
+p5131
+(lp5132
+S'Nezd\xc5\x99ev'
+p5133
+aS'Plze\xc5\x88-jih'
+p5134
+asS'691 86'
+p5135
+(lp5136
+S'Pern\xc3\xa1'
+p5137
+aS'B\xc5\x99eclav'
+p5138
+asS'691 85'
+p5139
+(lp5140
+S'Doln\xc3\xad Dunajovice'
+p5141
+aS'B\xc5\x99eclav'
+p5142
+asS'691 82'
+p5143
+(lp5144
+S'Nov\xc3\xbd P\xc5\x99erov'
+p5145
+aS'B\xc5\x99eclav'
+p5146
+asS'691 83'
+p5147
+(lp5148
+S'Jevi\xc5\xa1ovka'
+p5149
+aS'B\xc5\x99eclav'
+p5150
+asS'691 81'
+p5151
+(lp5152
+S'B\xc5\x99ez\xc3\xad'
+p5153
+aS'B\xc5\x99eclav'
+p5154
+asS'768 41'
+p5155
+(lp5156
+S'Rusava'
+p5157
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p5158
+asS'768 43'
+p5159
+(lp5160
+S'Pacetluky'
+p5161
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p5162
+asS'517 41'
+p5163
+(lp5164
+S'Polom'
+p5165
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5166
+asS'407 77'
+p5167
+(lp5168
+S'Ro\xc5\xbeany'
+p5169
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p5170
+asS'517 43'
+p5171
+(lp5172
+S'Brn\xc3\xa1'
+p5173
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5174
+asS'763 34'
+p5175
+(lp5176
+S'Svat\xc3\xbd \xc5\xa0t\xc4\x9bp\xc3\xa1n'
+p5177
+aS'Zl\xc3\xadn'
+p5178
+asS'407 78'
+p5179
+(lp5180
+S'Kn\xc3\xad\xc5\xbeec\xc3\xad'
+p5181
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p5182
+asS'407 79'
+p5183
+(lp5184
+S'Salmov'
+p5185
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p5186
+asS'763 31'
+p5187
+(lp5188
+S'Bylnice'
+p5189
+aS'Zl\xc3\xadn'
+p5190
+asS'763 33'
+p5191
+(lp5192
+S'Popov'
+p5193
+aS'Zl\xc3\xadn'
+p5194
+asS'763 32'
+p5195
+(lp5196
+S'N\xc3\xa1vojn\xc3\xa1'
+p5197
+aS'Zl\xc3\xadn'
+p5198
+asS'431 63'
+p5199
+(lp5200
+S'Ond\xc5\x99ejov'
+p5201
+aS'Chomutov'
+p5202
+asS'751 11'
+p5203
+(lp5204
+S'Old\xc5\x99ichov'
+p5205
+aS'P\xc5\x99erov'
+p5206
+asS'503 31'
+p5207
+(lp5208
+S'Vysok\xc3\xa1 nad Labem'
+p5209
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p5210
+asS'140 00'
+p5211
+(lp5212
+S'Kr\xc4\x8d (\xc4\x8d\xc3\xa1st)'
+p5213
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5214
+asS'471 67'
+p5215
+(lp5216
+S'Srn\xc3\xad u \xc4\x8cesk\xc3\xa9 L\xc3\xadpy'
+p5217
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p5218
+asS'471 61'
+p5219
+(lp5220
+S'Mar\xc5\xa1ovice'
+p5221
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p5222
+asS'471 62'
+p5223
+(lp5224
+S'\xc5\xbdd\xc3\xadrec'
+p5225
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p5226
+asS'512 04'
+p5227
+(lp5228
+S'M\xc5\x99\xc3\xad\xc4\x8dn\xc3\xa1'
+p5229
+aS'Semily'
+p5230
+asS'512 02'
+p5231
+(lp5232
+S'Ko\xc5\xa1\xc5\xa5\xc3\xa1lov'
+p5233
+aS'Semily'
+p5234
+asS'512 01'
+p5235
+(lp5236
+S'Ho\xc5\x99ensko'
+p5237
+aS'Semily'
+p5238
+asS'252 10'
+p5239
+(lp5240
+S'Bojov'
+p5241
+aS'Praha-z\xc3\xa1pad'
+p5242
+asS'252 17'
+p5243
+(lp5244
+S'Tachlovice'
+p5245
+aS'Praha-z\xc3\xa1pad'
+p5246
+asS'252 18'
+p5247
+(lp5248
+S'Ptice'
+p5249
+aS'Praha-z\xc3\xa1pad'
+p5250
+asS'252 19'
+p5251
+(lp5252
+S'Drahel\xc4\x8dice'
+p5253
+aS'Praha-z\xc3\xa1pad'
+p5254
+asS'317 00'
+p5255
+(lp5256
+S'Plze\xc5\x88 2-Hradi\xc5\xa1t\xc4\x9b x)'
+p5257
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p5258
+asS'798 46'
+p5259
+(lp5260
+S'Brodek u Konice'
+p5261
+aS'Prost\xc4\x9bjov'
+p5262
+asS'798 47'
+p5263
+(lp5264
+S'Nov\xc3\xa9 Sady'
+p5265
+aS'Prost\xc4\x9bjov'
+p5266
+asS'798 44'
+p5267
+(lp5268
+S'Maleny'
+p5269
+aS'Prost\xc4\x9bjov'
+p5270
+asS'798 45'
+p5271
+(lp5272
+S'Lhota u Konice'
+p5273
+aS'Prost\xc4\x9bjov'
+p5274
+asS'436 03'
+p5275
+(lp5276
+S'Litv\xc3\xadnov-Chude\xc5\x99\xc3\xadn x)'
+p5277
+aS'Most'
+p5278
+asS'384 73'
+p5279
+(lp5280
+S'Chval\xc5\xa1ovice'
+p5281
+aS'Strakonice'
+p5282
+asS'436 01'
+p5283
+(lp5284
+S'Litv\xc3\xadnov-Horn\xc3\xad Ves x)'
+p5285
+aS'Most'
+p5286
+asS'798 41'
+p5287
+(lp5288
+S'B\xc3\xadlovice'
+p5289
+aS'Prost\xc4\x9bjov'
+p5290
+asS'544 66'
+p5291
+(lp5292
+S'Horn\xc3\xad \xc5\xbd\xc4\x8f\xc3\xa1r'
+p5293
+aS'Trutnov'
+p5294
+asS'544 62'
+p5295
+(lp5296
+S'V\xc3\xadt\xc4\x9bzn\xc3\xa1-H\xc3\xa1jemstv\xc3\xad x)'
+p5297
+aS'Trutnov'
+p5298
+asS'544 61'
+p5299
+(lp5300
+S'Horn\xc3\xad Nemojov'
+p5301
+aS'Trutnov'
+p5302
+asS'394 70'
+p5303
+(lp5304
+S'B\xc5\x99ez\xc3\xad'
+p5305
+aS'Pelh\xc5\x99imov'
+p5306
+asS'537 05'
+p5307
+(lp5308
+S'Chrudim IV (\xc4\x8d\xc3\xa1st)'
+p5309
+aS'Chrudim'
+p5310
+asS'537 03'
+p5311
+(lp5312
+S'Chrudim III (\xc4\x8d\xc3\xa1st)'
+p5313
+aS'Chrudim'
+p5314
+asS'537 01'
+p5315
+(lp5316
+S'T\xc5\x99i Bubny'
+p5317
+aS'Chrudim'
+p5318
+asS'267 03'
+p5319
+(lp5320
+S'Otro\xc4\x8din\xc4\x9bves'
+p5321
+aS'Beroun'
+p5322
+asS'267 01'
+p5323
+(lp5324
+S'Popovice'
+p5325
+aS'Beroun'
+p5326
+asS'538 45'
+p5327
+(lp5328
+S'B\xc4\x9bstvina'
+p5329
+aS'Chrudim'
+p5330
+asS'267 07'
+p5331
+(lp5332
+S'Chy\xc5\x88ava'
+p5333
+aS'Beroun'
+p5334
+asS'538 43'
+p5335
+(lp5336
+S'Tuchov'
+p5337
+aS'Chrudim'
+p5338
+asS'267 05'
+p5339
+(lp5340
+S'\xc5\xbdloukovice'
+p5341
+aS'Beroun'
+p5342
+asS'155 21'
+p5343
+(lp5344
+S'Sob\xc3\xadn'
+p5345
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5346
+asS'696 03'
+p5347
+(lp5348
+S'Dub\xc5\x88any'
+p5349
+aS'Hodon\xc3\xadn'
+p5350
+asS'507 13'
+p5351
+(lp5352
+S'Pekloves'
+p5353
+aS'Ji\xc4\x8d\xc3\xadn'
+p5354
+asS'257 09'
+p5355
+(lp5356
+S'Pravon\xc3\xadn'
+p5357
+aS'Bene\xc5\xa1ov'
+p5358
+asS'507 11'
+p5359
+(lp5360
+S'Ji\xc4\x8d\xc3\xadn-Sedli\xc4\x8dky x)'
+p5361
+aS'Ji\xc4\x8d\xc3\xadn'
+p5362
+asS'257 06'
+p5363
+(lp5364
+S'Kamberk'
+p5365
+aS'Bene\xc5\xa1ov'
+p5366
+asS'257 01'
+p5367
+(lp5368
+S'Jemni\xc5\xa1t\xc4\x9b'
+p5369
+aS'Bene\xc5\xa1ov'
+p5370
+asS'696 06'
+p5371
+(lp5372
+S'Vacenovice'
+p5373
+aS'Hodon\xc3\xadn'
+p5374
+asS'147 00'
+p5375
+(lp5376
+S'Hodkovi\xc4\x8dky'
+p5377
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5378
+asS'569 24'
+p5379
+(lp5380
+S'Nov\xc3\xa1 Ves'
+p5381
+aS'Svitavy'
+p5382
+asS'569 22'
+p5383
+(lp5384
+S'K\xc5\x99enov'
+p5385
+aS'Svitavy'
+p5386
+asS'569 23'
+p5387
+(lp5388
+S'B\xc5\x99ezina'
+p5389
+aS'Svitavy'
+p5390
+asS'620 00'
+p5391
+(lp5392
+S'Hol\xc3\xa1sky'
+p5393
+aS'Brno-m\xc4\x9bsto'
+p5394
+asS'439 67'
+p5395
+(lp5396
+S'Ro\xc4\x8dov'
+p5397
+aS'Louny'
+p5398
+asS'566 01'
+p5399
+(lp5400
+S'Vanice'
+p5401
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p5402
+asS'250 92'
+p5403
+(lp5404
+S'\xc5\xa0estajovice'
+p5405
+aS'Praha-v\xc3\xbdchod'
+p5406
+asS'250 91'
+p5407
+(lp5408
+S'Sv\xc3\xa9myslice'
+p5409
+aS'Praha-v\xc3\xbdchod'
+p5410
+asS'549 36'
+p5411
+(lp5412
+S'Horn\xc3\xad D\xc5\x99ev\xc3\xad\xc4\x8d'
+p5413
+aS'N\xc3\xa1chod'
+p5414
+asS'549 32'
+p5415
+(lp5416
+S'Velk\xc3\xa9 Po\xc5\x99\xc3\xad\xc4\x8d\xc3\xad'
+p5417
+aS'N\xc3\xa1chod'
+p5418
+asS'549 31'
+p5419
+(lp5420
+S'Chl\xc3\xadvce'
+p5421
+aS'N\xc3\xa1chod'
+p5422
+asS'323 00'
+p5423
+(lp5424
+S'Plze\xc5\x88 1-Severn\xc3\xad P\xc5\x99edm\xc4\x9bst\xc3\xad x)'
+p5425
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p5426
+asS'382 41'
+p5427
+(lp5428
+S'Hartunkov'
+p5429
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p5430
+asS'382 42'
+p5431
+(lp5432
+S'Rave\xc5\x88'
+p5433
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p5434
+asS'783 91'
+p5435
+(lp5436
+S'Nov\xc3\xa1 D\xc4\x9bdina'
+p5437
+aS'Olomouc'
+p5438
+asS'783 97'
+p5439
+(lp5440
+S'Paseck\xc3\xbd \xc5\xbdleb'
+p5441
+aS'Olomouc'
+p5442
+asS'783 96'
+p5443
+(lp5444
+S'Haukovice'
+p5445
+aS'Olomouc'
+p5446
+asS'696 64'
+p5447
+(lp5448
+S'Kn\xc4\x9b\xc5\xbedub'
+p5449
+aS'Hodon\xc3\xadn'
+p5450
+asS'696 67'
+p5451
+(lp5452
+S'Rad\xc4\x9bjov'
+p5453
+aS'Hodon\xc3\xadn'
+p5454
+asS'696 61'
+p5455
+(lp5456
+S'Lid\xc3\xa9\xc5\x99ovice'
+p5457
+aS'Hodon\xc3\xadn'
+p5458
+asS'696 63'
+p5459
+(lp5460
+S'Kozoj\xc3\xaddky'
+p5461
+aS'Hodon\xc3\xadn'
+p5462
+asS'746 01'
+p5463
+(lp5464
+S'Jamnice'
+p5465
+aS'Opava'
+p5466
+asS'373 31'
+p5467
+(lp5468
+S'Ole\xc5\xa1nice'
+p5469
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p5470
+asS'373 33'
+p5471
+(lp5472
+S'Sv\xc3\xa9bohy'
+p5473
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p5474
+asS'373 35'
+p5475
+(lp5476
+S'Paseky'
+p5477
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p5478
+asS'318 00'
+p5479
+(lp5480
+S'Plze\xc5\x88 3-Nov\xc3\xa1 Hospoda x)'
+p5481
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p5482
+asS'270 36'
+p5483
+(lp5484
+S'Senec'
+p5485
+aS'Rakovn\xc3\xadk'
+p5486
+asS'270 34'
+p5487
+(lp5488
+S'\xc5\xa0\xc3\xadpy'
+p5489
+aS'Rakovn\xc3\xadk'
+p5490
+asS'270 35'
+p5491
+(lp5492
+S'Malinov\xc3\xa1'
+p5493
+aS'Rakovn\xc3\xadk'
+p5494
+asS'270 33'
+p5495
+(lp5496
+S'\xc5\xbd\xc4\x8f\xc3\xa1r'
+p5497
+aS'Rakovn\xc3\xadk'
+p5498
+asS'270 31'
+p5499
+(lp5500
+S'Nouzov'
+p5501
+aS'Rakovn\xc3\xadk'
+p5502
+asS'772 00'
+p5503
+(lp5504
+S'Hodolany'
+p5505
+aS'Olomouc'
+p5506
+asS'617 00'
+p5507
+(lp5508
+S'Brno-Kom\xc3\xa1rov x)'
+p5509
+aS'Brno-m\xc4\x9bsto'
+p5510
+asS'411 12'
+p5511
+(lp5512
+S'\xc4\x8c\xc3\xad\xc5\xbekovice'
+p5513
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5514
+asS'411 11'
+p5515
+(lp5516
+S'Sulejovice'
+p5517
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5518
+asS'411 17'
+p5519
+(lp5520
+S'Poplze'
+p5521
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5522
+asS'411 16'
+p5523
+(lp5524
+S'Lk\xc3\xa1\xc5\x88'
+p5525
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5526
+asS'411 15'
+p5527
+(lp5528
+S'Kolole\xc4\x8d'
+p5529
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5530
+asS'675 52'
+p5531
+(lp5532
+S'Petr\xc5\xafvky'
+p5533
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5534
+asS'411 19'
+p5535
+(lp5536
+S'Charvatce'
+p5537
+aS'Litom\xc4\x9b\xc5\x99ice'
+p5538
+asS'281 25'
+p5539
+(lp5540
+S'Kon\xc3\xa1rovice'
+p5541
+aS'Kol\xc3\xadn'
+p5542
+asS'664 34'
+p5543
+(lp5544
+S'Jina\xc4\x8dovice'
+p5545
+aS'Brno-venkov'
+p5546
+asS'664 32'
+p5547
+(lp5548
+S'Vranov'
+p5549
+aS'Brno-venkov'
+p5550
+asS'664 31'
+p5551
+(lp5552
+S'Lelekovice'
+p5553
+aS'Brno-venkov'
+p5554
+asS'357 55'
+p5555
+(lp5556
+S'Bukovany'
+p5557
+aS'Sokolov'
+p5558
+asS'357 51'
+p5559
+(lp5560
+S'Libavsk\xc3\xa9 \xc3\x9adol\xc3\xad'
+p5561
+aS'Sokolov'
+p5562
+asS'582 65'
+p5563
+(lp5564
+S'Z\xc3\xa1les\xc3\xad'
+p5565
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p5566
+asS'582 64'
+p5567
+(lp5568
+S'Hude\xc4\x8d'
+p5569
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p5570
+asS'281 21'
+p5571
+(lp5572
+S'\xc4\x8cerven\xc3\xa9 Pe\xc4\x8dky'
+p5573
+aS'Kol\xc3\xadn'
+p5574
+asS'281 23'
+p5575
+(lp5576
+S'Star\xc3\xbd Kol\xc3\xadn'
+p5577
+aS'Kol\xc3\xadn'
+p5578
+asS'783 14'
+p5579
+(lp5580
+S'\xc5\xa0tarnov'
+p5581
+aS'Olomouc'
+p5582
+asS'463 45'
+p5583
+(lp5584
+S'Doub\xc3\xad'
+p5585
+aS'Liberec'
+p5586
+asS'463 44'
+p5587
+(lp5588
+S'T\xc5\x99t\xc3\xad'
+p5589
+aS'Liberec'
+p5590
+asS'463 46'
+p5591
+(lp5592
+S'P\xc5\x99\xc3\xad\xc5\xa1ovice'
+p5593
+aS'Liberec'
+p5594
+asS'463 43'
+p5595
+(lp5596
+S'Rozst\xc3\xa1n\xc3\xad'
+p5597
+aS'Liberec'
+p5598
+asS'463 42'
+p5599
+(lp5600
+S'Bohd\xc3\xa1nkov'
+p5601
+aS'Liberec'
+p5602
+asS'675 44'
+p5603
+(lp5604
+S'Babice'
+p5605
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5606
+asS'582 62'
+p5607
+(lp5608
+S'Sob\xc3\xad\xc5\x88ov'
+p5609
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p5610
+asS'463 48'
+p5611
+(lp5612
+S'P\xc5\x99ibyslavice'
+p5613
+aS'Liberec'
+p5614
+asS'675 42'
+p5615
+(lp5616
+S'Budkov'
+p5617
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5618
+asS'675 43'
+p5619
+(lp5620
+S'Domamil'
+p5621
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p5622
+asS'697 01'
+p5623
+(lp5624
+S'Bor\xc5\xa1ov'
+p5625
+aS'Hodon\xc3\xadn'
+p5626
+asS'742 21'
+p5627
+(lp5628
+S'Vl\xc4\x8dovice'
+p5629
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p5630
+asS'741 01'
+p5631
+(lp5632
+S'H\xc5\xafrka'
+p5633
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p5634
+asS'336 01'
+p5635
+(lp5636
+S'Se\xc4\x8d'
+p5637
+aS'Plze\xc5\x88-jih'
+p5638
+asS'533 03'
+p5639
+(lp5640
+S'Velkol\xc3\xa1nsk\xc3\xa9'
+p5641
+aS'Pardubice'
+p5642
+asS'533 04'
+p5643
+(lp5644
+S'Velk\xc3\xa9 Kolod\xc4\x9bje'
+p5645
+aS'Pardubice'
+p5646
+asS'285 76'
+p5647
+(lp5648
+S'Chotusice'
+p5649
+aS'Kutn\xc3\xa1 Hora'
+p5650
+asS'285 75'
+p5651
+(lp5652
+S'\xc5\xbdehu\xc5\xa1ice'
+p5653
+aS'Kutn\xc3\xa1 Hora'
+p5654
+asS'285 73'
+p5655
+(lp5656
+S'Horu\xc5\xa1ice'
+p5657
+aS'Kutn\xc3\xa1 Hora'
+p5658
+asS'534 01'
+p5659
+(lp5660
+S'Jaroslav'
+p5661
+aS'Pardubice'
+p5662
+asS'407 61'
+p5663
+(lp5664
+S'Pansk\xc3\xbd'
+p5665
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p5666
+asS'517 71'
+p5667
+(lp5668
+S'Vysok\xc3\xbd \xc3\x9ajezd'
+p5669
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5670
+asS'517 73'
+p5671
+(lp5672
+S'Dob\xc5\x99\xc3\xadkovec'
+p5673
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5674
+asS'763 01'
+p5675
+(lp5676
+S'Sazovice'
+p5677
+aS'Zl\xc3\xadn'
+p5678
+asS'763 02'
+p5679
+(lp5680
+S'Karlovice'
+p5681
+aS'Zl\xc3\xadn'
+p5682
+asS'768 71'
+p5683
+(lp5684
+S'Kom\xc3\xa1rno'
+p5685
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p5686
+asS'763 07'
+p5687
+(lp5688
+S'Keln\xc3\xadky'
+p5689
+aS'Zl\xc3\xadn'
+p5690
+asS'715 00'
+p5691
+(lp5692
+S'Ostrava-Mich\xc3\xa1lkovice x)'
+p5693
+aS'Ostrava-m\xc4\x9bsto'
+p5694
+asS'259 01'
+p5695
+(lp5696
+S'Kali\xc5\xa1t\xc4\x9b'
+p5697
+aS'Bene\xc5\xa1ov'
+p5698
+asS'400 02'
+p5699
+(lp5700
+S'Lu\xc4\x8dn\xc3\xad Chvojno'
+p5701
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5702
+asS'400 03'
+p5703
+(lp5704
+S'St\xc5\x99ekov'
+p5705
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5706
+asS'400 01'
+p5707
+(lp5708
+S'Kl\xc3\xad\xc5\xa1e'
+p5709
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5710
+asS'400 04'
+p5711
+(lp5712
+S'Hostovice'
+p5713
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p5714
+asS'152 00'
+p5715
+(lp5716
+S'Mal\xc3\xa1 Chuchle (\xc4\x8d\xc3\xa1st)'
+p5717
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p5718
+asS'503 04'
+p5719
+(lp5720
+S'\xc4\x8cerno\xc5\xbeice'
+p5721
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p5722
+asS'503 06'
+p5723
+(lp5724
+S'Ho\xc5\x99in\xc4\x9bves'
+p5725
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p5726
+asS'503 01'
+p5727
+(lp5728
+S'Pl\xc3\xa1cky'
+p5729
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p5730
+asS'503 02'
+p5731
+(lp5732
+S'Lochenice'
+p5733
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p5734
+asS'512 12'
+p5735
+(lp5736
+S'Jesenn\xc3\xbd'
+p5737
+aS'Semily'
+p5738
+asS'252 09'
+p5739
+(lp5740
+S'Hradi\xc5\xa1\xc5\xa5ko'
+p5741
+aS'Praha-z\xc3\xa1pad'
+p5742
+asS'252 08'
+p5743
+(lp5744
+S'Bu\xc5\xa1'
+p5745
+aS'Praha-z\xc3\xa1pad'
+p5746
+asS'252 07'
+p5747
+(lp5748
+S'Mase\xc4\x8d\xc3\xadn'
+p5749
+aS'Praha-z\xc3\xa1pad'
+p5750
+asS'252 06'
+p5751
+(lp5752
+S'S\xc3\xa1zava'
+p5753
+aS'Praha-z\xc3\xa1pad'
+p5754
+asS'252 03'
+p5755
+(lp5756
+S'\xc5\x98itka'
+p5757
+aS'Praha-z\xc3\xa1pad'
+p5758
+asS'252 02'
+p5759
+(lp5760
+S'J\xc3\xadlovi\xc5\xa1t\xc4\x9b'
+p5761
+aS'Praha-z\xc3\xa1pad'
+p5762
+asS'793 23'
+p5763
+(lp5764
+S'Karlovice'
+p5765
+aS'Brunt\xc3\xa1l'
+p5766
+asS'767 01'
+p5767
+(lp5768
+S'Kotojedy'
+p5769
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p5770
+asS'798 58'
+p5771
+(lp5772
+S'\xc4\x8cechy pod Kos\xc3\xad\xc5\x99em'
+p5773
+aS'Prost\xc4\x9bjov'
+p5774
+asS'798 55'
+p5775
+(lp5776
+S'Polom\xc3\xad'
+p5777
+aS'Prost\xc4\x9bjov'
+p5778
+asS'798 54'
+p5779
+(lp5780
+S'Kladky'
+p5781
+aS'Prost\xc4\x9bjov'
+p5782
+asS'798 57'
+p5783
+(lp5784
+S'Rakov\xc3\xa1 u Konice'
+p5785
+aS'Prost\xc4\x9bjov'
+p5786
+asS'798 53'
+p5787
+(lp5788
+S'Dzbel'
+p5789
+aS'Prost\xc4\x9bjov'
+p5790
+asS'384 62'
+p5791
+(lp5792
+S'Dlouh\xc3\xbd Bor'
+p5793
+aS'Prachatice'
+p5794
+asS'680 01'
+p5795
+(lp5796
+S'Chrudichromy'
+p5797
+aS'Blansko'
+p5798
+asS'394 09'
+p5799
+(lp5800
+S'Koj\xc4\x8dice'
+p5801
+aS'Pelh\xc5\x99imov'
+p5802
+asS'725 29'
+p5803
+(lp5804
+S'Ostrava-Pet\xc5\x99kovice x)'
+p5805
+aS'Ostrava-m\xc4\x9bsto'
+p5806
+asS'394 03'
+p5807
+(lp5808
+S'T\xc4\x9b\xc5\xa1enov'
+p5809
+aS'Pelh\xc5\x99imov'
+p5810
+asS'394 05'
+p5811
+(lp5812
+S'Vyskytn\xc3\xa1'
+p5813
+aS'Pelh\xc5\x99imov'
+p5814
+asS'739 98'
+p5815
+(lp5816
+S'Mosty u Jablunkova'
+p5817
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p5818
+asS'538 54'
+p5819
+(lp5820
+S'\xc5\xa0t\xc4\x9bnec'
+p5821
+aS'Chrudim'
+p5822
+asS'538 51'
+p5823
+(lp5824
+S'Podla\xc5\xbeice'
+p5825
+aS'Chrudim'
+p5826
+asS'739 95'
+p5827
+(lp5828
+S'N\xc3\xbddek'
+p5829
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p5830
+asS'739 97'
+p5831
+(lp5832
+S'Hr\xc3\xa1dek'
+p5833
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p5834
+asS'378 24'
+p5835
+(lp5836
+S'Pluh\xc5\xafv \xc5\xbd\xc4\x8f\xc3\xa1r'
+p5837
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p5838
+asS'589 01'
+p5839
+(lp5840
+S'Salavice'
+p5841
+aS'Jihlava'
+p5842
+asS'262 93'
+p5843
+(lp5844
+S'Oboz'
+p5845
+aS'P\xc5\x99\xc3\xadbram'
+p5846
+asS'594 01'
+p5847
+(lp5848
+S'Lhotka'
+p5849
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p5850
+asS'262 91'
+p5851
+(lp5852
+S'Kosova Hora'
+p5853
+aS'P\xc5\x99\xc3\xadbram'
+p5854
+asS'378 21'
+p5855
+(lp5856
+S'Moste\xc4\x8dn\xc3\xbd'
+p5857
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p5858
+asS'516 03'
+p5859
+(lp5860
+S'Pansk\xc3\xa1 Habrov\xc3\xa1'
+p5861
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5862
+asS'516 01'
+p5863
+(lp5864
+S'Prorubky'
+p5865
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p5866
+asS'588 67'
+p5867
+(lp5868
+S'Star\xc3\xa1 \xc5\x98\xc3\xad\xc5\xa1e'
+p5869
+aS'Jihlava'
+p5870
+asS'588 64'
+p5871
+(lp5872
+S'Krasonice'
+p5873
+aS'Jihlava'
+p5874
+asS'588 62'
+p5875
+(lp5876
+S'Sedlejov'
+p5877
+aS'Jihlava'
+p5878
+asS'588 61'
+p5879
+(lp5880
+S'Hut\xc4\x9b'
+p5881
+aS'Jihlava'
+p5882
+asS'751 44'
+p5883
+(lp5884
+S'Polkovice'
+p5885
+aS'P\xc5\x99erov'
+p5886
+asS'763 16'
+p5887
+(lp5888
+S'Horn\xc3\xad Ves'
+p5889
+aS'Zl\xc3\xadn'
+p5890
+asS'789 69'
+p5891
+(lp5892
+S'Post\xc5\x99elmov'
+p5893
+aS'\xc5\xa0umperk'
+p5894
+asS'312 00'
+p5895
+(lp5896
+S'V\xc3\xbdchodn\xc3\xad P\xc5\x99edm\xc4\x9bst\xc3\xad (\xc4\x8d\xc3\xa1st)'
+p5897
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p5898
+asS'561 34'
+p5899
+(lp5900
+S'V\xc3\xbdprachtice'
+p5901
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p5902
+asS'789 64'
+p5903
+(lp5904
+S'Kom\xc5\x88\xc3\xa1tka'
+p5905
+aS'\xc5\xa0umperk'
+p5906
+asS'506 01'
+p5907
+(lp5908
+S'Holenice'
+p5909
+aS'Semily'
+p5910
+asS'635 00'
+p5911
+(lp5912
+S'Kn\xc3\xadni\xc4\x8dky'
+p5913
+aS'Brno-m\xc4\x9bsto'
+p5914
+asS'763 11'
+p5915
+(lp5916
+S'Kle\xc4\x8d\xc5\xafvka'
+p5917
+aS'Zl\xc3\xadn'
+p5918
+asS'789 63'
+p5919
+(lp5920
+S'\xc5\xa0t\xc4\x9bdr\xc3\xa1kova Lhota'
+p5921
+aS'\xc5\xa0umperk'
+p5922
+asS'250 88'
+p5923
+(lp5924
+S'Z\xc3\xa1lu\xc5\xbe\xc3\xad'
+p5925
+aS'Praha-v\xc3\xbdchod'
+p5926
+asS'250 84'
+p5927
+(lp5928
+S'K\xc5\x99enice'
+p5929
+aS'Praha-v\xc3\xbdchod'
+p5930
+asS'250 87'
+p5931
+(lp5932
+S'Vy\xc5\xa1eho\xc5\x99ovice'
+p5933
+aS'Praha-v\xc3\xbdchod'
+p5934
+asS'507 54'
+p5935
+(lp5936
+S'Podhorn\xc3\xad \xc3\x9ajezd'
+p5937
+aS'Ji\xc4\x8d\xc3\xadn'
+p5938
+asS'250 81'
+p5939
+(lp5940
+S'Nehvizdy'
+p5941
+aS'Praha-v\xc3\xbdchod'
+p5942
+asS'250 83'
+p5943
+(lp5944
+S'\xc5\xa0kvorec'
+p5945
+aS'Praha-v\xc3\xbdchod'
+p5946
+asS'250 82'
+p5947
+(lp5948
+S'Dobro\xc4\x8dovice'
+p5949
+aS'Praha-v\xc3\xbdchod'
+p5950
+asS'756 12'
+p5951
+(lp5952
+S'\xc5\xa0tudlov'
+p5953
+aS'Vset\xc3\xadn'
+p5954
+asS'397 01'
+p5955
+(lp5956
+S'\xc5\xa0amonice'
+p5957
+aS'P\xc3\xadsek'
+p5958
+asS'364 61'
+p5959
+(lp5960
+S'Beranov'
+p5961
+aS'Karlovy Vary'
+p5962
+asS'592 03'
+p5963
+(lp5964
+S'Samot\xc3\xadn'
+p5965
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p5966
+asS'612 00'
+p5967
+(lp5968
+S'Sadov\xc3\xa1'
+p5969
+aS'Brno-m\xc4\x9bsto'
+p5970
+asS'549 41'
+p5971
+(lp5972
+S'\xc4\x8cerven\xc3\xa1 Hora'
+p5973
+aS'N\xc3\xa1chod'
+p5974
+asS'549 46'
+p5975
+(lp5976
+S'Kon\xc4\x8diny'
+p5977
+aS'N\xc3\xa1chod'
+p5978
+asS'549 47'
+p5979
+(lp5980
+S'Slatina nad \xc3\x9apou'
+p5981
+aS'N\xc3\xa1chod'
+p5982
+asS'678 01'
+p5983
+(lp5984
+S'Ob\xc5\xafrka'
+p5985
+aS'Blansko'
+p5986
+asS'685 01'
+p5987
+(lp5988
+S'\xc4\x8cern\xc4\x8d\xc3\xadn'
+p5989
+aS'Vy\xc5\xa1kov'
+p5990
+asS'349 01'
+p5991
+(lp5992
+S'O\xc5\xa1el\xc3\xadn'
+p5993
+aS'Tachov'
+p5994
+asS'382 78'
+p5995
+(lp5996
+S'Nov\xc3\xa9 Domky'
+p5997
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p5998
+asS'382 72'
+p5999
+(lp6000
+S'V\xc5\xa1em\xc4\x9b\xc5\x99ice'
+p6001
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p6002
+asS'382 73'
+p6003
+(lp6004
+S'Hrudkov'
+p6005
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p6006
+asS'675 28'
+p6007
+(lp6008
+S'Opatov'
+p6009
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6010
+asS'377 01'
+p6011
+(lp6012
+S'Dvore\xc4\x8dek'
+p6013
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6014
+asS'696 51'
+p6015
+(lp6016
+S'Kostelec'
+p6017
+aS'Hodon\xc3\xadn'
+p6018
+asS'696 55'
+p6019
+(lp6020
+S'Bohuslavice'
+p6021
+aS'Hodon\xc3\xadn'
+p6022
+asS'627 00'
+p6023
+(lp6024
+S'Slatina'
+p6025
+aS'Brno-m\xc4\x9bsto'
+p6026
+asS'768 61'
+p6027
+(lp6028
+S'Os\xc3\xad\xc4\x8dko'
+p6029
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p6030
+asS'332 02'
+p6031
+(lp6032
+S'Sedlec'
+p6033
+aS'Plze\xc5\x88-jih'
+p6034
+asS'332 03'
+p6035
+(lp6036
+S'\xc5\xa0\xc5\xa5\xc3\xa1hlavy'
+p6037
+aS'Plze\xc5\x88-jih'
+p6038
+asS'783 44'
+p6039
+(lp6040
+S'Lud\xc3\xa9\xc5\x99ov'
+p6041
+aS'Olomouc'
+p6042
+asS'332 01'
+p6043
+(lp6044
+S'Lh\xc5\xafta'
+p6045
+aS'Plze\xc5\x88-jih'
+p6046
+asS'783 42'
+p6047
+(lp6048
+S'L\xc3\xadpy'
+p6049
+aS'Olomouc'
+p6050
+asS'332 07'
+p6051
+(lp6052
+S'St\xc5\x99\xc3\xad\xc5\xbeovice'
+p6053
+aS'Plze\xc5\x88-jih'
+p6054
+asS'332 04'
+p6055
+(lp6056
+S'Netunice'
+p6057
+aS'Plze\xc5\x88-jih'
+p6058
+asS'332 05'
+p6059
+(lp6060
+S'Chv\xc3\xa1lenice'
+p6061
+aS'Plze\xc5\x88-jih'
+p6062
+asS'373 24'
+p6063
+(lp6064
+S'Horn\xc3\xad Vesce'
+p6065
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p6066
+asS'373 22'
+p6067
+(lp6068
+S'Lo\xc4\x8denice'
+p6069
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p6070
+asS'783 49'
+p6071
+(lp6072
+S'Lut\xc3\xadn'
+p6073
+aS'Olomouc'
+p6074
+asS'277 46'
+p6075
+(lp6076
+S'Veltrusy'
+p6077
+aS'M\xc4\x9bln\xc3\xadk'
+p6078
+asS'277 44'
+p6079
+(lp6080
+S'K\xc5\x99ivousy'
+p6081
+aS'M\xc4\x9bln\xc3\xadk'
+p6082
+asS'277 45'
+p6083
+(lp6084
+S'Net\xc5\x99eba'
+p6085
+aS'M\xc4\x9bln\xc3\xadk'
+p6086
+asS'277 42'
+p6087
+(lp6088
+S'Du\xc5\xa1n\xc3\xadky'
+p6089
+aS'M\xc4\x9bln\xc3\xadk'
+p6090
+asS'277 43'
+p6091
+(lp6092
+S'Z\xc3\xa1tvor'
+p6093
+aS'M\xc4\x9bln\xc3\xadk'
+p6094
+asS'277 41'
+p6095
+(lp6096
+S'Tuha\xc5\x88'
+p6097
+aS'M\xc4\x9bln\xc3\xadk'
+p6098
+asS'270 24'
+p6099
+(lp6100
+S'\xc3\x9ajezd nad Zbe\xc4\x8dnem'
+p6101
+aS'Rakovn\xc3\xadk'
+p6102
+asS'270 21'
+p6103
+(lp6104
+S'Pano\xc5\xa1\xc3\xad \xc3\x9ajezd'
+p6105
+aS'Rakovn\xc3\xadk'
+p6106
+asS'270 23'
+p6107
+(lp6108
+S'Kalubice'
+p6109
+aS'Rakovn\xc3\xadk'
+p6110
+asS'798 52'
+p6111
+(lp6112
+S'\xc4\x8cun\xc3\xadn'
+p6113
+aS'Prost\xc4\x9bjov'
+p6114
+asS'473 01'
+p6115
+(lp6116
+S'Chotovice'
+p6117
+aS'\xc4\x8cesk\xc3\xa1 L\xc3\xadpa'
+p6118
+asS'358 01'
+p6119
+(lp6120
+S'Bublava'
+p6121
+aS'Sokolov'
+p6122
+asS'711 00'
+p6123
+(lp6124
+S'Hru\xc5\xa1ov'
+p6125
+aS'Ostrava-m\xc4\x9bsto'
+p6126
+asS'664 42'
+p6127
+(lp6128
+S'Mod\xc5\x99ice'
+p6129
+aS'Brno-venkov'
+p6130
+asS'664 41'
+p6131
+(lp6132
+S'Omice'
+p6133
+aS'Brno-venkov'
+p6134
+asS'664 46'
+p6135
+(lp6136
+S'Sil\xc5\xafvky'
+p6137
+aS'Brno-venkov'
+p6138
+asS'664 47'
+p6139
+(lp6140
+S'St\xc5\x99elice'
+p6141
+aS'Brno-venkov'
+p6142
+asS'664 44'
+p6143
+(lp6144
+S'O\xc5\x99echov'
+p6145
+aS'Brno-venkov'
+p6146
+asS'431 45'
+p6147
+(lp6148
+S'B\xc5\x99ezno'
+p6149
+aS'Chomutov'
+p6150
+asS'431 43'
+p6151
+(lp6152
+S'Hru\xc5\xa1ovany'
+p6153
+aS'Chomutov'
+p6154
+asS'431 41'
+p6155
+(lp6156
+S'\xc3\x9adlice'
+p6157
+aS'Chomutov'
+p6158
+asS'345 45'
+p6159
+(lp6160
+S'Bl\xc3\xad\xc5\xbeejov'
+p6161
+aS'Doma\xc5\xbelice'
+p6162
+asS'382 93'
+p6163
+(lp6164
+S'\xc4\x8cesk\xc3\xbd Her\xc5\xa1l\xc3\xa1k'
+p6165
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p6166
+asS'345 43'
+p6167
+(lp6168
+S'T\xc4\x9b\xc5\xa1ovice'
+p6169
+aS'Doma\xc5\xbelice'
+p6170
+asS'439 68'
+p6171
+(lp6172
+S'Domou\xc5\xa1ice'
+p6173
+aS'Louny'
+p6174
+asS'432 01'
+p6175
+(lp6176
+S'Kada\xc5\x88sk\xc3\xa1 Jese\xc5\x88'
+p6177
+aS'Chomutov'
+p6178
+asS'513 01'
+p6179
+(lp6180
+S'Prose\xc4\x8d'
+p6181
+aS'Semily'
+p6182
+asS'675 51'
+p6183
+(lp6184
+S'Blatnice'
+p6185
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6186
+asS'675 57'
+p6187
+(lp6188
+S'Litovany'
+p6189
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6190
+asS'675 56'
+p6191
+(lp6192
+S'Dukovany'
+p6193
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6194
+asS'675 55'
+p6195
+(lp6196
+S'Ra\xc4\x8dice'
+p6197
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6198
+asS'539 55'
+p6199
+(lp6200
+S'Mi\xc5\x99etice'
+p6201
+aS'Chrudim'
+p6202
+asS'742 56'
+p6203
+(lp6204
+S'Sedlnice'
+p6205
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6206
+asS'539 53'
+p6207
+(lp6208
+S'Horn\xc3\xad Bradlo'
+p6209
+aS'Chrudim'
+p6210
+asS'742 54'
+p6211
+(lp6212
+S'Barto\xc5\xa1ovice'
+p6213
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6214
+asS'742 58'
+p6215
+(lp6216
+S'H\xc3\xa1jov'
+p6217
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6218
+asS'565 42'
+p6219
+(lp6220
+S'Svat\xc3\xbd Mikul\xc3\xa1\xc5\xa1'
+p6221
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p6222
+asS'285 64'
+p6223
+(lp6224
+S'Vlkane\xc4\x8d'
+p6225
+aS'Kutn\xc3\xa1 Hora'
+p6226
+asS'763 15'
+p6227
+(lp6228
+S'Neubuz'
+p6229
+aS'Zl\xc3\xadn'
+p6230
+asS'285 61'
+p6231
+(lp6232
+S'\xc5\xbdleby'
+p6233
+aS'Kutn\xc3\xa1 Hora'
+p6234
+asS'763 12'
+p6235
+(lp6236
+S'Lhotsko'
+p6237
+aS'Zl\xc3\xadn'
+p6238
+asS'285 63'
+p6239
+(lp6240
+S'Tupadly'
+p6241
+aS'Kutn\xc3\xa1 Hora'
+p6242
+asS'285 62'
+p6243
+(lp6244
+S'Hostovlice'
+p6245
+aS'Kutn\xc3\xa1 Hora'
+p6246
+asS'763 19'
+p6247
+(lp6248
+S'Vl\xc4\x8dkov\xc3\xa1'
+p6249
+aS'Zl\xc3\xadn'
+p6250
+asS'763 18'
+p6251
+(lp6252
+S'Trnava'
+p6253
+aS'Zl\xc3\xadn'
+p6254
+asS'783 16'
+p6255
+(lp6256
+S'V\xc3\xa9ska'
+p6257
+aS'Olomouc'
+p6258
+asS'407 55'
+p6259
+(lp6260
+S'Kate\xc5\x99ina'
+p6261
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6262
+asS'407 56'
+p6263
+(lp6264
+S'Rozhled'
+p6265
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6266
+asS'407 57'
+p6267
+(lp6268
+S'Lade\xc4\x8dka'
+p6269
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6270
+asS'407 51'
+p6271
+(lp6272
+S'Rybni\xc5\xa1t\xc4\x9b'
+p6273
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6274
+asS'407 52'
+p6275
+(lp6276
+S'Sv\xc4\x9btliny 1.d\xc3\xadl'
+p6277
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6278
+asS'407 53'
+p6279
+(lp6280
+S'Filipov'
+p6281
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6282
+asS'400 11'
+p6283
+(lp6284
+S'Chuderovec'
+p6285
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p6286
+asS'400 10'
+p6287
+(lp6288
+S'V\xc5\xa1ebo\xc5\x99ice'
+p6289
+aS'\xc3\x9ast\xc3\xad nad Labem'
+p6290
+asS'288 02'
+p6291
+(lp6292
+S'\xc5\xa0lotava'
+p6293
+aS'Nymburk'
+p6294
+asS'143 00'
+p6295
+(lp6296
+S'Mod\xc5\x99any (\xc4\x8d\xc3\xa1st)'
+p6297
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6298
+asS'503 13'
+p6299
+(lp6300
+S'Horn\xc3\xad Dohalice'
+p6301
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p6302
+asS'503 12'
+p6303
+(lp6304
+S'Sv\xc4\x9bt\xc3\xad'
+p6305
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p6306
+asS'503 11'
+p6307
+(lp6308
+S'Svobodn\xc3\xa9 Dvory'
+p6309
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p6310
+asS'565 44'
+p6311
+(lp6312
+S'Sruby'
+p6313
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p6314
+asS'503 15'
+p6315
+(lp6316
+S'P\xc5\xa1\xc3\xa1nky'
+p6317
+aS'Hradec Kr\xc3\xa1lov\xc3\xa9'
+p6318
+asS'295 01'
+p6319
+(lp6320
+S'Doln\xc3\xad Krup\xc3\xa1'
+p6321
+aS'Mlad\xc3\xa1 Boleslav'
+p6322
+asS'671 78'
+p6323
+(lp6324
+S'Troskotovice'
+p6325
+aS'Znojmo'
+p6326
+asS'790 54'
+p6327
+(lp6328
+S'\xc4\x8cern\xc3\xa1 Voda'
+p6329
+aS'Jesen\xc3\xadk'
+p6330
+asS'466 06'
+p6331
+(lp6332
+S'Vrkoslavice'
+p6333
+aS'Jablonec nad Nisou'
+p6334
+asS'384 51'
+p6335
+(lp6336
+S'Hlini\xc5\xa1t\xc4\x9b'
+p6337
+aS'Prachatice'
+p6338
+asS'466 04'
+p6339
+(lp6340
+S'M\xc5\xa1eno nad Nisou'
+p6341
+aS'Jablonec nad Nisou'
+p6342
+asS'466 05'
+p6343
+(lp6344
+S'Luk\xc3\xa1\xc5\xa1ov'
+p6345
+aS'Jablonec nad Nisou'
+p6346
+asS'466 02'
+p6347
+(lp6348
+S'Jind\xc5\x99ichov'
+p6349
+aS'Jablonec nad Nisou'
+p6350
+asS'466 01'
+p6351
+(lp6352
+S'Jablonec nad Nisou'
+p6353
+aS'Jablonec nad Nisou'
+p6354
+asS'340 21'
+p6355
+(lp6356
+S'Brt\xc3\xad'
+p6357
+aS'Klatovy'
+p6358
+asS'340 22'
+p6359
+(lp6360
+S'Uhli\xc5\xa1t\xc4\x9b'
+p6361
+aS'Klatovy'
+p6362
+asS'544 01'
+p6363
+(lp6364
+S'Lit\xc3\xad\xc4\x8d'
+p6365
+aS'Trutnov'
+p6366
+asS'739 84'
+p6367
+(lp6368
+S'Bukovec'
+p6369
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p6370
+asS'739 81'
+p6371
+(lp6372
+S'Ko\xc5\xa1a\xc5\x99iska'
+p6373
+aS'Fr\xc3\xbddek-M\xc3\xadstek'
+p6374
+asS'394 12'
+p6375
+(lp6376
+S'Obrata\xc5\x88'
+p6377
+aS'Pelh\xc5\x99imov'
+p6378
+asS'394 15'
+p6379
+(lp6380
+S'Nov\xc3\xa1 Cerekev'
+p6381
+aS'Pelh\xc5\x99imov'
+p6382
+asS'538 61'
+p6383
+(lp6384
+S'Ko\xc4\x8d\xc3\xad'
+p6385
+aS'Chrudim'
+p6386
+asS'538 62'
+p6387
+(lp6388
+S'Skalice'
+p6389
+aS'Chrudim'
+p6390
+asS'538 63'
+p6391
+(lp6392
+S'Lhota u Chroustovic'
+p6393
+aS'Chrudim'
+p6394
+asS'538 65'
+p6395
+(lp6396
+S'\xc5\x98epn\xc3\xadky'
+p6397
+aS'Chrudim'
+p6398
+asS'268 01'
+p6399
+(lp6400
+S'Rpety'
+p6401
+aS'Beroun'
+p6402
+asS'530 09'
+p6403
+(lp6404
+S'Polabiny'
+p6405
+aS'Pardubice'
+p6406
+asS'530 02'
+p6407
+(lp6408
+S'Zelen\xc3\xa9 P\xc5\x99edm\xc4\x9bst\xc3\xad'
+p6409
+aS'Pardubice'
+p6410
+asS'530 03'
+p6411
+(lp6412
+S'Stud\xc3\xa1nka'
+p6413
+aS'Pardubice'
+p6414
+asS'155 00'
+p6415
+(lp6416
+S'Praha 5-Stod\xc5\xaflky x)'
+p6417
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6418
+asS'530 06'
+p6419
+(lp6420
+S'Popkovice'
+p6421
+aS'Pardubice'
+p6422
+asS'378 31'
+p6423
+(lp6424
+S'Horn\xc3\xad P\xc4\x9bna'
+p6425
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6426
+asS'378 33'
+p6427
+(lp6428
+S'Artolec'
+p6429
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6430
+asS'722 00'
+p6431
+(lp6432
+S'Ostrava-T\xc5\x99ebovice x)'
+p6433
+aS'Ostrava-m\xc4\x9bsto'
+p6434
+asS'733 01'
+p6435
+(lp6436
+S'Fry\xc5\xa1t\xc3\xa1t'
+p6437
+aS'Karvin\xc3\xa1'
+p6438
+asS'588 13'
+p6439
+(lp6440
+S'Z\xc3\xa1born\xc3\xa1'
+p6441
+aS'Jihlava'
+p6442
+asS'588 11'
+p6443
+(lp6444
+S'St\xc5\x99\xc3\xadte\xc5\xbe'
+p6445
+aS'Jihlava'
+p6446
+asS'507 71'
+p6447
+(lp6448
+S'Vido\xc5\x88'
+p6449
+aS'Ji\xc4\x8d\xc3\xadn'
+p6450
+asS'256 01'
+p6451
+(lp6452
+S'V\xc3\xa1clavice'
+p6453
+aS'Bene\xc5\xa1ov'
+p6454
+asS'507 77'
+p6455
+(lp6456
+S'Cerekvice nad Byst\xc5\x99ic\xc3\xad'
+p6457
+aS'Ji\xc4\x8d\xc3\xadn'
+p6458
+asS'624 00'
+p6459
+(lp6460
+S'Brno-Kom\xc3\xadn x)'
+p6461
+aS'Brno-m\xc4\x9bsto'
+p6462
+asS'569 01'
+p6463
+(lp6464
+S'Hradec nad Svitavou'
+p6465
+aS'Svitavy'
+p6466
+asS'569 02'
+p6467
+(lp6468
+S'Dlouh\xc3\xa1'
+p6469
+aS'Svitavy'
+p6470
+asS'569 03'
+p6471
+(lp6472
+S'Rozhran\xc3\xad'
+p6473
+aS'Svitavy'
+p6474
+asS'569 04'
+p6475
+(lp6476
+S'Moravsk\xc3\xa1 Chrastov\xc3\xa1'
+p6477
+aS'Svitavy'
+p6478
+asS'569 06'
+p6479
+(lp6480
+S'V\xc3\xadt\xc4\x9bjeves'
+p6481
+aS'Svitavy'
+p6482
+asS'252 82'
+p6483
+(lp6484
+S'Kamenn\xc3\xbd \xc3\x9ajezdec'
+p6485
+aS'Praha-z\xc3\xa1pad'
+p6486
+asS'790 57'
+p6487
+(lp6488
+S'Bukov\xc3\xa1'
+p6489
+aS'Jesen\xc3\xadk'
+p6490
+asS'120 00'
+p6491
+(lp6492
+S'Nov\xc3\xa9 M\xc4\x9bsto (\xc4\x8d\xc3\xa1st)'
+p6493
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6494
+asS'798 61'
+p6495
+(lp6496
+S'Bous\xc3\xadn'
+p6497
+aS'Prost\xc4\x9bjov'
+p6498
+asS'768 13'
+p6499
+(lp6500
+S'N\xc3\xadtkovice'
+p6501
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p6502
+asS'549 52'
+p6503
+(lp6504
+S'Horn\xc3\xad Adr\xc5\xa1pach'
+p6505
+aS'N\xc3\xa1chod'
+p6506
+asS'549 55'
+p6507
+(lp6508
+S'\xc5\xbd\xc4\x8f\xc3\xa1r nad Metuj\xc3\xad'
+p6509
+aS'N\xc3\xa1chod'
+p6510
+asS'549 54'
+p6511
+(lp6512
+S'Velk\xc3\xa1 Ledhuje'
+p6513
+aS'N\xc3\xa1chod'
+p6514
+asS'549 57'
+p6515
+(lp6516
+S'Lachov'
+p6517
+aS'N\xc3\xa1chod'
+p6518
+asS'348 15'
+p6519
+(lp6520
+S'Damnov'
+p6521
+aS'Tachov'
+p6522
+asS'669 02'
+p6523
+(lp6524
+S'Bezkov'
+p6525
+aS'Znojmo'
+p6526
+asS'696 42'
+p6527
+(lp6528
+S'Vracov'
+p6529
+aS'Hodon\xc3\xadn'
+p6530
+asS'696 49'
+p6531
+(lp6532
+S'\xc5\xbd\xc3\xa1dovice'
+p6533
+aS'Hodon\xc3\xadn'
+p6534
+asS'687 67'
+p6535
+(lp6536
+S'B\xc5\x99ezov\xc3\xa1'
+p6537
+aS'Uhersk\xc3\xa9 Hradi\xc5\xa1t\xc4\x9b'
+p6538
+asS'783 55'
+p6539
+(lp6540
+S'Velk\xc3\xbd \xc3\x9ajezd'
+p6541
+aS'Olomouc'
+p6542
+asS'783 57'
+p6543
+(lp6544
+S'Z\xc3\xa1k\xc5\x99ov'
+p6545
+aS'Olomouc'
+p6546
+asS'783 56'
+p6547
+(lp6548
+S'Kocourovec'
+p6549
+aS'Olomouc'
+p6550
+asS'373 50'
+p6551
+(lp6552
+S'Ole\xc5\xa1n\xc3\xadk'
+p6553
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p6554
+asS'277 51'
+p6555
+(lp6556
+S'Podho\xc5\x99any'
+p6557
+aS'M\xc4\x9bln\xc3\xadk'
+p6558
+asS'277 52'
+p6559
+(lp6560
+S'Nov\xc3\xa9 Ouholice'
+p6561
+aS'M\xc4\x9bln\xc3\xadk'
+p6562
+asS'639 00'
+p6563
+(lp6564
+S'Brno-\xc5\xa0t\xc3\xbd\xc5\x99ice x)'
+p6565
+aS'Brno-m\xc4\x9bsto'
+p6566
+asS'153 00'
+p6567
+(lp6568
+S'Radot\xc3\xadn'
+p6569
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6570
+asS'616 00'
+p6571
+(lp6572
+S'\xc5\xbdabov\xc5\x99esky'
+p6573
+aS'Brno-m\xc4\x9bsto'
+p6574
+asS'708 00'
+p6575
+(lp6576
+S'Pustkovec'
+p6577
+aS'Ostrava-m\xc4\x9bsto'
+p6578
+asS'592 14'
+p6579
+(lp6580
+S'Rudolec'
+p6581
+aS'\xc5\xbd\xc4\x8f\xc3\xa1r nad S\xc3\xa1zavou'
+p6582
+asS'419 01'
+p6583
+(lp6584
+S'Mikulov'
+p6585
+aS'Teplice'
+p6586
+asS'128 00'
+p6587
+(lp6588
+S'Nusle (\xc4\x8d\xc3\xa1st)'
+p6589
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6590
+asS'664 51'
+p6591
+(lp6592
+S'Bed\xc5\x99ichovice'
+p6593
+aS'Brno-venkov'
+p6594
+asS'664 53'
+p6595
+(lp6596
+S'\xc5\xbdat\xc4\x8dany'
+p6597
+aS'Brno-venkov'
+p6598
+asS'664 52'
+p6599
+(lp6600
+S'Sokolnice'
+p6601
+aS'Brno-venkov'
+p6602
+asS'664 55'
+p6603
+(lp6604
+S'Moutnice'
+p6605
+aS'Brno-venkov'
+p6606
+asS'664 57'
+p6607
+(lp6608
+S'Otmarov'
+p6609
+aS'Brno-venkov'
+p6610
+asS'431 55'
+p6611
+(lp6612
+S'Radonice'
+p6613
+aS'Chomutov'
+p6614
+asS'431 57'
+p6615
+(lp6616
+S'Chbany'
+p6617
+aS'Chomutov'
+p6618
+asS'431 56'
+p6619
+(lp6620
+S'Konice'
+p6621
+aS'Chomutov'
+p6622
+asS'431 51'
+p6623
+(lp6624
+S'Kotvina'
+p6625
+aS'Chomutov'
+p6626
+asS'431 53'
+p6627
+(lp6628
+S'P\xc4\x9btipsy'
+p6629
+aS'Chomutov'
+p6630
+asS'382 81'
+p6631
+(lp6632
+S'Besednice'
+p6633
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p6634
+asS'382 83'
+p6635
+(lp6636
+S'Pohorsk\xc3\xa1 Ves'
+p6637
+aS'\xc4\x8cesk\xc3\xbd Krumlov'
+p6638
+asS'757 01'
+p6639
+(lp6640
+S'Kr\xc3\xa1sno nad Be\xc4\x8dvou'
+p6641
+aS'Vset\xc3\xadn'
+p6642
+asS'439 72'
+p6643
+(lp6644
+S'Kr\xc3\xa1sn\xc3\xbd Dv\xc5\xafr'
+p6645
+aS'Louny'
+p6646
+asS'735 83'
+p6647
+(lp6648
+S'Bohum\xc3\xadn 6'
+p6649
+aS'Karvin\xc3\xa1'
+p6650
+asS'735 81'
+p6651
+(lp6652
+S'\xc5\xa0unychl'
+p6653
+aS'Karvin\xc3\xa1'
+p6654
+asS'753 62'
+p6655
+(lp6656
+S'Bo\xc5\xa1kov'
+p6657
+aS'P\xc5\x99erov'
+p6658
+asS'387 42'
+p6659
+(lp6660
+S'\xc3\x9ajezdec'
+p6661
+aS'Strakonice'
+p6662
+asS'387 43'
+p6663
+(lp6664
+S'B\xc4\x9bl\xc4\x8dice'
+p6665
+aS'Strakonice'
+p6666
+asS'753 66'
+p6667
+(lp6668
+S'\xc5\xa0pi\xc4\x8dky'
+p6669
+aS'P\xc5\x99erov'
+p6670
+asS'753 68'
+p6671
+(lp6672
+S'Hluzov'
+p6673
+aS'P\xc5\x99erov'
+p6674
+asS'463 62'
+p6675
+(lp6676
+S'B\xc3\xadl\xc3\xbd Potok'
+p6677
+aS'Liberec'
+p6678
+asS'539 45'
+p6679
+(lp6680
+S'Nov\xc3\xa9 Hrady'
+p6681
+aS'Chrudim'
+p6682
+asS'539 44'
+p6683
+(lp6684
+S'Zderaz'
+p6685
+aS'Chrudim'
+p6686
+asS'742 43'
+p6687
+(lp6688
+S'Pust\xc4\x9bjov'
+p6689
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6690
+asS'742 45'
+p6691
+(lp6692
+S'Jerlochovice'
+p6693
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6694
+asS'539 43'
+p6695
+(lp6696
+S'Krouna'
+p6697
+aS'Chrudim'
+p6698
+asS'301 00'
+p6699
+(lp6700
+S'Lhota'
+p6701
+aS'Plze\xc5\x88-jih'
+p6702
+asS'788 33'
+p6703
+(lp6704
+S'Podles\xc3\xad'
+p6705
+aS'\xc5\xa0umperk'
+p6706
+asS'789 73'
+p6707
+(lp6708
+S'T\xc5\x99e\xc5\xa1tina'
+p6709
+aS'\xc5\xa0umperk'
+p6710
+asS'337 01'
+p6711
+(lp6712
+S'Nevid'
+p6713
+aS'Rokycany'
+p6714
+asS'675 75'
+p6715
+(lp6716
+S'Kladeruby nad Oslavou'
+p6717
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p6718
+asS'543 01'
+p6719
+(lp6720
+S'Vrchlab\xc3\xad'
+p6721
+aS'Trutnov'
+p6722
+asS'543 02'
+p6723
+(lp6724
+S'Ho\xc5\x99ej\xc5\xa1\xc3\xad Vrchlab\xc3\xad'
+p6725
+aS'Trutnov'
+p6726
+asS'543 03'
+p6727
+(lp6728
+S'Podh\xc5\xaf\xc5\x99\xc3\xad'
+p6729
+aS'Trutnov'
+p6730
+asS'747 86'
+p6731
+(lp6732
+S'Kru\xc5\xbeberk'
+p6733
+aS'Opava'
+p6734
+asS'747 87'
+p6735
+(lp6736
+S'Star\xc3\xa9 Old\xc5\x99\xc5\xafvky'
+p6737
+aS'Opava'
+p6738
+asS'747 84'
+p6739
+(lp6740
+S'Lipina'
+p6741
+aS'Opava'
+p6742
+asS'763 63'
+p6743
+(lp6744
+S'Halenkovice'
+p6745
+aS'Zl\xc3\xadn'
+p6746
+asS'408 01'
+p6747
+(lp6748
+S'Rumburk 2-Horn\xc3\xad Jind\xc5\x99ichov'
+p6749
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6750
+asS'763 64'
+p6751
+(lp6752
+S'Spytihn\xc4\x9bv'
+p6753
+aS'Zl\xc3\xadn'
+p6754
+asS'603 00'
+p6755
+(lp6756
+S'Brno-Star\xc3\xa9 Brno x)'
+p6757
+aS'Brno-m\xc4\x9bsto'
+p6758
+asS'517 12'
+p6759
+(lp6760
+S'Liberk'
+p6761
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p6762
+asS'407 42'
+p6763
+(lp6764
+S'Star\xc3\xa1 Ole\xc5\xa1ka'
+p6765
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6766
+asS'156 00'
+p6767
+(lp6768
+S'Zbraslav'
+p6769
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p6770
+asS'407 47'
+p6771
+(lp6772
+S'Varnsdorf'
+p6773
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6774
+asS'407 46'
+p6775
+(lp6776
+S'Zahrady'
+p6777
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6778
+asS'407 45'
+p6779
+(lp6780
+S'Hill\xc5\xafv Ml\xc3\xbdn'
+p6781
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6782
+asS'407 44'
+p6783
+(lp6784
+S'Horn\xc3\xad Ch\xc5\x99ibsk\xc3\xa1'
+p6785
+aS'D\xc4\x9b\xc4\x8d\xc3\xadn'
+p6786
+asS'294 14'
+p6787
+(lp6788
+S'Jivina'
+p6789
+aS'Mlad\xc3\xa1 Boleslav'
+p6790
+asS'294 15'
+p6791
+(lp6792
+S'Kl\xc3\xa1\xc5\xa1ter Hradi\xc5\xa1t\xc4\x9b nad Jizerou'
+p6793
+aS'Mlad\xc3\xa1 Boleslav'
+p6794
+asS'294 12'
+p6795
+(lp6796
+S'\xc5\xbdehrov'
+p6797
+aS'Mlad\xc3\xa1 Boleslav'
+p6798
+asS'294 13'
+p6799
+(lp6800
+S'Chl\xc3\xadstov'
+p6801
+aS'Liberec'
+p6802
+asS'294 11'
+p6803
+(lp6804
+S'B\xc5\x99ezina'
+p6805
+aS'Mlad\xc3\xa1 Boleslav'
+p6806
+asS'252 61'
+p6807
+(lp6808
+S'Dobrov\xc3\xadz'
+p6809
+aS'Praha-z\xc3\xa1pad'
+p6810
+asS'252 62'
+p6811
+(lp6812
+S'\xc4\x8cern\xc3\xbd V\xc5\xafl'
+p6813
+aS'Praha-z\xc3\xa1pad'
+p6814
+asS'252 65'
+p6815
+(lp6816
+S'Kozinec'
+p6817
+aS'Praha-z\xc3\xa1pad'
+p6818
+asS'252 64'
+p6819
+(lp6820
+S'Lichoceves'
+p6821
+aS'Praha-z\xc3\xa1pad'
+p6822
+asS'252 67'
+p6823
+(lp6824
+S'Tuchom\xc4\x9b\xc5\x99ice'
+p6825
+aS'Praha-z\xc3\xa1pad'
+p6826
+asS'384 43'
+p6827
+(lp6828
+S'Str\xc3\xa1\xc5\xben\xc3\xbd'
+p6829
+aS'Prachatice'
+p6830
+asS'384 42'
+p6831
+(lp6832
+S'Kaplice'
+p6833
+aS'Prachatice'
+p6834
+asS'439 87'
+p6835
+(lp6836
+S'O\xc4\x8dihov'
+p6837
+aS'Louny'
+p6838
+asS'394 24'
+p6839
+(lp6840
+S'K\xc5\x99e\xc5\xa1\xc3\xadn'
+p6841
+aS'Pelh\xc5\x99imov'
+p6842
+asS'394 27'
+p6843
+(lp6844
+S'Vyklantice'
+p6845
+aS'Pelh\xc5\x99imov'
+p6846
+asS'394 21'
+p6847
+(lp6848
+S'Ma\xc5\xa1ovice'
+p6849
+aS'Pelh\xc5\x99imov'
+p6850
+asS'394 22'
+p6851
+(lp6852
+S'Ch\xc3\xbdstovice'
+p6853
+aS'Pelh\xc5\x99imov'
+p6854
+asS'340 12'
+p6855
+(lp6856
+S'Me\xc4\x8dkov'
+p6857
+aS'Plze\xc5\x88-jih'
+p6858
+asS'690 03'
+p6859
+(lp6860
+S'B\xc5\x99eclav (Star\xc3\xa1 B\xc5\x99eclav)'
+p6861
+aS'B\xc5\x99eclav'
+p6862
+asS'389 01'
+p6863
+(lp6864
+S'Pra\xc5\xbe\xc3\xa1k'
+p6865
+aS'Strakonice'
+p6866
+asS'789 01'
+p6867
+(lp6868
+S'Hrabov\xc3\xa1'
+p6869
+aS'\xc5\xa0umperk'
+p6870
+asS'512 36'
+p6871
+(lp6872
+S'Horn\xc3\xad Brann\xc3\xa1'
+p6873
+aS'Semily'
+p6874
+asS'512 35'
+p6875
+(lp6876
+S'\xc4\x8cist\xc3\xa1 u Horek'
+p6877
+aS'Semily'
+p6878
+asS'512 34'
+p6879
+(lp6880
+S'Horka u Star\xc3\xa9 Paky'
+p6881
+aS'Semily'
+p6882
+asS'512 33'
+p6883
+(lp6884
+S'Studenec'
+p6885
+aS'Semily'
+p6886
+asS'565 52'
+p6887
+(lp6888
+S'\xc4\x8cesk\xc3\xa9 He\xc5\x99manice'
+p6889
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p6890
+asS'512 31'
+p6891
+(lp6892
+S'Roztoky u Jilemnice'
+p6893
+aS'Semily'
+p6894
+asS'530 12'
+p6895
+(lp6896
+S'Pardubice (\xc4\x8d\xc3\xa1st)'
+p6897
+aS'Pardubice'
+p6898
+asS'512 38'
+p6899
+(lp6900
+S'V\xc3\xadtkovice'
+p6901
+aS'Semily'
+p6902
+asS'378 01'
+p6903
+(lp6904
+S'L\xc3\xa1senice'
+p6905
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6906
+asS'378 02'
+p6907
+(lp6908
+S'Doln\xc3\xad Lhota'
+p6909
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6910
+asS'378 03'
+p6911
+(lp6912
+S'Majdalena'
+p6913
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6914
+asS'378 04'
+p6915
+(lp6916
+S'Lutov\xc3\xa1'
+p6917
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6918
+asS'378 05'
+p6919
+(lp6920
+S'Klikov'
+p6921
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6922
+asS'378 06'
+p6923
+(lp6924
+S'Hrdlo\xc5\x99ezy'
+p6925
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6926
+asS'378 08'
+p6927
+(lp6928
+S'Dvory nad Lu\xc5\xbenic\xc3\xad'
+p6929
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p6930
+asS'338 42'
+p6931
+(lp6932
+S'Kocanda'
+p6933
+aS'Rokycany'
+p6934
+asS'338 43'
+p6935
+(lp6936
+S'Kornatice'
+p6937
+aS'Rokycany'
+p6938
+asS'338 44'
+p6939
+(lp6940
+S'Dob\xc5\x99\xc3\xadv'
+p6941
+aS'Rokycany'
+p6942
+asS'338 45'
+p6943
+(lp6944
+S'T\xc4\x9bn\xc4\x9b'
+p6945
+aS'Rokycany'
+p6946
+asS'588 01'
+p6947
+(lp6948
+S'Smr\xc4\x8dn\xc3\xa1'
+p6949
+aS'Jihlava'
+p6950
+asS'588 05'
+p6951
+(lp6952
+S'Opatov'
+p6953
+aS'Jihlava'
+p6954
+asS'742 33'
+p6955
+(lp6956
+S'Jesen\xc3\xadk nad Odrou'
+p6957
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p6958
+asS'507 44'
+p6959
+(lp6960
+S'Libo\xc5\xa1ovice'
+p6961
+aS'Ji\xc4\x8d\xc3\xadn'
+p6962
+asS'561 25'
+p6963
+(lp6964
+S'Rudoltice'
+p6965
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p6966
+asS'561 23'
+p6967
+(lp6968
+S'Damn\xc3\xadkov'
+p6969
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p6970
+asS'507 43'
+p6971
+(lp6972
+S'Sku\xc5\x99ina'
+p6973
+aS'Ji\xc4\x8d\xc3\xadn'
+p6974
+asS'569 12'
+p6975
+(lp6976
+S'Opatov'
+p6977
+aS'Svitavy'
+p6978
+asS'569 11'
+p6979
+(lp6980
+S'Kocl\xc3\xad\xc5\x99ov'
+p6981
+aS'Svitavy'
+p6982
+asS'719 00'
+p6983
+(lp6984
+S'Ostrava-Kun\xc4\x8dice x)'
+p6985
+aS'Ostrava-m\xc4\x9bsto'
+p6986
+asS'344 01'
+p6987
+(lp6988
+S'Capartice'
+p6989
+aS'Doma\xc5\xbelice'
+p6990
+asS'398 07'
+p6991
+(lp6992
+S'Orl\xc3\xadk nad Vltavou'
+p6993
+aS'P\xc3\xadsek'
+p6994
+asS'398 04'
+p6995
+(lp6996
+S'Lu\xc4\x8dkovice'
+p6997
+aS'P\xc3\xadsek'
+p6998
+asS'549 63'
+p6999
+(lp7000
+S'N\xc3\xadzk\xc3\xa1 Srbsk\xc3\xa1'
+p7001
+aS'N\xc3\xa1chod'
+p7002
+asS'348 02'
+p7003
+(lp7004
+S'Star\xc3\xa9 Sedlo'
+p7005
+aS'Tachov'
+p7006
+asS'348 01'
+p7007
+(lp7008
+S'Mar\xc5\xa1ovy Chody'
+p7009
+aS'Tachov'
+p7010
+asS'348 06'
+p7011
+(lp7012
+S'Bezd\xc4\x9bkov'
+p7013
+aS'Tachov'
+p7014
+asS'507 73'
+p7015
+(lp7016
+S'Dobr\xc3\xa1 Voda u Ho\xc5\x99ic'
+p7017
+aS'Ji\xc4\x8d\xc3\xadn'
+p7018
+asS'696 32'
+p7019
+(lp7020
+S'\xc5\xbdd\xc3\xa1nice'
+p7021
+aS'Hodon\xc3\xadn'
+p7022
+asS'696 33'
+p7023
+(lp7024
+S'Dra\xc5\xbe\xc5\xafvky'
+p7025
+aS'Hodon\xc3\xadn'
+p7026
+asS'549 84'
+p7027
+(lp7028
+S'He\xc5\x99m\xc3\xa1nkovice'
+p7029
+aS'N\xc3\xa1chod'
+p7030
+asS'696 31'
+p7031
+(lp7032
+S'Ostrov\xc3\xa1nky'
+p7033
+aS'Hodon\xc3\xadn'
+p7034
+asS'468 71'
+p7035
+(lp7036
+S'Lu\xc4\x8dany nad Nisou'
+p7037
+aS'Jablonec nad Nisou'
+p7038
+asS'549 83'
+p7039
+(lp7040
+S'Vi\xc5\xbe\xc5\x88ov'
+p7041
+aS'N\xc3\xa1chod'
+p7042
+asS'696 34'
+p7043
+(lp7044
+S'Silni\xc4\x8dn\xc3\xa1'
+p7045
+aS'Hodon\xc3\xadn'
+p7046
+asS'549 81'
+p7047
+(lp7048
+S'Pomeznice'
+p7049
+aS'N\xc3\xa1chod'
+p7050
+asS'696 38'
+p7051
+(lp7052
+S'Str\xc3\xa1\xc5\xbeovice'
+p7053
+aS'Hodon\xc3\xadn'
+p7054
+asS'696 39'
+p7055
+(lp7056
+S'Lov\xc4\x8dice'
+p7057
+aS'Hodon\xc3\xadn'
+p7058
+asS'789 82'
+p7059
+(lp7060
+S'Doubravice'
+p7061
+aS'\xc5\xa0umperk'
+p7062
+asS'721 00'
+p7063
+(lp7064
+S'Svinov'
+p7065
+aS'Ostrava-m\xc4\x9bsto'
+p7066
+asS'628 00'
+p7067
+(lp7068
+S'Brno-L\xc3\xad\xc5\xa1e\xc5\x88 x)'
+p7069
+aS'Brno-m\xc4\x9bsto'
+p7070
+asS'270 07'
+p7071
+(lp7072
+S'Lhota pod D\xc5\xbeb\xc3\xa1nem'
+p7073
+aS'Rakovn\xc3\xadk'
+p7074
+asS'373 48'
+p7075
+(lp7076
+S'Strachovice'
+p7077
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7078
+asS'270 04'
+p7079
+(lp7080
+S'Milost\xc3\xadn'
+p7081
+aS'Rakovn\xc3\xadk'
+p7082
+asS'582 91'
+p7083
+(lp7084
+S'Opatovice'
+p7085
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7086
+asS'270 01'
+p7087
+(lp7088
+S'Chr\xc3\xa1\xc5\xa1\xc5\xa5any'
+p7089
+aS'Rakovn\xc3\xadk'
+p7090
+asS'373 41'
+p7091
+(lp7092
+S'Pa\xc5\xa1ice'
+p7093
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7094
+asS'373 43'
+p7095
+(lp7096
+S'Jeznice'
+p7097
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7098
+asS'373 46'
+p7099
+(lp7100
+S'Pi\xc5\xa1t\xc3\xadn'
+p7101
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7102
+asS'333 01'
+p7103
+(lp7104
+S'L\xc3\xad\xc5\xa1ina'
+p7105
+aS'Plze\xc5\x88-jih'
+p7106
+asS'264 01'
+p7107
+(lp7108
+S'L\xc3\xadchovy'
+p7109
+aS'P\xc5\x99\xc3\xadbram'
+p7110
+asS'517 64'
+p7111
+(lp7112
+S'Orlick\xc3\xa9 Z\xc3\xa1ho\xc5\x99\xc3\xad'
+p7113
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7114
+asS'664 64'
+p7115
+(lp7116
+S'M\xc4\x9bl\xc4\x8dany'
+p7117
+aS'Brno-venkov'
+p7118
+asS'664 65'
+p7119
+(lp7120
+S'Male\xc5\xa1ovice'
+p7121
+aS'Brno-venkov'
+p7122
+asS'664 66'
+p7123
+(lp7124
+S'Medlov'
+p7125
+aS'Brno-venkov'
+p7126
+asS'664 67'
+p7127
+(lp7128
+S'Brat\xc4\x8dice'
+p7129
+aS'Brno-venkov'
+p7130
+asS'664 61'
+p7131
+(lp7132
+S'Popovice'
+p7133
+aS'Brno-venkov'
+p7134
+asS'101 00'
+p7135
+(lp7136
+S'Vinohrady (\xc4\x8d\xc3\xa1st)'
+p7137
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p7138
+asS'439 09'
+p7139
+(lp7140
+S'Slav\xc4\x9bt\xc3\xadn'
+p7141
+aS'Louny'
+p7142
+asS'784 01'
+p7143
+(lp7144
+S'\xc5\xbderot\xc3\xadn'
+p7145
+aS'Olomouc'
+p7146
+asS'439 01'
+p7147
+(lp7148
+S'\xc4\x8cern\xc4\x8dice'
+p7149
+aS'Louny'
+p7150
+asS'439 06'
+p7151
+(lp7152
+S'Vrbno nad Lesy'
+p7153
+aS'Louny'
+p7154
+asS'439 07'
+p7155
+(lp7156
+S'Peruc'
+p7157
+aS'Louny'
+p7158
+asS'310 00'
+p7159
+(lp7160
+S'Vinice-jih'
+p7161
+aS'Plze\xc5\x88-m\xc4\x9bsto'
+p7162
+asS'664 84'
+p7163
+(lp7164
+S'Stanovi\xc5\xa1t\xc4\x9b'
+p7165
+aS'Brno-venkov'
+p7166
+asS'664 82'
+p7167
+(lp7168
+S'\xc5\x98\xc3\xad\xc4\x8dany'
+p7169
+aS'Brno-venkov'
+p7170
+asS'664 83'
+p7171
+(lp7172
+S'\xc5\x98\xc3\xad\xc4\x8dky'
+p7173
+aS'Brno-venkov'
+p7174
+asS'664 81'
+p7175
+(lp7176
+S'Veversk\xc3\xa9 Kn\xc3\xadnice'
+p7177
+aS'Brno-venkov'
+p7178
+asS'679 62'
+p7179
+(lp7180
+S'Sul\xc3\xadkov'
+p7181
+aS'Blansko'
+p7182
+asS'679 63'
+p7183
+(lp7184
+S'Br\xc5\xa5ov'
+p7185
+aS'Blansko'
+p7186
+asS'679 61'
+p7187
+(lp7188
+S'Horn\xc3\xad Smr\xc5\xbeov'
+p7189
+aS'Blansko'
+p7190
+asS'463 12'
+p7191
+(lp7192
+S'Liberec XXIV'
+p7193
+aS'Pil\xc3\xadnkov'
+p7194
+aS'Liberec'
+p7195
+asS'735 72'
+p7196
+(lp7197
+S'Prstn\xc3\xa1'
+p7198
+aS'Karvin\xc3\xa1'
+p7199
+asS'753 52'
+p7200
+(lp7201
+S'Skali\xc4\x8dka'
+p7202
+aS'P\xc5\x99erov'
+p7203
+asS'735 71'
+p7204
+(lp7205
+S'D\xc4\x9btmarovice'
+p7206
+aS'Karvin\xc3\xa1'
+p7207
+asS'539 73'
+p7208
+(lp7209
+S'\xc5\xbd\xc4\x8f\xc3\xa1rec u Skut\xc4\x8de'
+p7210
+aS'Chrudim'
+p7211
+asS'182 00'
+p7212
+(lp7213
+S'Praha 8-Libe\xc5\x88 (\xc4\x8d\xc3\xa1st) x)'
+p7214
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p7215
+asS'742 74'
+p7216
+(lp7217
+S'Tich\xc3\xa1'
+p7218
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7219
+asS'749 01'
+p7220
+(lp7221
+S'Nov\xc3\xa9 T\xc4\x9bchanovice'
+p7222
+aS'Opava'
+p7223
+asS'788 23'
+p7224
+(lp7225
+S'Nov\xc3\xa9 Losiny'
+p7226
+aS'\xc5\xa0umperk'
+p7227
+asS'261 01'
+p7228
+(lp7229
+S'Orlov'
+p7230
+aS'P\xc5\x99\xc3\xadbram'
+p7231
+asS'742 71'
+p7232
+(lp7233
+S'Hodslavice'
+p7234
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7235
+asS'273 06'
+p7236
+(lp7237
+S'T\xc5\x99ebichovice'
+p7238
+aS'Kladno'
+p7239
+asS'273 04'
+p7240
+(lp7241
+S'Hrade\xc4\x8dno'
+p7242
+aS'Kladno'
+p7243
+asS'273 05'
+p7244
+(lp7245
+S'P\xc5\x99el\xc3\xadc'
+p7246
+aS'Kladno'
+p7247
+asS'517 61'
+p7248
+(lp7249
+S'Barto\xc5\xa1ovice v Orlick\xc3\xbdch hor\xc3\xa1ch'
+p7250
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7251
+asS'273 01'
+p7252
+(lp7253
+S'\xc5\xbdilina'
+p7254
+aS'Kladno'
+p7255
+asS'273 08'
+p7256
+(lp7257
+S'Humny'
+p7258
+aS'Kladno'
+p7259
+asS'747 91'
+p7260
+(lp7261
+S'\xc5\xa0t\xc3\xadtina'
+p7262
+aS'Opava'
+p7263
+asS'747 92'
+p7264
+(lp7265
+S'Jile\xc5\xa1ovice'
+p7266
+aS'Opava'
+p7267
+asS'742 92'
+p7268
+(lp7269
+S'Lubojaty'
+p7270
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7271
+asS'742 93'
+p7272
+(lp7273
+S'Slatina'
+p7274
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7275
+asS'742 91'
+p7276
+(lp7277
+S'Velk\xc3\xa9 Albrechtice'
+p7278
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7279
+asS'644 00'
+p7280
+(lp7281
+S'\xc3\x9at\xc4\x9bchov'
+p7282
+aS'Brno-m\xc4\x9bsto'
+p7283
+asS'285 47'
+p7284
+(lp7285
+S'K\xc5\x99esetice'
+p7286
+aS'Kutn\xc3\xa1 Hora'
+p7287
+asS'285 46'
+p7288
+(lp7289
+S'H\xc3\xa1jek'
+p7290
+aS'Kutn\xc3\xa1 Hora'
+p7291
+asS'285 45'
+p7292
+(lp7293
+S'Kluky'
+p7294
+aS'Kutn\xc3\xa1 Hora'
+p7295
+asS'285 41'
+p7296
+(lp7297
+S'Male\xc5\xa1ov'
+p7298
+aS'Kutn\xc3\xa1 Hora'
+p7299
+asS'517 01'
+p7300
+(lp7301
+S'Solnice'
+p7302
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7303
+asS'517 03'
+p7304
+(lp7305
+S'Deb\xc5\x99ece'
+p7306
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7307
+asS'517 02'
+p7308
+(lp7309
+S'Kvasiny'
+p7310
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7311
+asS'517 04'
+p7312
+(lp7313
+S'\xc4\x8cern\xc3\xadkovice'
+p7314
+aS'Rychnov nad Kn\xc4\x9b\xc5\xbenou'
+p7315
+asS'789 61'
+p7316
+(lp7317
+S'Bludov'
+p7318
+aS'\xc5\xa0umperk'
+p7319
+asS'294 05'
+p7320
+(lp7321
+S'Dlouh\xc3\xa1 Lhota'
+p7322
+aS'Mlad\xc3\xa1 Boleslav'
+p7323
+asS'552 03'
+p7324
+(lp7325
+S'Kleny'
+p7326
+aS'N\xc3\xa1chod'
+p7327
+asS'552 01'
+p7328
+(lp7329
+S'Dolany'
+p7330
+aS'N\xc3\xa1chod'
+p7331
+asS'294 01'
+p7332
+(lp7333
+S'\xc4\x8cih\xc3\xa1tka'
+p7334
+aS'Mlad\xc3\xa1 Boleslav'
+p7335
+asS'552 04'
+p7336
+(lp7337
+S'Kopaniny'
+p7338
+aS'N\xc3\xa1chod'
+p7339
+asS'294 02'
+p7340
+(lp7341
+S'Koprn\xc3\xadk'
+p7342
+aS'Mlad\xc3\xa1 Boleslav'
+p7343
+asS'384 32'
+p7344
+(lp7345
+S'La\xc5\xbei\xc5\xa1t\xc4\x9b'
+p7346
+aS'Prachatice'
+p7347
+asS'384 33'
+p7348
+(lp7349
+S'Z\xc3\xa1blat\xc3\xad'
+p7350
+aS'Prachatice'
+p7351
+asS'798 06'
+p7352
+(lp7353
+S'Otaslavice'
+p7354
+aS'Prost\xc4\x9bjov'
+p7355
+asS'798 07'
+p7356
+(lp7357
+S'\xc5\xbdele\xc4\x8d'
+p7358
+aS'Prost\xc4\x9bjov'
+p7359
+asS'798 04'
+p7360
+(lp7361
+S'Vincencov'
+p7362
+aS'Prost\xc4\x9bjov'
+p7363
+asS'391 16'
+p7364
+(lp7365
+S'Myslkovice'
+p7366
+aS'T\xc3\xa1bor'
+p7367
+asS'391 17'
+p7368
+(lp7369
+S'Borek'
+p7370
+aS'T\xc3\xa1bor'
+p7371
+asS'798 09'
+p7372
+(lp7373
+S'V\xc3\xbd\xc5\xa1ovice'
+p7374
+aS'Prost\xc4\x9bjov'
+p7375
+asS'391 11'
+p7376
+(lp7377
+S'T\xc5\x99ebi\xc5\xa1t\xc4\x9b'
+p7378
+aS'T\xc3\xa1bor'
+p7379
+asS'340 04'
+p7380
+(lp7381
+S'Debrn\xc3\xadk'
+p7382
+aS'Klatovy'
+p7383
+asS'538 03'
+p7384
+(lp7385
+S'Radl\xc3\xadn'
+p7386
+aS'Chrudim'
+p7387
+asS'538 07'
+p7388
+(lp7389
+S'Sama\xc5\x99ov'
+p7390
+aS'Chrudim'
+p7391
+asS'347 01'
+p7392
+(lp7393
+S'Dlouh\xc3\xbd \xc3\x9ajezd'
+p7394
+aS'Tachov'
+p7395
+asS'512 42'
+p7396
+(lp7397
+S'P\xc5\x99\xc3\xadvlaka'
+p7398
+aS'Semily'
+p7399
+asS'512 43'
+p7400
+(lp7401
+S'Bu\xc5\x99any'
+p7402
+aS'Semily'
+p7403
+asS'281 26'
+p7404
+(lp7405
+S'Kundratice'
+p7406
+aS'Kol\xc3\xadn'
+p7407
+asS'512 46'
+p7408
+(lp7409
+S'Nov\xc3\xbd Sv\xc4\x9bt'
+p7410
+aS'Semily'
+p7411
+asS'512 47'
+p7412
+(lp7413
+S'Rokytnice nad Jizerou-Paseky nad Jizerou x)'
+p7414
+aS'Semily'
+p7415
+asS'512 44'
+p7416
+(lp7417
+S'Hle\xc4\x8fsebe'
+p7418
+aS'Semily'
+p7419
+asS'512 45'
+p7420
+(lp7421
+S'Rokytno'
+p7422
+aS'Semily'
+p7423
+asS'280 02'
+p7424
+(lp7425
+S'\xc5\xa0t\xc3\xadtary'
+p7426
+aS'Kol\xc3\xadn'
+p7427
+asS'281 28'
+p7428
+(lp7429
+S'Radovesnice II'
+p7430
+aS'Kol\xc3\xadn'
+p7431
+asS'588 34'
+p7432
+(lp7433
+S'Dlouh\xc3\xa1 Brtnice'
+p7434
+aS'Jihlava'
+p7435
+asS'588 32'
+p7436
+(lp7437
+S'Jest\xc5\x99eb\xc3\xad'
+p7438
+aS'Jihlava'
+p7439
+asS'588 33'
+p7440
+(lp7441
+S'Such\xc3\xa1'
+p7442
+aS'Jihlava'
+p7443
+asS'378 17'
+p7444
+(lp7445
+S'Novosedly nad Ne\xc5\xbe\xc3\xa1rkou'
+p7446
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p7447
+asS'378 10'
+p7448
+(lp7449
+S'\xc4\x8cesk\xc3\xa9 Velenice'
+p7450
+aS'Jind\xc5\x99ich\xc5\xafv Hradec'
+p7451
+asS'725 25'
+p7452
+(lp7453
+S'Ostrava-Polanka nad Odrou x)'
+p7454
+aS'Ostrava-m\xc4\x9bsto'
+p7455
+asS'725 26'
+p7456
+(lp7457
+S'Kr\xc3\xa1sn\xc3\xa9 Pole'
+p7458
+aS'Ostrava-m\xc4\x9bsto'
+p7459
+asS'725 27'
+p7460
+(lp7461
+S'Plesn\xc3\xa1'
+p7462
+aS'Ostrava-m\xc4\x9bsto'
+p7463
+asS'725 28'
+p7464
+(lp7465
+S'Ostrava-Ho\xc5\xa1\xc5\xa5\xc3\xa1lkovice x)'
+p7466
+aS'Ostrava-m\xc4\x9bsto'
+p7467
+asS'198 00'
+p7468
+(lp7469
+S'\xc4\x8cern\xc3\xbd Most'
+p7470
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p7471
+asS'507 53'
+p7472
+(lp7473
+S'Chomuti\xc4\x8dky'
+p7474
+aS'Ji\xc4\x8d\xc3\xadn'
+p7475
+asS'507 52'
+p7476
+(lp7477
+S'Ostrom\xc4\x9b\xc5\x99'
+p7478
+aS'Ji\xc4\x8d\xc3\xadn'
+p7479
+asS'561 33'
+p7480
+(lp7481
+S'Horn\xc3\xad He\xc5\x99manice'
+p7482
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p7483
+asS'561 32'
+p7484
+(lp7485
+S'Cotkytle'
+p7486
+aS'\xc3\x9ast\xc3\xad nad Orlic\xc3\xad'
+p7487
+asS'569 61'
+p7488
+(lp7489
+S'Doln\xc3\xad \xc3\x9ajezd'
+p7490
+aS'Svitavy'
+p7491
+asS'569 65'
+p7492
+(lp7493
+S'Budislav'
+p7494
+aS'Svitavy'
+p7495
+asS'769 01'
+p7496
+(lp7497
+S'V\xc5\xa1etuly'
+p7498
+aS'Krom\xc4\x9b\xc5\x99\xc3\xad\xc5\xbe'
+p7499
+asS'747 64'
+p7500
+(lp7501
+S'T\xc4\x9b\xc5\xa1kovice'
+p7502
+aS'Opava'
+p7503
+asS'793 95'
+p7504
+(lp7505
+S'Dlouh\xc3\xa1 Voda'
+p7506
+aS'Brunt\xc3\xa1l'
+p7507
+asS'793 97'
+p7508
+(lp7509
+S'Rus\xc3\xadn'
+p7510
+aS'Brunt\xc3\xa1l'
+p7511
+asS'398 19'
+p7512
+(lp7513
+S'Kluky'
+p7514
+aS'P\xc3\xadsek'
+p7515
+asS'398 18'
+p7516
+(lp7517
+S'Horn\xc3\xad Z\xc3\xa1ho\xc5\x99\xc3\xad'
+p7518
+aS'P\xc3\xadsek'
+p7519
+asS'788 15'
+p7520
+(lp7521
+S'Ludv\xc3\xadkov'
+p7522
+aS'\xc5\xa0umperk'
+p7523
+asS'398 11'
+p7524
+(lp7525
+S'Nov\xc3\xa1 Ves u Protiv\xc3\xadna'
+p7526
+aS'P\xc3\xadsek'
+p7527
+asS'793 99'
+p7528
+(lp7529
+S'Karlov'
+p7530
+aS'Brunt\xc3\xa1l'
+p7531
+asS'549 73'
+p7532
+(lp7533
+S'Mart\xc3\xadnkovice'
+p7534
+aS'N\xc3\xa1chod'
+p7535
+asS'549 72'
+p7536
+(lp7537
+S'Otovice'
+p7538
+aS'N\xc3\xa1chod'
+p7539
+asS'549 71'
+p7540
+(lp7541
+S'\xc5\xa0onov'
+p7542
+aS'N\xc3\xa1chod'
+p7543
+asS'679 72'
+p7544
+(lp7545
+S'Zbraslavec'
+p7546
+aS'Blansko'
+p7547
+asS'783 61'
+p7548
+(lp7549
+S'Hrub\xc3\xa1 Voda'
+p7550
+aS'Olomouc'
+p7551
+asS'435 01'
+p7552
+(lp7553
+S'Havra\xc5\x88'
+p7554
+aS'Most'
+p7555
+asS'696 21'
+p7556
+(lp7557
+S'Pru\xc5\xa1\xc3\xa1nky'
+p7558
+aS'Hodon\xc3\xadn'
+p7559
+asS'468 41'
+p7560
+(lp7561
+S'\xc5\xa0umburk nad Desnou'
+p7562
+aS'Jablonec nad Nisou'
+p7563
+asS'468 43'
+p7564
+(lp7565
+S'Mari\xc3\xa1nsk\xc3\xa1 Hora'
+p7566
+aS'Jablonec nad Nisou'
+p7567
+asS'468 44'
+p7568
+(lp7569
+S'Karlov'
+p7570
+aS'Jablonec nad Nisou'
+p7571
+asS'468 45'
+p7572
+(lp7573
+S'Bohdalovice'
+p7574
+aS'Jablonec nad Nisou'
+p7575
+asS'468 47'
+p7576
+(lp7577
+S'Stanov\xc3\xbd'
+p7578
+aS'Jablonec nad Nisou'
+p7579
+asS'468 48'
+p7580
+(lp7581
+S'Rejdice'
+p7582
+aS'Jablonec nad Nisou'
+p7583
+asS'795 01'
+p7584
+(lp7585
+S'Nov\xc3\xa1 Ves'
+p7586
+aS'Brunt\xc3\xa1l'
+p7587
+asS'262 25'
+p7588
+(lp7589
+S'Pi\xc4\x8d\xc3\xadn'
+p7590
+aS'P\xc5\x99\xc3\xadbram'
+p7591
+asS'262 23'
+p7592
+(lp7593
+S'Rejkovice'
+p7594
+aS'P\xc5\x99\xc3\xadbram'
+p7595
+asS'787 01'
+p7596
+(lp7597
+S'Rejchartice'
+p7598
+aS'\xc5\xa0umperk'
+p7599
+asS'582 83'
+p7600
+(lp7601
+S'Vil\xc3\xa9mov'
+p7602
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7603
+asS'582 82'
+p7604
+(lp7605
+S'Hostovlice'
+p7606
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7607
+asS'582 81'
+p7608
+(lp7609
+S'Habry'
+p7610
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7611
+asS'582 87'
+p7612
+(lp7613
+S'\xc4\x8c\xc3\xadho\xc5\xa1\xc5\xa5'
+p7614
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7615
+asS'582 86'
+p7616
+(lp7617
+S'Le\xc5\xa1tina u Sv\xc4\x9btl\xc3\xa9'
+p7618
+aS'Havl\xc3\xad\xc4\x8dk\xc5\xafv Brod'
+p7619
+asS'162 00'
+p7620
+(lp7621
+S'Liboc (\xc4\x8d\xc3\xa1st)'
+p7622
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p7623
+asS'783 75'
+p7624
+(lp7625
+S'Drahlov'
+p7626
+aS'Olomouc'
+p7627
+asS'783 72'
+p7628
+(lp7629
+S'\xc4\x8cechovice'
+p7630
+aS'Olomouc'
+p7631
+asS'783 71'
+p7632
+(lp7633
+S'Holice'
+p7634
+aS'Olomouc'
+p7635
+asS'798 42'
+p7636
+(lp7637
+S'Le\xc5\xa1any'
+p7638
+aS'Prost\xc4\x9bjov'
+p7639
+asS'798 43'
+p7640
+(lp7641
+S'R\xc5\xaf\xc5\xbeov'
+p7642
+aS'Prost\xc4\x9bjov'
+p7643
+asS'751 31'
+p7644
+(lp7645
+S'Hlinsko'
+p7646
+aS'P\xc5\x99erov'
+p7647
+asS'110 00'
+p7648
+(lp7649
+S'Praha 1-Vinohrady (\xc4\x8d\xc3\xa1st) x)'
+p7650
+aS'Hlavn\xc3\xad m\xc4\x9bsto Praha'
+p7651
+asS'718 00'
+p7652
+(lp7653
+S'Ostrava-Kun\xc4\x8di\xc4\x8dky x)'
+p7654
+aS'Ostrava-m\xc4\x9bsto'
+p7655
+asS'418 01'
+p7656
+(lp7657
+S'Teplick\xc3\xa9 P\xc5\x99edm\xc4\x9bst\xc3\xad'
+p7658
+aS'Teplice'
+p7659
+asS'783 65'
+p7660
+(lp7661
+S'Posluchov'
+p7662
+aS'Olomouc'
+p7663
+asS'418 04'
+p7664
+(lp7665
+S'B\xc3\xadlina (\xc4\x8d\xc3\xa1st)'
+p7666
+aS'Teplice'
+p7667
+asS'683 54'
+p7668
+(lp7669
+S'Lov\xc4\x8di\xc4\x8dky'
+p7670
+aS'Vy\xc5\xa1kov'
+p7671
+asS'683 52'
+p7672
+(lp7673
+S'Host\xc4\x9br\xc3\xa1dky-Re\xc5\xa1ov'
+p7674
+aS'Vy\xc5\xa1kov'
+p7675
+asS'664 71'
+p7676
+(lp7677
+S'Holasice'
+p7678
+aS'Brno-venkov'
+p7679
+asS'664 75'
+p7680
+(lp7681
+S'Debl\xc3\xadn'
+p7682
+aS'Brno-venkov'
+p7683
+asS'373 71'
+p7684
+(lp7685
+S'Jelmo'
+p7686
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7687
+asS'373 72'
+p7688
+(lp7689
+S'Koln\xc3\xbd'
+p7690
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7691
+asS'373 73'
+p7692
+(lp7693
+S'Horn\xc3\xad Milet\xc3\xadn'
+p7694
+aS'\xc4\x8cesk\xc3\xa9 Bud\xc4\x9bjovice'
+p7695
+asS'439 15'
+p7696
+(lp7697
+S'Divice'
+p7698
+aS'Louny'
+p7699
+asS'439 14'
+p7700
+(lp7701
+S'Smolnice'
+p7702
+aS'Louny'
+p7703
+asS'664 91'
+p7704
+(lp7705
+S'Budkovice'
+p7706
+aS'Brno-venkov'
+p7707
+asS'380 01'
+p7708
+(lp7709
+S'Radkovice u Bud\xc4\x8de'
+p7710
+aS'T\xc5\x99eb\xc3\xad\xc4\x8d'
+p7711
+asS'788 14'
+p7712
+(lp7713
+S'Terez\xc3\xadn'
+p7714
+aS'\xc5\xa0umperk'
+p7715
+asS'679 74'
+p7716
+(lp7717
+S'Crhov'
+p7718
+aS'Blansko'
+p7719
+asS'788 16'
+p7720
+(lp7721
+S'Rudoltice'
+p7722
+aS'\xc5\xa0umperk'
+p7723
+asS'679 76'
+p7724
+(lp7725
+S'Drnovice'
+p7726
+aS'Blansko'
+p7727
+asS'679 71'
+p7728
+(lp7729
+S'Koz\xc3\xa1rov'
+p7730
+aS'Blansko'
+p7731
+asS'788 11'
+p7732
+(lp7733
+S'Kouty nad Desnou'
+p7734
+aS'\xc5\xa0umperk'
+p7735
+asS'431 83'
+p7736
+(lp7737
+S'V\xc3\xbdslun\xc3\xad'
+p7738
+aS'Chomutov'
+p7739
+asS'671 06'
+p7740
+(lp7741
+S'Podmy\xc4\x8de'
+p7742
+aS'Znojmo'
+p7743
+asS'735 62'
+p7744
+(lp7745
+S'Mist\xc5\x99ovice'
+p7746
+aS'Karvin\xc3\xa1'
+p7747
+asS'671 07'
+p7748
+(lp7749
+S'Lubnice'
+p7750
+aS'Znojmo'
+p7751
+asS'269 01'
+p7752
+(lp7753
+S'Nov\xc3\xbd D\xc5\xafm'
+p7754
+aS'Rakovn\xc3\xadk'
+p7755
+asS'269 02'
+p7756
+(lp7757
+S'Rakovn\xc3\xadk II'
+p7758
+aS'Rakovn\xc3\xadk'
+p7759
+asS'664 02'
+p7760
+(lp7761
+S'Lhotky'
+p7762
+aS'Brno-venkov'
+p7763
+asS'742 60'
+p7764
+(lp7765
+S'Pet\xc5\x99vald\xc3\xadk-Pet\xc5\x99vald 2 x)'
+p7766
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7767
+asS'742 66'
+p7768
+(lp7769
+S'\xc5\xa0tramberk'
+p7770
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7771
+asS'742 65'
+p7772
+(lp7773
+S'Ryb\xc3\xad'
+p7774
+aS'Nov\xc3\xbd Ji\xc4\x8d\xc3\xadn'
+p7775
+asS'671 01'
+p7776
+(lp7777
+S'Citonice'
+p7778
+aS'Znojmo'
+p7779
+asS'671 02'
+p7780
+(lp7781
+S'Horn\xc3\xad B\xc5\x99e\xc4\x8dkov'
+p7782
+aS'Znojmo'
+p7783
+asS'289 36'
+p7784
+(lp7785
+S'Mcely'
+p7786
+aS'Nymburk'
+p7787
+asS'289 37'
+p7788
+(lp7789
+S'Studce'
+p7790
+aS'Nymburk'
+p7791
+asS'289 34'
+p7792
+(lp7793
+S'Podlu\xc5\xbeany'
+p7794
+aS'Nymburk'
+p7795
+asS'289 35'
+p7796
+(lp7797
+S'Ko\xc5\xa1\xc3\xadk'
+p7798
+aS'Nymburk'
+p7799
+asS'289 32'
+p7800
+(lp7801
+S'J\xc3\xadkev'
+p7802
+aS'Nymburk'
+p7803
+asS'289 33'
+p7804
+(lp7805
+S'Me\xc4\x8d\xc3\xad\xc5\x99'
+p7806
+aS'Nymburk'
+p7807
+asS'289 31'
+p7808
+(lp7809
+S'Chleby'
+p7810
+aS'Nymburk'
+p7811
+as.

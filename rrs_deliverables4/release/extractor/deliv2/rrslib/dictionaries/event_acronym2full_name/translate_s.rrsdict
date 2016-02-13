@@ -1,0 +1,782 @@
+(dp1
+S'SIGCSE'
+p2
+S'Technical Symposium on Computer Science Education'
+p3
+sS'SECURWARE'
+p4
+S'International Conference on Emerging Security Information, Systems and Technologies'
+p5
+sS'SIP'
+p6
+S'Signal and Image Processing'
+p7
+sS'SAGA'
+p8
+S'Stochastic Algorithms'
+p9
+sS'SSPRA'
+p10
+S'Signal Processing, Pattern Recognition, and Applications'
+p11
+sS'SenSys'
+p12
+S'ACM Conference on Embedded Networked Sensor Systems'
+p13
+sS'Surgery Simulation and Soft Tissue Modeling\n'
+p14
+S'Surgery Simulation and Soft Tissue Modeling'
+p15
+sS'SITIS'
+p16
+S'Signal-Image Technology and Internet-Based Systems'
+p17
+sS'SemWiki'
+p18
+S'Semantic Wikis'
+p19
+sS'SSPR'
+p20
+S'International Workshop on Structural and Syntactic Pattern Recognition'
+p21
+sS'SAGT'
+p22
+S'Algorithmic Game Theory'
+p23
+sS'SBIM'
+p24
+S'Sketch Based Interfaces and Modeling'
+p25
+sS'SPLC'
+p26
+S'Software Product Lines'
+p27
+sS'SAM'
+p28
+S'Security and Management'
+p29
+sS'SAC'
+p30
+S'Selected Areas in Cryptography'
+p31
+sS'SAB'
+p32
+S'Simulation of Adaptive Behavior'
+p33
+sS'SCVMA'
+p34
+S'Spatial Coherence for Visual Motion Analysis'
+p35
+sS'SAG'
+p36
+S'Scientific Applications of Grid Computing'
+p37
+sS'SBIA'
+p38
+S'Brazilian Symposium on Artificial Intelligence'
+p39
+sS'SIPEW'
+p40
+S'SPEC International Performance Evaluation Workshop'
+p41
+sS'SADPI'
+p42
+S'Semantically Aware Document Processing And Indexing'
+p43
+sS'SIGGRAPH'
+p44
+S'International Conference on Computer Graphics and Interactive Techniques'
+p45
+sS'SLIPE'
+p46
+S'Symposium on Language Issues in Programming Environments'
+p47
+sS'SODA'
+p48
+S'Symposium on Discrete Algorithms'
+p49
+sS'SAS'
+p50
+S'Static Analysis Symposium'
+p51
+sS'SPC'
+p52
+S'International Conference on Security in Pervasive Computing'
+p53
+sS'SIGFORTH'
+p54
+S'SIGFORTH'
+p55
+sS'SACMAT'
+p56
+S'Symposium on Access Control Models and Technologies'
+p57
+sS'SWWS'
+p58
+S'Conference on Semantic Web and Web Services'
+p59
+sS'SCOPES'
+p60
+S'International Workshop on Software and Compilers for Embedded Systems'
+p61
+sS'SIGCOMM'
+p62
+S'ACM SIGCOMM Conference'
+p63
+sS'Smart Graphics\n'
+p64
+S'Smart Graphics'
+p65
+sS'SmartNet'
+p66
+S'Intelligence in Networks'
+p67
+sS'SAINT'
+p68
+S'Symposium on Applications and the Internet'
+p69
+sS'SOCASE'
+p70
+S'Service-Oriented Computing: Agents, Semantics, and Engineering'
+p71
+sS'SIGMAP'
+p72
+S'Signal Processing and Multimedia Applications'
+p73
+sS'SEFM'
+p74
+S'IEEE International Conference on Software Engineering and Formal Methods'
+p75
+sS'SEAMS'
+p76
+S'Software Engineering for Adaptive and Self-Managing Systems'
+p77
+sS'SOFSEM'
+p78
+S'Conference on Current Trends in Theory and Practice of Informatics'
+p79
+sS'SVR'
+p80
+S'SIGGRAPH Video Review'
+p81
+sS'SFP'
+p82
+S'Scottish Functional Programming Workshops'
+p83
+sS'SMPS'
+p84
+S'Soft Methods in Probability and Statistics'
+p85
+sS'SCESM'
+p86
+S'Scenarios and state machines: models, algorithms, and tools'
+p87
+sS'SIBGRAPI'
+p88
+S'Brazilian Symposium on Computer Graphics and Image Processing'
+p89
+sS'SPIRE'
+p90
+S'String Processing and Information Retrieval'
+p91
+sS'SSTD'
+p92
+S'Symposium on Spatial and Temporal Databases'
+p93
+sS'SESPSDE'
+p94
+S'Software Engineering Symposium on Practical Software Development Environments'
+p95
+sS'SEAL'
+p96
+S'Simulated Evolution and Learning'
+p97
+sS'SIGLEX'
+p98
+S'Lexical Semantics and Knowledge Representation'
+p99
+sS'SEMMCO'
+p100
+S'International Conference on Swarm, Evolutionary and Memetic Computing'
+p101
+sS'SoCC'
+p102
+S'IEEE International System-on-Chip (SoC) Conference'
+p103
+sS'SAS(WSA)'
+p104
+S'Static Analysis Symposium/Workshop on Static Analysis'
+p105
+sS'SIGAda'
+p106
+S'SIGAda Conference'
+p107
+sS'SCM'
+p108
+S'System Configuration Management'
+p109
+sS'SIGDOC'
+p110
+S'ACM Special Interest Group for Design of Communication'
+p111
+sS'SBRN'
+p112
+S'Brazilian Symposium on Neural Networks'
+p113
+sS'SCI'
+p114
+S'Scalable Coherent Interface'
+p115
+sS'SNSC'
+p116
+S'Symbolic and Numerical Scientific Computation'
+p117
+sS'SERP'
+p118
+S'Software Engineering Research and Practice'
+p119
+sS'SPAA'
+p120
+S'ACM Symposium on Parallelism in Algorithms and Architectures'
+p121
+sS'SCA'
+p122
+S'Symposium on Computer Animation'
+p123
+sS'SIN'
+p124
+S'Security of Information and Networks'
+p125
+sS'SLSFS'
+p126
+S'Subspace, Latent Structure and Feature Selection'
+p127
+sS'SYMSAC'
+p128
+S'Symposium on Symbolic and Algebraic Manipulation'
+p129
+sS'SPLST'
+p130
+S'Symposium on Programming Languages and Software Tools'
+p131
+sS'SAPIR'
+p132
+S'Service Assurance with Partial and Intermittent Resources'
+p133
+sS'SiPS'
+p134
+S'IEEE Workshop on Signal Processing Systems'
+p135
+sS'STAIRS'
+p136
+S'Starting AI Researchers Symposium'
+p137
+sS'SCW'
+p138
+S'Services Computing Workshops'
+p139
+sS'SCS'
+p140
+S'Australian Workshop on Safety Critical Systems and Software'
+p141
+sS'SEW'
+p142
+S'Annual Software Engineering Workshop'
+p143
+sS'Scale-Space'
+p144
+S'Scale-Space Theories in Computer Vision'
+p145
+sS'SSDBM'
+p146
+S'Statistical and Scientific Database Management'
+p147
+sS'SYBEN'
+p148
+S'Broadband European Networks and Multimedia Services'
+p149
+sS'SIGCPR'
+p150
+S'Special Interest Group on Computer Personnel Research Annual Conference'
+p151
+sS'Soft-Ware'
+p152
+S'Soft-Ware'
+p153
+sS'SimuTools'
+p154
+S'Simulation Tools and Techniques for Communications, Networks and Systems'
+p155
+sS'SIIT'
+p156
+S'Standardization and Innovation in Information Technology'
+p157
+sS'SDL Forum'
+p158
+S'SDL Forum'
+p159
+sS'SNPD'
+p160
+S'Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing'
+p161
+sS'SAIG'
+p162
+S'Semantics, Applications, and Implementation of Program Generation'
+p163
+sS'SIGBDP'
+p164
+S'SIGBDP'
+p165
+sS'SSS'
+p166
+S'Workshop On Storage Security And Survivability'
+p167
+sS'SSR'
+p168
+S'ACM SIGSOFT Symposium on Software Reusability'
+p169
+sS'SICHERHEIT'
+p170
+S'Sicherheit'
+p171
+sS'SELFMAN'
+p172
+S'Self-Managed Networks, Systems, and Services'
+p173
+sS'SPDP'
+p174
+S'Symposium on Parallel and Distributed Processing'
+p175
+sS'SSD'
+p176
+S'Symposium on Large Spatial Databases'
+p177
+sS'SIGOPS European Workshop\n'
+p178
+S'SIGOPS European Workshop'
+p179
+sS'SSC'
+p180
+S'Sequences, Subsequences, and Consequences'
+p181
+sS'SCCC'
+p182
+S'International Conference of the Chilean Computer Science Society'
+p183
+sS'Symposium on Asynchronous Circuits and Systems\n'
+p184
+S'Symposium on Asynchronous Circuits and Systems'
+p185
+sS'SECPERU'
+p186
+S'Security, Privacy and Trust in Pervasive and Ubiquitous Computing'
+p187
+sS'SOSP'
+p188
+S'Symposium on Operating Systems Principles'
+p189
+sS'SOUPS'
+p190
+S'Symposium On Usable Privacy and Security'
+p191
+sS'SEAFOOD'
+p192
+S'Software Engineering Approaches for Offshore and Outsourced Development'
+p193
+sS'SACI'
+p194
+S'Applied Computational Intelligence and Informatics'
+p195
+sS'SPDT'
+p196
+S'Symposium on Parallel and Distributed Tools'
+p197
+sS'SOSE'
+p198
+S'Service Oriented Software Engineering'
+p199
+sS'SIGSOFT FSE'
+p200
+S'Foundations of Software Engineering'
+p201
+sS'SERVICES'
+p202
+S'IEEE Congress on Services'
+p203
+sS'SMILE'
+p204
+S'3D Structure from Multiple Images of Large-Scale Environments'
+p205
+sS'SMC'
+p206
+S'IEEE International Conference on Systems, Man, and Cybernetics'
+p207
+sS'SMA'
+p208
+S'Symposium on Solid Modeling and Applications'
+p209
+sS'STOC'
+p210
+S'ACM Symposium on Theory of Computing'
+p211
+sS'SCSS'
+p212
+S'International Conference on Complex, Intelligent and Software Intensive Systems'
+p213
+sS'SAICSIT'
+p214
+S'Conference of the South African Institute of Computer Scientists and Information Technologists'
+p215
+sS'SETA'
+p216
+S'Symposium on Environments and Tools for Ada'
+p217
+sS'SIES'
+p218
+S'International Symposium on Industrial Embedded Systems'
+p219
+sS'SETN'
+p220
+S'Hellenic Conference on Artificial Intelligence'
+p221
+sS'ScanGIS'
+p222
+S'Scandinavian Research Conference on Geographical Information Science'
+p223
+sS'SCSC'
+p224
+S'Summer Computer Simulation Conference'
+p225
+sS'SWAT'
+p226
+S'Scandinavian Workshop on Algorithm Theory'
+p227
+sS'SEE'
+p228
+S'Software Engineering Environments'
+p229
+sS'SIGSMALL/PC'
+p230
+S'Symposium on Small Systems'
+p231
+sS'SEC'
+p232
+S'Information Security'
+p233
+sS'SWAP'
+p234
+S'Semantic Web Applications and Perspectives'
+p235
+sS'SETP'
+p236
+S'Software Engineering Theory and Practice'
+p237
+sS'SEM'
+p238
+S'Software Engineering and Middleware'
+p239
+sS'SASN'
+p240
+S'workshop on security of ad hoc and sensor networks'
+p241
+sS'SEKE'
+p242
+S'Software Engineering and Knowledge Engineering'
+p243
+sS'SVG.Open'
+p244
+S'Scalable Vector Graphics'
+p245
+sS'SSIAI'
+p246
+S'IEEE Southwest Symposium on Image Analysis and Interpretation'
+p247
+sS'StorageSS'
+p248
+S'Storage Security And Survivability'
+p249
+sS'S&P'
+p250
+S'IEEE Symposium on Security and Privacy'
+p251
+sS'SIGITE'
+p252
+S'Information Technology Education'
+p253
+sS'SLIP'
+p254
+S'System-Level Interconnect Prediction'
+p255
+sS'SPIE'
+p256
+S'Storage and Retrieval for Image and Video Databases'
+p257
+sS'SRDS'
+p258
+S'Symposium on Reliability in Distributed Software'
+p259
+sS'SBBD'
+p260
+S'Brazilian Symposium on Databases'
+p261
+sS'SPIN'
+p262
+S'SPIN'
+p263
+sS'SASO'
+p264
+S'Self-Adaptive and Self-Organizing Systems'
+p265
+sS'SBS'
+p266
+S'Shaping the Broadband Society'
+p267
+sS'SEBD'
+p268
+S'Sistemi Evoluti per Basi di Dati'
+p269
+sS'SITAG'
+p270
+S'\xc3\x96sterreichischer IT-Sicherheitstag'
+p271
+sS'SOCA'
+p272
+S'Service-Oriented Computing and Applications'
+p273
+sS'SOCO'
+p274
+S'Software Composition'
+p275
+sS'SIROCCO'
+p276
+S'International Colloquium on Structural Information and Communication Complexity'
+p277
+sS'SUM'
+p278
+S'Scalable Uncertainty Management'
+p279
+sS'SARA'
+p280
+S'Symposium on Abstraction, Reformulation and Approximation'
+p281
+sS'SKG'
+p282
+S'Semantics, Knowledge and Grid'
+p283
+sS'SDMW'
+p284
+S'Secure Data Management'
+p285
+sS'SUTC'
+p286
+S'Sensor Networks, Ubiquitous, and Trustworthy Computing'
+p287
+sS'SC'
+p288
+S'Supercomputing'
+p289
+sS'STRATEGIES'
+p290
+S'Strategies in Automated Deduction'
+p291
+sS'STRINGOLOGY'
+p292
+S'Prague Stringology Conference'
+p293
+sS'SpringSim'
+p294
+S'Spring Simulation Multiconference'
+p295
+sS'SE'
+p296
+S'Software Engineering'
+p297
+sS'SCAI'
+p298
+S'Scandinavian Conference on AI'
+p299
+sS'SWDB-ODBIS'
+p300
+S'Ontologies-Based Databases and Information Systems'
+p301
+sS'SCAM'
+p302
+S'Source Code Analysis and Manipulation'
+p303
+sS'SIGAL'
+p304
+S'International Symposium on Algorithms'
+p305
+sS'SADFE'
+p306
+S'Systematic Approaches to Digital Forensic Engineering'
+p307
+sS'ScalCom-EmbeddedCom'
+p308
+S'Scalable Computing and Communications'
+p309
+sS'SoMeT'
+p310
+S'Software Methodologies, Tools and Techniques'
+p311
+sS'SIMVIS'
+p312
+S'Simulation und Visualisierung'
+p313
+sS'SOFTVIS'
+p314
+S'Software Visualization'
+p315
+sS'STEP'
+p316
+S'Software Technology and Engineering Practice'
+p317
+sS'SUNBELT'
+p318
+S'International Sunbelt Social Network Conferences'
+p319
+sS'SWS'
+p320
+S'Secure Web Services'
+p321
+sS'SEAA'
+p322
+S'Software Engineering and Advanced Applications'
+p323
+sS'SINOBIOMETRICS'
+p324
+S'Chinese Conference on Biometric Recognition'
+p325
+sS'SYRCoDIS'
+p326
+S'Spring Young Researchers Colloquium on Databases and Information Systems'
+p327
+sS'STACS'
+p328
+S'Symposium on Theoretical Aspects of Computer Science'
+p329
+sS'SI3D'
+p330
+S'Symposium on Interactive 3D Graphics'
+p331
+sS'SWSTE'
+p332
+S'Science, Technology and Engineering'
+p333
+sS'SIGIR'
+p334
+S'Research and Development in Information Retrieval'
+p335
+sS'SECON'
+p336
+S'Sensor and Ad Hoc Communications and Networks'
+p337
+sS'SIGMETRICS'
+p338
+S'Measurement and Modeling of Computer Systems'
+p339
+sS'SEUS'
+p340
+S'Software Technologies for Future Embedded and Ubiquitous Systems'
+p341
+sS'SoCG'
+p342
+S'ACM Symposium on Computational Geometry'
+p343
+sS'SPDECE'
+p344
+S'Simposio Pluridisciplinar sobre Dise\xc3\xb1o, Evaluaci\xc3\xb3n y Desarrollo de Contenidos Educativos Reutilizables'
+p345
+sS'SBAC-PAD'
+p346
+S'Symposium on Computer Architecture and High Performance Computing'
+p347
+sS'SICOSIM'
+p348
+S'Sigcosim Symposium'
+p349
+sS'SIGMOD'
+p350
+S'International Conference on Management of Data'
+p351
+sS'SIGDIAL Conference'
+p352
+S'Annual Meeting of the Special Interest Group on Discourse and Dialogue'
+p353
+sS'SLS'
+p354
+S'Stochastic Local Search Algorithms'
+p355
+sS'SEDE'
+p356
+S'Software Engineering and Data Engineering'
+p357
+sS'SCN'
+p358
+S'Security in Communication Networks'
+p359
+sS'SSME'
+p360
+S'Services Science, Management and Engineering'
+p361
+sS'SAFECOMP'
+p362
+S'SAFECOMP'
+p363
+sS'SELMAS'
+p364
+S'Software Engineering for Large-Scale Multi-Agent Systems'
+p365
+sS'SOQUA'
+p366
+S'Software Quality'
+p367
+sS'SSWMC'
+p368
+S'Security, Steganography, and Watermarking of Multimedia Contents'
+p369
+sS'STDBM'
+p370
+S'Spatio-Temporal Database Management'
+p371
+sS'SEUH'
+p372
+S'Software Engineering im Unterricht der Hochschulen'
+p373
+sS'SDE'
+p374
+S'Software Development Environments'
+p375
+sS'SYNASC'
+p376
+S'Symbolic and Numeric Algorithms for Scientific Computing'
+p377
+sS'SCIE'
+p378
+S'Summer School on Information Extraction'
+p379
+sS'SAMOS'
+p380
+S'Systems, Architectures, Modeling, and Simulation'
+p381
+sS'SGP'
+p382
+S'Symposium on Geometry Processing'
+p383
+sS'SDM'
+p384
+S'SIAM International Conference on Data Mining'
+p385
+sS'SAMT'
+p386
+S'Semantics and Digital Media Technologies'
+p387
+sS'SOAS'
+p388
+S'Self-Organization and Autonomous Systems in Computing and Communications'
+p389
+sS'SECRYPT'
+p390
+S'Security and Cryptography'
+p391
+s.

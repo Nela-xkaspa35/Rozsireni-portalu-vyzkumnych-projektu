@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>European Research Projects Portal</title>
+
+    <!-- Bootstrap -->
+    
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}" >
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" >
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="row" id="subheader">
+        <div class="col-lg-2 hidden-xs">
+            <div class="input-group">
+                <a href="/"><img alt="logo" src="static/img/logo.jpg"></a>
+            </div>
+        </div>
+        <div class="col-lg-8" id="sub-tab">
+            <form action="/find" method="GET" class="input-group">
+                <input type="hidden" name="search" value="{{ search }}" />
+                {% for dic in d %}
+                    <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                {% endfor %}
+                <input type="text" name="keyword" class="form-control" value='{{ keyword }}'>
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="input">Search</button>
+                </span>
+            </form>
+        </div>
+        <div class="col-lg-2" id="sub-tab" class="padding-bottom">
+            <div class="btn-group" role="group" aria-label="...">
+                <form action="/find" method="GET">
+                    {% for dic in d %}
+                        <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                    {% endfor %}
+                    <input type="hidden" name="keyword" value="{{ keyword }}" />
+                    <button type="submit" class="btn btn-default" name="search" value="projects">Projects</button>
+                </form>
+                <form action="/find" method="GET">
+                    {% for dic in d %}
+                        <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                    {% endfor %}
+                    <input type="hidden" name="keyword" value="{{ keyword }}" />
+                    <button type="submit" class="btn btn-default" name="search" value="deliverables">Deliverables</button>
+                </form>
+            </div>
+        </div>
+    </div>
+      
+     
+    <div class="row" id="dropdowns">
+        {% for facets in f %}
+            <div class="col-lg-2">
+                <div class="dropdown">
+                  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                      {{ facets[0].title() }}
+                    <span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                    {% for facet in facets[1] %}
+                      <form action="/find" method="GET">
+                        {% for dic in d %}
+                          {% if facets[0] != dic %}
+                            <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                          {% endif %}
+                        {% endfor %}
+                        <input type="hidden" name="search" value="{{ search }}" />
+                        <input type="hidden" name="keyword" value="{{ keyword }}" />
+                        {% if d[facets[0]] %}
+                          <input type="hidden" name="{{ facets[0] }}" value="{{ d[facets[0]] + '&' + facet[0] }}" />
+                        {% else %}
+                          <input type="hidden" name="{{ facets[0] }}" value="{{ facet[0] }}" />
+                        {% endif %}
+                        <li role="presentation"><input role="menuitem" tabindex="-1" type="submit" value="{{ facet[0][:50].title() }} ({{ facet[1] }})"></input></li>
+                      </form>
+                    {% endfor %}
+                  </ul>
+                </div>
+            </div>
+        {% endfor %}
+        <div>
+            <p>
+                <form action="/find" method="GET">
+                    <input type="hidden" name="search" value="{{ search }}" />
+                    <input type="hidden" name="keyword" value='{{ keyword }}' />
+                    {% for dic in d %}
+                        
+                            <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                        
+                    {% endfor %}
+                    {% for dic2 in d2%}
+                        {% for value2 in d2[dic2] %}
+                              <button type="input" class="btn btn-sm btn-primary" name="remove" value='{{ dic2 }}:{{ value2}}'>{{ value2 + "   "}}<i class="glyphicon glyphicon-remove white"></i></button> 
+                        {% endfor %}
+                    {% endfor %}
+                </form>
+            </p>
+        </div>
+    </div>
+      
+    <div class="row" id="articles">
+        <div class="col-lg-7">
+            {% if not s %}
+                <center><h4>No projects were found.</h4></center>
+                {% if deli_facet %}
+                <div id="deli">
+                    <h5>Projects including deliverables with keyword '{{ keyword }}' in them:</h5>
+                    <center>
+                    {% for facet in deli_facet %}
+                        <a class="deli_factet" href="project/{{ facet[0] }}"> {{ facet[1] }} </a>
+                    {% endfor %}
+                    </center>
+                </div><br>
+                {% endif %}
+                {% if deli %}
+                <div id="deli">
+                        <form action="/find" method="GET">
+                        {% for dic in d %}
+                            <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                        {% endfor %}
+                        <input type="hidden" name="keyword" value="{{ keyword }}" />
+                        <center><button type="submit" class="btn btn-default" name="search" value="deliverables" style="color:#aaa">Showing results for <u>deliverables</u>:</button></center>
+                    </form></h5>
+                    {% for item in deli %}
+                        <a href="project/{{ item.id }}"><h3>
+                            {% if item.abbr %}
+                            &#91; {{ item.abbr }} &#93;
+                            {% endif %}
+                            {{ item.title.title() }}
+                            </h3></a>
+                        <a href="{{ item.deliv_url }} " target="_blank"><p>Deliverable: <b>{{ item.deliv_title[:200].title()  }}</b> </p></a>
+                        {% if item.es_meta.highlight['deliv_article'] %}
+                            <p> ...{{ '...'.join(item.es_meta.highlight.deliv_article)|safe }}... </p>
+                        {% elif item.deliv_article %}
+                            <p> {{ item.deliv_article[:200] }}... </p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+            {% endif %}
+            
+            {% if search == 'projects' %}
+                {% for item in s %}
+                    <a href="project/{{ item.id }}"><h3>
+                        {% if item.abbr %}
+                        &#91; {{ item.abbr }} &#93;
+                        {% endif %}
+                        {% if item.title %}
+                            {{ item.title.title() }}
+                        {% endif %}
+                    </h3></a>
+                    {% if item.es_meta.highlight['objective'] %}
+                        <p> ...{{ '...'.join(item.es_meta.highlight.objective)|safe }}... </p>
+                    {% elif item.objective %}
+                        <p> {{ item.objective[:200] }}... </p>
+                    {% endif %}
+                {% endfor %}
+                {% if s %}
+                {% if deli_facet %}
+                <h5>No more projects found.</h5>
+                <div id="deli">
+                    <h5>Projects including deliverables with keyword '{{ keyword }}' in them:</h5>
+                    <center>
+                    {% for facet in deli_facet %}
+                        <a class="deli_factet" href="project/{{ facet[0] }}"> {{ facet[1] }} </a>
+                    {% endfor %}
+                    </center>
+                </div><br>
+                {% endif %}
+                {% if deli %}
+                <div id="deli">
+                    <h5>
+                        <form action="/find" method="GET">
+                        {% for dic in d %}
+                            <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                        {% endfor %}
+                        <input type="hidden" name="keyword" value="{{ keyword }}" />
+                            <button type="submit" class="btn btn-default" name="search" value="deliverables" style="color:#aaa">Showing results for <u>deliverables</u>:                        </button>
+                    </form></h5>
+                    {% for item in deli %}
+                        <a href="project/{{ item.id }}"><h3>
+                            {% if item.abbr %}
+                            &#91; {{ item.abbr }} &#93;
+                            {% endif %}
+                            {{ item.title.title() }}
+                            </h3></a>
+                        <a href="{{ item.deliv_url }} " target="_blank"><p>Deliverable: <b>{{ item.deliv_title[:200].title()  }}</b> </p></a>
+                        {% if item.es_meta.highlight['deliv_article'] %}
+                            <p> ...{{ '...'.join(item.es_meta.highlight.deliv_article)|safe }}... </p>
+                        {% elif item.deliv_article %}
+                            <p> {{ item.deliv_article[:200] }}... </p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+                {% endif %}
+            {% else %}
+                {% for item in s %}
+                    <a href="project/{{ item.id }}"><h3>
+                        {% if item.abbr %}
+                        &#91; {{ item.abbr }} &#93;
+                        {% endif %}
+                        {{ item.title.title() }}
+                        </h3></a>
+                    <a href="{{ item.deliv_url }} " target="_blank"><p>Deliverable: <b>{{ item.deliv_title[:200].title()  }}</b> </p></a>
+                    {% if item.es_meta.highlight['deliv_article'] %}
+                        <p> ...{{ '...'.join(item.es_meta.highlight.deliv_article)|safe }}... </p>
+                    {% elif item.deliv_article %}
+                        <p> {{ item.deliv_article[:200] }}... </p>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            
+        </div>
+        {% if insta[0] %}
+        <div class="col-lg-5">
+            <div id="instant">
+                <a href="project/{{ insta[0].id }}"><h3>
+                    {% if insta[0].abbr %}
+                        &#91; {{ insta[0].abbr }} &#93;
+                    {% endif %}
+                    {{ insta[0].title }}
+                    </h3></a>
+                {% if insta[0].origWeb %}
+                <a href="{{ insta[0].origWeb }}" target="_blank">{{ insta[0].origWeb }}</a>
+                {% endif %}
+                {% if insta[0].objective %}
+                <p> 
+                    {{ insta[0].objective }}
+                </p>
+                {% endif %}
+                <ul>
+                    {% if insta[0].subProg %}
+                        <li><p><b>Subprogramme: </b>{{ insta[0].subProg }}</p></li>
+                    {% endif %}
+                    {% if insta[0].totalCost %}
+                        <li><p><b>Total cost: </b>EUR {{ '{:20,d}'.format(insta[0].totalCost|int) }}</p></li>
+                    {% endif %}
+                    {% if insta[0].euCon %}
+                        <li><p><b>EU contribution: </b>EUR {{ '{:20,d}'.format(insta[0].euCon|int) }}</p></li>
+                    {% endif %}
+                    {% if insta[0].fundedUnder %}
+                        <li><p><b>Funded under: </b>{{ insta[0].fundedUnder }}</p></li>
+                    {% endif %}
+                    {% if insta[0].fundingScheme %}
+                        <li><p><b>Funding scheme: </b> {{ insta[0].fundingScheme }}</p></li>
+                    {% endif %}
+
+                </ul>
+            </div>
+        </div>
+        {% endif %}
+        
+    </div>
+    {% if s %}
+    <div class="row" id="pager">
+        <div class="col-lg-7">
+            <form action="/find" method="GET">
+                {% for dic in d %}
+                    <input type="hidden" name="{{ dic }}" value="{{ d[dic] }}" />
+                {% endfor %}
+                <input type="hidden" name="search" value="{{ search }}" />
+                <input type="hidden" name="keyword" value="{{ keyword }}" />
+                {% if page>0 %}
+                    <button type="submit" class="btn btn-default" name="page" value="{{ (page-1) if (page>0) else 0 }}">Prev</button>
+                
+                    {% if s.count()>=20 %}
+                    <button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
+                    {% endif %}
+                {% else %}
+                    {% if s.count()>=20 %}
+                    <button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
+                    {% endif %}
+                {% endif %}
+            </form>
+        </div>
+    </div>
+    {% endif %}
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    
+  </body>
+</html>

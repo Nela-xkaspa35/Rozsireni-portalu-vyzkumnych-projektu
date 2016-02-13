@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="universities"/>
+    <type value="dict"/>
+    <keysize value="3025"/>
+    <valuesize value="3025"/>
+    <min-key-length value="6"/>
+    <simplekeys value="False"/>
+</rrsdictionary>

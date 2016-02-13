@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rrsdictionary>
+    <name value="postcode2city"/>
+    <type value="dict"/>
+    <keysize value="22726"/>
+    <valuesize value="25032"/>
+    <min-key-length value="3"/>
+    <simplekeys value="False"/>
+</rrsdictionary>
