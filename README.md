@@ -1,2 +1,2 @@
-# Roz-en-port-lu-evropsk-ch-v-zkumn-ch-projekt-
+# Rozsireni portalu evropskych vyzkumnych projektu
 BP FIT
