@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#-------------------        Autor: Lucie Dvorakova      ----------------------#
-#-------------------           Login: xdvora1f          ----------------------# 
+#------------        Autori: Martin Cvicek, Lucie Dvorakova      -------------#
+#----------------           Loginy: xcvice01, xdvora1f         ---------------#
+#-- Rozšíření portálu evropských výzkumných projektů o pokročilé vyhledávání -#
 #----------------- Automaticky aktualizovaný webový portál -------------------#
 #------------------- o evropských výzkumných projektech ----------------------#
 
@@ -14,10 +15,10 @@ from elasticsearch import Elasticsearch
 
 HOST        = "localhost"
 PORT        = 9200
-IDXPROJ     = "xdvora1f_projects"
-IDXDELIV    = "xdvora1f_deliverables"
+IDXPROJ     = "xcvice01_projects"
+IDXDELIV    = "xcvice01_deliverables"
 DOCTYPE     = "data"
-URL_BASE    = "http://cordis.europa.eu"
+URL_BASE    = "http://cordis.europa.eu/project/rcn/"
 
 class Project:
     '''
@@ -76,11 +77,11 @@ class Project:
         Otevirani projektu a ziskavani jeho HTML.
         '''
 
-        url = URL_BASE + self.url
-        info("Opening project %s ..." % self.url)
+        url = URL_BASE + self.url + '.html'
+        info("Opening project %s ..." % url)
         data = fetchUrl(url)
         if data == None:
-            err("Could not open %s!" % self.url)
+            err("Could not open %s!" % url)
             self.found = False
             return
         
@@ -205,19 +206,20 @@ class Project:
                     pdf_html = fetchUrl(URL_BASE + deliv_url)
                     if pdf_html != None:
                         # Urcteni URL deliverable
-                        pdf_url = URL_BASE + re.search(self.reMap['findPdf'], \
-                            pdf_html).group(1)
+                        result = re.search(self.reMap['findPdf'], pdf_html)
+                        if result != None:
+                            pdf_url = URL_BASE + result.group(1)
 
-                        # Stahnuti deliverable a jeho konverze
-                        txt = None
-                        info("Attempt to download: %s" % pdf_url)
-                        if downloadFile(pdf_url, "./tmp.pdf"):
-                            txt = pdf2txt("./tmp.pdf")
-                            if txt != None:
-                                numHash = computeHash(txt)
-                                self.pdf += [( numHash, reportsName[i], pdf_url, txt )]
-                                self.nDelivsOk += 1
-                    i += 1
+                            # Stahnuti deliverable a jeho konverze
+                            txt = None
+                            info("Attempt to download: %s" % pdf_url)
+                            if downloadFile(pdf_url, "./tmp.pdf"):
+                                txt = pdf2txt("./tmp.pdf")
+                                if txt != None:
+                                    numHash = computeHash(txt)
+                                    self.pdf += [( numHash, reportsName[i], pdf_url, txt )]
+                                    self.nDelivsOk += 1
+                            i += 1
  
 
 
@@ -304,9 +306,9 @@ class Project:
 
         self.reMap = {}
 
-        self.reMap['abbr'] = re.compile(r'<h1[^>]*>([^<]+)</h1>\s*<b>Project reference', re.M)
-        self.reMap['rcn'] = re.compile(r'project/rcn/([0-9]+)_en.html')
-        self.reMap['title'] = re.compile(r'<h2>([^<]+)<a class="printToPdf[^"]*"')
+        self.reMap['abbr'] = re.compile(r'<h1>([^<]+)</h1>\s*<b>Project reference', re.M)
+        self.reMap['rcn'] = re.compile(r'([0-9]+)_en')
+        self.reMap['title'] = re.compile(r'<h2>([^<]+)</h2>\s+<div class="projdates"')
         self.reMap['getDate'] = re.compile(r'<div class="projdates[^"]*">\s<b>From</b>\s?([0-9-]+)\s?<b>to</b>\s?([0-9-]+)\s?')
         self.reMap['projRef'] = re.compile(r'<b>Project reference</b>:\s?([^<]+)<br/>')
         self.reMap['fundedUnder'] = re.compile(r'<b>Funded under</b>: <a href="[^"]+">([^<]+)</a>')
@@ -409,7 +411,8 @@ class Project:
             err("Connection to ElasticSearch cannot be established!")
             err(str(e))
             return False
-
+        if self.year == None or self.title == None or self.lastUpdate == None: 
+            return False
         # Index project first
         project = \
         {
@@ -451,6 +454,7 @@ class Project:
         }
         try:
             es.index(index=IDXPROJ, doc_type=DOCTYPE, id=project["id"], body=project)
+            info("Project was saved in database")
         except Exception as e:
             err("Project indexing ended with an error!")
             err(str(e))

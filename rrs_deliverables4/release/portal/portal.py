@@ -1,14 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#-------------------        Autor: Lucie Dvorakova      ----------------------#
-#-------------------           Login: xdvora1f          ----------------------# 
+#------------        Autori: Martin Cvicek, Lucie Dvorakova      -------------#
+#----------------           Loginy: xcvice01, xdvora1f         ---------------#
+#-- Rozšíření portálu evropských výzkumných projektů o pokročilé vyhledávání -#
 #----------------- Automaticky aktualizovaný webový portál -------------------#
 #------------------- o evropských výzkumných projektech ----------------------#
 
 import re
 import sys
 import math
+import string
+import shlex
 from flask import Flask
 from flask import request
 from flask import render_template
@@ -17,12 +20,11 @@ from datetime import datetime
 from cStringIO import StringIO
 from elasticutils import get_es, F, S, MLT
 
-from query import Query
 
 HOST        = "localhost"
 PORT        = 9200
-IDXPROJ     = "xdvora1f_projects"
-IDXDELIV    = "xdvora1f_deliverables"
+IDXPROJ     = "xcvice01_projects"
+IDXDELIV    = "xcvice01_deliverables"
 DOCTYPE     = "data"
 URL         = "http://%s:%d/" % (HOST, PORT)
 
@@ -46,7 +48,8 @@ def find():
     last_url = request.url
     # search in project or deliverables (projects are default)
     search = request.args.get("search", "projects")
-        
+    #print search
+    
     # get current page, or default to zero
     try:
         page = int(request.args.get("page", "0"))
@@ -56,17 +59,12 @@ def find():
         page = 0
         
     # getting search query with keywords
-    keyword = request.args.get("keyword", "")
+    keywords = request.args.get("keyword", "")
+    if '=' in keywords: 
+      parse_user_query(keywords)
     # tady je ulozeno, ktere casti filtru chceme vymazat
     remove = request.args.get("remove", "")
-    #print keyword
-    #print remove
     
-    
-    q = Query(keyword)
-    #print q.keywords
-    #print q.specifications
-
     # getting facets from url and query
     search_dic = {}
     # search_dic2 je promenna pro zobrazeni vybraneho filtru
@@ -90,25 +88,30 @@ def find():
         # vymazani nektereho filtru - uzivatel klikl napr. na 'united kingdom x'
         if r != []:
             if spec == r[0]:
-                val = val.replace(r[1], '')
-                print val 
+                r2 = r[1]
+                search_value = r2.lower()
+                val = val.replace(search_value, '')
             
         #print val
         # hodnoty z val nastrkame do search_dic2 - vypisuje vybrane filtry
         if val:
+            # nekteri coordinator nebo participant meli uvozovky v nazvu a delalo
+            # to neporadek
+            my_val = val.replace('"', '')
+            val = my_val
             str = val.split('&')
             for s in str:
                 if s != "":
                     # pokud uz ve filtru hodnotu mame (napr country:united kingdom)
                     # preskocime vlozeni
-                    if spec in search_dic2.keys() and s in search_dic2.get(spec):
+                    new_s = string.capwords(s)
+                    if spec in search_dic2.keys() and new_s in search_dic2.get(spec):
                         continue
-                    search_dic2.setdefault(spec, []).append(s)
+                    search_dic2.setdefault(spec, []).append(new_s)
             search_dic[spec] = val.replace("+", " ").strip().lower()
 
     # build actual query for ElasticSearch 
     offset = page*ITEMS_PER_PAGE
-    keywords = " ".join(q.getKeywords())
     keyword_s = get_project_with_keywords(keywords, search, \
         offset, offset+ITEMS_PER_PAGE)
 
@@ -118,8 +121,8 @@ def find():
     # zadne projekty, protoze je vybrany nejaky filtr (napr. country:italy)
     keyword_s2 = keyword_s
     if len(search_dic) > 0:
-        keyword_s2 = keyword_s.filter(get_filter(search_dic))
-
+        keyword_s2 = keyword_s.filter(get_filter(search_dic))   
+    user_query = get_query(search_dic, search, keywords)
     # getting facets
     facet = facets(keyword_s, keyword_s2)
     keyword_s = keyword_s2
@@ -129,14 +132,8 @@ def find():
         if keyword_s[0].es_meta.score > 3:
             instan_s = keyword_s
         else:
-            filter_args = {"abbr": keyword}
+            filter_args = {"abbr": keywords}
             instan_s = keyword_s.filter(**filter_args)
-
-    #if keyword deleted, no results are found
-    #if not keywords:
-    #    print 'ahoj2'
-    #    keyword_s = ''
-    #    instan_s = ''
 
     # if not enought project fill with deliv + create facet of projects
     deli_s = ''
@@ -155,16 +152,10 @@ def find():
             deli_facet = deliverable_facets(deli_s)
             deli_s = deli_s[0:ITEMS_PER_PAGE]
 
-    safe_keywords = re.sub(r'([:\\"])', r'\\\1', keywords)
-    safe_keyword = re.sub(r'([:\\"])', r'\\\1', keyword)
-    safe_search_dic = {}
-    for key in search_dic:
-        safe_key = re.sub(r'([:\\"])', r'\\\1', key)
-        safe_val = re.sub(r'([:\\"])', r'\\\1', search_dic[key])
-        safe_search_dic[safe_key] = safe_val
-
-    code = render_template('find.html', keyword=safe_keyword, s=keyword_s, \
-        f=facet, d=safe_search_dic, search=search, insta=instan_s, page=page, \
+    
+    
+    code = render_template('find.html', keyword=user_query, s=keyword_s, \
+        f=facet, d=search_dic, search=search, insta=instan_s, page=page, \
         deli=deli_s, deli_facet = deli_facet, d2=search_dic2)
     return code
 
@@ -193,37 +184,47 @@ def user(name=None):
 
 # Vrati filtr vsech projektu kde se nachazeji klicova slova
 def get_project_with_keywords(keyword, search, from_, to):
-    if search == 'projects':
-        if keyword == "":        
-          keyword_s = project_s.query_raw({             
-              "match_all" : { }               
-            })
-        else:
-          keyword_s = project_s.query_raw({
-            "multi_match" : {
-                "query" : keyword,
-                "fields" : [ "abbr^6","title^5", "subprogramme^3", "objective", "origWeb"],
-#                "type" : "phrase"
-                }    
-            })
-        keyword_s = keyword_s[from_:to]
-        keyword_s = keyword_s.highlight('objective', pre_tags = ["<b>"], post_tags = ["</b>"])
+  if search == 'projects':
+    if keyword == "":        
+      keyword_s = project_s.query_raw({             
+        "match_all" : { }               
+        })
     else:
-        if keyword == "":
-          keyword_s = deliv_s.query_raw({
-            "match_all" : { }
-            })
-        else:
-          keyword_s = deliv_s.query_raw({
-            "multi_match" : {
-                "query" : keyword,
-                    "fields" : [ "deliv_title^3", "deliv_article"],
-#                    "type" : "phrase"
-                }
-            })
-        keyword_s = keyword_s[from_:to]
-        keyword_s = keyword_s.highlight('deliv_article', pre_tags = ["<b>"], post_tags = ["</b>"])
-    return keyword_s
+      if '"' in keyword:
+        keyword = keyword.replace('"', '')
+        keyword_s = project_s.query_raw({
+          "multi_match" : {
+            "query" : keyword,
+            "type" : "phrase",
+            "fields" : [ "abbr^6","title^5", "subprogramme^3", "objective", "origWeb"]
+            }    
+        })
+      else:
+        
+        keyword_s = project_s.query_raw({
+          "multi_match" : {
+            "query" : keyword,
+            "fields" : [ "abbr^6","title^5", "subprogramme^3", "objective", "origWeb"]
+            }    
+        })
+      keyword_s = keyword_s[from_:to]
+      keyword_s = keyword_s.highlight('objective', pre_tags = ["<b>"], post_tags = ["</b>"])
+  else:
+    if keyword == "":
+      keyword_s = deliv_s.query_raw({
+        "match_all" : { }
+      })
+    else:
+      keyword_s = deliv_s.query_raw({
+        "multi_match" : {
+        "query" : keyword,
+        "fields" : [ "deliv_title^3", "deliv_article"],
+#       "type" : "phrase"
+        }
+      })
+    keyword_s = keyword_s[from_:to]
+    keyword_s = keyword_s.highlight('deliv_article', pre_tags = ["<b>"], post_tags = ["</b>"])
+  return keyword_s
 
 
 # Generuje leve menu s facety na zaklade filtru facet_s
@@ -292,6 +293,38 @@ def get_filter(search_dic):
         f2 &= f
     # print f2
     return f2
+    
+def get_query(search_dic, search, keyword):
+    user_query = ""
+    for key, value in search_dic.iteritems():
+        if user_query != "":
+            user_query += " AND "
+        if len(search_dic.keys()) > 1:
+            user_query += "("
+        option = value.split('&')
+        for p in option:
+            if p != "":
+                user_query += key + "=" + p
+                if option[-1] != p:
+                    user_query += " OR "
+        if len(search_dic.keys()) > 1:
+            user_query += ")"
+    query = "search=" + search + " AND keyword=" + keyword
+    if user_query != "": 
+        user_query = query + " AND " + user_query
+    else:
+        user_query = query
+    return user_query
+
+def parse_user_query (query):
+  search = re.search('search=(projects|deliverables)', query)      
+  print query
+  keyword = re.search('keyword=("([\w\s]+)"|(([\w]+)(\s(OR|AND)\s)?)+)(\sAND\s[\w]+=|$)', query)
+  if search:
+    print search.group(1)
+  if keyword:
+    print keyword.group(1)
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True)
+    app.run(host="0.0.0.0", port = 1080, debug=True)
 

@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#-------------------        Autor: Lucie Dvorakova      ----------------------#
-#-------------------           Login: xdvora1f          ----------------------# 
+#------------        Autori: Martin Cvicek, Lucie Dvorakova      -------------#
+#----------------           Loginy: xcvice01, xdvora1f         ---------------#
+#-- Rozšíření portálu evropských výzkumných projektů o pokročilé vyhledávání -#
 #----------------- Automaticky aktualizovaný webový portál -------------------#
 #------------------- o evropských výzkumných projektech ----------------------#
 
@@ -102,8 +103,32 @@ def fetchUrl(aUrl):
             ret = response.read()
             response.close()
         except:
-            err("Cannot download URL")
-            ret = None
+            warn("Second retry of URL download")
+            try:
+                response = urllib2.urlopen(aUrl, timeout=DEFAULT_TIMEOUT)
+                ret = response.read()
+                response.close()
+            except:
+                warn("Third retry of URL download")
+                try:
+                    response = urllib2.urlopen(aUrl, timeout=DEFAULT_TIMEOUT)
+                    ret = response.read()
+                    response.close()
+                except:
+                    warn("Fourth retry of URL download")
+                    try:
+                        response = urllib2.urlopen(aUrl, timeout=DEFAULT_TIMEOUT)
+                        ret = response.read()
+                        response.close()
+                    except:
+                        warn("Fifth retry of URL download")
+                        try:
+                            response = urllib2.urlopen(aUrl, timeout=DEFAULT_TIMEOUT)
+                            ret = response.read()
+                            response.close()
+                        except:
+                            err("Cannot download URL")
+                            ret = None
 
     return ret
 

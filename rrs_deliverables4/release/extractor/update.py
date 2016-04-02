@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#-------------------        Autor: Lucie Dvorakova      ----------------------#
-#-------------------           Login: xdvora1f          ----------------------# 
+#------------        Autori: Martin Cvicek, Lucie Dvorakova      -------------#
+#----------------           Loginy: xcvice01, xdvora1f         ---------------# 
+#-- Rozšíření portálu evropských výzkumných projektů o pokročilé vyhledávání -#
 #----------------- Automaticky aktualizovaný webový portál -------------------#
 #------------------- o evropských výzkumných projektech ----------------------#
 
@@ -18,13 +19,20 @@ def main():
     '''
 
     today = datetime.datetime.today()
-    delta = datetime.timedelta(weeks=2)
-    start = today - delta
-
+    delta = datetime.timedelta(weeks=50)
+    beta = datetime.timedelta(weeks=500)
+    start_time = today - delta
+    update_time = today - beta
+    
+    for x in range(0, 3):
+        findProjects(DEFAULT_PROJECT_LIST_FILENAME, BASE_URL, \
+            start_time, today, "start")
+        indexProjects(DEFAULT_PROJECT_LIST_FILENAME)
+    '''
     findProjects(DEFAULT_PROJECT_LIST_FILENAME, BASE_URL, \
-        start, today)
+        update_time, today, "update")
     indexProjects(DEFAULT_PROJECT_LIST_FILENAME)
- 
+    '''        
 if __name__ == "__main__":
     main()
 

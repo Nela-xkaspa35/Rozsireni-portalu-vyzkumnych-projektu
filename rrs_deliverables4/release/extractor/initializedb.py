@@ -3,8 +3,8 @@
 from elasticsearch import Elasticsearch
 
 HOST        = "localhost"
-IDXPROJ     = "xdvora1f_projects"
-IDXDELIV    = "xdvora1f_deliverables"
+IDXPROJ     = "xcvice01_projects"
+IDXDELIV    = "xcvice01_deliverables"
 DOCTYPE     = "data"
 PORT        = 9200
 
