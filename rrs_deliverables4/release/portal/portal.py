@@ -52,14 +52,14 @@ def find():
     keywords = request.args.get("keyword", "")
     # tady je ulozeno, ktere casti filtru chceme vymazat
     remove = request.args.get("remove", "")
-    #if '=' not in keywords: 
-    #keywords = correct_keyword(keywords, search)
+    #uz mame user query
+    #zatim z nej vytahneme jen keyword
+    #vse ostatni si zatim musi naklikat
+    #nebo
+    #uzivatel klikl na nejaky button
+    if '=' in keywords or not search_pressed:
+      keywords = parse_keyword(keywords)
     #keywords = add_spec(keywords, request.args)
-    if not search_pressed:
-      k = correct_query(keywords, request.args, remove)
-   
-    #print search
-    
     # get current page, or default to zero
     try:
         page = int(request.args.get("page", "0"))
@@ -67,9 +67,7 @@ def find():
             page = 0
     except:
         page = 0
-        
-    
-    
+
     # getting facets from url and query
     search_dic = {}
     # search_dic2 je promenna pro zobrazeni vybraneho filtru
@@ -186,16 +184,6 @@ def user(name=None):
 ## --------------------------------------- ##
 ## -------------- FUNKCE ----------------- ##
 ## --------------------------------------- ##
-def correct_keyword(keyword, search):
-  if '"' not in keyword:
-    keyword_split = keyword.split(' ')
-    for k in keyword_split:
-      keyword += k
-      if keyword_split[-1] != k:
-        keyword += " OR "
-  keyword="search=" + search + " AND " + "keyword=" + keyword
-  return keyword
-
 def add_spec(keywords, args):
   valid_specs = ["country", "programme", "subprogramme", "coordinator",
         "participant", "year"]
@@ -237,8 +225,7 @@ def correct_query(keywords, args, remove):
             else:
               keywords+="AND " + spec + "=" + s
       print "keywords after insert:" + keywords
-            
-               
+
 # Vrati filtr vsech projektu kde se nachazeji klicova slova
 def get_project_with_keywords(keyword, search, from_, to):
   if search == 'projects':
@@ -282,7 +269,6 @@ def get_project_with_keywords(keyword, search, from_, to):
     keyword_s = keyword_s[from_:to]
     keyword_s = keyword_s.highlight('deliv_article', pre_tags = ["<b>"], post_tags = ["</b>"])
   return keyword_s
-
 
 # Generuje leve menu s facety na zaklade filtru facet_s
 def facets(keyword_s, keyword_s2):
@@ -351,54 +337,68 @@ def get_filter(search_dic):
     # print f2
     return f2
 
-# Pokud byl filtr zadan klikanim, musime to prevest do textove podoby     
-def get_query(search_dic, search, keyword):
-    user_query = ""
-    keyword_validation = re.search('keyword=("([\w\s]+)"|(([\w]+)(\s(OR|AND)\s)?)+)(\sAND\s[\w]+=|$)', query)
-    if not keyword_validation:
-      keyword=""
-    else:
-      if '"' not in keyword and ' ' in keyword:
-        keyword=""
-        
-    query = "search=" + search + " AND keyword=" + keyword
-    if user_query != "": 
-        user_query = query + " AND " + user_query
-    else:
-        user_query = query
-    return user_query
-
 def parse_user_query (query):
-  search = re.search('search=(projects|deliverables)', query)      
+  search = re.search('search=(projects|deliverables)', query)
   print query
   keyword = re.search('keyword=("([\w\s]+)"|(([\w]+)(\s(OR|AND)\s)?)+)(\sAND\s[\w]+=|$)', query)
   if search:
     print search.group(1)
   if keyword:
     print keyword.group(1)
-    
+
 def get_query(search_dic2, keywords, search):
   keyword=""
-  if '"' not in keywords:
+  if keywords == "":
+    keyword = ""
+  elif '"' not in keywords:
     keyword_split = keywords.split(' ')
     for k in keyword_split:
       keyword += k
       if keyword_split[-1] != k:
         keyword += " OR "
+  else:
+    keyword=keywords
   query="search=" + search + " AND keyword=" + keyword
   for spec in ["country", "programme", "subprogramme", "coordinator",
     "participant", "year"]:
         if search_dic2.get(spec):
-            query=query+"AND "
-            spec2 = search_dic.get(spec).split('&')
-            for s in spec2:
+            for s in search_dic2.get(spec):
                 if s != "":
                   r = query.find(spec)
                   if r != -1:
                     query=query[:r+len(spec)+1] + s + "," + query[r+len(spec)+1:]
                   else:
-                    query=query+"AND " + spec + "=" + s
-  return query  
+                    query=query+" AND " + spec + "=" + s
+  return query
+
+#z user query dostane jen klicova slova, ze kterych odstrani prozatim AND a OR
+#zatim by totiz bylo slozite v klicovych slovech michat AND a OR
+def parse_keyword (keywords):
+  #keyword muze aktualne vypadat treba takto:
+  #search=projects AND keyword=young OR people AND year=2009
+  #pokud jsou v keyword "", hledame o frazi
+  keyword = re.search('keyword=((("([\w\s]+)"|[\w]+)(\s(OR|AND)\s)?)+)(?:(\sAND\s[\w]+=|$))', keywords)
+  if keyword:
+    print keyword.group(1)
+    lindex = 0
+    result= keyword.group(1)
+    #v podstate cyklus do until " OR" nenalezeno
+    while True:
+      lindex = result.find(" OR", lindex)
+      rindex = lindex + len(" OR")
+      if lindex == -1:
+        break
+      else:
+        result = result[:lindex] + result[rindex:]
+    #pro pripad, ze by keyword vypadal takto, odstranime mezeru na konci:
+    #search=projects AND keyword=young OR  AND year=2009
+    #ostatni nepovolene kombinace nejsou mozne diky kontrole skry regex
+    if result[-1] == ' ':
+      result = result[:len(result)-1-1]
+    print result
+    return result
+  else:
+    return ""
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port = 1080, debug=True)
