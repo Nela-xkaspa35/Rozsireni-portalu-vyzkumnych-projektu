@@ -48,6 +48,16 @@ def find():
     last_url = request.url
     # search in project or deliverables (projects are default)
     search = request.args.get("search", "projects")
+    search_pressed = request.args.get("search_pressed")
+    keywords = request.args.get("keyword", "")
+    # tady je ulozeno, ktere casti filtru chceme vymazat
+    remove = request.args.get("remove", "")
+    #if '=' not in keywords: 
+    #keywords = correct_keyword(keywords, search)
+    #keywords = add_spec(keywords, request.args)
+    if not search_pressed:
+      k = correct_query(keywords, request.args, remove)
+   
     #print search
     
     # get current page, or default to zero
@@ -58,12 +68,7 @@ def find():
     except:
         page = 0
         
-    # getting search query with keywords
-    keywords = request.args.get("keyword", "")
-    if '=' in keywords: 
-      parse_user_query(keywords)
-    # tady je ulozeno, ktere casti filtru chceme vymazat
-    remove = request.args.get("remove", "")
+    
     
     # getting facets from url and query
     search_dic = {}
@@ -152,9 +157,9 @@ def find():
             deli_facet = deliverable_facets(deli_s)
             deli_s = deli_s[0:ITEMS_PER_PAGE]
 
+    query = get_query(search_dic2, keywords, search)
     
-    
-    code = render_template('find.html', keyword=user_query, s=keyword_s, \
+    code = render_template('find.html', keyword=query, s=keyword_s, \
         f=facet, d=search_dic, search=search, insta=instan_s, page=page, \
         deli=deli_s, deli_facet = deli_facet, d2=search_dic2)
     return code
@@ -181,7 +186,59 @@ def user(name=None):
 ## --------------------------------------- ##
 ## -------------- FUNKCE ----------------- ##
 ## --------------------------------------- ##
+def correct_keyword(keyword, search):
+  if '"' not in keyword:
+    keyword_split = keyword.split(' ')
+    for k in keyword_split:
+      keyword += k
+      if keyword_split[-1] != k:
+        keyword += " OR "
+  keyword="search=" + search + " AND " + "keyword=" + keyword
+  return keyword
 
+def add_spec(keywords, args):
+  valid_specs = ["country", "programme", "subprogramme", "coordinator",
+        "participant", "year"]
+  for spec in valid_specs:
+    val = args.get(spec)
+    keywords += " AND " + spec + "=" + val
+  return keywords
+  
+def correct_query(keywords, args, remove):
+  valid_specs = ["country", "programme", "subprogramme", "coordinator",
+        "participant", "year"]  
+  r = []
+  # specification from search box is prioritized 
+  if remove != "":
+    r = remove.split(':')
+    for spec in valid_specs:
+      val = args.get(spec)
+      # vymazani nektereho filtru - uzivatel klikl napr. na 'united kingdom x'
+      if r != []:
+        if spec == r[0]:
+          r2 = r[1]
+          print "keywords:" + keywords
+          keywords = keywords.replace(spec+"="+r2, "")
+          print "keywords after r:" + keywords
+      
+      # hodnoty z val nastrkame do search_dic2 - vypisuje vybrane filtry
+      if val:
+      # nekteri coordinator nebo participant meli uvozovky v nazvu a delalo
+      # to neporadek
+        val = val.replace('"', '')
+        str = val.split('&')
+        for s in str:
+          if keywords.find(spec+"="+r2) == -1:
+          # pokud uz ve filtru hodnotu mame (napr country:united kingdom)
+          # preskocime vlozeni
+            index = keywords.find(spec + '=')
+            if index != -1:
+              keywords = keywords[:index] + spec + "=" + s + "OR" + keywords[index:]
+            else:
+              keywords+="AND " + spec + "=" + s
+      print "keywords after insert:" + keywords
+            
+               
 # Vrati filtr vsech projektu kde se nachazeji klicova slova
 def get_project_with_keywords(keyword, search, from_, to):
   if search == 'projects':
@@ -293,22 +350,17 @@ def get_filter(search_dic):
         f2 &= f
     # print f2
     return f2
-    
+
+# Pokud byl filtr zadan klikanim, musime to prevest do textove podoby     
 def get_query(search_dic, search, keyword):
     user_query = ""
-    for key, value in search_dic.iteritems():
-        if user_query != "":
-            user_query += " AND "
-        if len(search_dic.keys()) > 1:
-            user_query += "("
-        option = value.split('&')
-        for p in option:
-            if p != "":
-                user_query += key + "=" + p
-                if option[-1] != p:
-                    user_query += " OR "
-        if len(search_dic.keys()) > 1:
-            user_query += ")"
+    keyword_validation = re.search('keyword=("([\w\s]+)"|(([\w]+)(\s(OR|AND)\s)?)+)(\sAND\s[\w]+=|$)', query)
+    if not keyword_validation:
+      keyword=""
+    else:
+      if '"' not in keyword and ' ' in keyword:
+        keyword=""
+        
     query = "search=" + search + " AND keyword=" + keyword
     if user_query != "": 
         user_query = query + " AND " + user_query
@@ -324,6 +376,29 @@ def parse_user_query (query):
     print search.group(1)
   if keyword:
     print keyword.group(1)
+    
+def get_query(search_dic2, keywords, search):
+  keyword=""
+  if '"' not in keywords:
+    keyword_split = keywords.split(' ')
+    for k in keyword_split:
+      keyword += k
+      if keyword_split[-1] != k:
+        keyword += " OR "
+  query="search=" + search + " AND keyword=" + keyword
+  for spec in ["country", "programme", "subprogramme", "coordinator",
+    "participant", "year"]:
+        if search_dic2.get(spec):
+            query=query+"AND "
+            spec2 = search_dic.get(spec).split('&')
+            for s in spec2:
+                if s != "":
+                  r = query.find(spec)
+                  if r != -1:
+                    query=query[:r+len(spec)+1] + s + "," + query[r+len(spec)+1:]
+                  else:
+                    query=query+"AND " + spec + "=" + s
+  return query  
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port = 1080, debug=True)
