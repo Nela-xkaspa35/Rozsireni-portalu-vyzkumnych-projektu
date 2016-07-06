@@ -1,0 +1,17 @@
+taskkill /PID 11111 /F
+tasklist
+
+
+cd C:\elasticsearch-1.6.0\bin
+service start
+
+
+
+cd C:\Users\Martin\Documents\GitHub\Rozsireni-portalu-vyzkumnych-projektu\rrs_deliverables4\extractor
+python update.py
+
+
+cd C:\Users\Martin\Documents\GitHub\Rozsireni-portalu-vyzkumnych-projektu\rrs_deliverables4\portal
+python portal.py
+
+http://127.0.0.1:1080/

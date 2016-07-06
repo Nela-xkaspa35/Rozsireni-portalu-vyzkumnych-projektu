@@ -1,0 +1,271 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+header {
+    background-color: #245188;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#wrapper { 
+     padding-left: 0; 
+     -webkit-transition: all 0.5s ease; 
+     -moz-transition: all 0.5s ease; 
+     -o-transition: all 0.5s ease; 
+     transition: all 0.5s ease; 
+ } 
+ 
+
+ #wrapper.toggled { 
+     padding-left: 250px; 
+ } 
+ 
+
+ #sidebar-wrapper {
+    padding-top: 5px;
+     z-index: 1000; 
+     position: fixed; 
+     left: 250px; 
+     width: 0; 
+     height: 100%; 
+     margin-left: -250px; 
+     overflow-y: auto; 
+     background-color: #245188; 
+     color: white;
+     -webkit-transition: all 0.5s ease; 
+     -moz-transition: all 0.5s ease; 
+     -o-transition: all 0.5s ease; 
+     transition: all 0.5s ease; 
+ } 
+ 
+
+ #wrapper.toggled #sidebar-wrapper { 
+     width: 250px; 
+ } 
+ 
+
+ #page-content-wrapper { 
+     width: 100%; 
+     position: absolute; 
+     padding: 15px; 
+ } 
+ 
+
+ #wrapper.toggled #page-content-wrapper { 
+     position: absolute; 
+     margin-right: -250px; 
+ } 
+ 
+
+ /* Sidebar Styles */ 
+ 
+
+ .sidebar-nav { 
+     position: absolute; 
+     top: 0; 
+     width: 250px; 
+     margin: 0; 
+     padding: 0; 
+     list-style: none; 
+ } 
+ 
+
+ .sidebar-nav li { 
+     text-indent: 20px; 
+     line-height: 40px; 
+ } 
+ 
+
+ .sidebar-nav li a { 
+     display: block; 
+     text-decoration: none; 
+     color: #999999; 
+ } 
+ 
+
+ .sidebar-nav li a:hover { 
+     text-decoration: none; 
+     color: #fff; 
+     background: rgba(255,255,255,0.2); 
+ } 
+ 
+
+ .sidebar-nav li a:active, 
+ .sidebar-nav li a:focus { 
+     text-decoration: none; 
+ } 
+ 
+
+ .sidebar-nav > .sidebar-brand { 
+     height: 65px; 
+     font-size: 18px; 
+     line-height: 60px; 
+ } 
+ 
+
+ .sidebar-nav > .sidebar-brand a { 
+     color: #999999; 
+ } 
+ 
+
+ .sidebar-nav > .sidebar-brand a:hover { 
+     color: #fff; 
+     background: none; 
+ } 
+ 
+
+ @media(min-width:768px) { 
+     #wrapper { 
+         padding-left: 250px; 
+     } 
+ 
+
+     #wrapper.toggled { 
+         padding-left: 0; 
+     } 
+ 
+
+     #sidebar-wrapper { 
+         width: 250px; 
+     } 
+ 
+
+     #wrapper.toggled #sidebar-wrapper { 
+         width: 0; 
+     } 
+ 
+
+     #page-content-wrapper { 
+         padding: 20px; 
+         position: relative; 
+     } 
+ 
+
+     #wrapper.toggled #page-content-wrapper { 
+         position: relative; 
+         margin-right: 0; 
+     } 
+ } 
+
+
+#logo {
+    padding-top: 15%;
+    padding-bottom: 20px;
+}
+
+
+header h2 {
+    color: white;
+}
+
+#main-tab {
+    color: #245188;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#subheader {
+    background-color: #245188;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+    position: fixed;
+}
+
+#subheader img {
+    position: fixed;
+    height: 50px;
+    margin: 10px;
+    
+}
+
+#sub-tab{
+    padding-top: 17px;
+    padding-bottom: 10px;
+}
+.dropdown
+{
+    text-align: center;
+}
+
+#dropdowns {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid #ccc 1px;
+}
+
+#articles {
+    padding: 40px;
+}
+
+#instant {
+    border: solid #ccc 1px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+a {
+    color: #245188;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size:20px;
+    color: #333;
+}
+
+h4 {
+    color: black;
+}
+
+input {
+    outline: 0;
+    background: none;
+    border: 0;
+    
+}
+
+
+
+input:hover {
+    background-color: #eee;
+}
+
+.btn-group form {
+    display: inline;
+}
+
+#pager  {
+    text-align: center;
+}
+ .similar {
+     border-top: solid 1px black;
+     padding: 20px;
+ }
+
+#deli {
+    border-top: dashed 1px #aaa;
+   
+}
+
+h5 {
+    text-align: center;
+    color: #aaa;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.deli_factet {
+    padding: 4px;
+}
+
+.country {
+    text-align: right;
+}
