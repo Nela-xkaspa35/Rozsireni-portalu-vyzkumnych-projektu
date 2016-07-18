@@ -1,0 +1,129 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+header {
+    background-color: #245188;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+#logo {
+    padding-top: 15%;
+    padding-bottom: 20px;
+}
+
+
+header h2 {
+    color: white;
+}
+
+#main-tab {
+    color: #245188;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#subheader {
+    background-color: #245188;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+}
+
+#subheader img {
+    position: relative;
+    height: 50px;
+    margin: 10px;
+    
+}
+
+#sub-tab{
+    padding-top: 17px;
+    padding-bottom: 10px;
+}
+.dropdown
+{
+    text-align: center;
+}
+
+#dropdowns {
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid #ccc 1px;
+}
+
+#articles {
+    padding: 40px;
+}
+
+#instant {
+    border: solid #ccc 1px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+a {
+    color: #245188;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size:20px;
+    color: #333;
+}
+
+h4 {
+    color: black;
+}
+
+input {
+    outline: 0;
+    background: none;
+    border: 0;
+    
+}
+
+
+
+input:hover {
+    background-color: #eee;
+}
+
+.btn-group form {
+    display: inline;
+}
+
+#pager  {
+    text-align: center;
+}
+ .similar {
+     border-top: solid 1px black;
+     padding: 20px;
+ }
+
+#deli {
+    border-top: dashed 1px #aaa;
+   
+}
+
+h5 {
+    text-align: center;
+    color: #aaa;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.deli_factet {
+    padding: 4px;
+}
+
+.country {
+    text-align: right;
+}
