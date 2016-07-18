@@ -20,9 +20,9 @@ def main():
 
     today = datetime.datetime.today()
     delta = datetime.timedelta(weeks=50)
-    beta = datetime.timedelta(weeks=500)
-    start_time = today - delta
-    update_time = today - beta
+    beta = datetime.timedelta(weeks=505)
+    start_time = today - beta
+    update_time = today - delta
     
     for x in range(0, 3):
         findProjects(DEFAULT_PROJECT_LIST_FILENAME, BASE_URL, \
