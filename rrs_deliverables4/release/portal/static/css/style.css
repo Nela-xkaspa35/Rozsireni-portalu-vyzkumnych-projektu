@@ -47,14 +47,11 @@ header h2 {
 }
 .dropdown
 {
-    text-align: center;
+    text-align: left;
 }
 
 #dropdowns {
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    height: 100%;
     border-bottom: solid #ccc 1px;
 }
 
