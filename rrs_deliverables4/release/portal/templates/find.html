@@ -44,10 +44,7 @@
         			<span class="caret"></span>
 					<ul class="dropdown-menu">
 					{% for facet2 in facet[1] %}
-  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50] }}" tabIndex="-1" 
-	  						{% if facet[0] ~ "=" ~ facet2[0][:50] in checkbox %}
-	  							checked
-	  						{% endif %}>
+  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50] }}" tabIndex="-1">
   						<input type="checkbox" value="{{ facet[0] }}={{ facet2[0][:50] }}" 
   							{% if facet[0] ~ "=" ~ facet2[0][:50] in checkbox %}
   								checked
@@ -106,6 +103,11 @@
 		<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
 		<script>
 			var options = [];
+			$('input:checked').each(function() {
+   				options.push(this.value);
+}			);
+			console.log(options);
+			
 			$( '.dropdown-menu a' ).on( 'click', function( event ) {
 
 				var $target = $( event.currentTarget ),
@@ -126,7 +128,7 @@
 					$('#articles').html(response);
 				});
 				$( "input[name='option[]']" ).attr( "value", options );
-				console.log( options );
+				//console.log( options );
 				return true;
 			});
 		</script>

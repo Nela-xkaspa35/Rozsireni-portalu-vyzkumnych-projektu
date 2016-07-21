@@ -58,11 +58,12 @@ def find():
 		if request.method == 'GET':
 			search = request.args.get("search")		
 			options = request.args.getlist('option[]')
-			o_split = options[0].split(',')
-			options = []
-			for o in o_split:
-				if o: 
-					options.append(o)
+			if options:
+				o_split = options[0].split(',')
+				options = []
+				for o in o_split:
+					if o: 
+						options.append(o)
 		
 		else:
 			search = request.form["search"]
