@@ -53,11 +53,11 @@ def find():
 		valid_specs = ["country", "programme", "subprogramme", "coordinator",
 				"participant", "year"]
 
-		if request.method == "GET":
-			search = request.args.get("search")
-			search_pressed = request.args.get("search_pressed")	
+		search_pressed = request.args.get("search_pressed")	
+		if search_pressed:
+			search = request.args.get("search")			
 		
-		if request.method == "POST":
+		else:
 			search = request.form["search"]
 			print search
 			options = request.form.getlist('option[]')
@@ -98,11 +98,10 @@ def find():
 		# napr. zemich
 		# projects slouzi k tomu, abychom meli vypsane i zeme, ve kterych aktualne nejsou
 		# zadne projekty, protoze je vybrany nejaky filtr (napr. country:italy)
-		projects2 = projects
 		projects2 = projects.filter(get_filter(search_dic)) 
 		# getting facets
 		facet = facets(projects, projects2)
-		projects = projects2
+		#projects = projects2
 
 		# if not enought project fill with deliv + create facet of projects
 		#deli_s = ''
@@ -115,8 +114,8 @@ def find():
 		#            deli_facet = deliverable_facets(deli_s)
 		#            deli_s = deli_s[0:ITEMS_PER_PAGE - keyword_s.count()]
 		
-		code = render_template('find.html', s=projects, \
-				f=facet, search=keyword, page=page)
+		code = render_template('find.html', s=projects2, \
+				f=facet, search=search, page=page)
 		return code
 
 @app.route('/project/<projectid>')
@@ -209,7 +208,6 @@ def get_project_with_keywords(keyword, from_, to):
 			})
 		keyword_s = keyword_s[from_:to]
 		keyword_s = keyword_s.highlight('objective', pre_tags = ["<b>"], post_tags = ["</b>"])
-
 	return keyword_s
 
 # Generuje leve menu s facety na zaklade filtru facet_s
@@ -252,9 +250,10 @@ def get_filter(search_dic):
 	main_filter = []
 	for spec in ["country", "programme", "subprogramme", "coordinator",
 	"participant", "year"]:
+		my_spec = search_dic.get(spec)
 		if search_dic.get(spec):
 			f = F()
-			for s in spec:
+			for s in my_spec:
 			# Bohuzel to nejde resit jinak nez 'switch' cyklem - neumime
 			# dostat hodnotu spec pro filter F - spec je jiz povazovano 
 			# za retezec
@@ -274,7 +273,6 @@ def get_filter(search_dic):
 	f2 = F()
 	for f in main_filter:
 		f2 &= f
-	print f2
 	return f2
 
 def get_query(search_dic2, keywords, search):

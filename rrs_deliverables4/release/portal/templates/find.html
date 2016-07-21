@@ -32,9 +32,9 @@
 			</div>
         </div>      
      
-		<div class="row" id="articles">
+		<div class="row">
 			<!-- bocni menu s checkboxy-->
-			<div class="col-lg-2">
+			<div class="col-lg-2" id="dropdowns">
 				{% for facet in f %}						
 				<div class="button-group">				
         			<button type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
@@ -43,7 +43,7 @@
         			<span class="caret"></span>
 					<ul class="dropdown-menu">
 					{% for facet2 in facet[1] %}
-  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50] }}" tabIndex="-1"><input type="checkbox" name="{{ facet[0] }}" data-value="{{ facet2[0][:50].title() }}"/>
+  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50].title() }}" tabIndex="-1"><input type="checkbox" name="{{ facet[0] }}" data-value="{{ facet2[0][:50].title() }}"/>
   							&nbsp;{{ facet2[0][:50].title() }} ({{ facet2[1] }})
   						</a></li>
   					{% endfor %}
@@ -53,7 +53,7 @@
 			</div>
 
 			<!-- jednotlive projekty -->
-		    <div class="col-lg-10" >
+		    <div class="col-lg-10" id="articles">
 			    {% if not s %}
 			        <center><h4>No projects were found.</h4></center>
 			    {% endif %}
@@ -116,8 +116,8 @@
       				setTimeout( function() { $inp.prop( 'checked', true ) }, 0);
    				}
    				$( event.target ).blur();
-   				
-   				$.post( "/find", { search: "{{ search }}", 'option[]': options } );
+
+   				$.post( "/find", { search: "{{ search }}", 'option[]': options });
       			console.log( options );
   	 			return false;
 			});
