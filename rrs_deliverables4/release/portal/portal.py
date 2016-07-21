@@ -52,29 +52,34 @@ def find():
 		# search_dic2 je promenna pro zobrazeni vybraneho filtru
 		valid_specs = ["country", "programme", "subprogramme", "coordinator",
 				"participant", "year"]
+		#values from checkboxes
+		options=[]
 
-		search_pressed = request.args.get("search_pressed")	
-		if search_pressed:
-			search = request.args.get("search")			
+		if request.method == 'GET':
+			search = request.args.get("search")		
+			options = request.args.getlist('option[]')
+			o_split = options[0].split(',')
+			options = []
+			for o in o_split:
+				if o: 
+					options.append(o)
 		
 		else:
 			search = request.form["search"]
 			print search
-			options = request.form.getlist('option[]')
+			options = request.form.getlist('option[]')			
 			
-			print options
 
-			#o is in the form year=2009 - we need to parse it
+		#o is in the form year=2009 - we need to parse it
+		if options: 
 			for o in options:
 				o_split = o.split('=', 1)
 				# nekteri coordinator nebo participant meli uvozovky v nazvu a delalo
 				# to neporadek
 				val = o_split[1].replace('"', '')
-				print o_split[0];
-				print val;
 				search_dic.setdefault(o_split[0], []).append(val)
 
-		print search_dic
+		
 		#get searched query
 		if search and '=' in search:
 			keyword = parse_keyword(search)
@@ -100,7 +105,7 @@ def find():
 		# zadne projekty, protoze je vybrany nejaky filtr (napr. country:italy)
 		projects2 = projects.filter(get_filter(search_dic)) 
 		# getting facets
-		facet = facets(projects, projects2)
+		facet = get_facets(projects, projects2)
 		#projects = projects2
 
 		# if not enought project fill with deliv + create facet of projects
@@ -113,10 +118,11 @@ def find():
 		#                offset, offset+ITEMS_PER_PAGE)
 		#            deli_facet = deliverable_facets(deli_s)
 		#            deli_s = deli_s[0:ITEMS_PER_PAGE - keyword_s.count()]
-		
-		code = render_template('find.html', s=projects2, \
-				f=facet, search=search, page=page)
-		return code
+		print options
+		if request.method == 'POST':
+			return render_template('articles.html', s=projects2, f=facet, search=search, page=page, checkbox=options)	
+		else:	
+			return render_template('find.html', s=projects2, f=facet, search=search, page=page, checkbox=options)
 
 @app.route('/project/<projectid>')
 def project_detail(projectid):
@@ -211,11 +217,12 @@ def get_project_with_keywords(keyword, from_, to):
 	return keyword_s
 
 # Generuje leve menu s facety na zaklade filtru facet_s
-def facets(keyword_s, keyword_s2):
+def get_facets(projects, projects2):
 		listfacet = [['programme', []], ['subprogramme', []],['year', []], ['coordinator', []], ['participant', []], ['country',[]]]
 		for facet in listfacet:
-				facet_s = keyword_s.facet(facet[0], filtered=True, size=20).facet_counts()
-				facet_s2 = keyword_s2.facet(facet[0], filtered=True, size=20).facet_counts()
+				facet_s = projects.facet(facet[0], filtered=True, size=20).facet_counts() #how many projects in facet without filter
+				facet_s2 = projects2.facet(facet[0], filtered=True, size=20).facet_counts() #how many projects in facet with filter
+
 				for value in facet_s[facet[0]]['terms']:
 						value2 = finder(value['term'], facet_s2[facet[0]]['terms'])
 						if value2 == None:

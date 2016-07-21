@@ -24,9 +24,10 @@
 			</div>
 			<div class="col-lg-8" id="sub-tab">
 				<form action="/find" method="GET" class="input-group">
+					<input type="hidden" name='option[]' value="">
 					<input type="text" name="search" class="form-control" value='{{ search }}'>
 					<span class="input-group-btn">
-						<button class="btn btn-default" type="submit" name="search_pressed" value="true">Search</button>
+						<button class="btn btn-default" type="submit">Search</button>
 					</span>
 				</form>
 			</div>
@@ -43,8 +44,15 @@
         			<span class="caret"></span>
 					<ul class="dropdown-menu">
 					{% for facet2 in facet[1] %}
-  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50].title() }}" tabIndex="-1"><input type="checkbox" name="{{ facet[0] }}" data-value="{{ facet2[0][:50].title() }}"/>
-  							&nbsp;{{ facet2[0][:50].title() }} ({{ facet2[1] }})
+  						<li><a href="#" class="small" data-value="{{ facet[0] }}={{ facet2[0][:50] }}" tabIndex="-1" 
+	  						{% if facet[0] ~ "=" ~ facet2[0][:50] in checkbox %}
+	  							checked
+	  						{% endif %}>
+  						<input type="checkbox" value="{{ facet[0] }}={{ facet2[0][:50] }}" 
+  							{% if facet[0] ~ "=" ~ facet2[0][:50] in checkbox %}
+  								checked
+  							{% endif %}/>
+  							&nbsp;{{ facet2[0][:50].title() }}
   						</a></li>
   					{% endfor %}
 					</ul>
@@ -72,55 +80,55 @@
 			        {% elif item.objective %}
 			            <p> {{ item.objective[:200] }}... </p>
 			        {% endif %}
-			    {% endfor %}			           
-			</div>
-		</div>
+			    {% endfor %} 
 
-		<!-- navigace mezi strankami -->
-		{% if s %}
-		<div class="row" id="pager">
-		    <div class="col-lg-7">
-		        <form action="/find" method="GET">
-		            <input type="hidden" name="search" value="{{ search }}" />
-		            {% if page>0 %}
-		                <button type="submit" class="btn btn-default" name="page" value="{{ (page-1) if (page>0) else 0 }}">Prev</button>
-		                {% if s.count()>=20 %}
-		                	<button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
-		            	{% endif %}
-		            {% else %}
-		                {% if s.count()>=20 %}
-		                	<button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
-		                {% endif %}
-		            {% endif %}
-		        </form>
-		    </div>
-		</div>
-		{% endif %}
-		  
+				<!-- navigace mezi strankami -->
+				{% if s %}
+				<div id="pager">
+				    <form action="/find" method="GET">
+				        <input type="hidden" name="search" value="{{ search }}" />
+				        {% if page>0 %}
+				            <button type="submit" class="btn btn-default" name="page" value="{{ (page-1) if (page>0) else 0 }}">Prev</button>
+				            {% if s.count()>=20 %}
+				            	<button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
+				        	{% endif %}
+				        {% else %}
+				            {% if s.count()>=20 %}
+				            	<button type="submit" class="btn btn-default" name="page" value="{{ (page+1) }}">Next</button>
+				            {% endif %}
+				        {% endif %}
+				    </form>
+				</div>
+				{% endif %}
+			</div>
+
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
 		<script>
 			var options = [];
 			$( '.dropdown-menu a' ).on( 'click', function( event ) {
 
-   				var $target = $( event.currentTarget ),
-       			val = $target.attr( 'data-value' ),
-       			$inp = $target.find( 'input' ),
-       			idx;
+				var $target = $( event.currentTarget ),
+				val = $target.attr( 'data-value' ),
+				$inp = $target.find( 'input' ),
+				idx;
 
-   				if ( ( idx = options.indexOf( val ) ) > -1 ) {
-      				options.splice( idx, 1 );
-      				setTimeout( function() { $inp.prop( 'checked', false ) }, 0);
-   				} else {
-      				options.push( val );
-      				setTimeout( function() { $inp.prop( 'checked', true ) }, 0);
-   				}
-   				$( event.target ).blur();
+				if ( ( idx = options.indexOf( val ) ) > -1 ) {
+					options.splice( idx, 1 );
+					setTimeout( function() { $inp.prop( 'checked', false ) }, 0);
+				} else {
+					options.push( val );
+					setTimeout( function() { $inp.prop( 'checked', true ) }, 0);
+				}
+				$( event.target ).blur();
 
-   				$.post( "/find", { search: "{{ search }}", 'option[]': options });
-      			console.log( options );
-  	 			return false;
+				$.post( "/find", { search: "{{ search }}", 'option[]': options }, function(response) {
+					$('#articles').html(response);
+				});
+				$( "input[name='option[]']" ).attr( "value", options );
+				console.log( options );
+				return true;
 			});
-    	</script>
+		</script>
 	</body>
 </html>
