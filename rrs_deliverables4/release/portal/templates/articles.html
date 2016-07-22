@@ -36,3 +36,5 @@
         </form>
 </div>
 {% endif %}
+<!-- We need search value in find.html if no projects are there, the search above would be ignored -->
+<input type="hidden" name="search" value="{{ search }}" />

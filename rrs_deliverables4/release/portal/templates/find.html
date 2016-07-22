@@ -114,6 +114,7 @@
 				$inp = $target.find( 'input' ),
 				idx;
 
+				//Sets checkboxes to tick/untick and add/remove options items
 				if ( ( idx = options.indexOf( val ) ) > -1 ) {
 					options.splice( idx, 1 );
 					setTimeout( function() { $inp.prop( 'checked', false ) }, 0);
@@ -123,11 +124,17 @@
 				}
 				$( event.target ).blur();
 
+				//Send data to server and get response, set values according given data in articles
 				$.post( "/find", { search: "{{ search }}", 'option[]': options }, function(response) {
+					console.log("Jsem tu");
 					$('#articles').html(response);
-					var search_val =$( "input[name='search']:last-child" ).attr("value");
+					var search_val = $( "input[name='search']:last-child" ).attr("value");
+
+					console.log(search_val);
 					$( "input[name='search']" ).attr( "value", search_val );
 				});
+
+				//After each tick/untick of options we need to set option[] value - in case that user click on search button
 				$( "input[name='option[]']" ).attr( "value", options );
 
 				return true;

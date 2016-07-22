@@ -69,7 +69,7 @@ def find():
 			search = request.form["search"]
 			options = request.form.getlist('option[]')			
 			
-
+		print options
 		#o is in the form year=2009 - we need to parse it
 		if options: 
 			for o in options:
@@ -120,6 +120,7 @@ def find():
 		#            deli_s = deli_s[0:ITEMS_PER_PAGE - keyword_s.count()]
 		if '=' not in search or request.method == 'POST':
 			search = get_query(search_dic, keyword)
+		print search
 		if request.method == 'POST':
 			return render_template('articles.html', s=projects2, f=facet, search=search, page=page, checkbox=options)	
 		else:	
@@ -168,9 +169,9 @@ def correct_query(keywords, args, remove):
 			if r != []:
 				if spec == r[0]:
 					r2 = r[1]
-					print "keywords:" + keywords
+					#print "keywords:" + keywords
 					keywords = keywords.replace(spec+"="+r2, "")
-					print "keywords after r:" + keywords
+					#print "keywords after r:" + keywords
 			
 			# hodnoty z val nastrkame do search_dic2 - vypisuje vybrane filtry
 			if val:
@@ -187,7 +188,7 @@ def correct_query(keywords, args, remove):
 							keywords = keywords[:index] + spec + "=" + s + "OR" + keywords[index:]
 						else:
 							keywords+="AND " + spec + "=" + s
-			print "keywords after insert:" + keywords
+			#print "keywords after insert:" + keywords
 
 # Vrati filtr vsech projektu kde se nachazeji klicova slova
 def get_project_with_keywords(keyword, from_, to):
@@ -290,13 +291,16 @@ def get_query(search_dic, keyword):
 		if search_dic.get(spec):
 			for s in search_dic.get(spec):
 				if s:
-					print s
 					r = query.find(spec)
 					if r != -1:
-						query=query[:r+len(spec)+1] + s + "," + query[r+len(spec)+1:]
+						#to avoid multiple brackets
+						if query[r-1] == '(':
+							query = query[:r+len(spec)+1] + s + " OR " + spec + "="  + query[r+len(spec)+1:]
+						else:	 
+							query = query[:r] + "(" + query[r:r+len(spec)+1] + s + " OR " + spec + "="  + query[r+len(spec)+1:] + ")"
 					else:
-						query=query+" AND " + spec + "=" + s
-					print query
+						query = query+" AND " + spec + "=" + s
+					#print query
 	return query
 
 #z user query dostane jen klicova slova, ze kterych odstrani prozatim AND a OR
@@ -307,7 +311,7 @@ def parse_keyword (keywords):
 	#pokud jsou v keyword "", hledame o frazi
 	keyword = re.search('keyword=((("([\w\s]+)"|[\w]+)(\s(OR|AND)\s)?)+)(?:(\sAND\s[\w]+=|$))', keywords)
 	if keyword:
-		print keyword.group(1)
+		#print keyword.group(1)
 		lindex = 0
 		result= keyword.group(1)
 		#v podstate cyklus do until " OR" nenalezeno
