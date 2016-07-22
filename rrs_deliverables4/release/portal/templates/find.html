@@ -105,8 +105,7 @@
 			var options = [];
 			$('input:checked').each(function() {
    				options.push(this.value);
-}			);
-			console.log(options);
+			});
 			
 			$( '.dropdown-menu a' ).on( 'click', function( event ) {
 
@@ -126,9 +125,11 @@
 
 				$.post( "/find", { search: "{{ search }}", 'option[]': options }, function(response) {
 					$('#articles').html(response);
+					var search_val =$( "input[name='search']:last-child" ).attr("value");
+					$( "input[name='search']" ).attr( "value", search_val );
 				});
 				$( "input[name='option[]']" ).attr( "value", options );
-				//console.log( options );
+
 				return true;
 			});
 		</script>

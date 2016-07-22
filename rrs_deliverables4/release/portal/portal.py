@@ -67,7 +67,6 @@ def find():
 		
 		else:
 			search = request.form["search"]
-			print search
 			options = request.form.getlist('option[]')			
 			
 
@@ -119,7 +118,8 @@ def find():
 		#                offset, offset+ITEMS_PER_PAGE)
 		#            deli_facet = deliverable_facets(deli_s)
 		#            deli_s = deli_s[0:ITEMS_PER_PAGE - keyword_s.count()]
-		print options
+		if '=' not in search or request.method == 'POST':
+			search = get_query(search_dic, keyword)
 		if request.method == 'POST':
 			return render_template('articles.html', s=projects2, f=facet, search=search, page=page, checkbox=options)	
 		else:	
@@ -191,7 +191,7 @@ def correct_query(keywords, args, remove):
 
 # Vrati filtr vsech projektu kde se nachazeji klicova slova
 def get_project_with_keywords(keyword, from_, to):
-	if keyword == "":        
+	if not keyword:        
 		keyword_s = project_s.query_raw({             
 			"match_all" : { }               
 			})
@@ -233,16 +233,6 @@ def get_facets(projects, projects2):
 		#print listfacet
 		return listfacet
 
-# finding projects with deliverables
-def deliverable_facets(deli_s):
-		deli_facet = []
-		deli_facet_s = deli_s.facet("id", filtered=True, size=100).facet_counts()
-		for item in deli_facet_s['id']['terms']:
-				filter_args = {"id": item['term']}
-				tmp_s = deli_s.filter(**filter_args)
-				deli_facet.append([item['term'],tmp_s[0]['abbr']])
-		return deli_facet
-
 # K nalezeni hodnoty v poli listu + vraceni hodnoty
 def finder(element, array):  
 		#print array    
@@ -283,36 +273,37 @@ def get_filter(search_dic):
 		f2 &= f
 	return f2
 
-def get_query(search_dic2, keywords, search):
-	keyword=""
-	if keywords == "":
-		keyword = ""
-	elif '"' not in keywords:
-		keyword_split = keywords.split(' ')
-		for k in keyword_split:
-			keyword += k
-			if keyword_split[-1] != k:
-				keyword += " OR "
-	else:
-		keyword=keywords
-	query="search=" + search + " AND keyword=" + keyword
-	for spec in ["country", "programme", "subprogramme", "coordinator",
-		"participant", "year"]:
-				if search_dic2.get(spec):
-						for s in search_dic2.get(spec):
-								if s != "":
-									r = query.find(spec)
-									if r != -1:
-										query=query[:r+len(spec)+1] + s + "," + query[r+len(spec)+1:]
-									else:
-										query=query+" AND " + spec + "=" + s
+def get_query(search_dic, keyword):
+	#keyword=""
+	#if keywords == "":
+	#	keyword = ""
+	#elif '"' not in keywords:
+	#	keyword_split = keywords.split(' ')
+	#	for k in keyword_split:
+	#		keyword += k
+	#		if keyword_split[-1] != k:
+	#			keyword += " OR "
+	#else:
+	#	keyword=keywords
+	query="keyword=" + keyword
+	for spec in ["country", "programme", "subprogramme", "coordinator", "participant", "year"]:
+		if search_dic.get(spec):
+			for s in search_dic.get(spec):
+				if s:
+					print s
+					r = query.find(spec)
+					if r != -1:
+						query=query[:r+len(spec)+1] + s + "," + query[r+len(spec)+1:]
+					else:
+						query=query+" AND " + spec + "=" + s
+					print query
 	return query
 
 #z user query dostane jen klicova slova, ze kterych odstrani prozatim AND a OR
 #zatim by totiz bylo slozite v klicovych slovech michat AND a OR
 def parse_keyword (keywords):
 	#keyword muze aktualne vypadat treba takto:
-	#search=projects AND keyword=young OR people AND year=2009
+	#keyword=young OR people AND year=2009
 	#pokud jsou v keyword "", hledame o frazi
 	keyword = re.search('keyword=((("([\w\s]+)"|[\w]+)(\s(OR|AND)\s)?)+)(?:(\sAND\s[\w]+=|$))', keywords)
 	if keyword:
@@ -327,16 +318,15 @@ def parse_keyword (keywords):
 				break
 			else:
 				result = result[:lindex] + result[rindex:]
+		
 		#pro pripad, ze by keyword vypadal takto, odstranime mezeru na konci:
 		#search=projects AND keyword=young OR  AND year=2009
 		#ostatni nepovolene kombinace nejsou mozne diky kontrole skry regex
-		if result[-1] == ' ':
-			result = result[:len(result)-1-1]
-		print result
-		return result
+		#if result[-1] == ' ':
+		#	result = result[:len(result)-1-1]
 	else:
-		return ""
-
+		result= ""
+	return result
 
 if __name__ == "__main__":
 	app.run(host="0.0.0.0", port = 1080, debug=True)
